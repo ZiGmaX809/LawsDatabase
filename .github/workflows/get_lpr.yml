@@ -21,7 +21,6 @@ jobs:
         working-directory: ./LPR数据  # 切换到脚本所在目录安装依赖
       - name: Get LPR
         run: python LPR_Data.py
-        working-directory: ./LPR数据  # 切换到脚本所在目录安装依赖
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
