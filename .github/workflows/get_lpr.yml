@@ -20,7 +20,7 @@ jobs:
           pip install requests bs4
       - name: Get LPR
         run: 
-          cd ./LPR
+          cd /LPR
           python LPR_Data.py
       - name: Commit and push changes
         run: |
