@@ -25,6 +25,6 @@ jobs:
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "action@github.com"
-          git add /LPR数据/LPR_Data.txt
+          git add LPR_Data.txt
           git commit -m "Update LPR Data" || echo "nothing to commit"
           git push || echo "nothing to push"
