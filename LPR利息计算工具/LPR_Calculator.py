@@ -276,6 +276,9 @@ def export_to_word(results, output_file='LPR_利息计算报告.docx'):
     doc.styles['Normal'].font.name = '仿宋'
     doc.styles['Normal']._element.rPr.rFonts.set(qn('w:eastAsia'), '仿宋')
     doc.styles['Normal'].font.size = Pt(12)
+    doc.styles['Normal'].paragraph_format.line_spacing = 1.1
+    doc.styles['Normal'].paragraph_format.space_before = Pt(0)
+    doc.styles['Normal'].paragraph_format.space_after = Pt(0)
 
     # 标题字体
     # 这一步很重要，清除样式，自己设置的字体名称才会生效
@@ -283,10 +286,17 @@ def export_to_word(results, output_file='LPR_利息计算报告.docx'):
     doc.styles['Title'].font.name = '黑体'
     doc.styles['Title']._element.rPr.rFonts.set(qn('w:eastAsia'), '黑体')
     doc.styles['Title'].font.size = Pt(26)
+    doc.styles['Title'].paragraph_format.space_before = Pt(0)
+    doc.styles['Title'].paragraph_format.space_after = Pt(0)
+    doc.styles['Title'].paragraph_format.line_spacing = 1.1
+
     doc.styles['Heading 1']._element.rPr.rFonts.clear()
     doc.styles['Heading 1'].font.name = '黑体'
     doc.styles['Heading 1']._element.rPr.rFonts.set(qn('w:eastAsia'), '黑体')
     doc.styles['Heading 1'].font.size = Pt(14)
+    doc.styles['Heading 1'].paragraph_format.line_spacing = 1.1
+    doc.styles['Heading 1'].paragraph_format.space_before = Pt(0)
+    doc.styles['Heading 1'].paragraph_format.space_after = Pt(0)
 
     # 设置页面边距
     sections = doc.sections
@@ -366,6 +376,9 @@ def export_to_word(results, output_file='LPR_利息计算报告.docx'):
     total_row[0].text = '总计'
     total_row[0].merge(total_row[3])
     total_row[4].text = f"{results['total_interest']:,.2f}"
+
+    # 添加间隔
+    doc.add_paragraph()
 
     # 添加说明
     doc.add_heading('说明', level=1)

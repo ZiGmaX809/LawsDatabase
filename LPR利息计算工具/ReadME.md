@@ -6,8 +6,14 @@
 
 ### 使用方法
 
+安装依赖
+
+```shell
+pip install ds4 python-docx requests pandas
+```
+
 ```python
-python lpr_calculator.py --amount 100000 --start 2023-01-01 --end 2023-12-31 --term one_year --day-count 365 --export "我的借款利息报告.docx"
+python LPR_Calculator.py --amount 100000 --start 2023-01-01 --end 2023-12-31 --term one_year --day-count 365 --export "我的借款利息报告.docx"
 ```
 
 ### 参数解析
