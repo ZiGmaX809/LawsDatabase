@@ -1,0 +1,6 @@
+# 第三方库依赖
+requests>=2.0
+beautifulsoup4>=4.0
+pandas>=1.0
+python-docx>=0.8.10
+lxml>=4.0  # BeautifulSoup解析依赖
