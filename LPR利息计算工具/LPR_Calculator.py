@@ -105,6 +105,7 @@ def load_lpr_data(file_path='LPR_Data.txt', check_update=True):
         print(f"加载LPR数据时发生错误: {e}")
         return None
 
+
 def print_interest_details(amount, start_date, end_date, lpr_data, term='one_year', mag=1, gap="no_tail", day_count=365):
     """打印分段计算的利息详情，并返回详细计算数据"""
     rate_column = 'one_year_rate' if term == 'one_year' else 'five_year_rate'
@@ -150,71 +151,49 @@ def print_interest_details(amount, start_date, end_date, lpr_data, term='one_yea
     print(f"{'开始日期':<12}{'结束日期':<12}{'天数':<6}{'适用LPR':<10}{'利息金额':<15}")
     print(f"{'-' * 60}")
 
-    # 如果初始日期不是当天，显示最近一次适用的LPR更新日期
-    if initial_date != start_date:
-        initial_str = f"{initial_date.strftime('%Y-%m-%d')}起"
-    else:
-        initial_str = ""
-
     # 处理第一个阶段（从开始日期到第一个变更日期，或者到结束日期）
-    current_date = start_date # 当前日期
-    current_rate = initial_rate # 当前利率
+    current_date = start_date  # 当前日期
+    current_rate = initial_rate  # 当前利率
 
-    if rate_changes.empty:
-        # 如果没有变更，直接计算整个期间
-        days = (end_date - current_date).days
-        interest = amount * current_rate * mag * days / day_count
-        total_interest += interest
-        note = " (使用最新LPR)" if end_date_exceeds else ""
-        print(f"{current_date.strftime('%Y-%m-%d'):<12}{end_date.strftime('%Y-%m-%d'):<12}{days:<6}{current_rate * 100:.2f}%{mag_str}{note}{interest:>15,.2f}")
-        calculation_results.append({
-            'start_date': current_date,
-            'end_date': end_date,
-            'days': days,
-            'rate': current_rate,
-            'note': initial_str + note,
-            'interest': interest
-        })
-    else:
-        # 遍历所有LPR变更日期
-        for idx, row in rate_changes.iterrows():
-            # 计算当前阶段的利息
-            end_segment = row['date']
-            days = (end_segment - current_date).days 
-            interest = amount * current_rate * mag * days / day_count
-            total_interest += interest
-
-            print(f"{current_date.strftime('%Y-%m-%d'):<12}{(end_segment - datetime.timedelta(days=1)).strftime('%Y-%m-%d'):<12}{days:<6}{current_rate * 100:.2f}%{mag_str} {initial_str}{interest:>15,.2f}")
-            calculation_results.append({
-                'start_date': current_date,
-                'end_date': end_segment - datetime.timedelta(days=1),
-                'days': days,
-                'rate': current_rate,
-                'note': '',
-                'interest': interest
-            })
-            initial_str = ""  # 只在第一段显示初始LPR日期
-
-            # 更新当前日期和利率
-            current_date = end_segment
-            current_rate = row[rate_column]
-
-        # 处理最后一个阶段（从最后一个变更日期到结束日期）
-        days = (end_date - current_date).days + gap_days
+    # 遍历所有LPR变更日期
+    for idx, row in rate_changes.iterrows():
+        # 计算当前阶段的利息
+        end_segment = row['date']
+        days = (end_segment - current_date).days
         interest = amount * current_rate * mag * days / day_count
         total_interest += interest
 
-        # 如果超出LPR数据范围，特别标注
-        note = " (使用最新LPR)" if end_date_exceeds else ""
-        print(f"{current_date.strftime('%Y-%m-%d'):<12}{end_date.strftime('%Y-%m-%d'):<12}{days:<6}{current_rate * 100:.2f}%{mag_str} {note}{interest:>15,.2f}")
+        print(f"{current_date.strftime('%Y-%m-%d'):<12}{(end_segment - datetime.timedelta(days=1)).strftime('%Y-%m-%d'):<12}{days:<6}{current_rate * 100:.2f}%{mag_str}{interest:>15,.2f}")
         calculation_results.append({
             'start_date': current_date,
-            'end_date': end_date,
+            'end_date': end_segment - datetime.timedelta(days=1),
             'days': days,
             'rate': current_rate,
-            'note': note,
+            'note': mag_str,
             'interest': interest
         })
+        initial_str = ""  # 只在第一段显示初始LPR日期
+
+        # 更新当前日期和利率
+        current_date = end_segment
+        current_rate = row[rate_column]
+
+    # 处理最后一个阶段（从最后一个变更日期到结束日期）
+    days = (end_date - current_date).days + gap_days
+    interest = amount * current_rate * mag * days / day_count
+    total_interest += interest
+
+    # 如果超出LPR数据范围，特别标注
+    print(f"{current_date.strftime('%Y-%m-%d'):<12}{end_date.strftime('%Y-%m-%d'):<12}{days:<6}{current_rate * 100:.2f}%{mag_str}{interest:>15,.2f}")
+    calculation_results.append({
+        'start_date': current_date,
+        'end_date': end_date,
+        'days': days,
+        'rate': current_rate,
+        'note': mag_str,
+        'interest': interest
+    })
+        
 
     # 打印总利息
     print(f"{'-' * 60}")
@@ -343,7 +322,7 @@ def export_to_word(results, output_file='LPR_利息计算报告.docx'):
         row[0].text = calc['start_date'].strftime('%Y-%m-%d')
         row[1].text = calc['end_date'] .strftime('%Y-%m-%d')
         row[2].text = str(calc['days'])
-        row[3].text = f"{calc['rate']:.2%} {calc['note']}"
+        row[3].text = f"{calc['rate']:.2%}{calc['note']}"
         row[4].text = f"{calc['interest']:,.2f}"
 
     # 添加总计行
