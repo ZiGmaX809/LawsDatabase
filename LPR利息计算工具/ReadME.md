@@ -18,8 +18,10 @@
 pip install -r requirements.txt
 ```
 
+运行
+
 ```python
-python LPR_Calculator.py --amount 100000 --start 2023-01-01 --end 2023-12-31 --term one_year --day-count 365 --mag 4 --gap both --export "我的借款利息报告.docx"
+python LPR_Calculator.py --amount 100000 --start 2023-01-01 --end 2024-12-31 --term one_year --day-count 365 --mag 4 --gap both --export "我的借款利息报告.docx"
 ```
 
 ### 参数解析
