@@ -293,8 +293,16 @@ def export_to_word(results, output_file='LPR计算报告.docx'):
     cells = params_table.rows[5].cells
     cells[0].text = '计息基础'
     cells[1].text = f"每年{results['day_count']}天"
+    # 计算总天数
+    total_days = sum(calc['days'] for calc in results['calculations'])
 
     cells = params_table.rows[6].cells
+    cells[0].text = '总天数'
+    cells[1].text = f"{total_days} 天"
+
+    # 增加一行显示总金额
+    params_table.add_row()
+    cells = params_table.rows[7].cells
     cells[0].text = '总金额'
     cells[1].text = f"{results['total_interest']:,.2f} 元"
 
@@ -349,7 +357,7 @@ def export_to_word(results, output_file='LPR计算报告.docx'):
 
 def parse_arguments():
     """解析命令行参数"""
-    parser = argparse.ArgumentParser(description='根据LPR计算贷款利息')
+    parser = argparse.ArgumentParser(description='根据LPR计算利息')
     parser.add_argument('--amount', type=float, required=True, help='贷款金额')
     parser.add_argument('--start', type=str, required=True,
                         help='开始日期（格式：YYYY-MM-DD）')
@@ -365,7 +373,7 @@ def parse_arguments():
                         help='计算年度天数：360或365（默认：365）')
     parser.add_argument('--update', action='store_true', help='强制更新LPR数据')
     parser.add_argument('--export', type=str,
-                        help='导出Word文档的文件名（默认：LPR_利息计算报告.docx）')
+                        help='导出Word文档的文件名（默认：LPR计算报告.docx）')
     parser.add_argument('--no-export', action='store_true', help='不导出Word文档')
     return parser.parse_args()
 
