@@ -148,7 +148,7 @@ def print_interest_details(amount, start_date, end_date, lpr_data, term='one_yea
     print(f"天数算法: {'两头都算' if gap == 'both' else '算头不算尾'}")
     print(f"计息基础: 每年{day_count}天")
     print(f"{'=' * 60}")
-    print(f"{'开始日期':<12}{'结束日期':<12}{'天数':<6}{'适用LPR':<10}{'利息金额':<15}")
+    print(f"{'开始日期':<12}{'结束日期':<12}{'天数':<6}{'适用LPR':<10}{'计算金额':<15}")
     print(f"{'-' * 60}")
 
     # 处理第一个阶段（从开始日期到第一个变更日期，或者到结束日期）
@@ -194,10 +194,11 @@ def print_interest_details(amount, start_date, end_date, lpr_data, term='one_yea
         'interest': interest
     })
         
-
-    # 打印总利息
+    # 计算并打印总天数
+    total_days = sum(calc['days'] for calc in calculation_results)
     print(f"{'-' * 60}")
-    print(f"{'总利息':<30}{total_interest:>30,.2f}")
+    print(f"{'总天数':<30}{total_days:>30}")
+    print(f"{'总金额':<30}{total_interest:>30,.2f}")
     print(f"{'=' * 60}")
 
     # 返回计算结果和总利息
@@ -214,7 +215,7 @@ def print_interest_details(amount, start_date, end_date, lpr_data, term='one_yea
     }
 
 
-def export_to_word(results, output_file='LPR_利息计算报告.docx'):
+def export_to_word(results, output_file='LPR计算报告.docx'):
     """将计算结果导出为Word文档"""
     doc = Document()
 
@@ -253,7 +254,7 @@ def export_to_word(results, output_file='LPR_利息计算报告.docx'):
         section.right_margin = Cm(2)
 
     # 添加标题
-    title = doc.add_heading('LPR利息计算报告', 0)
+    title = doc.add_heading('LPR计算报告', 0)
     title.alignment = WD_ALIGN_PARAGRAPH.CENTER
 
     # 添加报告生成日期
@@ -294,7 +295,7 @@ def export_to_word(results, output_file='LPR_利息计算报告.docx'):
     cells[1].text = f"每年{results['day_count']}天"
 
     cells = params_table.rows[6].cells
-    cells[0].text = '总利息'
+    cells[0].text = '总金额'
     cells[1].text = f"{results['total_interest']:,.2f} 元"
 
     # 添加间隔
@@ -401,7 +402,7 @@ def main():
     # 导出到Word文档
     if results and not args.no_export:
         try:
-            output_file = args.export if args.export else 'LPR_利息计算报告.docx'
+            output_file = args.export if args.export else 'LPR计算报告.docx'
             export_to_word(results, output_file)
         except Exception as e:
             print(f"导出Word文档时发生错误: {e}")
