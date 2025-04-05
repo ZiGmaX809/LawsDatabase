@@ -110,7 +110,7 @@
 </template>
 
 <script setup lang="ts">
-import { useCalculatorStore } from '@/stores/calculator'
+import { useCalculatorStore } from '../stores/calculator'  // Ensure path is correct
 
 const store = useCalculatorStore()
 </script>
