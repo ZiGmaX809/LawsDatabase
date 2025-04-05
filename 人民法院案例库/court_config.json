@@ -1,0 +1,13 @@
+{
+    "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDM4MzUwMTAsInVzZXJuYW1lIjoiQTRCSnVVZ3NWb0dXa1FKd1BvRlpVaXVUNEZXd2ZVblhqZVZCMmlOQ0EwWUZmc3pBNEd6NjQ4eDhpeDRYTzBKdnRoNFNSbFZaR2JnPSJ9.28YxN09x8r7fldFB2w_XFgXCFL_sqaTOhdZyXqDyYyI",
+    "page_size": 300,
+    "case_sort_id": "20000",
+    "json_dir": "court_data/pages",
+    "markdown_dir": "downloaded_markdown",
+    "target_dir": "/Users/zigma/Documents/律师材料/知识库/人民法院案例库/民事",
+    "user_agents": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+    ],
+    "request_interval": [3, 5]
+}
