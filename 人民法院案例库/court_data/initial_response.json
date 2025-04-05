@@ -1,0 +1,15 @@
+{
+  "msg": "操作成功",
+  "code": 0,
+  "data": [
+    {
+      "key": "20000",
+      "parentkey": "0",
+      "value": "民事",
+      "keyName": "cpwsAl_sort_id",
+      "isHaveChildren": "1",
+      "count": "2039",
+      "intCount": 2039
+    }
+  ]
+}

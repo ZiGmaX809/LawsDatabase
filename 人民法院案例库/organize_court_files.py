@@ -21,16 +21,19 @@ def sanitize_filename(name):
     return sanitized
 
 
-def organize_court_files(json_dir_path=None, markdown_dir_path=None):
+def organize_court_files(json_dir_path=None, markdown_dir_path=None, target_dir_path=None):
     # 如果未提供路径，使用默认路径
     if json_dir_path is None:
-        json_dir_path = 'court_data/pages'
+        json_dir_path = '人民法院案例库/court_data/pages'
     if markdown_dir_path is None:
-        markdown_dir_path = 'downloaded_markdown'
+        markdown_dir_path = '人民法院案例库/downloaded_markdown'
+    if target_dir_path is None:
+        target_dir_path = '/Users/zigma/Documents/律师材料/知识库/人民法院案例库/民事'
 
     # 转换为Path对象
     json_dir = Path(json_dir_path)
     markdown_dir = Path(markdown_dir_path)
+    target_dir = Path(target_dir_path)
 
     # 检查路径是否存在
     if not json_dir.exists():
@@ -42,6 +45,9 @@ def organize_court_files(json_dir_path=None, markdown_dir_path=None):
         print(f"错误: Markdown目录 '{markdown_dir}' 不存在。请检查路径。")
         print(f"当前工作目录: {os.getcwd()}")
         return
+        
+    # 创建目标目录(如果不存在)
+    os.makedirs(target_dir, exist_ok=True)
 
     # 创建一个字典用于映射标题到分类名称
     title_to_sort_name = {}
@@ -112,29 +118,51 @@ def organize_court_files(json_dir_path=None, markdown_dir_path=None):
         # 清理分类名称，确保可以作为有效的目录名
         safe_sort_name = sanitize_filename(sort_name)
 
-        # 如果目标目录尚未创建，则创建它
+        # 如果目标子目录尚未创建，则创建它
         if safe_sort_name not in sort_name_dirs:
-            dest_dir = Path(markdown_dir) / safe_sort_name
+            dest_dir = target_dir / safe_sort_name
             os.makedirs(dest_dir, exist_ok=True)
             sort_name_dirs[safe_sort_name] = dest_dir
         else:
             dest_dir = sort_name_dirs[safe_sort_name]
 
         # 查找具有匹配标题的markdown文件
-        source_file = markdown_dir / title
+        # 尝试多种可能的文件名格式
+        possible_filenames = [
+            f"{title}.md",
+            f"{title}案.md",
+            f"指导性案例{title.split('指导性案例')[-1]}" if "指导性案例" in title else "",
+            f"{title.split('诉')[-1].split('案')[0]}.md" if "诉" in title and "案" in title else ""
+        ]
+        
+        source_file = None
+        for filename in possible_filenames:
+            if filename:  # 跳过空字符串
+                test_file = markdown_dir / filename
+                if test_file.exists():
+                    source_file = test_file
+                    break
 
-        # 首先检查精确匹配
-        if source_file.exists():
-            # 将文件复制到目标目录
+        if source_file:
+            # 增量移动文件到目标目录(如果文件不存在或已修改)
             dest_file = dest_dir / title
-            try:
-                shutil.copy2(source_file, dest_file)
-                print(f"已复制: {title} -> {safe_sort_name}/{title}")
-                if str(source_file) not in processed_files:  # 确保文件只被计数一次
-                    files_copied += 1
-                    processed_files.add(str(source_file))
-            except Exception as e:
-                print(f"复制 {title} 时出错: {e}")
+            need_copy = True
+            if dest_file.exists():
+                # 比较文件修改时间和大小
+                src_stat = os.stat(source_file)
+                dest_stat = os.stat(dest_file)
+                if src_stat.st_mtime <= dest_stat.st_mtime and src_stat.st_size == dest_stat.st_size:
+                    need_copy = False
+                    
+            if need_copy:
+                try:
+                    shutil.copy2(source_file, dest_file)
+                    print(f"已复制: {title} -> {safe_sort_name}/{title}")
+                    if str(source_file) not in processed_files:  # 确保文件只被计数一次
+                        files_copied += 1
+                        processed_files.add(str(source_file))
+                except Exception as e:
+                    print(f"复制 {title} 时出错: {e}")
         else:
             # 尝试不同的匹配策略
             found_match = False
@@ -216,6 +244,7 @@ if __name__ == "__main__":
     # 允许通过命令行参数指定路径
     json_path = sys.argv[1] if len(sys.argv) > 1 else None
     md_path = sys.argv[2] if len(sys.argv) > 2 else None
+    target_path = sys.argv[3] if len(sys.argv) > 3 else None
 
     print("开始整理法院文件...")
-    organize_court_files(json_path, md_path)
+    organize_court_files(json_path, md_path, target_path)

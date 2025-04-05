@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 page_data_dir = "court_data/pages"
 output_dir = "downloaded_markdown"
 os.makedirs(output_dir, exist_ok=True)
-token = "12345677890000000000000000000000"  # 请替换为自己的token
+token = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDM2OTg2MDQsInVzZXJuYW1lIjoiQTRCSnVVZ3NWb0dXa1FKd1BvRlpVaXVUNEZXd2ZVblhqZVZCMmlOQ0EwWUZmc3pBNEd6NjQ4eDhpeDRYTzBKdnRoNFNSbFZaR2JnPSJ9.W44zXAtNXTg6OWp7po8cd_cqdN0EpPk6FN35KBpGlnk"  # 请替换为自己的token
 
 # 随机User-Agent列表
 user_agents = [

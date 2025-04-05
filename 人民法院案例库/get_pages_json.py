@@ -27,7 +27,7 @@ headers = {
     'Referer': 'https://servicewechat.com/wx9d3dc8d4b1e3924a/2/page-frame.html',
     'Host': 'rmfyalk.court.gov.cn',
     'User-Agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.56(0x18003835) NetType/4G Language/zh_CN',
-    'faxin-cpws-al-token': '123172836781263712638' # 请替换为自己的token
+    'faxin-cpws-al-token': 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NDM2OTg2MDQsInVzZXJuYW1lIjoiQTRCSnVVZ3NWb0dXa1FKd1BvRlpVaXVUNEZXd2ZVblhqZVZCMmlOQ0EwWUZmc3pBNEd6NjQ4eDhpeDRYTzBKdnRoNFNSbFZaR2JnPSJ9.W44zXAtNXTg6OWp7po8cd_cqdN0EpPk6FN35KBpGlnk' # 请替换为自己的token
 }
 
 # 步骤1：使用request.js中的初始请求获取总记录数
