@@ -454,8 +454,20 @@ def main():
     # 导出到Word文档
     if results and not args.no_export:
         try:
-            output_file = args.export if args.export else 'LPR计算报告.docx'
+            # 获取当前时间并格式化为字符串
+            current_time = datetime.datetime.now().strftime("%Y%m%d_%H%M%S")
+            
+            # 构建输出文件名
+            if args.export:
+                # 如果用户提供了自定义文件名，在扩展名前添加时间戳
+                filename, extension = os.path.splitext(args.export)
+                output_file = f"{filename}_{current_time}{extension}"
+            else:
+                # 使用默认文件名加时间戳
+                output_file = f"LPR计算报告_{current_time}.docx"
+            
             export_to_word(results, output_file)
+            print(f"报告已导出至: {output_file}")
         except Exception as e:
             print(f"导出Word文档时发生错误: {e}")
             print("请确保已安装python-docx库，可以通过 'pip install python-docx' 安装")
