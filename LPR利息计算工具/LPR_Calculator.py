@@ -106,10 +106,28 @@ def load_lpr_data(file_path='LPR_Data.txt', check_update=True):
         return None
 
 
+def calculate_days(start_date, end_date, gap):
+    """根据给定的开始日期、结束日期和计算方式计算天数
+    
+    Args:
+        start_date: 开始日期
+        end_date: 结束日期
+        gap: 天数计算方式，'both'表示两头都算，'no_tail'表示算头不算尾
+    
+    Returns:
+        int: 计算得出的天数
+    """
+    if gap == "both":
+        # 两头都算：(end_date - start_date).days + 1
+        return (end_date - start_date).days + 1
+    else:  # no_tail
+        # 算头不算尾：(end_date - start_date).days
+        return (end_date - start_date).days
+
+
 def print_interest_details(amount, start_date, end_date, lpr_data, term='one_year', mag=1, gap="no_tail", day_count=365):
-    """打印分段计算的利息详情，并返回详细计算数据"""
+    """打印合并后的利息详情，将相同利率的时间段合并计算"""
     rate_column = 'one_year_rate' if term == 'one_year' else 'five_year_rate'
-    gap_days = 1 if gap == "both" else 0
     mag_str = f" × {mag}" if mag > 1 else ""
 
     # 检查开始日期是否在LPR数据范围内
@@ -151,48 +169,74 @@ def print_interest_details(amount, start_date, end_date, lpr_data, term='one_yea
     print(f"{'开始日期':<12}{'结束日期':<12}{'天数':<6}{'适用LPR':<10}{'计算金额':<15}")
     print(f"{'-' * 60}")
 
-    # 处理第一个阶段（从开始日期到第一个变更日期，或者到结束日期）
-    current_date = start_date  # 当前日期
-    current_rate = initial_rate  # 当前利率
+    # 处理计算逻辑
+    current_date = start_date  # 初始日期
+    current_rate = initial_rate  # 初始利率
 
-    # 遍历所有LPR变更日期
+    # 为合并相同利率的计算段做准备
+    rate_segments = []
+    
+    # 1. 先收集所有利率变更点
     for idx, row in rate_changes.iterrows():
-        # 计算当前阶段的利息
-        end_segment = row['date']
-        days = (end_segment - current_date).days
-        interest = amount * current_rate * mag * days / day_count
-        total_interest += interest
-
-        print(f"{current_date.strftime('%Y-%m-%d'):<12}{(end_segment - datetime.timedelta(days=1)).strftime('%Y-%m-%d'):<12}{days:<6}{current_rate * 100:.2f}%{mag_str}{interest:>15,.2f}")
-        calculation_results.append({
+        rate_segments.append({
             'start_date': current_date,
-            'end_date': end_segment - datetime.timedelta(days=1),
+            'end_date': row['date'] - datetime.timedelta(days=1),  # 利率变更前一天
+            'rate': current_rate
+        })
+        
+        # 更新当前日期和利率
+        current_date = row['date']
+        current_rate = row[rate_column]
+    
+    # 添加最后一个阶段
+    rate_segments.append({
+        'start_date': current_date,
+        'end_date': end_date,
+        'rate': current_rate
+    })
+    
+    # 2. 合并相同利率的段
+    merged_segments = []
+    current_segment = None
+    
+    for segment in rate_segments:
+        if current_segment is None:
+            current_segment = segment.copy()
+        elif current_segment['rate'] == segment['rate']:
+            # 如果利率相同，合并日期范围
+            current_segment['end_date'] = segment['end_date']
+        else:
+            # 利率不同，添加当前段并开始新的段
+            merged_segments.append(current_segment)
+            current_segment = segment.copy()
+    
+    # 添加最后一个段
+    if current_segment is not None:
+        merged_segments.append(current_segment)
+    
+    # 3. 计算每个合并段的利息
+    for i, segment in enumerate(merged_segments):
+        # Check if this is the last segment
+        is_last_segment = (i == len(merged_segments) - 1)
+        
+        days = calculate_days(segment['start_date'], segment['end_date'], gap)
+        # Add 1 to days count for all segments except the last one
+        if not is_last_segment:
+            days += 1
+            
+        interest = amount * segment['rate'] * mag * days / day_count
+        total_interest += interest
+        
+        print(f"{segment['start_date'].strftime('%Y-%m-%d'):<12}{segment['end_date'].strftime('%Y-%m-%d'):<12}{days:<6}{segment['rate'] * 100:.2f}%{mag_str}{interest:>15,.2f}")
+        
+        calculation_results.append({
+            'start_date': segment['start_date'],
+            'end_date': segment['end_date'],
             'days': days,
-            'rate': current_rate,
+            'rate': segment['rate'],
             'note': mag_str,
             'interest': interest
         })
-        initial_str = ""  # 只在第一段显示初始LPR日期
-
-        # 更新当前日期和利率
-        current_date = end_segment
-        current_rate = row[rate_column]
-
-    # 处理最后一个阶段（从最后一个变更日期到结束日期）
-    days = (end_date - current_date).days + gap_days
-    interest = amount * current_rate * mag * days / day_count
-    total_interest += interest
-
-    # 如果超出LPR数据范围，特别标注
-    print(f"{current_date.strftime('%Y-%m-%d'):<12}{end_date.strftime('%Y-%m-%d'):<12}{days:<6}{current_rate * 100:.2f}%{mag_str}{interest:>15,.2f}")
-    calculation_results.append({
-        'start_date': current_date,
-        'end_date': end_date,
-        'days': days,
-        'rate': current_rate,
-        'note': mag_str,
-        'interest': interest
-    })
         
     # 计算并打印总天数
     total_days = sum(calc['days'] for calc in calculation_results)
@@ -347,7 +391,7 @@ def export_to_word(results, output_file='LPR计算报告.docx'):
     doc.add_heading('说明', level=1)
     doc.add_paragraph('1. 本报告基于中国人民银行公布的LPR（贷款市场报价利率）数据计算。')
     doc.add_paragraph('2. 计算采用实际天数和指定的年度天数（360或365）计算。')
-    doc.add_paragraph('3. 当LPR变更时，利息计算会按照不同的时间段分别计算。')
+    doc.add_paragraph('3. 当LPR变更时，利息计算会按照不同的时间段分别计算，相同LPR利率的时间段已合并显示。')
     doc.add_paragraph('4. 如果计算日期超出已公布的LPR数据范围，则使用最新的LPR利率。')
 
     # 保存文档
