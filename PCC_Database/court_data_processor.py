@@ -5,6 +5,7 @@ import random
 import requests
 import shutil
 import re
+import argparse
 from pathlib import Path
 from datetime import datetime
 from bs4 import BeautifulSoup
@@ -12,10 +13,14 @@ from bs4 import BeautifulSoup
 class CourtDataProcessor:
     """法院案例数据处理主程序"""
     
-    def __init__(self):
+    def __init__(self, token=None):
         # 基础配置
         self.base_dir = Path(__file__).parent
         self.config = self.load_config()
+        
+        # 如果提供了命令行token，则覆盖配置文件中的token
+        if token:
+            self.config["token"] = token
         
         # 初始化目录
         self.init_dirs()
@@ -32,7 +37,7 @@ class CourtDataProcessor:
         
         # 默认配置
         return {
-            "token": "your_token_here",
+            "token": "",  # 默认空token，需要从命令行获取
             "page_size": 300,
             "case_sort_id": "20000",  # 民事20000 执行40000 刑事10000 行政30000 国家赔偿50000
             "json_dir": "court_data/pages",
@@ -73,6 +78,9 @@ class CourtDataProcessor:
     
     def get_headers(self):
         """获取请求头"""
+        if not self.config["token"]:
+            raise ValueError("未提供token，请使用--token参数提供有效的token")
+            
         return {
             'Accept': 'application/json, text/javascript, */*; q=0.01',
             'User-Agent': random.choice(self.config["user_agents"]),
@@ -324,6 +332,11 @@ class CourtDataProcessor:
         """运行主流程"""
         self.log("法院案例数据处理程序启动")
         
+        # 检查是否有token
+        if not self.config["token"]:
+            self.log("错误: 未提供token，请使用--token参数提供有效的token")
+            return False
+        
         # 1. 获取案例列表
         if not self.fetch_case_list():
             return False
@@ -339,6 +352,16 @@ class CourtDataProcessor:
         self.log("所有处理流程完成")
         return True
 
-if __name__ == "__main__":
-    processor = CourtDataProcessor()
+def main():
+    # 设置命令行参数解析
+    parser = argparse.ArgumentParser(description='人民法院案例库数据处理程序')
+    parser.add_argument('--token', type=str, required=True, help='API访问令牌，必须提供')
+    parser.add_argument('--config', type=str, help='可选的配置文件路径')
+    args = parser.parse_args()
+    
+    # 实例化处理器并运行
+    processor = CourtDataProcessor(token=args.token)
     processor.run()
+
+if __name__ == "__main__":
+    main()

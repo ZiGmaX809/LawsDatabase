@@ -27,7 +27,11 @@ document.cookie.split(';').map(c => c.trim().split('=')).find(pair => pair[0] ==
 
 ### 使用
 
-获取tokens后自行填入`court_config.json`中，并且在该配置文件中配置需要整理文档的目标目录
+1. 在`court_config.json`中配置需要整理文档的目标目录
+2. 使用命令
+```shell
+python court_data_processor.py --token "your_token_here"
+```
 
 ## 📎 LPR利息计算工具
 
