@@ -409,8 +409,8 @@ def parse_arguments():
                         help='结束日期（格式：YYYY-MM-DD）')
     parser.add_argument('--term', type=str, choices=['one_year', 'five_year'], default='one_year',
                         help='LPR期限（one_year: 一年期，five_year: 五年期以上）')
-    parser.add_argument('--mag', type=int, default=1,
-                        help='约定LPR倍数（默认：1倍）')
+    parser.add_argument('--mag', type=float, default=1,
+                        help='约定LPR倍数（默认：1倍，支持小数）')
     parser.add_argument('--gap', type=str, choices=['no_tail', 'both'], default='no_tail',
                         help='天数算法：no_tail: 算头不算尾，both: 两头都算（默认：no_tail）')
     parser.add_argument('--day-count', type=int, choices=[360, 365], default=365,
