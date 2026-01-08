@@ -165,12 +165,13 @@ class CourtDataProcessor:
     def download_case_details(self):
         """下载案例详情并转为Markdown"""
         self.log("开始下载案例详情...")
-        
+
         json_dir = self.base_dir / self.config["json_dir"]
         markdown_dir = self.base_dir / self.config["markdown_dir"]
-        
-        # 记录已下载的文件
-        record_file = self.base_dir / "downloaded_records.txt"
+
+        # 记录已下载的文件 - 按案件类型分类
+        case_type_code = self.config.get("case_type_code", "civil")
+        record_file = self.base_dir / f"downloaded_records_{case_type_code}.txt"
         downloaded_files = set()
         
         if record_file.exists():
