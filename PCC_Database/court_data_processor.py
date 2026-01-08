@@ -12,21 +12,55 @@ from bs4 import BeautifulSoup
 
 class CourtDataProcessor:
     """法院案例数据处理主程序"""
-    
-    def __init__(self, token=None):
+
+    # 案件类型配置：类型名称 -> (sort_id, 中文说明)
+    CASE_TYPES = {
+        "criminal": ("10000", "刑事"),
+        "civil": ("20000", "民事"),
+        "administrative": ("30000", "行政"),
+        "execution": ("40000", "执行"),
+        "compensation": ("50000", "国家赔偿")
+    }
+
+    def __init__(self, token=None, case_type=None):
         # 基础配置
         self.base_dir = Path(__file__).parent
         self.config = self.load_config()
-        
+
+        # 日志文件 - 需要在set_case_type之前初始化，因为set_case_type会调用log
+        self.log_file = self.base_dir / "court_data" / f"processor_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+
         # 如果提供了命令行token，则覆盖配置文件中的token
         if token:
             self.config["token"] = token
-        
+
+        # 设置案件类型
+        if case_type:
+            self.set_case_type(case_type)
+
         # 初始化目录
         self.init_dirs()
-        
-        # 日志文件
-        self.log_file = self.base_dir / "court_data" / f"processor_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+
+    def set_case_type(self, case_type):
+        """
+        设置案件类型
+        Args:
+            case_type: 案件类型代码（criminal/civil/administrative/execution/compensation）
+        """
+        if case_type not in self.CASE_TYPES:
+            raise ValueError(f"不支持的案件类型: {case_type}，支持的类型: {list(self.CASE_TYPES.keys())}")
+
+        sort_id, type_name = self.CASE_TYPES[case_type]
+        self.config["case_sort_id"] = sort_id
+        self.config["case_type_code"] = case_type
+        self.config["case_type_name"] = type_name
+
+        # 更新配置中的目录路径，添加案件类型分类
+        self.config["markdown_dir"] = f"downloaded_markdown/{type_name}"
+        self.config["json_dir"] = f"court_data/pages/{type_name}"
+        self.config["target_dir"] = f"/Users/zigma/Documents/律师材料/知识库/人民法院案例库/{type_name}"
+
+        self.log(f"已设置案件类型: {type_name} ({case_type}), sort_id: {sort_id}")
         
     def load_config(self):
         """加载配置文件"""
@@ -328,40 +362,140 @@ class CourtDataProcessor:
         self.log(f"整理完成，共处理 {success_count} 个文件")
         return success_count > 0
     
+    def count_target_files(self):
+        """统计目标文件夹中的文件数量并保存结果"""
+        target_dir = Path(self.config["target_dir"])
+
+        if not target_dir.exists():
+            self.log(f"目标目录不存在: {target_dir}")
+            return None
+
+        # 统计总文件数和各子目录文件数
+        total_count = 0
+        dir_stats = {}
+
+        # 遍历目标目录及其所有子目录
+        for root, dirs, files in os.walk(target_dir):
+            file_count = len(files)
+            # 计算相对路径作为目录名
+            rel_path = os.path.relpath(root, target_dir)
+
+            if file_count > 0:
+                dir_stats[rel_path] = file_count
+                total_count += file_count
+
+        # 获取当前时间作为更新时间
+        update_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
+        update_date = datetime.now().strftime('%Y-%m-%d')
+
+        # 构建Markdown内容
+        md_content = f"# 人民法院案例库统计\n\n"
+        md_content += f"## 统计信息\n\n"
+        md_content += f"- **更新时间**: {update_time}\n"
+        md_content += f"- **总文件数**: {total_count} 个\n"
+        md_content += f"- **分类数量**: {len(dir_stats)} 个\n\n"
+        md_content += f"## 分类统计\n\n"
+        md_content += f"按文件数量降序排列：\n\n"
+
+        # 按文件数量降序排列
+        sorted_stats = sorted(dir_stats.items(), key=lambda x: x[1], reverse=True)
+        for i, (dir_name, count) in enumerate(sorted_stats, 1):
+            md_content += f"{i}. **{dir_name}**: {count} 个文件\n"
+
+        # 保存统计结果到Markdown文件（按日期命名，覆盖旧的）
+        stats_file = target_dir / f"统计信息_{update_date}.md"
+        try:
+            with open(stats_file, 'w', encoding='utf-8') as f:
+                f.write(md_content)
+            self.log(f"统计结果已保存到: {stats_file}")
+        except Exception as e:
+            self.log(f"保存统计结果时出错: {str(e)}")
+
+        # 输出统计结果到控制台和日志
+        self.log("=" * 60)
+        self.log(f"目标目录统计: {target_dir}")
+        self.log(f"更新时间: {update_time}")
+        self.log("=" * 60)
+        self.log(f"总文件数: {total_count}")
+        self.log(f"分类数量: {len(dir_stats)}")
+        self.log("-" * 60)
+
+        # 按文件数量降序显示各子目录统计（显示前20个）
+        for i, (dir_name, count) in enumerate(sorted_stats[:20], 1):
+            self.log(f"{i:2d}. {dir_name}: {count} 个文件")
+
+        if len(sorted_stats) > 20:
+            self.log(f"... 还有 {len(sorted_stats) - 20} 个分类")
+
+        self.log("=" * 60)
+        return total_count
+
     def run(self):
         """运行主流程"""
         self.log("法院案例数据处理程序启动")
-        
+
         # 检查是否有token
         if not self.config["token"]:
             self.log("错误: 未提供token，请使用--token参数提供有效的token")
             return False
-        
+
         # 1. 获取案例列表
         if not self.fetch_case_list():
             return False
-            
+
         # 2. 下载案例详情
         if not self.download_case_details():
             return False
-            
+
         # 3. 整理案例文件
         if not self.organize_case_files():
             return False
-            
+
         self.log("所有处理流程完成")
         return True
 
 def main():
     # 设置命令行参数解析
-    parser = argparse.ArgumentParser(description='人民法院案例库数据处理程序')
-    parser.add_argument('--token', type=str, required=True, help='API访问令牌，必须提供')
+    parser = argparse.ArgumentParser(
+        description='人民法院案例库数据处理程序',
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+案件类型说明:
+  criminal     刑事案件 (sort_id: 10000)
+  civil        民事案件 (sort_id: 20000)
+  administrative  行政案件 (sort_id: 30000)
+  execution    执行案件 (sort_id: 40000)
+  compensation 国家赔偿案件 (sort_id: 50000)
+
+示例用法:
+  # 下载刑事案件
+  python court_data_processor.py --token YOUR_TOKEN --type criminal
+
+  # 下载民事案件（默认）
+  python court_data_processor.py --token YOUR_TOKEN --type civil
+
+  # 仅统计文件数量
+  python court_data_processor.py --count --type civil
+        """
+    )
+    parser.add_argument('--token', type=str, help='API访问令牌（运行主流程时必须提供）')
+    parser.add_argument('--type', type=str, choices=list(CourtDataProcessor.CASE_TYPES.keys()),
+                       default='civil', help='案件类型（默认: civil 民事案件）')
     parser.add_argument('--config', type=str, help='可选的配置文件路径')
+    parser.add_argument('--count', action='store_true', help='统计目标文件夹中的文件数量')
     args = parser.parse_args()
-    
-    # 实例化处理器并运行
-    processor = CourtDataProcessor(token=args.token)
-    processor.run()
+
+    # 实例化处理器，传入案件类型
+    processor = CourtDataProcessor(token=args.token, case_type=args.type)
+
+    # 如果指定了--count参数，则统计文件数量
+    if args.count:
+        processor.count_target_files()
+    else:
+        # 否则运行主流程（需要token）
+        if not args.token:
+            parser.error("--token 参数是运行主流程所必需的，或者使用 --count 参数仅统计文件数量")
+        processor.run()
 
 if __name__ == "__main__":
     main()
