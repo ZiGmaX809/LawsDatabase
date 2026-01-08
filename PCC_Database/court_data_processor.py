@@ -6,6 +6,7 @@ import requests
 import shutil
 import re
 import argparse
+import hashlib
 from pathlib import Path
 from datetime import datetime
 from bs4 import BeautifulSoup
@@ -109,7 +110,84 @@ class CourtDataProcessor:
         sanitized = re.sub(r'[\\/:*?"<>|]', '_', name)
         sanitized = sanitized.strip()
         return sanitized or "未命名"
-    
+
+    def login(self, username, password):
+        """
+        使用账号密码登录获取token
+        Args:
+            username: 用户名/手机号
+            password: 密码
+        Returns:
+            str: 获取的token，失败返回None
+        """
+        self.log("正在登录...")
+
+        # 登录API URL
+        login_url = "https://rmfyalk.court.gov.cn/cpws_al_api/api/user/login"
+
+        # 构建登录payload
+        payload = {
+            "username": username,
+            "password": self._md5_hash(password),  # 通常密码需要MD5加密
+            "loginType": "1"  # 1表示账号密码登录
+        }
+
+        headers = {
+            'Accept': 'application/json, text/javascript, */*; q=0.01',
+            'User-Agent': random.choice(self.config["user_agents"]),
+            'Content-Type': 'application/json;charset=UTF-8'
+        }
+
+        try:
+            response = requests.post(login_url, headers=headers, json=payload, timeout=30)
+            response.raise_for_status()
+            data = response.json()
+
+            if data.get('code') == 0 and 'data' in data:
+                token = data['data'].get('token') or data['data'].get('faxin-cpws-al-token')
+                if token:
+                    self.log("登录成功，已获取token")
+                    # 保存token到配置文件
+                    self.config["token"] = token
+                    self.save_config()
+                    return token
+                else:
+                    self.log("登录失败: 响应中未找到token")
+                    return None
+            else:
+                self.log(f"登录失败: {data.get('msg', '未知错误')}")
+                return None
+
+        except requests.exceptions.Timeout:
+            self.log("登录失败: 请求超时")
+            return None
+        except requests.exceptions.RequestException as e:
+            self.log(f"登录失败: 网络请求错误 - {str(e)}")
+            return None
+        except Exception as e:
+            self.log(f"登录失败: {str(e)}")
+            return None
+
+    def _md5_hash(self, text):
+        """
+        计算MD5哈希值
+        Args:
+            text: 需要哈希的文本
+        Returns:
+            str: MD5哈希值（32位小写十六进制）
+        """
+        return hashlib.md5(text.encode('utf-8')).hexdigest()
+
+    def save_config(self):
+        """保存配置到文件"""
+        config_path = self.base_dir / "court_config.json"
+        try:
+            with open(config_path, 'w', encoding='utf-8') as f:
+                json.dump(self.config, f, ensure_ascii=False, indent=2)
+            self.log("配置已保存")
+        except Exception as e:
+            self.log(f"保存配置失败: {str(e)}")
+
     def get_headers(self):
         """获取请求头"""
         if not self.config["token"]:
@@ -487,13 +565,38 @@ def get_case_type_choice():
             sys.exit(0)
 
 
-def get_token_input():
+def get_credentials_input():
     """
-    交互式获取token
+    交互式获取认证信息（token或账号密码）
+    Returns:
+        str: 获取的token
+    """
+    print("\n请选择认证方式:")
+    print("  1. 使用已有token")
+    print("  2. 账号密码登录")
+
+    while True:
+        try:
+            choice = input("\n请选择 (1-2): ").strip()
+
+            if choice == "1":
+                return get_direct_token_input()
+            elif choice == "2":
+                return get_login_input()
+            else:
+                print("无效输入，请输入 1 或 2")
+        except KeyboardInterrupt:
+            print("\n\n操作已取消")
+            sys.exit(0)
+
+
+def get_direct_token_input():
+    """
+    直接输入token
     Returns:
         str: 用户输入的token
     """
-    print("\n请输入API访问令牌 (token)")
+    print("\n[直接输入token]")
     print("提示: token可从浏览器开发者工具中获取")
 
     while True:
@@ -501,6 +604,56 @@ def get_token_input():
         if token:
             return token
         print("token不能为空，请重新输入")
+
+
+def get_login_input():
+    """
+    账号密码登录
+    Returns:
+        str: 登录成功后获取的token
+    """
+    print("\n[账号密码登录]")
+    print("提示: 请使用您在人民法院案例库注册的账号")
+
+    while True:
+        try:
+            username = input("用户名/手机号: ").strip()
+            if not username:
+                print("用户名不能为空")
+                continue
+
+            password = input("密码: ").strip()
+            if not password:
+                print("密码不能为空")
+                continue
+
+            # 尝试登录
+            print("\n正在登录，请稍候...")
+            processor = CourtDataProcessor(token=None, case_type=None)
+            token = processor.login(username, password)
+
+            if token:
+                print(f"\n登录成功！token已自动保存到配置文件")
+                return token
+            else:
+                print("\n登录失败，请重试或选择使用token方式")
+                retry = input("是否重试? (y/n): ").strip().lower()
+                if retry != 'y':
+                    # 返回到认证方式选择
+                    return get_credentials_input()
+
+        except KeyboardInterrupt:
+            print("\n\n操作已取消")
+            sys.exit(0)
+
+
+def get_token_input():
+    """
+    交互式获取token（保留向后兼容）
+    Returns:
+        str: 用户输入的token
+    """
+    return get_credentials_input()
 
 
 def main():
@@ -532,9 +685,16 @@ def main():
   --help, -h       显示此帮助信息
 
 交互式流程:
-  1. 启动脚本后会提示输入token
+  1. 启动脚本后选择认证方式：
+     - 使用已有token（从浏览器开发者工具获取）
+     - 账号密码登录（自动获取并保存token）
   2. 选择要下载的案件类型
   3. 自动执行下载和整理流程
+
+认证方式说明:
+  - Token方式：适合已有token的用户，token会保存到配置文件
+  - 账号密码：适合注册用户，登录成功后自动保存token
+  - 配置文件：court_config.json，保存token后下次无需重新输入
 
 案件类型说明:
   1. criminal     刑事案件 (sort_id: 10000)
@@ -556,8 +716,22 @@ def main():
     # 正常下载流程
     print("\n[下载模式]")
 
-    # 获取token
-    token = get_token_input()
+    # 检查配置文件中是否已有token
+    temp_processor = CourtDataProcessor(token=None, case_type=None)
+    existing_token = temp_processor.config.get("token", "").strip()
+
+    if existing_token:
+        print("\n检测到配置文件中已有保存的token")
+        use_existing = input("是否使用已保存的token? (y/n，默认y): ").strip().lower()
+        if use_existing in ['', 'y', 'yes']:
+            token = existing_token
+            print(f"已使用已保存的token: {token[:10]}...")
+        else:
+            # 获取新的token
+            token = get_token_input()
+    else:
+        # 获取token
+        token = get_token_input()
 
     # 选择案件类型
     case_type = get_case_type_choice()
