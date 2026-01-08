@@ -455,48 +455,128 @@ class CourtDataProcessor:
         self.log("所有处理流程完成")
         return True
 
+def get_case_type_choice():
+    """
+    交互式选择案件类型
+    Returns:
+        str: 案件类型代码
+    """
+    print("\n请选择要下载的案件类型:")
+    case_list = list(CourtDataProcessor.CASE_TYPES.items())
+    for i, (code, (sort_id, name)) in enumerate(case_list, 1):
+        print(f"  {i}. {name} ({code})")
+
+    while True:
+        try:
+            choice = input(f"\n请输入选项 (1-{len(case_list)}) 或直接输入类型代码: ").strip()
+
+            # 尝试直接输入类型代码
+            if choice in CourtDataProcessor.CASE_TYPES:
+                return choice
+
+            # 尝试输入数字选项
+            choice_num = int(choice)
+            if 1 <= choice_num <= len(case_list):
+                return case_list[choice_num - 1][0]
+
+            print(f"无效输入，请输入 1-{len(case_list)} 之间的数字")
+        except ValueError:
+            print("无效输入，请输入数字")
+        except KeyboardInterrupt:
+            print("\n\n操作已取消")
+            sys.exit(0)
+
+
+def get_token_input():
+    """
+    交互式获取token
+    Returns:
+        str: 用户输入的token
+    """
+    print("\n请输入API访问令牌 (token)")
+    print("提示: token可从浏览器开发者工具中获取")
+
+    while True:
+        token = input("token: ").strip()
+        if token:
+            return token
+        print("token不能为空，请重新输入")
+
+
 def main():
-    # 设置命令行参数解析
+    """主函数 - 交互式流程"""
+    print("=" * 60)
+    print(" " * 15 + "人民法院案例库数据处理程序")
+    print("=" * 60)
+
+    # 仅保留--count和--config参数
     parser = argparse.ArgumentParser(
         description='人民法院案例库数据处理程序',
         formatter_class=argparse.RawDescriptionHelpFormatter,
-        epilog="""
-案件类型说明:
-  criminal     刑事案件 (sort_id: 10000)
-  civil        民事案件 (sort_id: 20000)
-  administrative  行政案件 (sort_id: 30000)
-  execution    执行案件 (sort_id: 40000)
-  compensation 国家赔偿案件 (sort_id: 50000)
-
-示例用法:
-  # 下载刑事案件
-  python court_data_processor.py --token YOUR_TOKEN --type criminal
-
-  # 下载民事案件（默认）
-  python court_data_processor.py --token YOUR_TOKEN --type civil
-
-  # 仅统计文件数量
-  python court_data_processor.py --count --type civil
-        """
+        add_help=False  # 禁用默认帮助，自定义帮助信息
     )
-    parser.add_argument('--token', type=str, help='API访问令牌（运行主流程时必须提供）')
-    parser.add_argument('--type', type=str, choices=list(CourtDataProcessor.CASE_TYPES.keys()),
-                       default='civil', help='案件类型（默认: civil 民事案件）')
     parser.add_argument('--config', type=str, help='可选的配置文件路径')
     parser.add_argument('--count', action='store_true', help='统计目标文件夹中的文件数量')
+    parser.add_argument('--help', '-h', action='store_true', help='显示帮助信息')
+
     args = parser.parse_args()
 
-    # 实例化处理器，传入案件类型
-    processor = CourtDataProcessor(token=args.token, case_type=args.type)
+    # 显示帮助信息
+    if args.help:
+        print("""
+用法: python court_data_processor.py [选项]
 
-    # 如果指定了--count参数，则统计文件数量
+选项:
+  --config PATH    可选的配置文件路径
+  --count          统计目标文件夹中的文件数量
+  --help, -h       显示此帮助信息
+
+交互式流程:
+  1. 启动脚本后会提示输入token
+  2. 选择要下载的案件类型
+  3. 自动执行下载和整理流程
+
+案件类型说明:
+  1. criminal     刑事案件 (sort_id: 10000)
+  2. civil        民事案件 (sort_id: 20000)
+  3. administrative  行政案件 (sort_id: 30000)
+  4. execution    执行案件 (sort_id: 40000)
+  5. compensation 国家赔偿案件 (sort_id: 50000)
+        """)
+        return
+
+    # 如果是统计模式，需要先选择案件类型
     if args.count:
+        print("\n[统计模式]")
+        case_type = get_case_type_choice()
+        processor = CourtDataProcessor(token=None, case_type=case_type)
         processor.count_target_files()
-    else:
-        # 否则运行主流程（需要token）
-        if not args.token:
-            parser.error("--token 参数是运行主流程所必需的，或者使用 --count 参数仅统计文件数量")
-        processor.run()
+        return
+
+    # 正常下载流程
+    print("\n[下载模式]")
+
+    # 获取token
+    token = get_token_input()
+
+    # 选择案件类型
+    case_type = get_case_type_choice()
+
+    # 显示确认信息
+    _, case_name = CourtDataProcessor.CASE_TYPES[case_type]
+    print(f"\n已选择: {case_name}案件")
+    print(f"token: {token[:10]}..." if len(token) > 10 else f"token: {token}")
+    print("\n开始处理...")
+
+    # 实例化处理器并运行
+    processor = CourtDataProcessor(token=token, case_type=case_type)
+    processor.run()
+
+    print("\n" + "=" * 60)
+    print("处理完成！")
+    print("=" * 60)
+
 
 if __name__ == "__main__":
+    import sys
     main()
