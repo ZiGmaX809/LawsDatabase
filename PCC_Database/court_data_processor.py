@@ -74,11 +74,14 @@ class CourtDataProcessor:
         config_path = self.base_dir / "court_config.json"
         if config_path.exists():
             with open(config_path, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        
+                config = json.load(f)
+                # 确保配置文件中没有token（安全考虑）
+                if "token" in config:
+                    del config["token"]
+                return config
+
         # 默认配置
         return {
-            "token": "",  # 默认空token，需要从命令行获取
             "page_size": 300,
             "case_sort_id": "20000",  # 民事20000 执行40000 刑事10000 行政30000 国家赔偿50000
             "json_dir": "court_data/pages",
@@ -191,12 +194,12 @@ class CourtDataProcessor:
         return sanitized or "未命名"
 
     def save_config(self):
-        """保存配置到文件（只保存需要持久化的配置项）"""
+        """保存配置到文件（只保存需要持久化的配置项，不包括token）"""
         config_path = self.base_dir / "court_config.json"
         try:
-            # 定义需要持久化的配置项
+            # 定义需要持久化的配置项（不包括token，出于安全考虑）
             persistent_keys = {
-                "token", "page_size", "case_sort_id", "json_dir", "markdown_dir",
+                "page_size", "case_sort_id", "json_dir", "markdown_dir",
                 "target_dir", "user_agents", "request_interval"
             }
 
@@ -208,7 +211,7 @@ class CourtDataProcessor:
 
             with open(config_path, 'w', encoding='utf-8') as f:
                 json.dump(save_config, f, ensure_ascii=False, indent=2)
-            self.log("配置已保存")
+            self.log("配置已保存（token已排除，出于安全考虑）")
         except Exception as e:
             self.log(f"保存配置失败: {str(e)}")
 

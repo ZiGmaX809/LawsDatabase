@@ -11,6 +11,5 @@
   "target_dir": "/Users/zigma/Documents/律师材料/知识库/人民法院案例库",
   "markdown_dir": "downloaded_markdown/行政",
   "case_sort_id": "30000",
-  "json_dir": "court_data/pages/行政",
-  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NzMyMTQwNDIsInVzZXJuYW1lIjoiNWJidjV0SUJFcE5QQXg5L0lQcEFaZXlkMmRjRmcvZ3ViZzBQY3RTelBRR1ZRSHoyQWVyZ1lBWmY0MnB2Q1c1S3JYdjFCZ0VPeUpoTFxuWGx1NVVDNkU0dWZnY3VwZ0M4R2lCWFpUSDVzUVNVVT0ifQ.Dlj1kWxMlwpkWuS8CdIO-Zthr3fykXokWVaeVgvYQVc"
+  "json_dir": "court_data/pages/行政"
 }
