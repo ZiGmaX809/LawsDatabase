@@ -1,0 +1,68 @@
+{
+  "bbbs": "ff80818191db55220191ebb00b490901",
+  "title": "全国人民代表大会常务委员会关于在中华人民共和国成立七十五周年之际授予国家勋章和国家荣誉称号的决定",
+  "gbrq": "2024-09-13",
+  "sxrq": "2024-09-13",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "ff80818191db55220191ebb00b490901",
+    "ossFile": {
+      "ossWordPath": "prod/20240913/d477b410a53b42d1a957f32d95439c6c.docx",
+      "ossWordOfdPath": "prod/20240913/d477b410a53b42d1a957f32d95439c6c.ofd",
+      "ossWordOfdSize": 59332,
+      "ossPdfPath": "prod/20240913/81b3d2e325e2443da390671da70990be.pdf",
+      "ossPdfOfdPath": "prod/20240913/81b3d2e325e2443da390671da70990be.ofd",
+      "ossPdfOfdSize": 600424
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818191d66d8d0191ebb346e10ba5",
+        "title": "中华人民共和国主席令（第三十二号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b01928965dc1a03c0",
+        "title": "中华人民共和国主席令（第三十二号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b0192945bf2160aea",
+        "title": "关于《全国人民代表大会常务委员会关于在中华人民共和国成立七十五周年之际授予国家勋章和国家荣誉称号的决定（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a019289662cdd03ad",
+        "title": "关于《全国人民代表大会常务委员会关于在中华人民共和国成立七十五周年之际授予国家勋章和国家荣誉称号的决定（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2024-09-13",
+    "sxrq": "2024-09-13",
+    "title": "全国人民代表大会常务委员会关于在中华人民共和国成立七十五周年之际授予国家勋章和国家荣誉称号的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:27:36"
+}

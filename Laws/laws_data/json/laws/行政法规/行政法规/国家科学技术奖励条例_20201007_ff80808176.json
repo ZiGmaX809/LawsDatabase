@@ -1,0 +1,59 @@
+{
+  "bbbs": "ff80808176d5cbce0176d72c87f503bc",
+  "title": "国家科学技术奖励条例",
+  "gbrq": "2020-10-07",
+  "sxrq": "2020-12-01",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80808176d5cbce0176d72c87f503bc",
+    "ossFile": {
+      "ossWordPath": "prod/20201007/796a6349f128453f98b7aa1ac6c853ed.docx",
+      "ossWordOfdPath": "prod/20201007/796a6349f128453f98b7aa1ac6c853ed.ofd",
+      "ossWordOfdSize": 122491,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "256820a0ca114014b5a067d7baaea90a",
+        "title": "国务院关于修改《国家科学技术奖励条例》的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818fe2c502019010cdecc23c6f",
+        "title": "国家科学技术奖励条例",
+        "gbrq": "2024-05-26",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff80808176d5cbce0176d72c87f503bc",
+        "title": "国家科学技术奖励条例",
+        "gbrq": "2020-10-07",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40fdedfb105d",
+        "title": "国家科学技术奖励条例",
+        "gbrq": "2013-07-18",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2020-10-07",
+    "sxrq": "2020-12-01",
+    "title": "国家科学技术奖励条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:09:33"
+}

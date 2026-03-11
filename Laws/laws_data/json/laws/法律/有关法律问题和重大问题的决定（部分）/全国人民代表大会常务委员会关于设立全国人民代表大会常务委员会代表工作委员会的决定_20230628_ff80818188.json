@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff80818188d7445c018902db87cd09c4",
+  "title": "全国人民代表大会常务委员会关于设立全国人民代表大会常务委员会代表工作委员会的决定",
+  "gbrq": "2023-06-28",
+  "sxrq": "2023-06-28",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "ff80818188d7445c018902db87cd09c4",
+    "ossFile": {
+      "ossWordPath": "prod/20230628/50eb5340be1b4bbca8a74814f142f1fa.docx",
+      "ossWordOfdPath": "prod/20230628/50eb5340be1b4bbca8a74814f142f1fa.ofd",
+      "ossWordOfdSize": 21458,
+      "ossPdfPath": "prod/20230628/e7eee85ff4c14b3da3edcb67089f9566.pdf",
+      "ossPdfOfdPath": "prod/20230628/e7eee85ff4c14b3da3edcb67089f9566.ofd",
+      "ossPdfOfdSize": 573061
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21dc13018b422218e907e0",
+        "title": "对《关于设立全国人民代表大会常务委员会代表工作委员会的决定（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21dc13018b4222cbf807e3",
+        "title": "对《关于设立全国人民代表大会常务委员会代表工作委员会的决定（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2023-06-28",
+    "sxrq": "2023-06-28",
+    "title": "全国人民代表大会常务委员会关于设立全国人民代表大会常务委员会代表工作委员会的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:28:53"
+}

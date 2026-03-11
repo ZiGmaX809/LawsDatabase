@@ -1,0 +1,48 @@
+{
+  "bbbs": "402881e45ffbbe41015ffbf8911a030d",
+  "title": "最高人民法院关于公布失信被执行人名单信息的若干规定",
+  "gbrq": "2017-02-28",
+  "sxrq": "2017-05-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "402881e45ffbbe41015ffbf8911a030d",
+    "ossFile": {
+      "ossWordPath": "prod/20170228/a814317741c64cfd87313e0d1a7e8b99.docx",
+      "ossWordOfdPath": "prod/20170228/a814317741c64cfd87313e0d1a7e8b99.ofd",
+      "ossWordOfdSize": 105264,
+      "ossPdfPath": "prod/20170228/488da9740cf541b09e399f4222ecb55f.pdf",
+      "ossPdfOfdPath": "prod/20170228/488da9740cf541b09e399f4222ecb55f.ofd",
+      "ossPdfOfdSize": 2267967
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "402881e45ffbbe41015ffbf8911a030d",
+        "title": "最高人民法院关于公布失信被执行人名单信息的若干规定",
+        "gbrq": "2017-02-28",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e45ffff950016000b116820ac5",
+        "title": "最高人民法院关于公布失信被执行人名单信息的若干规定",
+        "gbrq": "2013-07-16",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2017-02-28",
+    "sxrq": "2017-05-01",
+    "title": "最高人民法院关于公布失信被执行人名单信息的若干规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 07:37:20"
+}

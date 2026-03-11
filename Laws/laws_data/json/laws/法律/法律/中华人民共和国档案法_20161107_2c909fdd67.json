@@ -1,0 +1,306 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf82f6b096f",
+  "title": "中华人民共和国档案法",
+  "gbrq": "2016-11-07",
+  "sxrq": "2016-11-07",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf82f6b096f",
+    "ossFile": {
+      "ossWordPath": "prod/20161107/105640f860f64ab3985b8bbb7d0096f1.docx",
+      "ossWordOfdPath": "prod/20161107/105640f860f64ab3985b8bbb7d0096f1.ofd",
+      "ossWordOfdSize": 106855,
+      "ossPdfPath": "prod/20161107/ffafe8b7cdca4b4c836f4538c38a7fb5.pdf",
+      "ossPdfOfdPath": "prod/20161107/ffafe8b7cdca4b4c836f4538c38a7fb5.ofd",
+      "ossPdfOfdSize": 1511931
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80808172b5f24f0172e4ef05e218d4",
+        "title": "中华人民共和国档案法",
+        "gbrq": "2020-06-20",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf82f6b096f",
+        "title": "中华人民共和国档案法",
+        "gbrq": "2016-11-07",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2016-11-07",
+    "sxrq": "2016-11-07",
+    "title": "中华人民共和国档案法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-35a4-08dd61d0cd80",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国档案法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-361b-08dd61d0cd80",
+          "parentId": "79890000-3e3b-0016-35a4-08dd61d0cd80",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-3679-08dd61d0cd80",
+          "parentId": "79890000-3e3b-0016-35a4-08dd61d0cd80",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-43f8-08dd61d0cd80",
+          "parentId": "79890000-3e3b-0016-35a4-08dd61d0cd80",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5034-08dd61d0cd80",
+              "parentId": "79890000-3e3b-0016-43f8-08dd61d0cd80",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5bb3-08dd61d0cd80",
+              "parentId": "79890000-3e3b-0016-43f8-08dd61d0cd80",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6719-08dd61d0cd80",
+              "parentId": "79890000-3e3b-0016-43f8-08dd61d0cd80",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7490-08dd61d0cd80",
+              "parentId": "79890000-3e3b-0016-43f8-08dd61d0cd80",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-869a-08dd61d0cd80",
+              "parentId": "79890000-3e3b-0016-43f8-08dd61d0cd80",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9da6-08dd61d0cd80",
+          "parentId": "79890000-3e3b-0016-35a4-08dd61d0cd80",
+          "title": "第二章 档案机构及其职责",
+          "index": 9,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b0f8-08dd61d0cd80",
+              "parentId": "79890000-3e3b-0016-9da6-08dd61d0cd80",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c46a-08dd61d0cd80",
+              "parentId": "79890000-3e3b-0016-9da6-08dd61d0cd80",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d739-08dd61d0cd80",
+              "parentId": "79890000-3e3b-0016-9da6-08dd61d0cd80",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ea65-08dd61d0cd80",
+              "parentId": "79890000-3e3b-0016-9da6-08dd61d0cd80",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-02f1-08dd61d0cd81",
+          "parentId": "79890000-3e3b-0016-35a4-08dd61d0cd80",
+          "title": "第三章 档案的管理",
+          "index": 14,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-182d-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-02f1-08dd61d0cd81",
+              "title": "第十条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-28f3-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-02f1-08dd61d0cd81",
+              "title": "第十一条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-363a-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-02f1-08dd61d0cd81",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-42bd-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-02f1-08dd61d0cd81",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4ef7-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-02f1-08dd61d0cd81",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5be0-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-02f1-08dd61d0cd81",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6884-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-02f1-08dd61d0cd81",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7557-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-02f1-08dd61d0cd81",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8319-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-02f1-08dd61d0cd81",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-8f89-08dd61d0cd81",
+          "parentId": "79890000-3e3b-0016-35a4-08dd61d0cd80",
+          "title": "第四章 档案的利用和公布",
+          "index": 24,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9be3-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-8f89-08dd61d0cd81",
+              "title": "第十九条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ac31-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-8f89-08dd61d0cd81",
+              "title": "第二十条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c557-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-8f89-08dd61d0cd81",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d45c-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-8f89-08dd61d0cd81",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e1c4-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-8f89-08dd61d0cd81",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-eef7-08dd61d0cd81",
+          "parentId": "79890000-3e3b-0016-35a4-08dd61d0cd80",
+          "title": "第五章 法律责任",
+          "index": 30,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-fcc7-08dd61d0cd81",
+              "parentId": "79890000-3e3b-0016-eef7-08dd61d0cd81",
+              "title": "第二十四条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0bca-08dd61d0cd82",
+              "parentId": "79890000-3e3b-0016-eef7-08dd61d0cd81",
+              "title": "第二十五条",
+              "index": 32,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-1929-08dd61d0cd82",
+          "parentId": "79890000-3e3b-0016-35a4-08dd61d0cd80",
+          "title": "第六章 附则",
+          "index": 33,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-267f-08dd61d0cd82",
+              "parentId": "79890000-3e3b-0016-1929-08dd61d0cd82",
+              "title": "第二十六条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-399f-08dd61d0cd82",
+              "parentId": "79890000-3e3b-0016-1929-08dd61d0cd82",
+              "title": "第二十七条",
+              "index": 35,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:39:56"
+}

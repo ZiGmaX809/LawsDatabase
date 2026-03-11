@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181799def980179ad1548fb13f1",
+  "title": "最高人民法院关于审理不正当竞争民事案件应用法律若干问题的解释",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 1,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799def980179ad1548fb13f1",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/0d8805f07374460292d3e62d79b9687c.docx",
+      "ossWordOfdPath": "prod/20201229/0d8805f07374460292d3e62d79b9687c.ofd",
+      "ossWordOfdSize": 104057,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799def980179ad1548fb13f1",
+        "title": "最高人民法院关于审理不正当竞争民事案件应用法律若干问题的解释",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e46000e2790160017755de0548",
+        "title": "最高人民法院关于审理不正当竞争民事案件应用法律若干问题的解释",
+        "gbrq": "2007-01-12",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179a8b4320179b72d6db415e3",
+        "title": "法释〔2020〕19号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179a8c7550179b72d6fa5157e",
+        "title": "法释〔2020〕19号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于审理不正当竞争民事案件应用法律若干问题的解释",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:05:44"
+}

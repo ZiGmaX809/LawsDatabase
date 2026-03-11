@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff808181862ee02d01863a623c403c58",
+  "title": "最高人民法院关于成渝金融法院案件管辖的规定",
+  "gbrq": "2022-12-20",
+  "sxrq": "2023-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181862ee02d01863a623c403c58",
+    "ossFile": {
+      "ossWordPath": "prod/20221220/4cd756618f5144319590f22c7d215a7a.docx",
+      "ossWordOfdPath": "prod/20221220/4cd756618f5144319590f22c7d215a7a.ofd",
+      "ossWordOfdSize": 63148,
+      "ossPdfPath": "prod/20221220/d401921d892841dd8f2e9cb41baca770.pdf",
+      "ossPdfOfdPath": "prod/20221220/d401921d892841dd8f2e9cb41baca770.ofd",
+      "ossPdfOfdSize": 714372
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181865ee3360186df04dec92756",
+        "title": "法释2022-20公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2022-12-20",
+    "sxrq": "2023-01-01",
+    "title": "最高人民法院关于成渝金融法院案件管辖的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:36"
+}

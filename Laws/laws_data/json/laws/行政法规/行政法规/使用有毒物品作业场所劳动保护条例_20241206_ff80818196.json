@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081819667441b0196a948764f3356",
+  "title": "使用有毒物品作业场所劳动保护条例",
+  "gbrq": "2024-12-06",
+  "sxrq": "2025-01-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819667441b0196a948764f3356",
+    "ossFile": {
+      "ossWordPath": "prod/20241206/32f40923a4c440269b99d3791d393301.docx",
+      "ossWordOfdPath": "prod/20241206/32f40923a4c440269b99d3791d393301.ofd",
+      "ossWordOfdSize": 183382,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a948764f3356",
+        "title": "使用有毒物品作业场所劳动保护条例",
+        "gbrq": "2024-12-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f42453ffa043a",
+        "title": "使用有毒物品作业场所劳动保护条例",
+        "gbrq": "2002-05-12",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff808181966737700196a94d72ff32d8",
+        "title": "中华人民共和国国务院令第797号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667441b0196a94db6af336c",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667441b0196aa344125386d",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-12-06",
+    "sxrq": "2025-01-20",
+    "title": "使用有毒物品作业场所劳动保护条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:59"
+}

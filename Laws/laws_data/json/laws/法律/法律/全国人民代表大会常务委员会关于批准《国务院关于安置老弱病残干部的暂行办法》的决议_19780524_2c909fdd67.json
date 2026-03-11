@@ -1,0 +1,49 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf8a66b0b6d",
+  "title": "全国人民代表大会常务委员会关于批准《国务院关于安置老弱病残干部的暂行办法》的决议",
+  "gbrq": "1978-05-24",
+  "sxrq": "1978-05-24",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf8a66b0b6d",
+    "ossFile": {
+      "ossWordPath": "prod/19780524/e0a91dfd869a43c0aeef22281e8e41c6.docx",
+      "ossWordOfdPath": "prod/19780524/e0a91dfd869a43c0aeef22281e8e41c6.ofd",
+      "ossWordOfdSize": 26573,
+      "ossPdfPath": "prod/19780524/5113a3e384a448eda848959e8475e0ee.pdf",
+      "ossPdfOfdPath": "prod/19780524/5113a3e384a448eda848959e8475e0ee.ofd",
+      "ossPdfOfdSize": 102911
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1978-05-24",
+    "sxrq": "1978-05-24",
+    "title": "全国人民代表大会常务委员会关于批准《国务院关于安置老弱病残干部的暂行办法》的决议",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-5f0e-08dde37b232f",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "全国人民代表大会常务委员会关于批准《国务院关于安置老弱病残干部的暂行办法》的决议",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-5f8c-08dde37b232f",
+          "parentId": "79890000-3e3b-0016-5f0e-08dde37b232f",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:56:41"
+}

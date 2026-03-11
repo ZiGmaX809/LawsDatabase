@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181865eebab0186d8e900502342",
+  "title": "第十四届全国人民代表大会第一次会议关于国务院机构改革方案的决定（附：国务院机构改革方案）",
+  "gbrq": "2023-03-10",
+  "sxrq": "2023-03-10",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "ff808181865eebab0186d8e900502342",
+    "ossFile": {
+      "ossWordPath": "prod/20230310/b206ffbf65fc4b5fa947c6bd4b691035.docx",
+      "ossWordOfdPath": "prod/20230310/b206ffbf65fc4b5fa947c6bd4b691035.ofd",
+      "ossWordOfdSize": 103836,
+      "ossPdfPath": "prod/20230310/246c96b60170481893c12c7b3654ca8f.pdf",
+      "ossPdfOfdPath": "prod/20230310/246c96b60170481893c12c7b3654ca8f.ofd",
+      "ossPdfOfdSize": 903920
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818188d74454018995727d431eaf",
+        "title": "关于国务院机构改革方案的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818188d744540189952485271e86",
+        "title": "关于国务院机构改革方案的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "2023-03-10",
+    "sxrq": "2023-03-10",
+    "title": "第十四届全国人民代表大会第一次会议关于国务院机构改革方案的决定（附：国务院机构改革方案）",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:29:13"
+}

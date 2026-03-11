@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff808081774c72b30177700aebdb19e4",
+  "title": "全国人民代表大会常务委员会关于加强经济工作监督的决定",
+  "gbrq": "2000-03-01",
+  "sxrq": "2000-03-01",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "ff808081774c72b30177700aebdb19e4",
+    "ossFile": {
+      "ossWordPath": "prod/19700101/4902edfc145944d28b885515fd900620.docx",
+      "ossWordOfdPath": "prod/19700101/4902edfc145944d28b885515fd900620.ofd",
+      "ossWordOfdSize": 64291,
+      "ossPdfPath": "prod/19700101/82998e36fb784dbe994ae6e06a341afb.pdf",
+      "ossPdfOfdPath": "prod/19700101/82998e36fb784dbe994ae6e06a341afb.ofd",
+      "ossPdfOfdSize": 698678
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081817d99a651017deca3dba2349a",
+        "title": "全国人民代表大会常务委员会关于加强经济工作监督的决定",
+        "gbrq": "2021-12-24",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff808081774c72b30177700aebdb19e4",
+        "title": "全国人民代表大会常务委员会关于加强经济工作监督的决定",
+        "gbrq": "2000-03-01",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2000-03-01",
+    "sxrq": "2000-03-01",
+    "title": "全国人民代表大会常务委员会关于加强经济工作监督的决定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:49:09"
+}

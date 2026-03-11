@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff808181799df6140179b08345562ab8",
+  "title": "最高人民法院关于修改《最高人民法院关于在民事审判工作中适用〈中华人民共和国工会法〉若干问题的解释》等二十七件民事类司法解释的决定",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": null,
+  "zdjgName": "最高人民法院",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 9999,
+  "flfgCodeId": 350,
+  "detail": {
+    "bbbs": "ff808181799df6140179b08345562ab8",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/cf04d16dd43f4cb09bb060b08a285875.docx",
+      "ossWordOfdPath": "prod/20201229/cf04d16dd43f4cb09bb060b08a285875.ofd",
+      "ossWordOfdSize": 325200,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818179a8c7550179c04cd1742e68",
+        "title": "法释〔2020〕17号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "修改、废止的决定",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于修改《最高人民法院关于在民事审判工作中适用〈中华人民共和国工会法〉若干问题的解释》等二十七件民事类司法解释的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:05:47"
+}

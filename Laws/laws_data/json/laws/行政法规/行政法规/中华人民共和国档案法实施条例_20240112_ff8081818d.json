@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081818d736e08018dcf85118904b2",
+  "title": "中华人民共和国档案法实施条例",
+  "gbrq": "2024-01-12",
+  "sxrq": "2024-03-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818d736e08018dcf85118904b2",
+    "ossFile": {
+      "ossWordPath": "prod/20240112/2934c35b23604058aa2393715ac1789d.docx",
+      "ossWordOfdPath": "prod/20240112/2934c35b23604058aa2393715ac1789d.ofd",
+      "ossWordOfdSize": 152525,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a424b018de46cbd3f111b",
+        "title": "中华人民共和国国务院令第772号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4464018de46cd2f5112a",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-01-12",
+    "sxrq": "2024-03-01",
+    "title": "中华人民共和国档案法实施条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:05:49"
+}

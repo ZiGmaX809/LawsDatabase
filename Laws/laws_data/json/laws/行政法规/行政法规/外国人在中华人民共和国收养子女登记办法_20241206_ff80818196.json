@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff808181966737700196a99664ed33de",
+  "title": "外国人在中华人民共和国收养子女登记办法",
+  "gbrq": "2024-12-06",
+  "sxrq": "2025-01-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181966737700196a99664ed33de",
+    "ossFile": {
+      "ossWordPath": "prod/20241206/61c69b75e9aa4c36959dec60ba0cf7dd.docx",
+      "ossWordOfdPath": "prod/20241206/61c69b75e9aa4c36959dec60ba0cf7dd.ofd",
+      "ossWordOfdSize": 93881,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181966737700196a99664ed33de",
+        "title": "外国人在中华人民共和国收养子女登记办法",
+        "gbrq": "2024-12-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40ff9adc109c",
+        "title": "外国人在中华人民共和国收养子女登记办法",
+        "gbrq": "1999-05-25",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff808181966737700196a997980d33ec",
+        "title": "中华人民共和国国务院令第797号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181966737700196a997c14633f0",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181966737700196aa5640353886",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-12-06",
+    "sxrq": "2025-01-20",
+    "title": "外国人在中华人民共和国收养子女登记办法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:55"
+}

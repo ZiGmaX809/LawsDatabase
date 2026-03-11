@@ -1,0 +1,59 @@
+{
+  "bbbs": "ff808081777d07c50177b85030cf2c82",
+  "title": "音像制品管理条例",
+  "gbrq": "2020-11-29",
+  "sxrq": "2020-11-29",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808081777d07c50177b85030cf2c82",
+    "ossFile": {
+      "ossWordPath": "prod/20201129/2e4dc5126b0245fd8dfa9d2f0e1c0378.docx",
+      "ossWordOfdPath": "prod/20201129/2e4dc5126b0245fd8dfa9d2f0e1c0378.ofd",
+      "ossWordOfdSize": 160758,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a8c7faae32ff",
+        "title": "音像制品管理条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff808081777d07c50177b85030cf2c82",
+        "title": "音像制品管理条例",
+        "gbrq": "2020-11-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f4204235902a7",
+        "title": "音像制品管理条例",
+        "gbrq": "2016-02-06",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2020-11-29",
+    "sxrq": "2020-11-29",
+    "title": "音像制品管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:09:24"
+}

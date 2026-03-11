@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff808081777d07c50177b8c87de4382b",
+  "title": "中华人民共和国技术进出口管理条例",
+  "gbrq": "2020-11-29",
+  "sxrq": "2020-11-29",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808081777d07c50177b8c87de4382b",
+    "ossFile": {
+      "ossWordPath": "prod/20201129/a83cc241b85247578aa82409e9190ff8.docx",
+      "ossWordOfdPath": "prod/20201129/a83cc241b85247578aa82409e9190ff8.ofd",
+      "ossWordOfdSize": 111494,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d07c50177b8c87de4382b",
+        "title": "中华人民共和国技术进出口管理条例",
+        "gbrq": "2020-11-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f41eebc1a01e1",
+        "title": "中华人民共和国技术进出口管理条例",
+        "gbrq": "2019-03-02",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2020-11-29",
+    "sxrq": "2020-11-29",
+    "title": "中华人民共和国技术进出口管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:09:04"
+}

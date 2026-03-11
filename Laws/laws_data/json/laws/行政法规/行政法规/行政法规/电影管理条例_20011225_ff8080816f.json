@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3e98bd016f4206cdde0320",
+  "title": "电影管理条例",
+  "gbrq": "2001-12-25",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f4206cdde0320",
+    "ossFile": {
+      "ossWordPath": "prod/20011225/ed1750fa8ca74f8ab6d628dcaa98ceba.docx",
+      "ossWordOfdPath": "prod/20011225/ed1750fa8ca74f8ab6d628dcaa98ceba.ofd",
+      "ossWordOfdSize": 168419,
+      "ossPdfPath": "prod/20011225/9d9f136051274a71820ea06739b68419.pdf",
+      "ossPdfOfdPath": "prod/20011225/9d9f136051274a71820ea06739b68419.ofd",
+      "ossPdfOfdSize": 20412118
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2001-12-25",
+    "sxrq": null,
+    "title": "电影管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:30:33"
+}

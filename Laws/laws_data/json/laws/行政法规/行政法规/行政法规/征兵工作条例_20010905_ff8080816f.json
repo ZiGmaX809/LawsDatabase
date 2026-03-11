@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f410aa00512fd",
+  "title": "征兵工作条例",
+  "gbrq": "2001-09-05",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f410aa00512fd",
+    "ossFile": {
+      "ossWordPath": "prod/20010905/56d96efeef3f40d1aa7b6101a79d654d.docx",
+      "ossWordOfdPath": "prod/20010905/56d96efeef3f40d1aa7b6101a79d654d.ofd",
+      "ossWordOfdSize": 166544,
+      "ossPdfPath": "prod/20010905/7c89e1a4f60a45e48acd3691070e8c2e.pdf",
+      "ossPdfOfdPath": "prod/20010905/7c89e1a4f60a45e48acd3691070e8c2e.ofd",
+      "ossPdfOfdSize": 6833587
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818187c29b5001882d6f1b1a4508",
+        "title": "征兵工作条例",
+        "gbrq": "2023-04-01",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f410aa00512fd",
+        "title": "征兵工作条例",
+        "gbrq": "2001-09-05",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2001-09-05",
+    "sxrq": null,
+    "title": "征兵工作条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:30:49"
+}

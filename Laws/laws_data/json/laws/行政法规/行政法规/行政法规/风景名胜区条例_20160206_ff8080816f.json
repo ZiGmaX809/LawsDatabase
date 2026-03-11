@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f413c3c5b1e1c",
+  "title": "风景名胜区条例",
+  "gbrq": "2016-02-06",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f413c3c5b1e1c",
+    "ossFile": {
+      "ossWordPath": "prod/20160206/f9752dd3b68b4da1b3f976a2688cadb1.docx",
+      "ossWordOfdPath": "prod/20160206/f9752dd3b68b4da1b3f976a2688cadb1.ofd",
+      "ossWordOfdSize": 151856,
+      "ossPdfPath": "prod/20160206/ea33269a3fd645b0beba669b847a6292.pdf",
+      "ossPdfOfdPath": "prod/20160206/ea33269a3fd645b0beba669b847a6292.ofd",
+      "ossPdfOfdSize": 5736091
+    },
+    "xgwj": [
+      {
+        "bbbs": "2d24100e20fa46408daa098e994e984d",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2016-02-06",
+    "sxrq": null,
+    "title": "风景名胜区条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:20:45"
+}

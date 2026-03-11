@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081818c24df58018c8d0fb82e6563",
+  "title": "人体器官捐献和移植条例",
+  "gbrq": "2023-12-04",
+  "sxrq": "2024-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818c24df58018c8d0fb82e6563",
+    "ossFile": {
+      "ossWordPath": "prod/20231204/d60e30ca335742e185adbaf5e6a5693e.docx",
+      "ossWordOfdPath": "prod/20231204/d60e30ca335742e185adbaf5e6a5693e.ofd",
+      "ossWordOfdSize": 144854,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818c3ce0ed018c8f3960a92126",
+        "title": "中华人民共和国国务院令第767号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818c3cdbf6018c8f3972c421ed",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-12-04",
+    "sxrq": "2024-05-01",
+    "title": "人体器官捐献和移植条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:09"
+}

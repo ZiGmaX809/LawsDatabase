@@ -1,0 +1,79 @@
+{
+  "bbbs": "ff8081819667441b0196a8c7faae32ff",
+  "title": "音像制品管理条例",
+  "gbrq": "2024-12-06",
+  "sxrq": "2025-01-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819667441b0196a8c7faae32ff",
+    "ossFile": {
+      "ossWordPath": "prod/20241206/579cc331889c43a9989c3819e5859104.docx",
+      "ossWordOfdPath": "prod/20241206/579cc331889c43a9989c3819e5859104.ofd",
+      "ossWordOfdSize": 149815,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a8c7faae32ff",
+        "title": "音像制品管理条例",
+        "gbrq": "2024-12-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff808081777d07c50177b85030cf2c82",
+        "title": "音像制品管理条例",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f4204235902a7",
+        "title": "音像制品管理条例",
+        "gbrq": "2016-02-06",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081819667441b0196a8c914bd3305",
+        "title": "中华人民共和国国务院令第797号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667441b0196a8c92877330b",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667441b0196aa26ccc73827",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-12-06",
+    "sxrq": "2025-01-20",
+    "title": "音像制品管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:32"
+}

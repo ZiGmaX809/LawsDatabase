@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4114e50415e8",
+  "title": "地名管理条例",
+  "gbrq": "1986-01-23",
+  "sxrq": "1986-01-23",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4114e50415e8",
+    "ossFile": {
+      "ossWordPath": "prod/19860123/d39722db0219451a8a2b998690f5007f.docx",
+      "ossWordOfdPath": "prod/19860123/d39722db0219451a8a2b998690f5007f.ofd",
+      "ossWordOfdSize": 80583,
+      "ossPdfPath": "prod/19860123/c9b1c6780bd14cf886e1f4b1b789735a.pdf",
+      "ossPdfOfdPath": "prod/19860123/c9b1c6780bd14cf886e1f4b1b789735a.ofd",
+      "ossPdfOfdSize": 3243395
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081817fd9834101805a3581e56820",
+        "title": "地名管理条例",
+        "gbrq": "2022-03-30",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4114e50415e8",
+        "title": "地名管理条例",
+        "gbrq": "1986-01-23",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1986-01-23",
+    "sxrq": "1986-01-23",
+    "title": "地名管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:36:10"
+}

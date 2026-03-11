@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff80818179f5d3e70179fa4da97e04c5",
+  "title": "最高人民法院关于委托执行若干问题的规定",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff80818179f5d3e70179fa4da97e04c5",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/ef7dd42ea8bd4fe0ae8843b2b674fcec.docx",
+      "ossWordOfdPath": "prod/20201229/ef7dd42ea8bd4fe0ae8843b2b674fcec.ofd",
+      "ossWordOfdSize": 70987,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818179f5d3e70179fa4da97e04c5",
+        "title": "最高人民法院关于委托执行若干问题的规定",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e46000e279016001c88fde0b48",
+        "title": "最高人民法院关于委托执行若干问题的规定",
+        "gbrq": "2011-05-03",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179f5da5e017a0e4567e610f5",
+        "title": "法释〔2020〕21号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179facbcc017a0e456c8b0279",
+        "title": "法释〔2020〕21号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于委托执行若干问题的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:55"
+}

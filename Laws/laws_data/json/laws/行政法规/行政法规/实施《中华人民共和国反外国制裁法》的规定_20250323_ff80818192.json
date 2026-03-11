@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181927f1276019610ff1af90a55",
+  "title": "实施《中华人民共和国反外国制裁法》的规定",
+  "gbrq": "2025-03-23",
+  "sxrq": "2025-03-23",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181927f1276019610ff1af90a55",
+    "ossFile": {
+      "ossWordPath": "prod/20250323/7c0ff9ce1eda461b93cbd4bf1d3b63bb.docx",
+      "ossWordOfdPath": "prod/20250323/7c0ff9ce1eda461b93cbd4bf1d3b63bb.ofd",
+      "ossWordOfdSize": 75910,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818195b1209d019611966683154a",
+        "title": "中华人民共和国国务院令第803号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818195b1101301961196a0f8145f",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-03-23",
+    "sxrq": "2025-03-23",
+    "title": "实施《中华人民共和国反外国制裁法》的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:12"
+}

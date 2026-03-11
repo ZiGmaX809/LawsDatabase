@@ -1,0 +1,368 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf815140901",
+  "title": "中华人民共和国环境影响评价法",
+  "gbrq": "2016-07-02",
+  "sxrq": "2016-09-01",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf815140901",
+    "ossFile": {
+      "ossWordPath": "prod/20160702/1a29aefe058f457fbbc91c137597d884.docx",
+      "ossWordOfdPath": "prod/20160702/1a29aefe058f457fbbc91c137597d884.ofd",
+      "ossWordOfdSize": 127276,
+      "ossPdfPath": "prod/20160702/8b95647384a245d2a23578d185ee8da8.pdf",
+      "ossPdfOfdPath": "prod/20160702/8b95647384a245d2a23578d185ee8da8.ofd",
+      "ossPdfOfdSize": 2867955
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8080816f135f46016f20e89eff170a",
+        "title": "中华人民共和国环境影响评价法",
+        "gbrq": "2018-12-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf815140901",
+        "title": "中华人民共和国环境影响评价法",
+        "gbrq": "2016-07-02",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2016-07-02",
+    "sxrq": "2016-09-01",
+    "title": "中华人民共和国环境影响评价法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-1a40-08dd66bb5431",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国环境影响评价法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-1af8-08dd66bb5431",
+          "parentId": "79890000-3e3b-0016-1a40-08dd66bb5431",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1b65-08dd66bb5431",
+          "parentId": "79890000-3e3b-0016-1a40-08dd66bb5431",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-31d9-08dd66bb5431",
+          "parentId": "79890000-3e3b-0016-1a40-08dd66bb5431",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-471a-08dd66bb5431",
+              "parentId": "79890000-3e3b-0016-31d9-08dd66bb5431",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5e50-08dd66bb5431",
+              "parentId": "79890000-3e3b-0016-31d9-08dd66bb5431",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-749b-08dd66bb5431",
+              "parentId": "79890000-3e3b-0016-31d9-08dd66bb5431",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-86f2-08dd66bb5431",
+              "parentId": "79890000-3e3b-0016-31d9-08dd66bb5431",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-94b3-08dd66bb5431",
+              "parentId": "79890000-3e3b-0016-31d9-08dd66bb5431",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a251-08dd66bb5431",
+              "parentId": "79890000-3e3b-0016-31d9-08dd66bb5431",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-b586-08dd66bb5431",
+          "parentId": "79890000-3e3b-0016-1a40-08dd66bb5431",
+          "title": "第二章 规划的环境影响评价",
+          "index": 10,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-c58d-08dd66bb5431",
+              "parentId": "79890000-3e3b-0016-b586-08dd66bb5431",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d30f-08dd66bb5431",
+              "parentId": "79890000-3e3b-0016-b586-08dd66bb5431",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dfd3-08dd66bb5431",
+              "parentId": "79890000-3e3b-0016-b586-08dd66bb5431",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ee66-08dd66bb5431",
+              "parentId": "79890000-3e3b-0016-b586-08dd66bb5431",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fce5-08dd66bb5431",
+              "parentId": "79890000-3e3b-0016-b586-08dd66bb5431",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-09db-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-b586-08dd66bb5431",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-177e-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-b586-08dd66bb5431",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2502-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-b586-08dd66bb5431",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-331e-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-b586-08dd66bb5431",
+              "title": "第十五条",
+              "index": 19,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-40e3-08dd66bb5432",
+          "parentId": "79890000-3e3b-0016-1a40-08dd66bb5431",
+          "title": "第三章 建设项目的环境影响评价",
+          "index": 20,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-4e3f-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5d1c-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-94bb-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a3d1-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b26b-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c0a0-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第二十一条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cf2f-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第二十二条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dea4-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第二十三条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-edf4-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第二十四条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fd24-08dd66bb5432",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第二十五条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0c5f-08dd66bb5433",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第二十六条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1ab4-08dd66bb5433",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第二十七条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2a16-08dd66bb5433",
+              "parentId": "79890000-3e3b-0016-40e3-08dd66bb5432",
+              "title": "第二十八条",
+              "index": 33,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-38cb-08dd66bb5433",
+          "parentId": "79890000-3e3b-0016-1a40-08dd66bb5431",
+          "title": "第四章 法律责任",
+          "index": 34,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-47c6-08dd66bb5433",
+              "parentId": "79890000-3e3b-0016-38cb-08dd66bb5433",
+              "title": "第二十九条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-570d-08dd66bb5433",
+              "parentId": "79890000-3e3b-0016-38cb-08dd66bb5433",
+              "title": "第三十条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6657-08dd66bb5433",
+              "parentId": "79890000-3e3b-0016-38cb-08dd66bb5433",
+              "title": "第三十一条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7625-08dd66bb5433",
+              "parentId": "79890000-3e3b-0016-38cb-08dd66bb5433",
+              "title": "第三十二条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8570-08dd66bb5433",
+              "parentId": "79890000-3e3b-0016-38cb-08dd66bb5433",
+              "title": "第三十三条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9560-08dd66bb5433",
+              "parentId": "79890000-3e3b-0016-38cb-08dd66bb5433",
+              "title": "第三十四条",
+              "index": 40,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-a51b-08dd66bb5433",
+          "parentId": "79890000-3e3b-0016-1a40-08dd66bb5431",
+          "title": "第五章 附则",
+          "index": 41,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b404-08dd66bb5433",
+              "parentId": "79890000-3e3b-0016-a51b-08dd66bb5433",
+              "title": "第三十五条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c3cd-08dd66bb5433",
+              "parentId": "79890000-3e3b-0016-a51b-08dd66bb5433",
+              "title": "第三十六条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d33f-08dd66bb5433",
+              "parentId": "79890000-3e3b-0016-a51b-08dd66bb5433",
+              "title": "第三十七条",
+              "index": 44,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:40:29"
+}

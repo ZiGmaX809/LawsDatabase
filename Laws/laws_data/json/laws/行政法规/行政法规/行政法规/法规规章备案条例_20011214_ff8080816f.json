@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4048479f026d",
+  "title": "法规规章备案条例",
+  "gbrq": "2001-12-14",
+  "sxrq": "2002-01-01",
+  "sxx": 1,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4048479f026d",
+    "ossFile": {
+      "ossWordPath": "prod/20011214/97818201727346d9952df1df42324b8b.docx",
+      "ossWordOfdPath": "prod/20011214/97818201727346d9952df1df42324b8b.ofd",
+      "ossWordOfdSize": 80733,
+      "ossPdfPath": "prod/20011214/94d4e739c4f7446cb9e9fe36c3ccd269.pdf",
+      "ossPdfOfdPath": "prod/20011214/94d4e739c4f7446cb9e9fe36c3ccd269.ofd",
+      "ossPdfOfdSize": 3326536
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2001-12-14",
+    "sxrq": "2002-01-01",
+    "title": "法规规章备案条例",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:30:39"
+}

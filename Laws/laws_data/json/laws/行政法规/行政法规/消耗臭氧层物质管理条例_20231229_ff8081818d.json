@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081818d736ac1018dcf514e1b2926",
+  "title": "消耗臭氧层物质管理条例",
+  "gbrq": "2023-12-29",
+  "sxrq": "2024-03-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818d736ac1018dcf514e1b2926",
+    "ossFile": {
+      "ossWordPath": "prod/20231229/cebe7282e6de46b686a22962a3d33035.docx",
+      "ossWordOfdPath": "prod/20231229/cebe7282e6de46b686a22962a3d33035.ofd",
+      "ossWordOfdSize": 137956,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818d736ac1018dcf514e1b2926",
+        "title": "消耗臭氧层物质管理条例",
+        "gbrq": "2023-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40ee1f9e0bef",
+        "title": "消耗臭氧层物质管理条例",
+        "gbrq": "2018-03-19",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a4639018de0fefdb6102c",
+        "title": "中华人民共和国国务院令第770号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b018de3d814fa10e0",
+        "title": "国务院关于修改《消耗臭氧层物质管理条例》的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4464018de0fede351089",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-12-29",
+    "sxrq": "2024-03-01",
+    "title": "消耗臭氧层物质管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:05:52"
+}

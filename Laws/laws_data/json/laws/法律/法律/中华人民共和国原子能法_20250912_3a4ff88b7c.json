@@ -1,0 +1,116 @@
+{
+  "bbbs": "3a4ff88b7cdb45a28f72e7bf5d54e512",
+  "title": "中华人民共和国原子能法",
+  "gbrq": "2025-09-12",
+  "sxrq": "2026-01-15",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "3a4ff88b7cdb45a28f72e7bf5d54e512",
+    "ossFile": {
+      "ossWordPath": "prod/20250912/9338bd6e8ece40a895b9b8b459699ea8.docx",
+      "ossWordOfdPath": "prod/20250912/9338bd6e8ece40a895b9b8b459699ea8.ofd",
+      "ossWordOfdSize": 167868,
+      "ossPdfPath": "prod/20250912/2a659a1306a04b888d83fd6d78c9cba8.pdf",
+      "ossPdfOfdPath": "prod/20250912/2a659a1306a04b888d83fd6d78c9cba8.ofd",
+      "ossPdfOfdSize": 891208
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "0f26da8c49934b0aa86f534ce123e6f5",
+        "title": "中华人民共和国主席令（第五十一号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "3d6d5ea4520640d096094035da0a7a35",
+        "title": "中华人民共和国主席令（第五十一号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ca810e9007af45b2a45f1817bdf7b37b",
+        "title": "关于《中华人民共和国原子能法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "0b44a448fdda4c7f8ada6ddec2bf2a86",
+        "title": "关于《中华人民共和国原子能法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "34eaa7b100fd4fee92009f87adf38961",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国原子能法（草案）》修改情况的汇报",
+        "titleHighLight": null,
+        "busiType": "修改情况的汇报",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "85baae4e37ad4240bd46c16ca36c4d39",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国原子能法（草案）》修改情况的汇报",
+        "titleHighLight": null,
+        "busiType": "修改情况的汇报",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "fc1a7a061aaa4d44abe3999f0ab774f4",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国原子能法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "bb78ef4e209b4d93921f53e0503a875d",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国原子能法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "26cb04bbb5924402a3d19ac0589346a5",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国原子能法（草案三次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "261e05cbc6524d3a8847ce2c14062296",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国原子能法（草案三次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2025-09-12",
+    "sxrq": "2026-01-15",
+    "title": "中华人民共和国原子能法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:26:37"
+}

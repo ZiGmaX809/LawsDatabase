@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081819667441b0196a9ec77373667",
+  "title": "中华人民共和国计算机信息网络国际联网管理暂行规定",
+  "gbrq": "2024-03-10",
+  "sxrq": "2024-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819667441b0196a9ec77373667",
+    "ossFile": {
+      "ossWordPath": "prod/20240310/b0aa5c28430149399ebac9bb53f41830.docx",
+      "ossWordOfdPath": "prod/20240310/b0aa5c28430149399ebac9bb53f41830.ofd",
+      "ossWordOfdSize": 86227,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a9ec77373667",
+        "title": "中华人民共和国计算机信息网络国际联网管理暂行规定",
+        "gbrq": "2024-03-10",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f41fc1c320255",
+        "title": "中华人民共和国计算机信息网络国际联网管理暂行规定",
+        "gbrq": "1997-05-20",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff808181966737700196a9ee91e035d5",
+        "title": "中华人民共和国国务院令第777号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181966737700196a9eea9a035da",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667441b0196a9ef3fc6367b",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-03-10",
+    "sxrq": "2024-05-01",
+    "title": "中华人民共和国计算机信息网络国际联网管理暂行规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:05:18"
+}

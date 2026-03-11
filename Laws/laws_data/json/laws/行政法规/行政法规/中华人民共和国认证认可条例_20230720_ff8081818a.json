@@ -1,0 +1,79 @@
+{
+  "bbbs": "ff8081818a22132f018a6e37a7b6231d",
+  "title": "中华人民共和国认证认可条例",
+  "gbrq": "2023-07-20",
+  "sxrq": "2023-07-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818a22132f018a6e37a7b6231d",
+    "ossFile": {
+      "ossWordPath": "prod/20230720/b7c727c741a443f49c20b42b9fc3acde.docx",
+      "ossWordOfdPath": "prod/20230720/b7c727c741a443f49c20b42b9fc3acde.ofd",
+      "ossWordOfdSize": 142749,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a22132f018a6e37a7b6231d",
+        "title": "中华人民共和国认证认可条例",
+        "gbrq": "2023-07-20",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff808081777d07c50177b8ce729b3887",
+        "title": "中华人民共和国认证认可条例",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40e69c6509fe",
+        "title": "中华人民共和国认证认可条例",
+        "gbrq": "2016-02-06",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21e6c3018a78a72c8316d5",
+        "title": "中华人民共和国国务院令第764号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018a78a6dd2816ff",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21dc13018a78a77498161e",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-07-20",
+    "sxrq": "2023-07-20",
+    "title": "中华人民共和国认证认可条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:27"
+}

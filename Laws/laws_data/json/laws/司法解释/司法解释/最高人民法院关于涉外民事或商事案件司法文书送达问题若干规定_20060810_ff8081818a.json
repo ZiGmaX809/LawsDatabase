@@ -1,0 +1,57 @@
+{
+  "bbbs": "ff8081818a22132f018ad067f5c72a21",
+  "title": "最高人民法院关于涉外民事或商事案件司法文书送达问题若干规定",
+  "gbrq": "2006-08-10",
+  "sxrq": "2006-08-22",
+  "sxx": 2,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081818a22132f018ad067f5c72a21",
+    "ossFile": {
+      "ossWordPath": "prod/20060810/13f04518359b431ab1f45a98cd5c6b3d.docx",
+      "ossWordOfdPath": "prod/20060810/13f04518359b431ab1f45a98cd5c6b3d.ofd",
+      "ossWordOfdSize": 59843,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799df6140179b104dcd12d36",
+        "title": "最高人民法院关于涉外民事或商事案件司法文书送达问题若干规定",
+        "gbrq": "2020-12-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8081818a22132f018ad067f5c72a21",
+        "title": "最高人民法院关于涉外民事或商事案件司法文书送达问题若干规定",
+        "gbrq": "2006-08-10",
+        "highLight": true
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21e6c3018adb22952d2b14",
+        "title": "法释[2006]5号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2006-08-10",
+    "sxrq": "2006-08-22",
+    "title": "最高人民法院关于涉外民事或商事案件司法文书送达问题若干规定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 08:34:00"
+}

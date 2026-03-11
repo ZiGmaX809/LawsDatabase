@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40f775bb0ebb",
+  "title": "外国企业常驻代表机构登记管理条例",
+  "gbrq": "2018-09-18",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40f775bb0ebb",
+    "ossFile": {
+      "ossWordPath": "prod/20180918/9f50a9b1e7bd46d8bd06bbc4036a2555.docx",
+      "ossWordOfdPath": "prod/20180918/9f50a9b1e7bd46d8bd06bbc4036a2555.ofd",
+      "ossWordOfdSize": 130839,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a9f999e336d1",
+        "title": "外国企业常驻代表机构登记管理条例",
+        "gbrq": "2024-03-10",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40f775bb0ebb",
+        "title": "外国企业常驻代表机构登记管理条例",
+        "gbrq": "2018-09-18",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2018-09-18",
+    "sxrq": null,
+    "title": "外国企业常驻代表机构登记管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:13:38"
+}

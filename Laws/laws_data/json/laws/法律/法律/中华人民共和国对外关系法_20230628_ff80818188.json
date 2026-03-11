@@ -1,0 +1,484 @@
+{
+  "bbbs": "ff80818188d7430b0189019c15ee0943",
+  "title": "中华人民共和国对外关系法",
+  "gbrq": "2023-06-28",
+  "sxrq": "2023-07-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "ff80818188d7430b0189019c15ee0943",
+    "ossFile": {
+      "ossWordPath": "prod/20230628/5e9b652ee70f472bb2e7bfb3f899fc70.docx",
+      "ossWordOfdPath": "prod/20230628/5e9b652ee70f472bb2e7bfb3f899fc70.ofd",
+      "ossWordOfdSize": 127898,
+      "ossPdfPath": "prod/20230628/1b126f8e63b74cdb93cedf4a8962a2db.pdf",
+      "ossPdfOfdPath": "prod/20230628/1b126f8e63b74cdb93cedf4a8962a2db.ofd",
+      "ossPdfOfdSize": 813468
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21dc13018b422f5ee60812",
+        "title": "中华人民共和国主席令（第七号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018b422f88740965",
+        "title": "中华人民共和国主席令（第七号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e6c3018b423043cd0915",
+        "title": "关于《中华人民共和国对外关系法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018b422feefa0968",
+        "title": "关于《中华人民共和国对外关系法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21dc13018b42311ea80820",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国对外关系法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018b4230caae096e",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国对外关系法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21dc13018b60a1067315f3",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国对外关系法（草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e6c3018b4231ac24091f",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国对外关系法（草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2023-06-28",
+    "sxrq": "2023-07-01",
+    "title": "中华人民共和国对外关系法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-c3da-08dd5babdc67",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国对外关系法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-c44d-08dd5babdc67",
+          "parentId": "79890000-3e3b-0016-c3da-08dd5babdc67",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c4ac-08dd5babdc67",
+          "parentId": "79890000-3e3b-0016-c3da-08dd5babdc67",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-d15f-08dd5babdc67",
+          "parentId": "79890000-3e3b-0016-c3da-08dd5babdc67",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-dd58-08dd5babdc67",
+              "parentId": "79890000-3e3b-0016-d15f-08dd5babdc67",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ea3b-08dd5babdc67",
+              "parentId": "79890000-3e3b-0016-d15f-08dd5babdc67",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f6a4-08dd5babdc67",
+              "parentId": "79890000-3e3b-0016-d15f-08dd5babdc67",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0366-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-d15f-08dd5babdc67",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-10bc-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-d15f-08dd5babdc67",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1d12-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-d15f-08dd5babdc67",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2985-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-d15f-08dd5babdc67",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-364a-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-d15f-08dd5babdc67",
+              "title": "第八条",
+              "index": 11,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-4292-08dd5babdc68",
+          "parentId": "79890000-3e3b-0016-c3da-08dd5babdc67",
+          "title": "第二章 对外关系的职权",
+          "index": 12,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-4f5d-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-4292-08dd5babdc68",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5ce4-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-4292-08dd5babdc68",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6aba-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-4292-08dd5babdc68",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-78a2-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-4292-08dd5babdc68",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8577-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-4292-08dd5babdc68",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9181-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-4292-08dd5babdc68",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9e07-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-4292-08dd5babdc68",
+              "title": "第十五条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-aa89-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-4292-08dd5babdc68",
+              "title": "第十六条",
+              "index": 20,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-b709-08dd5babdc68",
+          "parentId": "79890000-3e3b-0016-c3da-08dd5babdc67",
+          "title": "第三章 发展对外关系的目标任务",
+          "index": 21,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-c343-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-b709-08dd5babdc68",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cff5-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-b709-08dd5babdc68",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dca2-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-b709-08dd5babdc68",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e973-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-b709-08dd5babdc68",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f74c-08dd5babdc68",
+              "parentId": "79890000-3e3b-0016-b709-08dd5babdc68",
+              "title": "第二十一条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0416-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-b709-08dd5babdc68",
+              "title": "第二十二条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1a56-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-b709-08dd5babdc68",
+              "title": "第二十三条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2ab8-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-b709-08dd5babdc68",
+              "title": "第二十四条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-385d-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-b709-08dd5babdc68",
+              "title": "第二十五条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-45e6-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-b709-08dd5babdc68",
+              "title": "第二十六条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5318-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-b709-08dd5babdc68",
+              "title": "第二十七条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-612c-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-b709-08dd5babdc68",
+              "title": "第二十八条",
+              "index": 33,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-6f24-08dd5babdc69",
+          "parentId": "79890000-3e3b-0016-c3da-08dd5babdc67",
+          "title": "第四章 对外关系的制度",
+          "index": 34,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-7c5c-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-6f24-08dd5babdc69",
+              "title": "第二十九条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8a0f-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-6f24-08dd5babdc69",
+              "title": "第三十条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-980e-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-6f24-08dd5babdc69",
+              "title": "第三十一条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a5d0-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-6f24-08dd5babdc69",
+              "title": "第三十二条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b3ea-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-6f24-08dd5babdc69",
+              "title": "第三十三条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c2d4-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-6f24-08dd5babdc69",
+              "title": "第三十四条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d0c5-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-6f24-08dd5babdc69",
+              "title": "第三十五条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dfaf-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-6f24-08dd5babdc69",
+              "title": "第三十六条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-edf8-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-6f24-08dd5babdc69",
+              "title": "第三十七条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fcaa-08dd5babdc69",
+              "parentId": "79890000-3e3b-0016-6f24-08dd5babdc69",
+              "title": "第三十八条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0bb7-08dd5babdc6a",
+              "parentId": "79890000-3e3b-0016-6f24-08dd5babdc69",
+              "title": "第三十九条",
+              "index": 45,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-1a1e-08dd5babdc6a",
+          "parentId": "79890000-3e3b-0016-c3da-08dd5babdc67",
+          "title": "第五章 发展对外关系的保障",
+          "index": 46,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-287f-08dd5babdc6a",
+              "parentId": "79890000-3e3b-0016-1a1e-08dd5babdc6a",
+              "title": "第四十条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-376d-08dd5babdc6a",
+              "parentId": "79890000-3e3b-0016-1a1e-08dd5babdc6a",
+              "title": "第四十一条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-45bb-08dd5babdc6a",
+              "parentId": "79890000-3e3b-0016-1a1e-08dd5babdc6a",
+              "title": "第四十二条",
+              "index": 49,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5521-08dd5babdc6a",
+              "parentId": "79890000-3e3b-0016-1a1e-08dd5babdc6a",
+              "title": "第四十三条",
+              "index": 50,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-642c-08dd5babdc6a",
+              "parentId": "79890000-3e3b-0016-1a1e-08dd5babdc6a",
+              "title": "第四十四条",
+              "index": 51,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-72f9-08dd5babdc6a",
+          "parentId": "79890000-3e3b-0016-c3da-08dd5babdc67",
+          "title": "第六章 附则",
+          "index": 52,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-81f2-08dd5babdc6a",
+              "parentId": "79890000-3e3b-0016-72f9-08dd5babdc6a",
+              "title": "第四十五条",
+              "index": 53,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:28:50"
+}

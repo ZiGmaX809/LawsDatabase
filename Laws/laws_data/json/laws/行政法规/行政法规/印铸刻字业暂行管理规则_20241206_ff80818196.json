@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff808181966737700196a98c5d5a338b",
+  "title": "印铸刻字业暂行管理规则",
+  "gbrq": "2024-12-06",
+  "sxrq": "2025-01-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181966737700196a98c5d5a338b",
+    "ossFile": {
+      "ossWordPath": "prod/20241206/9723dad86feb4812b354fb728dfd173c.docx",
+      "ossWordOfdPath": "prod/20241206/9723dad86feb4812b354fb728dfd173c.ofd",
+      "ossWordOfdSize": 87472,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181966737700196a98c5d5a338b",
+        "title": "印铸刻字业暂行管理规则",
+        "gbrq": "2024-12-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f41e8aa8601b0",
+        "title": "印铸刻字业暂行管理规则",
+        "gbrq": "1951-08-15",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081819667441b0196a98d8f5b342c",
+        "title": "中华人民共和国国务院令第797号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667441b0196a98da3e73430",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181966737700196aa49fa113859",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-12-06",
+    "sxrq": "2025-01-20",
+    "title": "印铸刻字业暂行管理规则",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:52"
+}

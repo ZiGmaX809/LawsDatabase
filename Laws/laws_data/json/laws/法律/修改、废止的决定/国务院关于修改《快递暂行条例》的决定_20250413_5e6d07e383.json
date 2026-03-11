@@ -1,0 +1,57 @@
+{
+  "bbbs": "5e6d07e383c9468e8435e6d3c23b9d33",
+  "title": "国务院关于修改《快递暂行条例》的决定",
+  "gbrq": "2025-04-13",
+  "sxrq": "2025-06-01",
+  "sxx": null,
+  "zdjgName": "国务院",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 215,
+  "detail": {
+    "bbbs": "5e6d07e383c9468e8435e6d3c23b9d33",
+    "ossFile": {
+      "ossWordPath": "prod/20250413/d3a1630e1cbe44ea8eabd7adfe42254b.docx",
+      "ossWordOfdPath": "prod/20250413/d3a1630e1cbe44ea8eabd7adfe42254b.ofd",
+      "ossWordOfdSize": 72309,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818195b1209d01966220e7093057",
+        "title": "中华人民共和国国务院令第806号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818195b1209d01966221234f3062",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "ff8080816f3cbb3c016f4137c4711d71",
+        "title": "快递暂行条例"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "国务院",
+    "gbrq": "2025-04-13",
+    "sxrq": "2025-06-01",
+    "title": "国务院关于修改《快递暂行条例》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:05"
+}

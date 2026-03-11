@@ -1,0 +1,1350 @@
+{
+  "bbbs": "ff808181802d2853018044c12f9d070c",
+  "title": "中华人民共和国期货和衍生品法",
+  "gbrq": "2022-04-20",
+  "sxrq": "2022-08-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 120,
+  "detail": {
+    "bbbs": "ff808181802d2853018044c12f9d070c",
+    "ossFile": {
+      "ossWordPath": "prod/20220420/10f5da08f2d149c1aabec8b03430096a.docx",
+      "ossWordOfdPath": "prod/20220420/10f5da08f2d149c1aabec8b03430096a.ofd",
+      "ossWordOfdSize": 253287,
+      "ossPdfPath": "prod/20220420/e3bea923793a410f9259eaa8a6c01372.pdf",
+      "ossPdfOfdPath": "prod/20220420/e3bea923793a410f9259eaa8a6c01372.ofd",
+      "ossPdfOfdSize": 987617
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818044fa2301804643740d0290",
+        "title": "中华人民共和国主席令第一一一号",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c5130181226f4ab70616",
+        "title": "中华人民共和国主席令第一一一号",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c5130181226f802b0619",
+        "title": "关于《中华人民共和国期货法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c5130181226fbf1f061c",
+        "title": "关于《中华人民共和国期货法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c51301815fadc3db0fbc",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国期货法（草案）》修改情况的汇报",
+        "titleHighLight": null,
+        "busiType": "修改情况的汇报",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c5130181226ff1e80620",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国期货法（草案）》修改情况的汇报",
+        "titleHighLight": null,
+        "busiType": "修改情况的汇报",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181814c94c201815fb1e28501f0",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国期货和衍生品法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c5130181227027290623",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国期货和衍生品法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c86b01815fb37ee60fda",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国期货和衍生品法（草案三次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c5130181227056070628",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国期货和衍生品法（草案三次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2022-04-20",
+    "sxrq": "2022-08-01",
+    "title": "中华人民共和国期货和衍生品法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国期货和衍生品法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-fca5-08dd61d0bdf2",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-fd1d-08dd61d0bdf2",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1cc1-08dd61d0bdf3",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-4664-08dd61d0bdf3",
+              "parentId": "79890000-3e3b-0016-1cc1-08dd61d0bdf3",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-63ff-08dd61d0bdf3",
+              "parentId": "79890000-3e3b-0016-1cc1-08dd61d0bdf3",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-81aa-08dd61d0bdf3",
+              "parentId": "79890000-3e3b-0016-1cc1-08dd61d0bdf3",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9f22-08dd61d0bdf3",
+              "parentId": "79890000-3e3b-0016-1cc1-08dd61d0bdf3",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bbbc-08dd61d0bdf3",
+              "parentId": "79890000-3e3b-0016-1cc1-08dd61d0bdf3",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d7c2-08dd61d0bdf3",
+              "parentId": "79890000-3e3b-0016-1cc1-08dd61d0bdf3",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f410-08dd61d0bdf3",
+              "parentId": "79890000-3e3b-0016-1cc1-08dd61d0bdf3",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-109e-08dd61d0bdf4",
+              "parentId": "79890000-3e3b-0016-1cc1-08dd61d0bdf3",
+              "title": "第八条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2d2a-08dd61d0bdf4",
+              "parentId": "79890000-3e3b-0016-1cc1-08dd61d0bdf3",
+              "title": "第九条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-79fd-08dd61d0bdf4",
+              "parentId": "79890000-3e3b-0016-1cc1-08dd61d0bdf3",
+              "title": "第十条",
+              "index": 13,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9950-08dd61d0bdf4",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第二章 期货交易和衍生品交易",
+          "index": 14,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b63f-08dd61d0bdf4",
+              "parentId": "79890000-3e3b-0016-9950-08dd61d0bdf4",
+              "title": "第一节 一般规定",
+              "index": 15,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-d2a7-08dd61d0bdf4",
+                  "parentId": "79890000-3e3b-0016-b63f-08dd61d0bdf4",
+                  "title": "第十一条",
+                  "index": 16,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-efc4-08dd61d0bdf4",
+                  "parentId": "79890000-3e3b-0016-b63f-08dd61d0bdf4",
+                  "title": "第十二条",
+                  "index": 17,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-0e2a-08dd61d0bdf5",
+                  "parentId": "79890000-3e3b-0016-b63f-08dd61d0bdf4",
+                  "title": "第十三条",
+                  "index": 18,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-2b47-08dd61d0bdf5",
+                  "parentId": "79890000-3e3b-0016-b63f-08dd61d0bdf4",
+                  "title": "第十四条",
+                  "index": 19,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-4916-08dd61d0bdf5",
+                  "parentId": "79890000-3e3b-0016-b63f-08dd61d0bdf4",
+                  "title": "第十五条",
+                  "index": 20,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-6690-08dd61d0bdf5",
+                  "parentId": "79890000-3e3b-0016-b63f-08dd61d0bdf4",
+                  "title": "第十六条",
+                  "index": 21,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+              "parentId": "79890000-3e3b-0016-9950-08dd61d0bdf4",
+              "title": "第二节 期货交易",
+              "index": 22,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-ba27-08dd61d0bdf5",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第十七条",
+                  "index": 23,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-ed3c-08dd61d0bdf5",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第十八条",
+                  "index": 24,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-11a1-08dd61d0bdf6",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第十九条",
+                  "index": 25,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-2f7f-08dd61d0bdf6",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第二十条",
+                  "index": 26,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-4d2e-08dd61d0bdf6",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第二十一条",
+                  "index": 27,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-6a81-08dd61d0bdf6",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第二十二条",
+                  "index": 28,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-8910-08dd61d0bdf6",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第二十三条",
+                  "index": 29,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-a719-08dd61d0bdf6",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第二十四条",
+                  "index": 30,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-c4c5-08dd61d0bdf6",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第二十五条",
+                  "index": 31,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-e2c0-08dd61d0bdf6",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第二十六条",
+                  "index": 32,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-00d4-08dd61d0bdf7",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第二十七条",
+                  "index": 33,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-1ed3-08dd61d0bdf7",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第二十八条",
+                  "index": 34,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-3d47-08dd61d0bdf7",
+                  "parentId": "79890000-3e3b-0016-8877-08dd61d0bdf5",
+                  "title": "第二十九条",
+                  "index": 35,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "79890000-3e3b-0016-5b03-08dd61d0bdf7",
+              "parentId": "79890000-3e3b-0016-9950-08dd61d0bdf4",
+              "title": "第三节 衍生品交易",
+              "index": 36,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-791e-08dd61d0bdf7",
+                  "parentId": "79890000-3e3b-0016-5b03-08dd61d0bdf7",
+                  "title": "第三十条",
+                  "index": 37,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-981c-08dd61d0bdf7",
+                  "parentId": "79890000-3e3b-0016-5b03-08dd61d0bdf7",
+                  "title": "第三十一条",
+                  "index": 38,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-b6fd-08dd61d0bdf7",
+                  "parentId": "79890000-3e3b-0016-5b03-08dd61d0bdf7",
+                  "title": "第三十二条",
+                  "index": 39,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-d5b5-08dd61d0bdf7",
+                  "parentId": "79890000-3e3b-0016-5b03-08dd61d0bdf7",
+                  "title": "第三十三条",
+                  "index": 40,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-f76a-08dd61d0bdf7",
+                  "parentId": "79890000-3e3b-0016-5b03-08dd61d0bdf7",
+                  "title": "第三十四条",
+                  "index": 41,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-178f-08dd61d0bdf8",
+                  "parentId": "79890000-3e3b-0016-5b03-08dd61d0bdf7",
+                  "title": "第三十五条",
+                  "index": 42,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-3817-08dd61d0bdf8",
+                  "parentId": "79890000-3e3b-0016-5b03-08dd61d0bdf7",
+                  "title": "第三十六条",
+                  "index": 43,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-58f4-08dd61d0bdf8",
+                  "parentId": "79890000-3e3b-0016-5b03-08dd61d0bdf7",
+                  "title": "第三十七条",
+                  "index": 44,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-7a29-08dd61d0bdf8",
+                  "parentId": "79890000-3e3b-0016-5b03-08dd61d0bdf7",
+                  "title": "第三十八条",
+                  "index": 45,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9a80-08dd61d0bdf8",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第三章 期货结算与交割",
+          "index": 46,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-e53a-08dd61d0bdf8",
+              "parentId": "79890000-3e3b-0016-9a80-08dd61d0bdf8",
+              "title": "第三十九条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-079f-08dd61d0bdf9",
+              "parentId": "79890000-3e3b-0016-9a80-08dd61d0bdf8",
+              "title": "第四十条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-288c-08dd61d0bdf9",
+              "parentId": "79890000-3e3b-0016-9a80-08dd61d0bdf8",
+              "title": "第四十一条",
+              "index": 49,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4956-08dd61d0bdf9",
+              "parentId": "79890000-3e3b-0016-9a80-08dd61d0bdf8",
+              "title": "第四十二条",
+              "index": 50,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6999-08dd61d0bdf9",
+              "parentId": "79890000-3e3b-0016-9a80-08dd61d0bdf8",
+              "title": "第四十三条",
+              "index": 51,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-89d4-08dd61d0bdf9",
+              "parentId": "79890000-3e3b-0016-9a80-08dd61d0bdf8",
+              "title": "第四十四条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a978-08dd61d0bdf9",
+              "parentId": "79890000-3e3b-0016-9a80-08dd61d0bdf8",
+              "title": "第四十五条",
+              "index": 53,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c98b-08dd61d0bdf9",
+              "parentId": "79890000-3e3b-0016-9a80-08dd61d0bdf8",
+              "title": "第四十六条",
+              "index": 54,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e9ca-08dd61d0bdf9",
+              "parentId": "79890000-3e3b-0016-9a80-08dd61d0bdf8",
+              "title": "第四十七条",
+              "index": 55,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0a02-08dd61d0bdfa",
+              "parentId": "79890000-3e3b-0016-9a80-08dd61d0bdf8",
+              "title": "第四十八条",
+              "index": 56,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-2995-08dd61d0bdfa",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第四章 期货交易者",
+          "index": 57,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-4cca-08dd61d0bdfa",
+              "parentId": "79890000-3e3b-0016-2995-08dd61d0bdfa",
+              "title": "第四十九条",
+              "index": 58,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7429-08dd61d0bdfa",
+              "parentId": "79890000-3e3b-0016-2995-08dd61d0bdfa",
+              "title": "第五十条",
+              "index": 59,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-973a-08dd61d0bdfa",
+              "parentId": "79890000-3e3b-0016-2995-08dd61d0bdfa",
+              "title": "第五十一条",
+              "index": 60,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b8d0-08dd61d0bdfa",
+              "parentId": "79890000-3e3b-0016-2995-08dd61d0bdfa",
+              "title": "第五十二条",
+              "index": 61,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dadc-08dd61d0bdfa",
+              "parentId": "79890000-3e3b-0016-2995-08dd61d0bdfa",
+              "title": "第五十三条",
+              "index": 62,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fc93-08dd61d0bdfa",
+              "parentId": "79890000-3e3b-0016-2995-08dd61d0bdfa",
+              "title": "第五十四条",
+              "index": 63,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1e46-08dd61d0bdfb",
+              "parentId": "79890000-3e3b-0016-2995-08dd61d0bdfa",
+              "title": "第五十五条",
+              "index": 64,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4068-08dd61d0bdfb",
+              "parentId": "79890000-3e3b-0016-2995-08dd61d0bdfa",
+              "title": "第五十六条",
+              "index": 65,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-61b4-08dd61d0bdfb",
+              "parentId": "79890000-3e3b-0016-2995-08dd61d0bdfa",
+              "title": "第五十七条",
+              "index": 66,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-83c0-08dd61d0bdfb",
+              "parentId": "79890000-3e3b-0016-2995-08dd61d0bdfa",
+              "title": "第五十八条",
+              "index": 67,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第五章 期货经营机构",
+          "index": 68,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-c67c-08dd61d0bdfb",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第五十九条",
+              "index": 69,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e88a-08dd61d0bdfb",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第六十条",
+              "index": 70,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0bdc-08dd61d0bdfc",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第六十一条",
+              "index": 71,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2eaf-08dd61d0bdfc",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第六十二条",
+              "index": 72,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-51e7-08dd61d0bdfc",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第六十三条",
+              "index": 73,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7564-08dd61d0bdfc",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第六十四条",
+              "index": 74,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-982c-08dd61d0bdfc",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第六十五条",
+              "index": 75,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c69f-08dd61d0bdfc",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第六十六条",
+              "index": 76,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ebfb-08dd61d0bdfc",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第六十七条",
+              "index": 77,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-103a-08dd61d0bdfd",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第六十八条",
+              "index": 78,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3463-08dd61d0bdfd",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第六十九条",
+              "index": 79,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-589e-08dd61d0bdfd",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第七十条",
+              "index": 80,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a777-08dd61d0bdfd",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第七十一条",
+              "index": 81,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cd96-08dd61d0bdfd",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第七十二条",
+              "index": 82,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f18b-08dd61d0bdfd",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第七十三条",
+              "index": 83,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-16b1-08dd61d0bdfe",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第七十四条",
+              "index": 84,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3a66-08dd61d0bdfe",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第七十五条",
+              "index": 85,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5dae-08dd61d0bdfe",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第七十六条",
+              "index": 86,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8260-08dd61d0bdfe",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第七十七条",
+              "index": 87,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a5ed-08dd61d0bdfe",
+              "parentId": "79890000-3e3b-0016-a50d-08dd61d0bdfb",
+              "title": "第七十八条",
+              "index": 88,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第六章 期货交易场所",
+          "index": 89,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-ee95-08dd61d0bdfe",
+              "parentId": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+              "title": "第七十九条",
+              "index": 90,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1f51-08dd61d0bdff",
+              "parentId": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+              "title": "第八十条",
+              "index": 91,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5d16-08dd61d0bdff",
+              "parentId": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+              "title": "第八十一条",
+              "index": 92,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-81d3-08dd61d0bdff",
+              "parentId": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+              "title": "第八十二条",
+              "index": 93,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a5ba-08dd61d0bdff",
+              "parentId": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+              "title": "第八十三条",
+              "index": 94,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c9b7-08dd61d0bdff",
+              "parentId": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+              "title": "第八十四条",
+              "index": 95,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ed3a-08dd61d0bdff",
+              "parentId": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+              "title": "第八十五条",
+              "index": 96,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1232-08dd61d0be00",
+              "parentId": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+              "title": "第八十六条",
+              "index": 97,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3612-08dd61d0be00",
+              "parentId": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+              "title": "第八十七条",
+              "index": 98,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5b27-08dd61d0be00",
+              "parentId": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+              "title": "第八十八条",
+              "index": 99,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7fb2-08dd61d0be00",
+              "parentId": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+              "title": "第八十九条",
+              "index": 100,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a42b-08dd61d0be00",
+              "parentId": "79890000-3e3b-0016-cb0d-08dd61d0bdfe",
+              "title": "第九十条",
+              "index": 101,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-c866-08dd61d0be00",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第七章 期货结算机构",
+          "index": 102,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-ebeb-08dd61d0be00",
+              "parentId": "79890000-3e3b-0016-c866-08dd61d0be00",
+              "title": "第九十一条",
+              "index": 103,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-10ed-08dd61d0be01",
+              "parentId": "79890000-3e3b-0016-c866-08dd61d0be00",
+              "title": "第九十二条",
+              "index": 104,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-36ad-08dd61d0be01",
+              "parentId": "79890000-3e3b-0016-c866-08dd61d0be00",
+              "title": "第九十三条",
+              "index": 105,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5b45-08dd61d0be01",
+              "parentId": "79890000-3e3b-0016-c866-08dd61d0be00",
+              "title": "第九十四条",
+              "index": 106,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-84b3-08dd61d0be01",
+              "parentId": "79890000-3e3b-0016-c866-08dd61d0be00",
+              "title": "第九十五条",
+              "index": 107,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ad5e-08dd61d0be01",
+              "parentId": "79890000-3e3b-0016-c866-08dd61d0be00",
+              "title": "第九十六条",
+              "index": 108,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d36c-08dd61d0be01",
+              "parentId": "79890000-3e3b-0016-c866-08dd61d0be00",
+              "title": "第九十七条",
+              "index": 109,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-f9ce-08dd61d0be01",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第八章 期货服务机构",
+          "index": 110,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-1f32-08dd61d0be02",
+              "parentId": "79890000-3e3b-0016-f9ce-08dd61d0be01",
+              "title": "第九十八条",
+              "index": 111,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-44d7-08dd61d0be02",
+              "parentId": "79890000-3e3b-0016-f9ce-08dd61d0be01",
+              "title": "第九十九条",
+              "index": 112,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6a63-08dd61d0be02",
+              "parentId": "79890000-3e3b-0016-f9ce-08dd61d0be01",
+              "title": "第一百条",
+              "index": 113,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-be67-08dd61d0be02",
+              "parentId": "79890000-3e3b-0016-f9ce-08dd61d0be01",
+              "title": "第一百零一条",
+              "index": 114,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-e6f6-08dd61d0be02",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第九章 期货业协会",
+          "index": 115,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0d33-08dd61d0be03",
+              "parentId": "79890000-3e3b-0016-e6f6-08dd61d0be02",
+              "title": "第一百零二条",
+              "index": 116,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3414-08dd61d0be03",
+              "parentId": "79890000-3e3b-0016-e6f6-08dd61d0be02",
+              "title": "第一百零三条",
+              "index": 117,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5ab5-08dd61d0be03",
+              "parentId": "79890000-3e3b-0016-e6f6-08dd61d0be02",
+              "title": "第一百零四条",
+              "index": 118,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-81ec-08dd61d0be03",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第十章 监督管理",
+          "index": 119,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a822-08dd61d0be03",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百零五条",
+              "index": 120,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d053-08dd61d0be03",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百零六条",
+              "index": 121,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fd30-08dd61d0be03",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百零七条",
+              "index": 122,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-24f5-08dd61d0be04",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百零八条",
+              "index": 123,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4c21-08dd61d0be04",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百零九条",
+              "index": 124,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-73ff-08dd61d0be04",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百一十条",
+              "index": 125,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9b8c-08dd61d0be04",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百一十一条",
+              "index": 126,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c2d3-08dd61d0be04",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百一十二条",
+              "index": 127,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-eaef-08dd61d0be04",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百一十三条",
+              "index": 128,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-127b-08dd61d0be05",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百一十四条",
+              "index": 129,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3b26-08dd61d0be05",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百一十五条",
+              "index": 130,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-638a-08dd61d0be05",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百一十六条",
+              "index": 131,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8cc7-08dd61d0be05",
+              "parentId": "79890000-3e3b-0016-81ec-08dd61d0be03",
+              "title": "第一百一十七条",
+              "index": 132,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-b4b9-08dd61d0be05",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第十一章 跨境交易与监管协作",
+          "index": 133,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-dcbc-08dd61d0be05",
+              "parentId": "79890000-3e3b-0016-b4b9-08dd61d0be05",
+              "title": "第一百一十八条",
+              "index": 134,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0503-08dd61d0be06",
+              "parentId": "79890000-3e3b-0016-b4b9-08dd61d0be05",
+              "title": "第一百一十九条",
+              "index": 135,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2d19-08dd61d0be06",
+              "parentId": "79890000-3e3b-0016-b4b9-08dd61d0be05",
+              "title": "第一百二十条",
+              "index": 136,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-591b-08dd61d0be06",
+              "parentId": "79890000-3e3b-0016-b4b9-08dd61d0be05",
+              "title": "第一百二十一条",
+              "index": 137,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-80a7-08dd61d0be06",
+              "parentId": "79890000-3e3b-0016-b4b9-08dd61d0be05",
+              "title": "第一百二十二条",
+              "index": 138,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a81e-08dd61d0be06",
+              "parentId": "79890000-3e3b-0016-b4b9-08dd61d0be05",
+              "title": "第一百二十三条",
+              "index": 139,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cf9f-08dd61d0be06",
+              "parentId": "79890000-3e3b-0016-b4b9-08dd61d0be05",
+              "title": "第一百二十四条",
+              "index": 140,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-f708-08dd61d0be06",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第十二章 法律责任",
+          "index": 141,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-1df6-08dd61d0be07",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百二十五条",
+              "index": 142,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4599-08dd61d0be07",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百二十六条",
+              "index": 143,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6d62-08dd61d0be07",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百二十七条",
+              "index": 144,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9566-08dd61d0be07",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百二十八条",
+              "index": 145,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bd50-08dd61d0be07",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百二十九条",
+              "index": 146,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e506-08dd61d0be07",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百三十条",
+              "index": 147,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3d31-08dd61d0be08",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百三十一条",
+              "index": 148,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-67c3-08dd61d0be08",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百三十二条",
+              "index": 149,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9035-08dd61d0be08",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百三十三条",
+              "index": 150,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bdf0-08dd61d0be08",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百三十四条",
+              "index": 151,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e89a-08dd61d0be08",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百三十五条",
+              "index": 152,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1292-08dd61d0be09",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百三十六条",
+              "index": 153,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3b96-08dd61d0be09",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百三十七条",
+              "index": 154,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-650b-08dd61d0be09",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百三十八条",
+              "index": 155,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8dc2-08dd61d0be09",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百三十九条",
+              "index": 156,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b6c5-08dd61d0be09",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百四十条",
+              "index": 157,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dfe2-08dd61d0be09",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百四十一条",
+              "index": 158,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-08fe-08dd61d0be0a",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百四十二条",
+              "index": 159,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-327c-08dd61d0be0a",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百四十三条",
+              "index": 160,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5b9e-08dd61d0be0a",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百四十四条",
+              "index": 161,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8585-08dd61d0be0a",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百四十五条",
+              "index": 162,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-afc2-08dd61d0be0a",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百四十六条",
+              "index": 163,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-da1c-08dd61d0be0a",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百四十七条",
+              "index": 164,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0ab7-08dd61d0be0b",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百四十八条",
+              "index": 165,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3618-08dd61d0be0b",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百四十九条",
+              "index": 166,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6094-08dd61d0be0b",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百五十条",
+              "index": 167,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8a88-08dd61d0be0b",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百五十一条",
+              "index": 168,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b43b-08dd61d0be0b",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百五十二条",
+              "index": 169,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-de09-08dd61d0be0b",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百五十三条",
+              "index": 170,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0825-08dd61d0be0c",
+              "parentId": "79890000-3e3b-0016-f708-08dd61d0be06",
+              "title": "第一百五十四条",
+              "index": 171,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-321f-08dd61d0be0c",
+          "parentId": "79890000-3e3b-0016-fbe0-08dd61d0bdf2",
+          "title": "第十三章 附则",
+          "index": 172,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5c1b-08dd61d0be0c",
+              "parentId": "79890000-3e3b-0016-321f-08dd61d0be0c",
+              "title": "第一百五十五条",
+              "index": 173,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:30:05"
+}

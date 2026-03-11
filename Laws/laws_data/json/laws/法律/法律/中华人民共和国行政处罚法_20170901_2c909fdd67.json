@@ -1,0 +1,605 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf86fa90a7d",
+  "title": "中华人民共和国行政处罚法",
+  "gbrq": "2017-09-01",
+  "sxrq": "2018-01-01",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "法律",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf86fa90a7d",
+    "ossFile": {
+      "ossWordPath": "prod/20170901/f83721ba6cf44424b6d34dee4f3e8dd5.docx",
+      "ossWordOfdPath": "prod/20170901/f83721ba6cf44424b6d34dee4f3e8dd5.ofd",
+      "ossWordOfdSize": 152234,
+      "ossPdfPath": "prod/20170901/611b4cdef7d44d51bb625ffad05a4d5e.pdf",
+      "ossPdfOfdPath": "prod/20170901/611b4cdef7d44d51bb625ffad05a4d5e.ofd",
+      "ossPdfOfdSize": 3875177
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8080817703add20177373df6a43e33",
+        "title": "中华人民共和国行政处罚法",
+        "gbrq": "2021-01-22",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf86fa90a7d",
+        "title": "中华人民共和国行政处罚法",
+        "gbrq": "2017-09-01",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "2017-09-01",
+    "sxrq": "2018-01-01",
+    "title": "中华人民共和国行政处罚法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-6d39-08dd684cdb96",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国行政处罚法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-6dc2-08dd684cdb96",
+          "parentId": "79890000-3e3b-0016-6d39-08dd684cdb96",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-6e27-08dd684cdb96",
+          "parentId": "79890000-3e3b-0016-6d39-08dd684cdb96",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-7fcc-08dd684cdb96",
+          "parentId": "79890000-3e3b-0016-6d39-08dd684cdb96",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-8f4d-08dd684cdb96",
+              "parentId": "79890000-3e3b-0016-7fcc-08dd684cdb96",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9fd4-08dd684cdb96",
+              "parentId": "79890000-3e3b-0016-7fcc-08dd684cdb96",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b08c-08dd684cdb96",
+              "parentId": "79890000-3e3b-0016-7fcc-08dd684cdb96",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c0c5-08dd684cdb96",
+              "parentId": "79890000-3e3b-0016-7fcc-08dd684cdb96",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d09b-08dd684cdb96",
+              "parentId": "79890000-3e3b-0016-7fcc-08dd684cdb96",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-df48-08dd684cdb96",
+              "parentId": "79890000-3e3b-0016-7fcc-08dd684cdb96",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-eea9-08dd684cdb96",
+              "parentId": "79890000-3e3b-0016-7fcc-08dd684cdb96",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-037c-08dd684cdb97",
+          "parentId": "79890000-3e3b-0016-6d39-08dd684cdb96",
+          "title": "第二章 行政处罚的种类和设定",
+          "index": 11,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-1e53-08dd684cdb97",
+              "parentId": "79890000-3e3b-0016-037c-08dd684cdb97",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3376-08dd684cdb97",
+              "parentId": "79890000-3e3b-0016-037c-08dd684cdb97",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4580-08dd684cdb97",
+              "parentId": "79890000-3e3b-0016-037c-08dd684cdb97",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-56a0-08dd684cdb97",
+              "parentId": "79890000-3e3b-0016-037c-08dd684cdb97",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-68ce-08dd684cdb97",
+              "parentId": "79890000-3e3b-0016-037c-08dd684cdb97",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7cc7-08dd684cdb97",
+              "parentId": "79890000-3e3b-0016-037c-08dd684cdb97",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-af92-08dd684cdb97",
+              "parentId": "79890000-3e3b-0016-037c-08dd684cdb97",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-c1d5-08dd684cdb97",
+          "parentId": "79890000-3e3b-0016-6d39-08dd684cdb96",
+          "title": "第三章 行政处罚的实施机关",
+          "index": 19,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-d1f3-08dd684cdb97",
+              "parentId": "79890000-3e3b-0016-c1d5-08dd684cdb97",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e2c2-08dd684cdb97",
+              "parentId": "79890000-3e3b-0016-c1d5-08dd684cdb97",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f322-08dd684cdb97",
+              "parentId": "79890000-3e3b-0016-c1d5-08dd684cdb97",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-03b6-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-c1d5-08dd684cdb97",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1447-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-c1d5-08dd684cdb97",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-259f-08dd684cdb98",
+          "parentId": "79890000-3e3b-0016-6d39-08dd684cdb96",
+          "title": "第四章 行政处罚的管辖和适用",
+          "index": 25,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-35c4-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-259f-08dd684cdb98",
+              "title": "第二十条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-461c-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-259f-08dd684cdb98",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-56e5-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-259f-08dd684cdb98",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6776-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-259f-08dd684cdb98",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-78af-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-259f-08dd684cdb98",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-898a-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-259f-08dd684cdb98",
+              "title": "第二十五条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9a3e-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-259f-08dd684cdb98",
+              "title": "第二十六条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ab47-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-259f-08dd684cdb98",
+              "title": "第二十七条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bd3c-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-259f-08dd684cdb98",
+              "title": "第二十八条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cf10-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-259f-08dd684cdb98",
+              "title": "第二十九条",
+              "index": 35,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-e018-08dd684cdb98",
+          "parentId": "79890000-3e3b-0016-6d39-08dd684cdb96",
+          "title": "第五章 行政处罚的决定",
+          "index": 36,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-f123-08dd684cdb98",
+              "parentId": "79890000-3e3b-0016-e018-08dd684cdb98",
+              "title": "第三十条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0279-08dd684cdb99",
+              "parentId": "79890000-3e3b-0016-e018-08dd684cdb98",
+              "title": "第三十一条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1416-08dd684cdb99",
+              "parentId": "79890000-3e3b-0016-e018-08dd684cdb98",
+              "title": "第三十二条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-25cd-08dd684cdb99",
+              "parentId": "79890000-3e3b-0016-e018-08dd684cdb98",
+              "title": "第一节 简易程序",
+              "index": 40,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-36ec-08dd684cdb99",
+                  "parentId": "79890000-3e3b-0016-25cd-08dd684cdb99",
+                  "title": "第三十三条",
+                  "index": 41,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-48cf-08dd684cdb99",
+                  "parentId": "79890000-3e3b-0016-25cd-08dd684cdb99",
+                  "title": "第三十四条",
+                  "index": 42,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-5da2-08dd684cdb99",
+                  "parentId": "79890000-3e3b-0016-25cd-08dd684cdb99",
+                  "title": "第三十五条",
+                  "index": 43,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "79890000-3e3b-0016-723a-08dd684cdb99",
+              "parentId": "79890000-3e3b-0016-e018-08dd684cdb98",
+              "title": "第二节 一般程序",
+              "index": 44,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-845d-08dd684cdb99",
+                  "parentId": "79890000-3e3b-0016-723a-08dd684cdb99",
+                  "title": "第三十六条",
+                  "index": 45,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-9681-08dd684cdb99",
+                  "parentId": "79890000-3e3b-0016-723a-08dd684cdb99",
+                  "title": "第三十七条",
+                  "index": 46,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-a899-08dd684cdb99",
+                  "parentId": "79890000-3e3b-0016-723a-08dd684cdb99",
+                  "title": "第三十八条",
+                  "index": 47,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-bc6c-08dd684cdb99",
+                  "parentId": "79890000-3e3b-0016-723a-08dd684cdb99",
+                  "title": "第三十九条",
+                  "index": 48,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-cfc8-08dd684cdb99",
+                  "parentId": "79890000-3e3b-0016-723a-08dd684cdb99",
+                  "title": "第四十条",
+                  "index": 49,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-e260-08dd684cdb99",
+                  "parentId": "79890000-3e3b-0016-723a-08dd684cdb99",
+                  "title": "第四十一条",
+                  "index": 50,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "79890000-3e3b-0016-f3ec-08dd684cdb99",
+              "parentId": "79890000-3e3b-0016-e018-08dd684cdb98",
+              "title": "第三节 听证程序",
+              "index": 51,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-05cd-08dd684cdb9a",
+                  "parentId": "79890000-3e3b-0016-f3ec-08dd684cdb99",
+                  "title": "第四十二条",
+                  "index": 52,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-19e9-08dd684cdb9a",
+                  "parentId": "79890000-3e3b-0016-f3ec-08dd684cdb99",
+                  "title": "第四十三条",
+                  "index": 53,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-2c7c-08dd684cdb9a",
+          "parentId": "79890000-3e3b-0016-6d39-08dd684cdb96",
+          "title": "第六章 行政处罚的执行",
+          "index": 54,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-3e3e-08dd684cdb9a",
+              "parentId": "79890000-3e3b-0016-2c7c-08dd684cdb9a",
+              "title": "第四十四条",
+              "index": 55,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-50cd-08dd684cdb9a",
+              "parentId": "79890000-3e3b-0016-2c7c-08dd684cdb9a",
+              "title": "第四十五条",
+              "index": 56,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6319-08dd684cdb9a",
+              "parentId": "79890000-3e3b-0016-2c7c-08dd684cdb9a",
+              "title": "第四十六条",
+              "index": 57,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7629-08dd684cdb9a",
+              "parentId": "79890000-3e3b-0016-2c7c-08dd684cdb9a",
+              "title": "第四十七条",
+              "index": 58,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-892b-08dd684cdb9a",
+              "parentId": "79890000-3e3b-0016-2c7c-08dd684cdb9a",
+              "title": "第四十八条",
+              "index": 59,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9c1a-08dd684cdb9a",
+              "parentId": "79890000-3e3b-0016-2c7c-08dd684cdb9a",
+              "title": "第四十九条",
+              "index": 60,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-aec0-08dd684cdb9a",
+              "parentId": "79890000-3e3b-0016-2c7c-08dd684cdb9a",
+              "title": "第五十条",
+              "index": 61,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c172-08dd684cdb9a",
+              "parentId": "79890000-3e3b-0016-2c7c-08dd684cdb9a",
+              "title": "第五十一条",
+              "index": 62,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d53e-08dd684cdb9a",
+              "parentId": "79890000-3e3b-0016-2c7c-08dd684cdb9a",
+              "title": "第五十二条",
+              "index": 63,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e81a-08dd684cdb9a",
+              "parentId": "79890000-3e3b-0016-2c7c-08dd684cdb9a",
+              "title": "第五十三条",
+              "index": 64,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fb4b-08dd684cdb9a",
+              "parentId": "79890000-3e3b-0016-2c7c-08dd684cdb9a",
+              "title": "第五十四条",
+              "index": 65,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-0e8b-08dd684cdb9b",
+          "parentId": "79890000-3e3b-0016-6d39-08dd684cdb96",
+          "title": "第七章 法律责任",
+          "index": 66,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-2191-08dd684cdb9b",
+              "parentId": "79890000-3e3b-0016-0e8b-08dd684cdb9b",
+              "title": "第五十五条",
+              "index": 67,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3611-08dd684cdb9b",
+              "parentId": "79890000-3e3b-0016-0e8b-08dd684cdb9b",
+              "title": "第五十六条",
+              "index": 68,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-499f-08dd684cdb9b",
+              "parentId": "79890000-3e3b-0016-0e8b-08dd684cdb9b",
+              "title": "第五十七条",
+              "index": 69,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5d45-08dd684cdb9b",
+              "parentId": "79890000-3e3b-0016-0e8b-08dd684cdb9b",
+              "title": "第五十八条",
+              "index": 70,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7176-08dd684cdb9b",
+              "parentId": "79890000-3e3b-0016-0e8b-08dd684cdb9b",
+              "title": "第五十九条",
+              "index": 71,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-84e7-08dd684cdb9b",
+              "parentId": "79890000-3e3b-0016-0e8b-08dd684cdb9b",
+              "title": "第六十条",
+              "index": 72,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-98b5-08dd684cdb9b",
+              "parentId": "79890000-3e3b-0016-0e8b-08dd684cdb9b",
+              "title": "第六十一条",
+              "index": 73,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-aca9-08dd684cdb9b",
+              "parentId": "79890000-3e3b-0016-0e8b-08dd684cdb9b",
+              "title": "第六十二条",
+              "index": 74,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-c5ae-08dd684cdb9b",
+          "parentId": "79890000-3e3b-0016-6d39-08dd684cdb96",
+          "title": "第八章 附则",
+          "index": 75,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-de08-08dd684cdb9b",
+              "parentId": "79890000-3e3b-0016-c5ae-08dd684cdb9b",
+              "title": "第六十三条",
+              "index": 76,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f2a2-08dd684cdb9b",
+              "parentId": "79890000-3e3b-0016-c5ae-08dd684cdb9b",
+              "title": "第六十四条",
+              "index": 77,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:38:41"
+}

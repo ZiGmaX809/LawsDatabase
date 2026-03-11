@@ -1,0 +1,79 @@
+{
+  "bbbs": "ff8081817dc68bb1017dda93f9a91e26",
+  "title": "中华人民共和国烟草专卖法实施条例",
+  "gbrq": "2021-11-10",
+  "sxrq": "2021-11-10",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081817dc68bb1017dda93f9a91e26",
+    "ossFile": {
+      "ossWordPath": "prod/20211110/5264162497b644fa8d78a68516448d68.docx",
+      "ossWordOfdPath": "prod/20211110/5264162497b644fa8d78a68516448d68.ofd",
+      "ossWordOfdSize": 136292,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a22132f018a6e37e7092325",
+        "title": "中华人民共和国烟草专卖法实施条例",
+        "gbrq": "2023-07-20",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8081817dc68bb1017dda93f9a91e26",
+        "title": "中华人民共和国烟草专卖法实施条例",
+        "gbrq": "2021-11-10",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40996b2a0510",
+        "title": "中华人民共和国烟草专卖法实施条例",
+        "gbrq": "2016-02-06",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081817d99a39f017dda9f7ba22be1",
+        "title": "中华人民共和国国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817d99a39f017dda9f99ef2be7",
+        "title": "国务院关于修改《中华人民共和国烟草专卖法实施条例》的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817d99a39f017dda9fa2b62be9",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2021-11-10",
+    "sxrq": "2021-11-10",
+    "title": "中华人民共和国烟草专卖法实施条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:07:53"
+}

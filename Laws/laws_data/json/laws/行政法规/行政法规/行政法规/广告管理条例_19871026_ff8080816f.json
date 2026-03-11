@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f41513f4421be",
+  "title": "广告管理条例",
+  "gbrq": "1987-10-26",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f41513f4421be",
+    "ossFile": {
+      "ossWordPath": "prod/19871026/9825111ab5394c71b3844c32f90c6506.docx",
+      "ossWordOfdPath": "prod/19871026/9825111ab5394c71b3844c32f90c6506.ofd",
+      "ossWordOfdSize": 88364,
+      "ossPdfPath": "prod/19871026/619bd1d288d440d09ad65665e31e528d.pdf",
+      "ossPdfOfdPath": "prod/19871026/619bd1d288d440d09ad65665e31e528d.ofd",
+      "ossPdfOfdSize": 3964095
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1987-10-26",
+    "sxrq": null,
+    "title": "广告管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:36:06"
+}

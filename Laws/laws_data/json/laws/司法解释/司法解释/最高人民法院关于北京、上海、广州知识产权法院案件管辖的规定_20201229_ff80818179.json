@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181799df6140179ac2750531acc",
+  "title": "最高人民法院关于北京、上海、广州知识产权法院案件管辖的规定",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799df6140179ac2750531acc",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/1eb6bcc845cc4c468d7812c4f4c6b4a3.docx",
+      "ossWordOfdPath": "prod/20201229/1eb6bcc845cc4c468d7812c4f4c6b4a3.ofd",
+      "ossWordOfdSize": 52139,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799df6140179ac2750531acc",
+        "title": "最高人民法院关于北京、上海、广州知识产权法院案件管辖的规定",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e45ffb0c10015ffb3f4ce501d1",
+        "title": "最高人民法院关于北京、上海、广州知识产权法院案件管辖的规定",
+        "gbrq": "2014-10-31",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179a8c0a40179b6d18a8c1182",
+        "title": "法释〔2020〕19号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179a8c0a40179b6d18ca01188",
+        "title": "法释〔2020〕19号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于北京、上海、广州知识产权法院案件管辖的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:05:42"
+}

@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f410bdd5f136c",
+  "title": "拘留所条例",
+  "gbrq": "2012-02-23",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f410bdd5f136c",
+    "ossFile": {
+      "ossWordPath": "prod/20120223/0a9ae75064834600a24331ad7c8bf174.docx",
+      "ossWordOfdPath": "prod/20120223/0a9ae75064834600a24331ad7c8bf174.ofd",
+      "ossWordOfdSize": 111040,
+      "ossPdfPath": "prod/20120223/20bc7dfa53f64b7ea47565b05e8aaf19.pdf",
+      "ossPdfOfdPath": "prod/20120223/20bc7dfa53f64b7ea47565b05e8aaf19.ofd",
+      "ossPdfOfdSize": 2027904
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2012-02-23",
+    "sxrq": null,
+    "title": "拘留所条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:23:48"
+}

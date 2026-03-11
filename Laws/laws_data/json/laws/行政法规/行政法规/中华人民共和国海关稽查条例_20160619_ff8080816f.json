@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f408989c003f9",
+  "title": "中华人民共和国海关稽查条例",
+  "gbrq": "2016-06-19",
+  "sxrq": "2016-10-01",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f408989c003f9",
+    "ossFile": {
+      "ossWordPath": "prod/20160619/49fe7438b36e4057a1d2d7a164f686ac.docx",
+      "ossWordOfdPath": "prod/20160619/49fe7438b36e4057a1d2d7a164f686ac.ofd",
+      "ossWordOfdSize": 120019,
+      "ossPdfPath": "prod/20160619/3547d131de3a4debaf0025062c4e4916.pdf",
+      "ossPdfOfdPath": "prod/20160619/3547d131de3a4debaf0025062c4e4916.ofd",
+      "ossPdfOfdSize": 4947012
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818180e0a61301811e3c59d51f3e",
+        "title": "中华人民共和国海关稽查条例",
+        "gbrq": "2022-03-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f408989c003f9",
+        "title": "中华人民共和国海关稽查条例",
+        "gbrq": "2016-06-19",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2016-06-19",
+    "sxrq": "2016-10-01",
+    "title": "中华人民共和国海关稽查条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:16:37"
+}

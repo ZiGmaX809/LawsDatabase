@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081818a21e8b2018b70da46271fe9",
+  "title": "第十四届全国人民代表大会常务委员会关于授权国务院提前下达部分新增地方政府债务限额的决定",
+  "gbrq": "2023-10-24",
+  "sxrq": "2023-10-24",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "ff8081818a21e8b2018b70da46271fe9",
+    "ossFile": {
+      "ossWordPath": "prod/20231024/207f9afba01542a784580bc81da2e8bd.docx",
+      "ossWordOfdPath": "prod/20231024/207f9afba01542a784580bc81da2e8bd.ofd",
+      "ossWordOfdSize": 58766,
+      "ossPdfPath": "prod/20231024/7c8b19eb1a6e4d069bf471ea53e2664f.pdf",
+      "ossPdfOfdPath": "prod/20231024/7c8b19eb1a6e4d069bf471ea53e2664f.ofd",
+      "ossPdfOfdSize": 682593
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a424b018d82f50c0602be",
+        "title": "关于提请审议授权提前下达部分新增地方政府债务限额的议案的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818c3ce31f018d5e169c715b9e",
+        "title": "关于提请审议授权提前下达部分新增地方政府债务限额的议案的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2023-10-24",
+    "sxrq": "2023-10-24",
+    "title": "第十四届全国人民代表大会常务委员会关于授权国务院提前下达部分新增地方政府债务限额的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:28:36"
+}

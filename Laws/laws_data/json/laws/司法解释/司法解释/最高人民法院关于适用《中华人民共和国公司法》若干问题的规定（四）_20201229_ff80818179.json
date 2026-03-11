@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181799df4000179ac08cb701145",
+  "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（四）",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799df4000179ac08cb701145",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/ad78745248654151a1123e4bd37b32f8.docx",
+      "ossWordOfdPath": "prod/20201229/ad78745248654151a1123e4bd37b32f8.ofd",
+      "ossWordOfdSize": 101330,
+      "ossPdfPath": "prod/20201229/b7900a6ff27b415bbbff4996374d800c.pdf",
+      "ossPdfOfdPath": "prod/20201229/b7900a6ff27b415bbbff4996374d800c.ofd",
+      "ossPdfOfdSize": 1886343
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799df4000179ac08cb701145",
+        "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（四）",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e45ffbbe41015ffc04f9dc03ea",
+        "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（四）",
+        "gbrq": "2017-08-25",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a424b018fed5478cc61ff",
+        "title": "法释〔2020〕18号公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818f197cf0018fed53dd356ac6",
+        "title": "最高人民法院关于修改《最高人民法院关于破产企业国有划拨土地使用权应否列入破产财产等问题的批复》等二十九件商事类司法解释的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（四）",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:05:39"
+}

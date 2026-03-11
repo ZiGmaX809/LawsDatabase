@@ -1,0 +1,49 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4052126a0314",
+  "title": "煤炭送货办法",
+  "gbrq": "1965-12-06",
+  "sxrq": "",
+  "sxx": 1,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4052126a0314",
+    "ossFile": {
+      "ossWordPath": "prod/19651206/11f6da5b4f1b4dfd97081477712b76ba.docx",
+      "ossWordOfdPath": "prod/19651206/11f6da5b4f1b4dfd97081477712b76ba.ofd",
+      "ossWordOfdSize": 121775,
+      "ossPdfPath": "prod/19651206/ff1f1dcc40ac429abdbcfebf6fe789f5.pdf",
+      "ossPdfOfdPath": "prod/19651206/ff1f1dcc40ac429abdbcfebf6fe789f5.ofd",
+      "ossPdfOfdSize": 2880653
+    },
+    "xgwj": [
+      {
+        "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a424b018ee666e0ca5782",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "废止决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1965-12-06",
+    "sxrq": null,
+    "title": "煤炭送货办法",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:36:18"
+}

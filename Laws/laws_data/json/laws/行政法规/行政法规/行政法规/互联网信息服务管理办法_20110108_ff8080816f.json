@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4118e47616f1",
+  "title": "互联网信息服务管理办法",
+  "gbrq": "2011-01-08",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4118e47616f1",
+    "ossFile": {
+      "ossWordPath": "prod/20110108/8c5294d993694e3fb874bf7a7be82ca1.docx",
+      "ossWordOfdPath": "prod/20110108/8c5294d993694e3fb874bf7a7be82ca1.ofd",
+      "ossWordOfdSize": 108550,
+      "ossPdfPath": "prod/20110108/12c9eaff627243f8997998783166bc2b.pdf",
+      "ossPdfOfdPath": "prod/20110108/12c9eaff627243f8997998783166bc2b.ofd",
+      "ossPdfOfdSize": 3128207
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a9938e883454",
+        "title": "互联网信息服务管理办法",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4118e47616f1",
+        "title": "互联网信息服务管理办法",
+        "gbrq": "2011-01-08",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2011-01-08",
+    "sxrq": null,
+    "title": "互联网信息服务管理办法",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:25:57"
+}

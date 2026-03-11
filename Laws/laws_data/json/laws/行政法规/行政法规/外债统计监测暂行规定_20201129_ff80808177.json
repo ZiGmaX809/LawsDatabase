@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff808081777d07c50177b849720f2c70",
+  "title": "外债统计监测暂行规定",
+  "gbrq": "2020-11-29",
+  "sxrq": "2020-11-29",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808081777d07c50177b849720f2c70",
+    "ossFile": {
+      "ossWordPath": "prod/20201129/5fd3c61637b244d0b3e312d5ba08b41c.docx",
+      "ossWordOfdPath": "prod/20201129/5fd3c61637b244d0b3e312d5ba08b41c.ofd",
+      "ossWordOfdSize": 77771,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d07c50177b849720f2c70",
+        "title": "外债统计监测暂行规定",
+        "gbrq": "2020-11-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f414c819020cf",
+        "title": "外债统计监测暂行规定",
+        "gbrq": "1987-08-26",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2020-11-29",
+    "sxrq": "2020-11-29",
+    "title": "外债统计监测暂行规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:08:45"
+}

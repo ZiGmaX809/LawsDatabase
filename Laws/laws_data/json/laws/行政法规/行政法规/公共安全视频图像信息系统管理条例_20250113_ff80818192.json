@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181927f127601960f9a6e1305fb",
+  "title": "公共安全视频图像信息系统管理条例",
+  "gbrq": "2025-01-13",
+  "sxrq": "2025-04-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181927f127601960f9a6e1305fb",
+    "ossFile": {
+      "ossWordPath": "prod/20250113/8c553bf19aad4483bba377507b9e23d6.docx",
+      "ossWordOfdPath": "prod/20250113/8c553bf19aad4483bba377507b9e23d6.ofd",
+      "ossWordOfdSize": 131528,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818195b1209d019610e3414614fe",
+        "title": "中华人民共和国国务院令第799号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818195b11013019610e37c561409",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-01-13",
+    "sxrq": "2025-04-01",
+    "title": "公共安全视频图像信息系统管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:21"
+}

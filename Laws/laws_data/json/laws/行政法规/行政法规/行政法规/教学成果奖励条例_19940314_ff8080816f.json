@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f412f10e61b91",
+  "title": "教学成果奖励条例",
+  "gbrq": "1994-03-14",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f412f10e61b91",
+    "ossFile": {
+      "ossWordPath": "prod/19940314/84fa28f9bba14c6a80b31504c655efbd.docx",
+      "ossWordOfdPath": "prod/19940314/84fa28f9bba14c6a80b31504c655efbd.ofd",
+      "ossWordOfdSize": 66971,
+      "ossPdfPath": "prod/19940314/e945ac8438314d32a21032fd62757fcf.pdf",
+      "ossPdfOfdPath": "prod/19940314/e945ac8438314d32a21032fd62757fcf.ofd",
+      "ossPdfOfdSize": 2128355
+    },
+    "xgwj": [
+      {
+        "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a9e61987362d",
+        "title": "教学成果奖励条例",
+        "gbrq": "2024-03-10",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f412f10e61b91",
+        "title": "教学成果奖励条例",
+        "gbrq": "1994-03-14",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1994-03-14",
+    "sxrq": null,
+    "title": "教学成果奖励条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:35:52"
+}

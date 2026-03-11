@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181799def980179ad228936148a",
+  "title": "最高人民法院关于审理注册商标、企业名称与在先权利冲突的民事纠纷案件若干问题的规定",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799def980179ad228936148a",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/41cb273f4b894565b4a7c332294b4197.docx",
+      "ossWordOfdPath": "prod/20201229/41cb273f4b894565b4a7c332294b4197.ofd",
+      "ossWordOfdSize": 45610,
+      "ossPdfPath": "prod/20201229/cc36172b543f4774a16aeb1df832aac5.pdf",
+      "ossPdfOfdPath": "prod/20201229/cc36172b543f4774a16aeb1df832aac5.ofd",
+      "ossPdfOfdSize": 412112
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799def980179ad228936148a",
+        "title": "最高人民法院关于审理注册商标、企业名称与在先权利冲突的民事纠纷案件若干问题的规定",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e46000e2790160015e0c28030c",
+        "title": "最高人民法院关于审理注册商标、企业名称与在先权利冲突的民事纠纷案件若干问题的规定",
+        "gbrq": "2008-02-18",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179a8c7550179b6db35431238",
+        "title": "法释〔2020〕19号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179a8c0a40179b6db36861227",
+        "title": "法释〔2020〕19号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于审理注册商标、企业名称与在先权利冲突的民事纠纷案件若干问题的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:52"
+}

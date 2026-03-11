@@ -1,0 +1,113 @@
+{
+  "bbbs": "f77ee28fe50241918f872785b51904f4",
+  "title": "中华人民共和国国家通用语言文字法",
+  "gbrq": "2025-12-27",
+  "sxrq": "2026-01-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "f77ee28fe50241918f872785b51904f4",
+    "ossFile": {
+      "ossWordPath": "prod/20251227/5036535b8e084dffb96aebc07a8a7ea3.docx",
+      "ossWordOfdPath": "prod/20251227/5036535b8e084dffb96aebc07a8a7ea3.ofd",
+      "ossWordOfdSize": 109036,
+      "ossPdfPath": "prod/20251227/2452472d807d4deda4a62ba3591ff4dd.pdf",
+      "ossPdfOfdPath": "prod/20251227/2452472d807d4deda4a62ba3591ff4dd.ofd",
+      "ossPdfOfdSize": 968424
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "f77ee28fe50241918f872785b51904f4",
+        "title": "中华人民共和国国家通用语言文字法",
+        "gbrq": "2025-12-27",
+        "highLight": true
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf60b4e0249",
+        "title": "中华人民共和国国家通用语言文字法",
+        "gbrq": "2000-10-31",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "70ee0dc4ecd0444e893042705def6295",
+        "title": "中华人民共和国主席令（第六十六号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "fab600d9db5e413e855a27412f0ed1a8",
+        "title": "中华人民共和国主席令（第六十六号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "4ceaee01bee648f996067068b50645f7",
+        "title": "关于《中华人民共和国国家通用语言文字法（修订草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "01cbbfea007f466d8f2432eddb24bdb0",
+        "title": "关于《中华人民共和国国家通用语言文字法（修订草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "506a5e0521044522934d8c4d657906d0",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国国家通用语言文字法（修订草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "160aa2716a5c466dac5b6d12117ad4db",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国国家通用语言文字法（修订草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "0cff99efc08e4fb58681f293bcf7942f",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国国家通用语言文字法（修订草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "0b7f2261c39d4da08e0b123f1186c2a5",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国国家通用语言文字法（修订草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2025-12-27",
+    "sxrq": "2026-01-01",
+    "title": "中华人民共和国国家通用语言文字法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:23:29"
+}

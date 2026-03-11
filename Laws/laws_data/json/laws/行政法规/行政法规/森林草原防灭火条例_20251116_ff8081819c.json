@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081819c230fa1019c455847f251c9",
+  "title": "森林草原防灭火条例",
+  "gbrq": "2025-11-16",
+  "sxrq": "2026-01-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819c230fa1019c455847f251c9",
+    "ossFile": {
+      "ossWordPath": "prod/20251116/f31cee9c0d714dc4b21f19f81b942126.docx",
+      "ossWordOfdPath": "prod/20251116/f31cee9c0d714dc4b21f19f81b942126.ofd",
+      "ossWordOfdSize": 170604,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "f1eb879279f64ac5a649b6524ef56292",
+        "title": "中华人民共和国国务院令第822号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "974fa2a6d8d24cefaddffb9c8171bbdd",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-11-16",
+    "sxrq": "2026-01-01",
+    "title": "森林草原防灭火条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:22"
+}

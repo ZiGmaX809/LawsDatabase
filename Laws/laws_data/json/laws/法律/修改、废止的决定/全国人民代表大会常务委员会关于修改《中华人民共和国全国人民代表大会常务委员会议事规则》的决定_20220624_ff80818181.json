@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff808181818ea404018194a42f770194",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国全国人民代表大会常务委员会议事规则》的决定",
+  "gbrq": "2022-06-24",
+  "sxrq": "2022-06-25",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff808181818ea404018194a42f770194",
+    "ossFile": {
+      "ossWordPath": "prod/20220624/b2b4497a823d4ebcac483ec9956c98c4.docx",
+      "ossWordOfdPath": "prod/20220624/b2b4497a823d4ebcac483ec9956c98c4.ofd",
+      "ossWordOfdSize": 111436,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf671c003ed",
+        "title": "中华人民共和国全国人民代表大会常务委员会议事规则"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2022-06-24",
+    "sxrq": "2022-06-25",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国全国人民代表大会常务委员会议事规则》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:30:03"
+}

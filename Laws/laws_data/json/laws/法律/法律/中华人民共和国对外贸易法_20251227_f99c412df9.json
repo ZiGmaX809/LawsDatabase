@@ -1,0 +1,119 @@
+{
+  "bbbs": "f99c412df98b4ea396d6709c78703111",
+  "title": "中华人民共和国对外贸易法",
+  "gbrq": "2025-12-27",
+  "sxrq": "2026-03-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "f99c412df98b4ea396d6709c78703111",
+    "ossFile": {
+      "ossWordPath": "prod/20251227/ac542a10edad45259027c63ff8c974d8.docx",
+      "ossWordOfdPath": "prod/20251227/ac542a10edad45259027c63ff8c974d8.ofd",
+      "ossWordOfdSize": 181456,
+      "ossPdfPath": "prod/20251227/95a61881f017472db0ebff94a69472ab.pdf",
+      "ossPdfOfdPath": "prod/20251227/95a61881f017472db0ebff94a69472ab.ofd",
+      "ossPdfOfdSize": 1025146
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "f99c412df98b4ea396d6709c78703111",
+        "title": "中华人民共和国对外贸易法",
+        "gbrq": "2025-12-27",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff808181865edc1401869b2623bf14a6",
+        "title": "中华人民共和国对外贸易法",
+        "gbrq": "2022-12-30",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf82d62095b",
+        "title": "中华人民共和国对外贸易法",
+        "gbrq": "2016-11-07",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "5aff26a0d0864b7199b8ec74915a7166",
+        "title": "中华人民共和国主席令（第六十七号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "378d4739c997445183683848f0febc81",
+        "title": "中华人民共和国主席令（第六十七号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "1dee6d6de22449e4b8fe18f46a0e8090",
+        "title": "关于《中华人民共和国对外贸易法（修订草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "7bfa3b42e1bd4a098a197039ed923bf6",
+        "title": "关于《中华人民共和国对外贸易法（修订草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "92780c7fe51d4ae396e0cbaa1dd55c91",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国对外贸易法（修订草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "422df27a97e847ad8695b6dee747335e",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国对外贸易法（修订草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "338546a677704858a5ebacd0e455d7a6",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国对外贸易法（修订草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "1fe77ab0571140dc804dba49e61ebbcf",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国对外贸易法（修订草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2025-12-27",
+    "sxrq": "2026-03-01",
+    "title": "中华人民共和国对外贸易法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:25:08"
+}

@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181927f0e7b0192949ff642357d",
+  "title": "烈士褒扬条例",
+  "gbrq": "2024-09-27",
+  "sxrq": "2025-01-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181927f0e7b0192949ff642357d",
+    "ossFile": {
+      "ossWordPath": "prod/20240927/823c59a1d3854d86be71747f6bf8f90a.docx",
+      "ossWordOfdPath": "prod/20240927/823c59a1d3854d86be71747f6bf8f90a.ofd",
+      "ossWordOfdSize": 193467,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181927f0e7b0192949ff642357d",
+        "title": "烈士褒扬条例",
+        "gbrq": "2024-09-27",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f413f689f1ec1",
+        "title": "烈士褒扬条例",
+        "gbrq": "2019-08-01",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff808181927b083b019294afc3f20b51",
+        "title": "中华人民共和国国务院令第791号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a019294b0002c0b27",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-09-27",
+    "sxrq": "2025-01-01",
+    "title": "烈士褒扬条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:04:34"
+}

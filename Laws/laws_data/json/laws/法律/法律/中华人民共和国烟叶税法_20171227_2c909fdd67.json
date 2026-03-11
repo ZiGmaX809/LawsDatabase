@@ -1,0 +1,119 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf88e4e0b1d",
+  "title": "中华人民共和国烟叶税法",
+  "gbrq": "2017-12-27",
+  "sxrq": "2018-07-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf88e4e0b1d",
+    "ossFile": {
+      "ossWordPath": "prod/20171227/5f25866807134f44a85f85d31813d2aa.docx",
+      "ossWordOfdPath": "prod/20171227/5f25866807134f44a85f85d31813d2aa.ofd",
+      "ossWordOfdSize": 37558,
+      "ossPdfPath": "prod/20171227/c91a60dda07144c38e7fd80faa8f3a15.pdf",
+      "ossPdfOfdPath": "prod/20171227/c91a60dda07144c38e7fd80faa8f3a15.ofd",
+      "ossPdfOfdSize": 308198
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2017-12-27",
+    "sxrq": "2018-07-01",
+    "title": "中华人民共和国烟叶税法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-d9b6-08dd66ac051c",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国烟叶税法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-da97-08dd66ac051c",
+          "parentId": "79890000-3e3b-0016-d9b6-08dd66ac051c",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-e513-08dd66ac051c",
+          "parentId": "79890000-3e3b-0016-d9b6-08dd66ac051c",
+          "title": "第一条",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-eec2-08dd66ac051c",
+          "parentId": "79890000-3e3b-0016-d9b6-08dd66ac051c",
+          "title": "第二条",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-f8d3-08dd66ac051c",
+          "parentId": "79890000-3e3b-0016-d9b6-08dd66ac051c",
+          "title": "第三条",
+          "index": 4,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-0257-08dd66ac051d",
+          "parentId": "79890000-3e3b-0016-d9b6-08dd66ac051c",
+          "title": "第四条",
+          "index": 5,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1093-08dd66ac051d",
+          "parentId": "79890000-3e3b-0016-d9b6-08dd66ac051c",
+          "title": "第五条",
+          "index": 6,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1dd6-08dd66ac051d",
+          "parentId": "79890000-3e3b-0016-d9b6-08dd66ac051c",
+          "title": "第六条",
+          "index": 7,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-2bba-08dd66ac051d",
+          "parentId": "79890000-3e3b-0016-d9b6-08dd66ac051c",
+          "title": "第七条",
+          "index": 8,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-38e4-08dd66ac051d",
+          "parentId": "79890000-3e3b-0016-d9b6-08dd66ac051c",
+          "title": "第八条",
+          "index": 9,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-473a-08dd66ac051d",
+          "parentId": "79890000-3e3b-0016-d9b6-08dd66ac051c",
+          "title": "第九条",
+          "index": 10,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-55c1-08dd66ac051d",
+          "parentId": "79890000-3e3b-0016-d9b6-08dd66ac051c",
+          "title": "第十条",
+          "index": 11,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:37:38"
+}

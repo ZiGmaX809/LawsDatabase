@@ -1,0 +1,470 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf78e01078f",
+  "title": "中华人民共和国枪支管理法",
+  "gbrq": "2015-04-24",
+  "sxrq": "2015-04-24",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf78e01078f",
+    "ossFile": {
+      "ossWordPath": "prod/20150424/71924e9d458c46dc9ebb2e855eeb5913.docx",
+      "ossWordOfdPath": "prod/20150424/71924e9d458c46dc9ebb2e855eeb5913.ofd",
+      "ossWordOfdSize": 139338,
+      "ossPdfPath": "prod/20150424/c2cbe3905a874c77bd536000e891a96c.pdf",
+      "ossPdfOfdPath": "prod/20150424/c2cbe3905a874c77bd536000e891a96c.ofd",
+      "ossPdfOfdSize": 3505010
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2015-04-24",
+    "sxrq": "2015-04-24",
+    "title": "中华人民共和国枪支管理法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-4717-08dd61d0bed2",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国枪支管理法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-478f-08dd61d0bed2",
+          "parentId": "79890000-3e3b-0016-4717-08dd61d0bed2",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-47f4-08dd61d0bed2",
+          "parentId": "79890000-3e3b-0016-4717-08dd61d0bed2",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-5781-08dd61d0bed2",
+          "parentId": "79890000-3e3b-0016-4717-08dd61d0bed2",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-666a-08dd61d0bed2",
+              "parentId": "79890000-3e3b-0016-5781-08dd61d0bed2",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-74cd-08dd61d0bed2",
+              "parentId": "79890000-3e3b-0016-5781-08dd61d0bed2",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8306-08dd61d0bed2",
+              "parentId": "79890000-3e3b-0016-5781-08dd61d0bed2",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-908d-08dd61d0bed2",
+              "parentId": "79890000-3e3b-0016-5781-08dd61d0bed2",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9d49-08dd61d0bed2",
+          "parentId": "79890000-3e3b-0016-4717-08dd61d0bed2",
+          "title": "第二章 枪支的配备和配置",
+          "index": 8,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-aa9d-08dd61d0bed2",
+              "parentId": "79890000-3e3b-0016-9d49-08dd61d0bed2",
+              "title": "第五条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b869-08dd61d0bed2",
+              "parentId": "79890000-3e3b-0016-9d49-08dd61d0bed2",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c669-08dd61d0bed2",
+              "parentId": "79890000-3e3b-0016-9d49-08dd61d0bed2",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d498-08dd61d0bed2",
+              "parentId": "79890000-3e3b-0016-9d49-08dd61d0bed2",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e214-08dd61d0bed2",
+              "parentId": "79890000-3e3b-0016-9d49-08dd61d0bed2",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-efe9-08dd61d0bed2",
+              "parentId": "79890000-3e3b-0016-9d49-08dd61d0bed2",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fe12-08dd61d0bed2",
+              "parentId": "79890000-3e3b-0016-9d49-08dd61d0bed2",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0bc4-08dd61d0bed3",
+              "parentId": "79890000-3e3b-0016-9d49-08dd61d0bed2",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-19ac-08dd61d0bed3",
+          "parentId": "79890000-3e3b-0016-4717-08dd61d0bed2",
+          "title": "第三章 枪支的制造和民用枪支的配售",
+          "index": 17,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-2782-08dd61d0bed3",
+              "parentId": "79890000-3e3b-0016-19ac-08dd61d0bed3",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-359f-08dd61d0bed3",
+              "parentId": "79890000-3e3b-0016-19ac-08dd61d0bed3",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4425-08dd61d0bed3",
+              "parentId": "79890000-3e3b-0016-19ac-08dd61d0bed3",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-734d-08dd61d0bed3",
+              "parentId": "79890000-3e3b-0016-19ac-08dd61d0bed3",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-846d-08dd61d0bed3",
+              "parentId": "79890000-3e3b-0016-19ac-08dd61d0bed3",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-93d5-08dd61d0bed3",
+              "parentId": "79890000-3e3b-0016-19ac-08dd61d0bed3",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a315-08dd61d0bed3",
+              "parentId": "79890000-3e3b-0016-19ac-08dd61d0bed3",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b1d1-08dd61d0bed3",
+              "parentId": "79890000-3e3b-0016-19ac-08dd61d0bed3",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c136-08dd61d0bed3",
+              "parentId": "79890000-3e3b-0016-19ac-08dd61d0bed3",
+              "title": "第二十一条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d00f-08dd61d0bed3",
+              "parentId": "79890000-3e3b-0016-19ac-08dd61d0bed3",
+              "title": "第二十二条",
+              "index": 27,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-def2-08dd61d0bed3",
+          "parentId": "79890000-3e3b-0016-4717-08dd61d0bed2",
+          "title": "第四章 枪支的日常管理",
+          "index": 28,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-ed71-08dd61d0bed3",
+              "parentId": "79890000-3e3b-0016-def2-08dd61d0bed3",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0169-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-def2-08dd61d0bed3",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1775-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-def2-08dd61d0bed3",
+              "title": "第二十五条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2848-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-def2-08dd61d0bed3",
+              "title": "第二十六条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3832-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-def2-08dd61d0bed3",
+              "title": "第二十七条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-47aa-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-def2-08dd61d0bed3",
+              "title": "第二十八条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-575e-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-def2-08dd61d0bed3",
+              "title": "第二十九条",
+              "index": 35,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-66fb-08dd61d0bed4",
+          "parentId": "79890000-3e3b-0016-4717-08dd61d0bed2",
+          "title": "第五章 枪支的运输",
+          "index": 36,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-7641-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-66fb-08dd61d0bed4",
+              "title": "第三十条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8689-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-66fb-08dd61d0bed4",
+              "title": "第三十一条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9649-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-66fb-08dd61d0bed4",
+              "title": "第三十二条",
+              "index": 39,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-a61b-08dd61d0bed4",
+          "parentId": "79890000-3e3b-0016-4717-08dd61d0bed2",
+          "title": "第六章 枪支的入境和出境",
+          "index": 40,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b5b5-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-a61b-08dd61d0bed4",
+              "title": "第三十三条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c5c3-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-a61b-08dd61d0bed4",
+              "title": "第三十四条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d647-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-a61b-08dd61d0bed4",
+              "title": "第三十五条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e64d-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-a61b-08dd61d0bed4",
+              "title": "第三十六条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f70d-08dd61d0bed4",
+              "parentId": "79890000-3e3b-0016-a61b-08dd61d0bed4",
+              "title": "第三十七条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-077d-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-a61b-08dd61d0bed4",
+              "title": "第三十八条",
+              "index": 46,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-17a3-08dd61d0bed5",
+          "parentId": "79890000-3e3b-0016-4717-08dd61d0bed2",
+          "title": "第七章 法律责任",
+          "index": 47,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-27a5-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-17a3-08dd61d0bed5",
+              "title": "第三十九条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3844-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-17a3-08dd61d0bed5",
+              "title": "第四十条",
+              "index": 49,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4a2a-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-17a3-08dd61d0bed5",
+              "title": "第四十一条",
+              "index": 50,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5b10-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-17a3-08dd61d0bed5",
+              "title": "第四十二条",
+              "index": 51,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6c2c-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-17a3-08dd61d0bed5",
+              "title": "第四十三条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7db5-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-17a3-08dd61d0bed5",
+              "title": "第四十四条",
+              "index": 53,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8fd1-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-17a3-08dd61d0bed5",
+              "title": "第四十五条",
+              "index": 54,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-a1d8-08dd61d0bed5",
+          "parentId": "79890000-3e3b-0016-4717-08dd61d0bed2",
+          "title": "第八章 附则",
+          "index": 55,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b4f1-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-a1d8-08dd61d0bed5",
+              "title": "第四十六条",
+              "index": 56,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c77d-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-a1d8-08dd61d0bed5",
+              "title": "第四十七条",
+              "index": 57,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-daa3-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-a1d8-08dd61d0bed5",
+              "title": "第四十八条",
+              "index": 58,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ed80-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-a1d8-08dd61d0bed5",
+              "title": "第四十九条",
+              "index": 59,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ff78-08dd61d0bed5",
+              "parentId": "79890000-3e3b-0016-a1d8-08dd61d0bed5",
+              "title": "第五十条",
+              "index": 60,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:41:51"
+}

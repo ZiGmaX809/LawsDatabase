@@ -1,0 +1,644 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf75eed06e5",
+  "title": "中华人民共和国商标法",
+  "gbrq": "2013-08-30",
+  "sxrq": "2014-05-01",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 120,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf75eed06e5",
+    "ossFile": {
+      "ossWordPath": "prod/20130830/e12b441384ce43cc9884313b45410e6e.docx",
+      "ossWordOfdPath": "prod/20130830/e12b441384ce43cc9884313b45410e6e.ofd",
+      "ossWordOfdSize": 186117,
+      "ossPdfPath": "prod/20130830/f1a1fe8b102047b7b8c6cb1771ef7f0a.pdf",
+      "ossPdfOfdPath": "prod/20130830/f1a1fe8b102047b7b8c6cb1771ef7f0a.ofd",
+      "ossPdfOfdSize": 6553358
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8080816f135f46016f217645451b35",
+        "title": "中华人民共和国商标法",
+        "gbrq": "2019-04-23",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf75eed06e5",
+        "title": "中华人民共和国商标法",
+        "gbrq": "2013-08-30",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2013-08-30",
+    "sxrq": "2014-05-01",
+    "title": "中华人民共和国商标法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-c239-08dd5a00a1e8",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国商标法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-c2bc-08dd5a00a1e8",
+          "parentId": "79890000-3e3b-0016-c239-08dd5a00a1e8",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c320-08dd5a00a1e8",
+          "parentId": "79890000-3e3b-0016-c239-08dd5a00a1e8",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+          "parentId": "79890000-3e3b-0016-c239-08dd5a00a1e8",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-f25e-08dd5a00a1e8",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0409-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-15c8-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-277a-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-382b-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4918-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6004-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-750d-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第八条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-870c-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第九条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9957-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第十条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ac5c-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第十一条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bf0d-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第十二条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d0fa-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第十三条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e3a5-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第十四条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f71a-08dd5a00a1e9",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第十五条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-09a7-08dd5a00a1ea",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第十六条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1c20-08dd5a00a1ea",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第十七条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2e8d-08dd5a00a1ea",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第十八条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4114-08dd5a00a1ea",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第十九条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5418-08dd5a00a1ea",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第二十条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6687-08dd5a00a1ea",
+              "parentId": "79890000-3e3b-0016-dbf3-08dd5a00a1e8",
+              "title": "第二十一条",
+              "index": 24,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-7944-08dd5a00a1ea",
+          "parentId": "79890000-3e3b-0016-c239-08dd5a00a1e8",
+          "title": "第二章 商标注册的申请",
+          "index": 25,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-8c06-08dd5a00a1ea",
+              "parentId": "79890000-3e3b-0016-7944-08dd5a00a1ea",
+              "title": "第二十二条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9f71-08dd5a00a1ea",
+              "parentId": "79890000-3e3b-0016-7944-08dd5a00a1ea",
+              "title": "第二十三条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b2d2-08dd5a00a1ea",
+              "parentId": "79890000-3e3b-0016-7944-08dd5a00a1ea",
+              "title": "第二十四条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c787-08dd5a00a1ea",
+              "parentId": "79890000-3e3b-0016-7944-08dd5a00a1ea",
+              "title": "第二十五条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dc54-08dd5a00a1ea",
+              "parentId": "79890000-3e3b-0016-7944-08dd5a00a1ea",
+              "title": "第二十六条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f140-08dd5a00a1ea",
+              "parentId": "79890000-3e3b-0016-7944-08dd5a00a1ea",
+              "title": "第二十七条",
+              "index": 31,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-0557-08dd5a00a1eb",
+          "parentId": "79890000-3e3b-0016-c239-08dd5a00a1e8",
+          "title": "第三章 商标注册的审查和核准",
+          "index": 32,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-1a1c-08dd5a00a1eb",
+              "parentId": "79890000-3e3b-0016-0557-08dd5a00a1eb",
+              "title": "第二十八条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2ed1-08dd5a00a1eb",
+              "parentId": "79890000-3e3b-0016-0557-08dd5a00a1eb",
+              "title": "第二十九条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-42d7-08dd5a00a1eb",
+              "parentId": "79890000-3e3b-0016-0557-08dd5a00a1eb",
+              "title": "第三十条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7938-08dd5a00a1eb",
+              "parentId": "79890000-3e3b-0016-0557-08dd5a00a1eb",
+              "title": "第三十一条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8ea2-08dd5a00a1eb",
+              "parentId": "79890000-3e3b-0016-0557-08dd5a00a1eb",
+              "title": "第三十二条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a2e9-08dd5a00a1eb",
+              "parentId": "79890000-3e3b-0016-0557-08dd5a00a1eb",
+              "title": "第三十三条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b9d8-08dd5a00a1eb",
+              "parentId": "79890000-3e3b-0016-0557-08dd5a00a1eb",
+              "title": "第三十四条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cf95-08dd5a00a1eb",
+              "parentId": "79890000-3e3b-0016-0557-08dd5a00a1eb",
+              "title": "第三十五条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e52b-08dd5a00a1eb",
+              "parentId": "79890000-3e3b-0016-0557-08dd5a00a1eb",
+              "title": "第三十六条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f947-08dd5a00a1eb",
+              "parentId": "79890000-3e3b-0016-0557-08dd5a00a1eb",
+              "title": "第三十七条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0ddb-08dd5a00a1ec",
+              "parentId": "79890000-3e3b-0016-0557-08dd5a00a1eb",
+              "title": "第三十八条",
+              "index": 43,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-21e5-08dd5a00a1ec",
+          "parentId": "79890000-3e3b-0016-c239-08dd5a00a1e8",
+          "title": "第四章 注册商标的续展、变更、转让和使用许可",
+          "index": 44,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-3678-08dd5a00a1ec",
+              "parentId": "79890000-3e3b-0016-21e5-08dd5a00a1ec",
+              "title": "第三十九条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4af2-08dd5a00a1ec",
+              "parentId": "79890000-3e3b-0016-21e5-08dd5a00a1ec",
+              "title": "第四十条",
+              "index": 46,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-606f-08dd5a00a1ec",
+              "parentId": "79890000-3e3b-0016-21e5-08dd5a00a1ec",
+              "title": "第四十一条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7525-08dd5a00a1ec",
+              "parentId": "79890000-3e3b-0016-21e5-08dd5a00a1ec",
+              "title": "第四十二条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8ad2-08dd5a00a1ec",
+              "parentId": "79890000-3e3b-0016-21e5-08dd5a00a1ec",
+              "title": "第四十三条",
+              "index": 49,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9fce-08dd5a00a1ec",
+          "parentId": "79890000-3e3b-0016-c239-08dd5a00a1e8",
+          "title": "第五章 注册商标的无效宣告",
+          "index": 50,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b44d-08dd5a00a1ec",
+              "parentId": "79890000-3e3b-0016-9fce-08dd5a00a1ec",
+              "title": "第四十四条",
+              "index": 51,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c9b7-08dd5a00a1ec",
+              "parentId": "79890000-3e3b-0016-9fce-08dd5a00a1ec",
+              "title": "第四十五条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-df59-08dd5a00a1ec",
+              "parentId": "79890000-3e3b-0016-9fce-08dd5a00a1ec",
+              "title": "第四十六条",
+              "index": 53,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f4e3-08dd5a00a1ec",
+              "parentId": "79890000-3e3b-0016-9fce-08dd5a00a1ec",
+              "title": "第四十七条",
+              "index": 54,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-0a13-08dd5a00a1ed",
+          "parentId": "79890000-3e3b-0016-c239-08dd5a00a1e8",
+          "title": "第六章 商标使用的管理",
+          "index": 55,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-1fcf-08dd5a00a1ed",
+              "parentId": "79890000-3e3b-0016-0a13-08dd5a00a1ed",
+              "title": "第四十八条",
+              "index": 56,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3567-08dd5a00a1ed",
+              "parentId": "79890000-3e3b-0016-0a13-08dd5a00a1ed",
+              "title": "第四十九条",
+              "index": 57,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4b47-08dd5a00a1ed",
+              "parentId": "79890000-3e3b-0016-0a13-08dd5a00a1ed",
+              "title": "第五十条",
+              "index": 58,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6136-08dd5a00a1ed",
+              "parentId": "79890000-3e3b-0016-0a13-08dd5a00a1ed",
+              "title": "第五十一条",
+              "index": 59,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-774d-08dd5a00a1ed",
+              "parentId": "79890000-3e3b-0016-0a13-08dd5a00a1ed",
+              "title": "第五十二条",
+              "index": 60,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8d99-08dd5a00a1ed",
+              "parentId": "79890000-3e3b-0016-0a13-08dd5a00a1ed",
+              "title": "第五十三条",
+              "index": 61,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a3f0-08dd5a00a1ed",
+              "parentId": "79890000-3e3b-0016-0a13-08dd5a00a1ed",
+              "title": "第五十四条",
+              "index": 62,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ba76-08dd5a00a1ed",
+              "parentId": "79890000-3e3b-0016-0a13-08dd5a00a1ed",
+              "title": "第五十五条",
+              "index": 63,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+          "parentId": "79890000-3e3b-0016-c239-08dd5a00a1e8",
+          "title": "第七章 注册商标专用权的保护",
+          "index": 64,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-e6bf-08dd5a00a1ed",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第五十六条",
+              "index": 65,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fcb3-08dd5a00a1ed",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第五十七条",
+              "index": 66,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1450-08dd5a00a1ee",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第五十八条",
+              "index": 67,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-323c-08dd5a00a1ee",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第五十九条",
+              "index": 68,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4959-08dd5a00a1ee",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第六十条",
+              "index": 69,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-60e8-08dd5a00a1ee",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第六十一条",
+              "index": 70,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7879-08dd5a00a1ee",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第六十二条",
+              "index": 71,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9094-08dd5a00a1ee",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第六十三条",
+              "index": 72,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a7d6-08dd5a00a1ee",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第六十四条",
+              "index": 73,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bef1-08dd5a00a1ee",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第六十五条",
+              "index": 74,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d6c0-08dd5a00a1ee",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第六十六条",
+              "index": 75,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-edef-08dd5a00a1ee",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第六十七条",
+              "index": 76,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0562-08dd5a00a1ef",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第六十八条",
+              "index": 77,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1e4f-08dd5a00a1ef",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第六十九条",
+              "index": 78,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-35fb-08dd5a00a1ef",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第七十条",
+              "index": 79,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4dd4-08dd5a00a1ef",
+              "parentId": "79890000-3e3b-0016-d0c7-08dd5a00a1ed",
+              "title": "第七十一条",
+              "index": 80,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-6567-08dd5a00a1ef",
+          "parentId": "79890000-3e3b-0016-c239-08dd5a00a1e8",
+          "title": "第八章 附则",
+          "index": 81,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-7ce8-08dd5a00a1ef",
+              "parentId": "79890000-3e3b-0016-6567-08dd5a00a1ef",
+              "title": "第七十二条",
+              "index": 82,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-953e-08dd5a00a1ef",
+              "parentId": "79890000-3e3b-0016-6567-08dd5a00a1ef",
+              "title": "第七十三条",
+              "index": 83,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:43:38"
+}

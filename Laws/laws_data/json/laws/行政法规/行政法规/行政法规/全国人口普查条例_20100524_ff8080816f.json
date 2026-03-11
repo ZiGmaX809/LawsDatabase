@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40ef0c4e0c2b",
+  "title": "全国人口普查条例",
+  "gbrq": "2010-05-24",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40ef0c4e0c2b",
+    "ossFile": {
+      "ossWordPath": "prod/20100524/bf5ec56732de474c89b84d567e4f27b0.docx",
+      "ossWordOfdPath": "prod/20100524/bf5ec56732de474c89b84d567e4f27b0.ofd",
+      "ossWordOfdSize": 128177,
+      "ossPdfPath": "prod/20100524/6f5293b357c34fcf9871618bfa927e4d.pdf",
+      "ossPdfOfdPath": "prod/20100524/6f5293b357c34fcf9871618bfa927e4d.ofd",
+      "ossPdfOfdSize": 2856358
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2010-05-24",
+    "sxrq": null,
+    "title": "全国人口普查条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:26:53"
+}

@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff8081817fd9834101805a41c57c7214",
+  "title": "中华人民共和国水下文物保护管理条例",
+  "gbrq": "2022-01-23",
+  "sxrq": "2022-04-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081817fd9834101805a41c57c7214",
+    "ossFile": {
+      "ossWordPath": "prod/20220123/1a4dc49ca9dc4c3eb6ac3f217a35a300.docx",
+      "ossWordOfdPath": "prod/20220123/1a4dc49ca9dc4c3eb6ac3f217a35a300.ofd",
+      "ossWordOfdSize": 109538,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081817fd9834101805a41c57c7214",
+        "title": "中华人民共和国水下文物保护管理条例",
+        "gbrq": "2022-01-23",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f41fa1903025d",
+        "title": "中华人民共和国水下文物保护管理条例",
+        "gbrq": "2011-01-08",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff808181804a1c5001805a6f50d8050b",
+        "title": "中华人民共和国国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181804a236a01805a6f4611045a",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2022-01-23",
+    "sxrq": "2022-04-01",
+    "title": "中华人民共和国水下文物保护管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:07:51"
+}

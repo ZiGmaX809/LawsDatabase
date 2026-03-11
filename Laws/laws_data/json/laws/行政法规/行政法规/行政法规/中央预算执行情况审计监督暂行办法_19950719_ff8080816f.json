@@ -1,0 +1,49 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4142b8e81f39",
+  "title": "中央预算执行情况审计监督暂行办法",
+  "gbrq": "1995-07-19",
+  "sxrq": "",
+  "sxx": 1,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4142b8e81f39",
+    "ossFile": {
+      "ossWordPath": "prod/19950719/b0a3f01011c14f86b8b3c4b97f1c083b.docx",
+      "ossWordOfdPath": "prod/19950719/b0a3f01011c14f86b8b3c4b97f1c083b.ofd",
+      "ossWordOfdSize": 75043,
+      "ossPdfPath": "prod/19950719/2f016d7143024f0bbcf9fef6c76f4304.pdf",
+      "ossPdfOfdPath": "prod/19950719/2f016d7143024f0bbcf9fef6c76f4304.ofd",
+      "ossPdfOfdSize": 3435458
+    },
+    "xgwj": [
+      {
+        "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a4464018ee235e05c5427",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "废止决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1995-07-19",
+    "sxrq": null,
+    "title": "中央预算执行情况审计监督暂行办法",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:33:07"
+}

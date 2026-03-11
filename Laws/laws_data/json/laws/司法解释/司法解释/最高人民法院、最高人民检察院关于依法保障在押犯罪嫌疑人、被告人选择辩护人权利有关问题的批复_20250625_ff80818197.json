@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff80818197ef49f7019806ef717e4103",
+  "title": "最高人民法院、最高人民检察院关于依法保障在押犯罪嫌疑人、被告人选择辩护人权利有关问题的批复",
+  "gbrq": "2025-06-25",
+  "sxrq": "2025-06-27",
+  "sxx": 3,
+  "zdjgName": "最高人民法院、最高人民检察院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 160,
+  "flfgCodeId": 340,
+  "detail": {
+    "bbbs": "ff80818197ef49f7019806ef717e4103",
+    "ossFile": {
+      "ossWordPath": "prod/20250625/8304a34db2a04295b3f7e6ebbdfc0860.docx",
+      "ossWordOfdPath": "prod/20250625/8304a34db2a04295b3f7e6ebbdfc0860.ofd",
+      "ossWordOfdSize": 49161,
+      "ossPdfPath": "prod/20250625/6d2eb6a81212409aa6403106a8f607e9.pdf",
+      "ossPdfOfdPath": "prod/20250625/6d2eb6a81212409aa6403106a8f607e9.ofd",
+      "ossPdfOfdSize": 237670
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181966737700198175e02fe0b6f",
+        "title": "法释2025-9公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819879212301998e434f7b7958",
+        "title": "法释2025-9公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院、最高人民检察院",
+    "gbrq": "2025-06-25",
+    "sxrq": "2025-06-27",
+    "title": "最高人民法院、最高人民检察院关于依法保障在押犯罪嫌疑人、被告人选择辩护人权利有关问题的批复",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:25"
+}

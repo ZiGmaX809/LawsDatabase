@@ -1,0 +1,60 @@
+{
+  "bbbs": "ff8081818d736dae018dc5182f306c14",
+  "title": "中华人民共和国专利法实施细则",
+  "gbrq": "2023-12-11",
+  "sxrq": "2024-01-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818d736dae018dc5182f306c14",
+    "ossFile": {
+      "ossWordPath": "prod/20231211/5769be61ba1d44b5b68bdef7f4832ebd.docx",
+      "ossWordOfdPath": "prod/20231211/5769be61ba1d44b5b68bdef7f4832ebd.ofd",
+      "ossWordOfdSize": 260636,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a4464018de0fe70de1075",
+        "title": "中华人民共和国国务院令第769号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4464018de0fe5a901073",
+        "title": "国务院关于修改《中华人民共和国专利法实施细则》的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b018de0fe81e61085",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-12-11",
+    "sxrq": "2024-01-20",
+    "title": "中华人民共和国专利法实施细则",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:05:57"
+}

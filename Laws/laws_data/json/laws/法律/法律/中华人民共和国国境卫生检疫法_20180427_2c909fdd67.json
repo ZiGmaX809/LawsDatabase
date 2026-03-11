@@ -1,0 +1,306 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf8a5c90b63",
+  "title": "中华人民共和国国境卫生检疫法",
+  "gbrq": "2018-04-27",
+  "sxrq": "2018-04-27",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf8a5c90b63",
+    "ossFile": {
+      "ossWordPath": "prod/20180427/3e33b88e009845a5bbffec041e7dc7fa.docx",
+      "ossWordOfdPath": "prod/20180427/3e33b88e009845a5bbffec041e7dc7fa.ofd",
+      "ossWordOfdSize": 109651,
+      "ossPdfPath": "prod/20180427/b7f877570aa7440088e722e2f9bd8677.pdf",
+      "ossPdfOfdPath": "prod/20180427/b7f877570aa7440088e722e2f9bd8677.ofd",
+      "ossPdfOfdSize": 1625844
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818d6a463901905f1d7ca72d2d",
+        "title": "中华人民共和国国境卫生检疫法",
+        "gbrq": "2024-06-28",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf8a5c90b63",
+        "title": "中华人民共和国国境卫生检疫法",
+        "gbrq": "2018-04-27",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2018-04-27",
+    "sxrq": "2018-04-27",
+    "title": "中华人民共和国国境卫生检疫法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-8476-08dd5a00a1b4",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国国境卫生检疫法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-84f9-08dd5a00a1b4",
+          "parentId": "79890000-3e3b-0016-8476-08dd5a00a1b4",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-8555-08dd5a00a1b4",
+          "parentId": "79890000-3e3b-0016-8476-08dd5a00a1b4",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-921a-08dd5a00a1b4",
+          "parentId": "79890000-3e3b-0016-8476-08dd5a00a1b4",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9dea-08dd5a00a1b4",
+              "parentId": "79890000-3e3b-0016-921a-08dd5a00a1b4",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ab41-08dd5a00a1b4",
+              "parentId": "79890000-3e3b-0016-921a-08dd5a00a1b4",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b89a-08dd5a00a1b4",
+              "parentId": "79890000-3e3b-0016-921a-08dd5a00a1b4",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c3d8-08dd5a00a1b4",
+              "parentId": "79890000-3e3b-0016-921a-08dd5a00a1b4",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ce56-08dd5a00a1b4",
+              "parentId": "79890000-3e3b-0016-921a-08dd5a00a1b4",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d931-08dd5a00a1b4",
+              "parentId": "79890000-3e3b-0016-921a-08dd5a00a1b4",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-e40f-08dd5a00a1b4",
+          "parentId": "79890000-3e3b-0016-8476-08dd5a00a1b4",
+          "title": "第二章 检疫",
+          "index": 10,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-eeb0-08dd5a00a1b4",
+              "parentId": "79890000-3e3b-0016-e40f-08dd5a00a1b4",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f975-08dd5a00a1b4",
+              "parentId": "79890000-3e3b-0016-e40f-08dd5a00a1b4",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0439-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-e40f-08dd5a00a1b4",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0f52-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-e40f-08dd5a00a1b4",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1a39-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-e40f-08dd5a00a1b4",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2574-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-e40f-08dd5a00a1b4",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-30f0-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-e40f-08dd5a00a1b4",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3d1e-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-e40f-08dd5a00a1b4",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-48ae-08dd5a00a1b5",
+          "parentId": "79890000-3e3b-0016-8476-08dd5a00a1b4",
+          "title": "第三章 传染病监测",
+          "index": 19,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-76a9-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-48ae-08dd5a00a1b5",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-853d-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-48ae-08dd5a00a1b5",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-91e9-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-48ae-08dd5a00a1b5",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9d7d-08dd5a00a1b5",
+          "parentId": "79890000-3e3b-0016-8476-08dd5a00a1b4",
+          "title": "第四章 卫生监督",
+          "index": 23,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a981-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-9d7d-08dd5a00a1b5",
+              "title": "第十八条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b693-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-9d7d-08dd5a00a1b5",
+              "title": "第十九条",
+              "index": 25,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-c2d9-08dd5a00a1b5",
+          "parentId": "79890000-3e3b-0016-8476-08dd5a00a1b4",
+          "title": "第五章 法律责任",
+          "index": 26,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-cf0c-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-c2d9-08dd5a00a1b5",
+              "title": "第二十条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dc34-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-c2d9-08dd5a00a1b5",
+              "title": "第二十一条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e807-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-c2d9-08dd5a00a1b5",
+              "title": "第二十二条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f467-08dd5a00a1b5",
+              "parentId": "79890000-3e3b-0016-c2d9-08dd5a00a1b5",
+              "title": "第二十三条",
+              "index": 30,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-0114-08dd5a00a1b6",
+          "parentId": "79890000-3e3b-0016-8476-08dd5a00a1b4",
+          "title": "第六章 附则",
+          "index": 31,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0cdf-08dd5a00a1b6",
+              "parentId": "79890000-3e3b-0016-0114-08dd5a00a1b6",
+              "title": "第二十四条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1947-08dd5a00a1b6",
+              "parentId": "79890000-3e3b-0016-0114-08dd5a00a1b6",
+              "title": "第二十五条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-25d1-08dd5a00a1b6",
+              "parentId": "79890000-3e3b-0016-0114-08dd5a00a1b6",
+              "title": "第二十六条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3295-08dd5a00a1b6",
+              "parentId": "79890000-3e3b-0016-0114-08dd5a00a1b6",
+              "title": "第二十七条",
+              "index": 35,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:37:23"
+}

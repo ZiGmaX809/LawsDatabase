@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f415ae2522314",
+  "title": "民用航空运输不定期飞行管理暂行规定",
+  "gbrq": "1989-03-02",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f415ae2522314",
+    "ossFile": {
+      "ossWordPath": "prod/19890302/9ddf3ffd047f4dcdb51a3f0e3113b0b3.docx",
+      "ossWordOfdPath": "prod/19890302/9ddf3ffd047f4dcdb51a3f0e3113b0b3.ofd",
+      "ossWordOfdSize": 63053,
+      "ossPdfPath": "prod/19890302/5fefdfdfaa914aac9035540e30afb952.pdf",
+      "ossPdfOfdPath": "prod/19890302/5fefdfdfaa914aac9035540e30afb952.ofd",
+      "ossPdfOfdSize": 3064975
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a8baf06a329c",
+        "title": "民用航空运输不定期飞行管理暂行规定",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f415ae2522314",
+        "title": "民用航空运输不定期飞行管理暂行规定",
+        "gbrq": "1989-03-02",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1989-03-02",
+    "sxrq": null,
+    "title": "民用航空运输不定期飞行管理暂行规定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:36:03"
+}

@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3e98bd016f424db73c049c",
+  "title": "军服管理条例",
+  "gbrq": "2009-01-13",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f424db73c049c",
+    "ossFile": {
+      "ossWordPath": "prod/20090113/87ebecaa22164fedb4459061a9df2e9a.docx",
+      "ossWordOfdPath": "prod/20090113/87ebecaa22164fedb4459061a9df2e9a.ofd",
+      "ossWordOfdSize": 91518,
+      "ossPdfPath": "prod/20090113/5bf748cf6333410887dd531652fdfaa5.pdf",
+      "ossPdfOfdPath": "prod/20090113/5bf748cf6333410887dd531652fdfaa5.ofd",
+      "ossPdfOfdSize": 2839056
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2009-01-13",
+    "sxrq": null,
+    "title": "军服管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:27:23"
+}

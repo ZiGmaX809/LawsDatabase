@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff8081818a1cb709018acf819b8f452f",
+  "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（一）",
+  "gbrq": "2014-02-20",
+  "sxrq": "2014-03-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081818a1cb709018acf819b8f452f",
+    "ossFile": {
+      "ossWordPath": "prod/20140220/91c3cf5a58824ccfbea8e1fca9e468bc.docx",
+      "ossWordOfdPath": "prod/20140220/91c3cf5a58824ccfbea8e1fca9e468bc.ofd",
+      "ossWordOfdSize": 47051,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a1cb709018acf819b8f452f",
+        "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（一）",
+        "gbrq": "2014-02-20",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e45ffbbe41015ffbfe45e1037d",
+        "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（一）",
+        "gbrq": "2006-04-28",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21e6c3018ad108853629c1",
+        "title": "最高人民法院关于修改《关于适用〈中华人民共和国公司法〉若干问题的规定》的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21dc13018acfbb096f280f",
+        "title": "法释〔2014〕2号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2014-02-20",
+    "sxrq": "2014-03-01",
+    "title": "最高人民法院关于适用《中华人民共和国公司法》若干问题的规定（一）",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 08:29:25"
+}

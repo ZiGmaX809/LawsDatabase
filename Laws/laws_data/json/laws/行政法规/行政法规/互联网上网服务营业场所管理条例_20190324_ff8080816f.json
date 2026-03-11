@@ -1,0 +1,54 @@
+{
+  "bbbs": "ff8080816f3e9784016f4256b8ae0521",
+  "title": "互联网上网服务营业场所管理条例",
+  "gbrq": "2019-03-24",
+  "sxrq": "2019-03-24",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f4256b8ae0521",
+    "ossFile": {
+      "ossWordPath": "prod/20190324/36579842d77b4835987cc7a811121bea.docx",
+      "ossWordOfdPath": "prod/20190324/36579842d77b4835987cc7a811121bea.ofd",
+      "ossWordOfdSize": 146277,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181966737700196a953deca32eb",
+        "title": "互联网上网服务营业场所管理条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff80818180e0a5d001811e1e376112a6",
+        "title": "互联网上网服务营业场所管理条例",
+        "gbrq": "2022-03-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f4256b8ae0521",
+        "title": "互联网上网服务营业场所管理条例",
+        "gbrq": "2019-03-24",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-03-24",
+    "sxrq": "2019-03-24",
+    "title": "互联网上网服务营业场所管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:10:48"
+}

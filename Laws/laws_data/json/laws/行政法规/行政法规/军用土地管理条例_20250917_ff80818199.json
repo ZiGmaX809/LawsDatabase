@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff80818199855c3201998efc275f0f98",
+  "title": "军用土地管理条例",
+  "gbrq": "2025-09-17",
+  "sxrq": "2025-11-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80818199855c3201998efc275f0f98",
+    "ossFile": {
+      "ossWordPath": "prod/20250917/deffbb6d690d453cad2041708d1c515f.docx",
+      "ossWordOfdPath": "prod/20250917/deffbb6d690d453cad2041708d1c515f.ofd",
+      "ossWordOfdSize": 104451,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818198794ccd01998f54f91c7a90",
+        "title": "中华人民共和国国务院　中华人民共和国中央军事委员会令第816号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819879212301998f550d9b7aa5",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-09-17",
+    "sxrq": "2025-11-01",
+    "title": "军用土地管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:36"
+}

@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff8081817e8f9846017e9b04394e0115",
+  "title": "最高人民法院关于人民法院强制执行股权若干问题的规定",
+  "gbrq": "2021-12-20",
+  "sxrq": "2022-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081817e8f9846017e9b04394e0115",
+    "ossFile": {
+      "ossWordPath": "prod/20211220/eded80aeff7d4cb2930f85bf9e54b418.docx",
+      "ossWordOfdPath": "prod/20211220/eded80aeff7d4cb2930f85bf9e54b418.ofd",
+      "ossWordOfdSize": 103856,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081817e8ba40f017ea41dfd570997",
+        "title": "法释2021-20公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2021-12-20",
+    "sxrq": "2022-01-01",
+    "title": "最高人民法院关于人民法院强制执行股权若干问题的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:42"
+}

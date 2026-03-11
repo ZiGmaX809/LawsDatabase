@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081818a1cb709018a6dbc91b6301d",
+  "title": "社会保险经办条例",
+  "gbrq": "2023-08-16",
+  "sxrq": "2023-12-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818a1cb709018a6dbc91b6301d",
+    "ossFile": {
+      "ossWordPath": "prod/20230816/3af9611ce48844d2b456860703a5dca0.docx",
+      "ossWordOfdPath": "prod/20230816/3af9611ce48844d2b456860703a5dca0.ofd",
+      "ossWordOfdSize": 134006,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21e6c3018a7407478b14a0",
+        "title": "中华人民共和国国务院令第765号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e6c3018a74077a3c14a4",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-08-16",
+    "sxrq": "2023-12-01",
+    "title": "社会保险经办条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:14"
+}

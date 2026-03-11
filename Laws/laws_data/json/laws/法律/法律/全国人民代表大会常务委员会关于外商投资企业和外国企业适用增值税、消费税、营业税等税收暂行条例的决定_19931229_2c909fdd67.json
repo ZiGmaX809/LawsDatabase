@@ -1,0 +1,70 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5d6d1019f",
+  "title": "全国人民代表大会常务委员会关于外商投资企业和外国企业适用增值税、消费税、营业税等税收暂行条例的决定",
+  "gbrq": "1993-12-29",
+  "sxrq": "1993-12-29",
+  "sxx": 1,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5d6d1019f",
+    "ossFile": {
+      "ossWordPath": "prod/19931229/51275203d5764286b06335155c458af5.docx",
+      "ossWordOfdPath": "prod/19931229/51275203d5764286b06335155c458af5.ofd",
+      "ossWordOfdSize": 57920,
+      "ossPdfPath": "prod/19931229/2d0e49d9ad664517b22f79804a4dfdc6.pdf",
+      "ossPdfOfdPath": "prod/19931229/2d0e49d9ad664517b22f79804a4dfdc6.ofd",
+      "ossPdfOfdSize": 463929
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1993-12-29",
+    "sxrq": "1993-12-29",
+    "title": "全国人民代表大会常务委员会关于外商投资企业和外国企业适用增值税、消费税、营业税等税收暂行条例的决定",
+    "sxx": 1,
+    "content": {
+      "id": "79890000-3e3b-0016-a6e4-08dde37b2378",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "全国人民代表大会常务委员会关于外商投资企业和外国企业适用增值税、消费税、营业税等税收暂行条例的决定",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-a770-08dde37b2378",
+          "parentId": "79890000-3e3b-0016-a6e4-08dde37b2378",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b7ed-08dde37b2378",
+          "parentId": "79890000-3e3b-0016-a6e4-08dde37b2378",
+          "title": "一、",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c4de-08dde37b2378",
+          "parentId": "79890000-3e3b-0016-a6e4-08dde37b2378",
+          "title": "二、",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-d0ac-08dde37b2378",
+          "parentId": "79890000-3e3b-0016-a6e4-08dde37b2378",
+          "title": "三、",
+          "index": 4,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:50:12"
+}

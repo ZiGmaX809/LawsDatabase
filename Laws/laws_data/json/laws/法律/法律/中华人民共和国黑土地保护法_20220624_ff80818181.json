@@ -1,0 +1,396 @@
+{
+  "bbbs": "ff808181818e90e70181947372d60184",
+  "title": "中华人民共和国黑土地保护法",
+  "gbrq": "2022-06-24",
+  "sxrq": "2022-08-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "ff808181818e90e70181947372d60184",
+    "ossFile": {
+      "ossWordPath": "prod/20220624/324cadf10d454146b770dec09b6ac5f9.docx",
+      "ossWordOfdPath": "prod/20220624/324cadf10d454146b770dec09b6ac5f9.ofd",
+      "ossWordOfdSize": 142921,
+      "ossPdfPath": "prod/20220624/0c28e8fccd254a3490c3b1cd2c33a8a8.pdf",
+      "ossPdfOfdPath": "prod/20220624/0c28e8fccd254a3490c3b1cd2c33a8a8.ofd",
+      "ossPdfOfdSize": 807046
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818234ccb50182a0f69b172bab",
+        "title": "中华人民共和国主席令第一一五号",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818291977701829f5c45010153",
+        "title": "中华人民共和国主席令第一一五号",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181826807490182a0e32ff5136e",
+        "title": "关于《中华人民共和国黑土地保护法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818234ccb501829f5c722c2aa7",
+        "title": "关于《中华人民共和国黑土地保护法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181826807490182a0e576231371",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国黑土地保护法（草案）》修改情况的汇报",
+        "titleHighLight": null,
+        "busiType": "修改情况的汇报",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818291977701829f5ca0e00155",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国黑土地保护法（草案）》修改情况的汇报",
+        "titleHighLight": null,
+        "busiType": "修改情况的汇报",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181826807490182a0e757911377",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国黑土地保护法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818291977701829f5cc5040158",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国黑土地保护法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818234ccb50182a0e9510e2b92",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国黑土地保护法（草案三次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818268074901829f5ce79d1277",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国黑土地保护法（草案三次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2022-06-24",
+    "sxrq": "2022-08-01",
+    "title": "中华人民共和国黑土地保护法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-5695-08dd6fef7f53",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国黑土地保护法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-56f5-08dd6fef7f53",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-66a1-08dd6fef7f53",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第一条",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-74d9-08dd6fef7f53",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第二条",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-82f8-08dd6fef7f53",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第三条",
+          "index": 4,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-9152-08dd6fef7f53",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第四条",
+          "index": 5,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-9fb9-08dd6fef7f53",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第五条",
+          "index": 6,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c7de-08dd6fef7f53",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第六条",
+          "index": 7,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-d8f2-08dd6fef7f53",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第七条",
+          "index": 8,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-e7f7-08dd6fef7f53",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第八条",
+          "index": 9,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-fdcb-08dd6fef7f53",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第九条",
+          "index": 10,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1473-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第十条",
+          "index": 11,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-2b19-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第十一条",
+          "index": 12,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-4143-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第十二条",
+          "index": 13,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-5996-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第十三条",
+          "index": 14,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-7194-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第十四条",
+          "index": 15,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-87ea-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第十五条",
+          "index": 16,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-9e4a-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第十六条",
+          "index": 17,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-ae8b-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第十七条",
+          "index": 18,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-bcdf-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第十八条",
+          "index": 19,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-caf5-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第十九条",
+          "index": 20,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-d8fd-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第二十条",
+          "index": 21,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-e733-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第二十一条",
+          "index": 22,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-f56a-08dd6fef7f54",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第二十二条",
+          "index": 23,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-03bb-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第二十三条",
+          "index": 24,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1245-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第二十四条",
+          "index": 25,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-2099-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第二十五条",
+          "index": 26,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-2f48-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第二十六条",
+          "index": 27,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-3d6d-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第二十七条",
+          "index": 28,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-4bc2-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第二十八条",
+          "index": 29,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-5abb-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第二十九条",
+          "index": 30,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-6ad2-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第三十条",
+          "index": 31,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-796d-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第三十一条",
+          "index": 32,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-8879-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第三十二条",
+          "index": 33,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-9770-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第三十三条",
+          "index": 34,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-a6ff-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第三十四条",
+          "index": 35,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b685-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第三十五条",
+          "index": 36,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c58b-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第三十六条",
+          "index": 37,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-d4d7-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第三十七条",
+          "index": 38,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-e41a-08dd6fef7f55",
+          "parentId": "79890000-3e3b-0016-5695-08dd6fef7f53",
+          "title": "第三十八条",
+          "index": 39,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:29:58"
+}

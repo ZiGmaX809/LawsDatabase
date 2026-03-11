@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081818a22132f018a6fb9a8252e04",
+  "title": "废旧金属收购业治安管理办法",
+  "gbrq": "2023-07-20",
+  "sxrq": "2023-07-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818a22132f018a6fb9a8252e04",
+    "ossFile": {
+      "ossWordPath": "prod/20230720/a51b662ff8ba4829bc11a98f99267889.docx",
+      "ossWordOfdPath": "prod/20230720/a51b662ff8ba4829bc11a98f99267889.ofd",
+      "ossWordOfdSize": 78225,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a22132f018a6fb9a8252e04",
+        "title": "废旧金属收购业治安管理办法",
+        "gbrq": "2023-07-20",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f412114b418fe",
+        "title": "废旧金属收购业治安管理办法",
+        "gbrq": "1994-01-25",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21dc13018a77ac77201532",
+        "title": "中华人民共和国国务院令第764号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21dc13018a77aca2a2153a",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e6c3018a77ac918c15fa",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-07-20",
+    "sxrq": "2023-07-20",
+    "title": "废旧金属收购业治安管理办法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:20"
+}

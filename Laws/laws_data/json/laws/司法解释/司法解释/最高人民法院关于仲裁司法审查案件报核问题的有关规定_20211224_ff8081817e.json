@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff8081817e8f9846017e9b0773e70132",
+  "title": "最高人民法院关于仲裁司法审查案件报核问题的有关规定",
+  "gbrq": "2021-12-24",
+  "sxrq": "2022-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081817e8f9846017e9b0773e70132",
+    "ossFile": {
+      "ossWordPath": "prod/20211224/63f2755a68f24faaa9e4f308aa419583.docx",
+      "ossWordOfdPath": "prod/20211224/63f2755a68f24faaa9e4f308aa419583.ofd",
+      "ossWordOfdSize": 58200,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081817e8f9846017e9b0773e70132",
+        "title": "最高人民法院关于仲裁司法审查案件报核问题的有关规定",
+        "gbrq": "2021-12-24",
+        "highLight": true
+      },
+      {
+        "bbbs": "2c90e5bb65c68cfd0167f25968bf4d40",
+        "title": "最高人民法院关于仲裁司法审查案件报核问题的有关规定",
+        "gbrq": "2017-12-26",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081817e8ba40f017ea427161209b2",
+        "title": "法释2021-21修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817e8b6cd8017ea4272eb1094f",
+        "title": "法释2021-21公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2021-12-24",
+    "sxrq": "2022-01-01",
+    "title": "最高人民法院关于仲裁司法审查案件报核问题的有关规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:42"
+}

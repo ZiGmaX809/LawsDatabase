@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff80818180e0a61301811e43f41f1fa2",
+  "title": "中华人民共和国海关行政处罚实施条例",
+  "gbrq": "2022-03-29",
+  "sxrq": "2022-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80818180e0a61301811e43f41f1fa2",
+    "ossFile": {
+      "ossWordPath": "prod/20220329/491b5245bfb04a5389b5a6609b7750ff.docx",
+      "ossWordOfdPath": "prod/20220329/491b5245bfb04a5389b5a6609b7750ff.ofd",
+      "ossWordOfdSize": 181685,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818180e0a61301811e43f41f1fa2",
+        "title": "中华人民共和国海关行政处罚实施条例",
+        "gbrq": "2022-03-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f410e87ec142b",
+        "title": "中华人民共和国海关行政处罚实施条例",
+        "gbrq": "2004-09-19",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818119c86b01811ee65e50044e",
+        "title": "中华人民共和国国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c13501811ee68bcd0449",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c13501811ee69a65044a",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2022-03-29",
+    "sxrq": "2022-05-01",
+    "title": "中华人民共和国海关行政处罚实施条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:07:19"
+}

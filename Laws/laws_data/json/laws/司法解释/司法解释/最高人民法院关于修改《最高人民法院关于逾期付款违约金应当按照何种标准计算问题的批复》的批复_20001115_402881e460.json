@@ -1,0 +1,40 @@
+{
+  "bbbs": "402881e46006401c0160068e532702d3",
+  "title": "最高人民法院关于修改《最高人民法院关于逾期付款违约金应当按照何种标准计算问题的批复》的批复",
+  "gbrq": "2000-11-15",
+  "sxrq": "2000-11-21",
+  "sxx": 1,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "402881e46006401c0160068e532702d3",
+    "ossFile": {
+      "ossWordPath": "prod/20001115/c06678de6e85465b89dd6634b4f34865.docx",
+      "ossWordOfdPath": "prod/20001115/c06678de6e85465b89dd6634b4f34865.ofd",
+      "ossWordOfdSize": 36177,
+      "ossPdfPath": "prod/20001115/deb8658d9b7c449e8aef293e30bb44cc.pdf",
+      "ossPdfOfdPath": "prod/20001115/deb8658d9b7c449e8aef293e30bb44cc.ofd",
+      "ossPdfOfdSize": 2530104
+    },
+    "xgwj": [
+      {
+        "bbbs": "ff8081817b9642c8017ba09697d00a71",
+        "title": "最高人民法院关于废止部分司法解释及相关规范性文件的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2000-11-15",
+    "sxrq": "2000-11-21",
+    "title": "最高人民法院关于修改《最高人民法院关于逾期付款违约金应当按照何种标准计算问题的批复》的批复",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 08:37:46"
+}

@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8081818c3ce0ed018cb707d1112f71",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国慈善法》的决定",
+  "gbrq": "2023-12-29",
+  "sxrq": "2024-09-05",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff8081818c3ce0ed018cb707d1112f71",
+    "ossFile": {
+      "ossWordPath": "prod/20231229/2d0d5a0d62d843d89133bdfe5d715c44.docx",
+      "ossWordOfdPath": "prod/20231229/2d0d5a0d62d843d89133bdfe5d715c44.ofd",
+      "ossWordOfdSize": 132569,
+      "ossPdfPath": "prod/20231229/b494e06e1f4748bda55a2ffebff11924.pdf",
+      "ossPdfOfdPath": "prod/20231229/b494e06e1f4748bda55a2ffebff11924.ofd",
+      "ossPdfOfdSize": 991013
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf8028608c5",
+        "title": "中华人民共和国慈善法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2023-12-29",
+    "sxrq": "2024-09-05",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国慈善法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:28:28"
+}

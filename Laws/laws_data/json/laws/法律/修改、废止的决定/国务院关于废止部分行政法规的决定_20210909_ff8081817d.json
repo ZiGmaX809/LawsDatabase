@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff8081817d3c1e89017d45a6032602f6",
+  "title": "国务院关于废止部分行政法规的决定",
+  "gbrq": "2021-09-09",
+  "sxrq": "2021-09-09",
+  "sxx": null,
+  "zdjgName": "国务院",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 215,
+  "detail": {
+    "bbbs": "ff8081817d3c1e89017d45a6032602f6",
+    "ossFile": {
+      "ossWordPath": "prod/20210909/4f00a493347b4f84a7f393c1653fd22f.docx",
+      "ossWordOfdPath": "prod/20210909/4f00a493347b4f84a7f393c1653fd22f.ofd",
+      "ossWordOfdSize": 30776,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081817d3be44f017d45a60f840380",
+        "title": "中华人民共和国国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817d3c0e94017d45a642650346",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "ff8080816f3e9784016f424cace204a4",
+        "title": "社会抚养费征收管理办法"
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40d7fbd406d6",
+        "title": "流动人口计划生育工作条例"
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4123fe021985",
+        "title": "计划生育技术服务管理条例"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "国务院",
+    "gbrq": "2021-09-09",
+    "sxrq": "2021-09-09",
+    "title": "国务院关于废止部分行政法规的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:08:02"
+}

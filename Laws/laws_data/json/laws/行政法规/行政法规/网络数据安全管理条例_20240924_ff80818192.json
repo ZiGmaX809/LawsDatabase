@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181927f0e7b0192949a1da4355d",
+  "title": "网络数据安全管理条例",
+  "gbrq": "2024-09-24",
+  "sxrq": "2025-01-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181927f0e7b0192949a1da4355d",
+    "ossFile": {
+      "ossWordPath": "prod/20240924/4fc6b5abf7f9483886f748701b9a4b92.docx",
+      "ossWordOfdPath": "prod/20240924/4fc6b5abf7f9483886f748701b9a4b92.ofd",
+      "ossWordOfdSize": 166158,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181927b083b019294b37a000b7e",
+        "title": "中华人民共和国国务院令第790号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a019294b3b3a40b43",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-09-24",
+    "sxrq": "2025-01-01",
+    "title": "网络数据安全管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:04:37"
+}

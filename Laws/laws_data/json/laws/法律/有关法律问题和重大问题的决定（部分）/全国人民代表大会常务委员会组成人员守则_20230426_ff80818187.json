@@ -1,0 +1,250 @@
+{
+  "bbbs": "ff80818187217f6e0187bdc93b514030",
+  "title": "全国人民代表大会常务委员会组成人员守则",
+  "gbrq": "2023-04-26",
+  "sxrq": "2023-04-26",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "ff80818187217f6e0187bdc93b514030",
+    "ossFile": {
+      "ossWordPath": "prod/20230426/52ad672f677b465fbc530ece7b8c27e7.docx",
+      "ossWordOfdPath": "prod/20230426/52ad672f677b465fbc530ece7b8c27e7.ofd",
+      "ossWordOfdSize": 93726,
+      "ossPdfPath": "prod/20230426/c4bc54aba00947869fba45f15b6eb92f.pdf",
+      "ossPdfOfdPath": "prod/20230426/c4bc54aba00947869fba45f15b6eb92f.ofd",
+      "ossPdfOfdSize": 699955
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818188d7445401894ec2733212f4",
+        "title": "关于《全国人民代表大会常务委员会组成人员守则（修订草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818188d7445c01893e95359d0fcb",
+        "title": "关于《全国人民代表大会常务委员会组成人员守则（修订草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818188d7445401896d3203d715d8",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会组成人员守则（修订草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818188d7430b01893e956a851014",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会组成人员守则（修订草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2023-04-26",
+    "sxrq": "2023-04-26",
+    "title": "全国人民代表大会常务委员会组成人员守则",
+    "sxx": null,
+    "content": {
+      "id": "79890000-3e3b-0016-7f86-08dd816c8de5",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "全国人民代表大会常务委员会组成人员守则",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-8073-08dd816c8de5",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-9042-08dd816c8de5",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第一条",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-a086-08dd816c8de5",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第二条",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b2ea-08dd816c8de5",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第三条",
+          "index": 4,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c03c-08dd816c8de5",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第四条",
+          "index": 5,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-cccf-08dd816c8de5",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第五条",
+          "index": 6,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-d82d-08dd816c8de5",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第六条",
+          "index": 7,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-e3ae-08dd816c8de5",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第七条",
+          "index": 8,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-efee-08dd816c8de5",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第八条",
+          "index": 9,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-fc95-08dd816c8de5",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第九条",
+          "index": 10,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-08b4-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第十条",
+          "index": 11,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-16c1-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第十一条",
+          "index": 12,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-223b-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第十二条",
+          "index": 13,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-2dd8-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第十三条",
+          "index": 14,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-38d7-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第十四条",
+          "index": 15,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-43c7-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第十五条",
+          "index": 16,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-4eb6-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第十六条",
+          "index": 17,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-5b9f-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第十七条",
+          "index": 18,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-6728-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第十八条",
+          "index": 19,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-72dd-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第十九条",
+          "index": 20,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-7e33-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第二十条",
+          "index": 21,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-899a-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第二十一条",
+          "index": 22,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-950c-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第二十二条",
+          "index": 23,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-a098-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第二十三条",
+          "index": 24,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-ac04-08dd816c8de6",
+          "parentId": "79890000-3e3b-0016-7f86-08dd816c8de5",
+          "title": "第二十四条",
+          "index": 25,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:29:04"
+}

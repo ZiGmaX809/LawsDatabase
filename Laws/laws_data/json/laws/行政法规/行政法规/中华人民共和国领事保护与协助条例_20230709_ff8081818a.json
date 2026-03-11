@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081818a1cb709018a6dae46fc2fb1",
+  "title": "中华人民共和国领事保护与协助条例",
+  "gbrq": "2023-07-09",
+  "sxrq": "2023-09-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818a1cb709018a6dae46fc2fb1",
+    "ossFile": {
+      "ossWordPath": "prod/20230709/4e1a1fd42c0f416fae5f80e805fe7085.docx",
+      "ossWordOfdPath": "prod/20230709/4e1a1fd42c0f416fae5f80e805fe7085.ofd",
+      "ossWordOfdSize": 101803,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21e6c3018a74081deb14ae",
+        "title": "中华人民共和国国务院令第763号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e6c3018a740832fa14b1",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-07-09",
+    "sxrq": "2023-09-01",
+    "title": "中华人民共和国领事保护与协助条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:53"
+}

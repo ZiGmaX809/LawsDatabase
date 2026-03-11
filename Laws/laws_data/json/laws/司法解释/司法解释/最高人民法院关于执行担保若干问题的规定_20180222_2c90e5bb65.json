@@ -1,0 +1,48 @@
+{
+  "bbbs": "2c90e5bb65c68cfd0167f270957b4d8c",
+  "title": "最高人民法院关于执行担保若干问题的规定",
+  "gbrq": "2018-02-22",
+  "sxrq": "2018-03-01",
+  "sxx": 2,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "2c90e5bb65c68cfd0167f270957b4d8c",
+    "ossFile": {
+      "ossWordPath": "prod/20180222/3d67555316374b07898ace16dcf40245.docx",
+      "ossWordOfdPath": "prod/20180222/3d67555316374b07898ace16dcf40245.ofd",
+      "ossWordOfdSize": 65835,
+      "ossPdfPath": "prod/20180222/fd54622248a5489ca2653b93497fbd21.pdf",
+      "ossPdfOfdPath": "prod/20180222/fd54622248a5489ca2653b93497fbd21.ofd",
+      "ossPdfOfdSize": 696516
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818179f5d52f0179fa4f8c9c072d",
+        "title": "最高人民法院关于执行担保若干问题的规定",
+        "gbrq": "2020-12-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c90e5bb65c68cfd0167f270957b4d8c",
+        "title": "最高人民法院关于执行担保若干问题的规定",
+        "gbrq": "2018-02-22",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2018-02-22",
+    "sxrq": "2018-03-01",
+    "title": "最高人民法院关于执行担保若干问题的规定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:12:15"
+}

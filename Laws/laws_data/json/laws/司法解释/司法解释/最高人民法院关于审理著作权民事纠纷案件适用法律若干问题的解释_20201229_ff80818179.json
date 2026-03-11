@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181799df4000179ad239f441454",
+  "title": "最高人民法院关于审理著作权民事纠纷案件适用法律若干问题的解释",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799df4000179ad239f441454",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/7ddf58a649794169a8483aec381f628d.docx",
+      "ossWordOfdPath": "prod/20201229/7ddf58a649794169a8483aec381f628d.ofd",
+      "ossWordOfdSize": 92164,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799df4000179ad239f441454",
+        "title": "最高人民法院关于审理著作权民事纠纷案件适用法律若干问题的解释",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e46000e2790160015be26802c8",
+        "title": "最高人民法院关于审理著作权民事纠纷案件适用法律若干问题的解释",
+        "gbrq": "2002-10-12",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179a8c7550179b7ae20b41880",
+        "title": "法释〔2020〕19号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179a8c0a40179b7ae21d91879",
+        "title": "法释〔2020〕19号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于审理著作权民事纠纷案件适用法律若干问题的解释",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:55"
+}

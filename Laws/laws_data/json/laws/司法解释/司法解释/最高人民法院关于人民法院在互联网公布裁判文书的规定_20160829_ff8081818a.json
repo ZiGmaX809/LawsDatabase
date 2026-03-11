@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff8081818a1cb546018ad025f56c21bf",
+  "title": "最高人民法院关于人民法院在互联网公布裁判文书的规定",
+  "gbrq": "2016-08-29",
+  "sxrq": "2016-10-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081818a1cb546018ad025f56c21bf",
+    "ossFile": {
+      "ossWordPath": "prod/20160829/a16918dce8634ee5bedf3fa5b63a6f2e.docx",
+      "ossWordOfdPath": "prod/20160829/a16918dce8634ee5bedf3fa5b63a6f2e.ofd",
+      "ossWordOfdSize": 87070,
+      "ossPdfPath": "prod/20160829/fd861509de49488ebdcc4c6c94763a1d.pdf",
+      "ossPdfOfdPath": "prod/20160829/fd861509de49488ebdcc4c6c94763a1d.ofd",
+      "ossPdfOfdSize": 1522328
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21e6c3018adb1da8d32b07",
+        "title": "法释〔2016〕19号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2016-08-29",
+    "sxrq": "2016-10-01",
+    "title": "最高人民法院关于人民法院在互联网公布裁判文书的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 07:37:36"
+}

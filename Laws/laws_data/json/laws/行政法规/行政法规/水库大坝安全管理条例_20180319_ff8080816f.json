@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8080816f3e98bd016f425b132b0558",
+  "title": "水库大坝安全管理条例",
+  "gbrq": "2018-03-19",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f425b132b0558",
+    "ossFile": {
+      "ossWordPath": "prod/20180319/50f8d050aa77456193a5f5d04f6793f2.docx",
+      "ossWordOfdPath": "prod/20180319/50f8d050aa77456193a5f5d04f6793f2.ofd",
+      "ossWordOfdSize": 120377,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "2d24100e20fa46408daa098e994e984d",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2018-03-19",
+    "sxrq": null,
+    "title": "水库大坝安全管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:14:06"
+}

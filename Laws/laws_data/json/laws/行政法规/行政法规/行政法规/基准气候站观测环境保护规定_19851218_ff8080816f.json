@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f410cb92813af",
+  "title": "基准气候站观测环境保护规定",
+  "gbrq": "1985-12-18",
+  "sxrq": "",
+  "sxx": 1,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f410cb92813af",
+    "ossFile": {
+      "ossWordPath": "prod/19851218/ffe8a9c25cde4050bb86796beded417c.docx",
+      "ossWordOfdPath": "prod/19851218/ffe8a9c25cde4050bb86796beded417c.ofd",
+      "ossWordOfdSize": 66836,
+      "ossPdfPath": "prod/19851218/597d2ac281ab4549bb68cb3ba47543b9.pdf",
+      "ossPdfOfdPath": "prod/19851218/597d2ac281ab4549bb68cb3ba47543b9.ofd",
+      "ossPdfOfdSize": 1980551
+    },
+    "xgwj": [
+      {
+        "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1985-12-18",
+    "sxrq": null,
+    "title": "基准气候站观测环境保护规定",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:36:11"
+}

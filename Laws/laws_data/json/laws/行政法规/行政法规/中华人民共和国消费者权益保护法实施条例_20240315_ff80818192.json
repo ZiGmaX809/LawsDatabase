@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181927f09310192c2f4cd777281",
+  "title": "中华人民共和国消费者权益保护法实施条例",
+  "gbrq": "2024-03-15",
+  "sxrq": "2024-07-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181927f09310192c2f4cd777281",
+    "ossFile": {
+      "ossWordPath": "prod/20240315/c8b59027843e4d7fa0de138ed79a4e0d.docx",
+      "ossWordOfdPath": "prod/20240315/c8b59027843e4d7fa0de138ed79a4e0d.ofd",
+      "ossWordOfdSize": 155210,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181927b2d1a0192c30264362c11",
+        "title": "中华人民共和国国务院令第778号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a0192c3029d992c1a",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-03-15",
+    "sxrq": "2024-07-01",
+    "title": "中华人民共和国消费者权益保护法实施条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:05:09"
+}

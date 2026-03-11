@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3e9784016f41fc1c320255",
+  "title": "中华人民共和国计算机信息网络国际联网管理暂行规定",
+  "gbrq": "1997-05-20",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f41fc1c320255",
+    "ossFile": {
+      "ossWordPath": "prod/19970520/6b5c111af4164ab585a229ce5440b803.docx",
+      "ossWordOfdPath": "prod/19970520/6b5c111af4164ab585a229ce5440b803.ofd",
+      "ossWordOfdSize": 82505,
+      "ossPdfPath": "prod/19970520/39e953dbf8114063b97df3995a2c2b2c.pdf",
+      "ossPdfOfdPath": "prod/19970520/39e953dbf8114063b97df3995a2c2b2c.ofd",
+      "ossPdfOfdSize": 3067284
+    },
+    "xgwj": [
+      {
+        "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a9ec77373667",
+        "title": "中华人民共和国计算机信息网络国际联网管理暂行规定",
+        "gbrq": "2024-03-10",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f41fc1c320255",
+        "title": "中华人民共和国计算机信息网络国际联网管理暂行规定",
+        "gbrq": "1997-05-20",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1997-05-20",
+    "sxrq": null,
+    "title": "中华人民共和国计算机信息网络国际联网管理暂行规定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:32:18"
+}

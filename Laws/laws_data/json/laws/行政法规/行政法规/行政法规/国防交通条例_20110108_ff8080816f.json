@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f413e55291e98",
+  "title": "国防交通条例",
+  "gbrq": "2011-01-08",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f413e55291e98",
+    "ossFile": {
+      "ossWordPath": "prod/20110108/d9d784eb76194a868def13fd3b0be322.docx",
+      "ossWordOfdPath": "prod/20110108/d9d784eb76194a868def13fd3b0be322.ofd",
+      "ossWordOfdSize": 138985,
+      "ossPdfPath": "prod/20110108/051aa20ff4b945aeb55e878368267ee9.pdf",
+      "ossPdfOfdPath": "prod/20110108/051aa20ff4b945aeb55e878368267ee9.ofd",
+      "ossPdfOfdSize": 4704775
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2011-01-08",
+    "sxrq": null,
+    "title": "国防交通条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:25:50"
+}

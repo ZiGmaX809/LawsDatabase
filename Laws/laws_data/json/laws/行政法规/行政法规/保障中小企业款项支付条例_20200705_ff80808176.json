@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff80808176d5cbce0176d71f210d03a2",
+  "title": "保障中小企业款项支付条例",
+  "gbrq": "2020-07-05",
+  "sxrq": "2020-09-01",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80808176d5cbce0176d71f210d03a2",
+    "ossFile": {
+      "ossWordPath": "prod/20200705/e60154b7f59d49938aaf35bd35509ee9.docx",
+      "ossWordOfdPath": "prod/20200705/e60154b7f59d49938aaf35bd35509ee9.ofd",
+      "ossWordOfdSize": 87085,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181927f1276019610f4dde60a27",
+        "title": "保障中小企业款项支付条例",
+        "gbrq": "2025-03-17",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff80808176d5cbce0176d71f210d03a2",
+        "title": "保障中小企业款项支付条例",
+        "gbrq": "2020-07-05",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2020-07-05",
+    "sxrq": "2020-09-01",
+    "title": "保障中小企业款项支付条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:09:39"
+}

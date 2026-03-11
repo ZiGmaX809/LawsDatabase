@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff8081817b5e8945017b6279578c0912",
+  "title": "人民检察院行政诉讼监督规则",
+  "gbrq": "2021-07-27",
+  "sxrq": "2021-09-01",
+  "sxx": 3,
+  "zdjgName": "最高人民检察院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 150,
+  "flfgCodeId": 330,
+  "detail": {
+    "bbbs": "ff8081817b5e8945017b6279578c0912",
+    "ossFile": {
+      "ossWordPath": "prod/20210727/2a4f36755bd042c69313432f72b408c0.doc",
+      "ossWordOfdPath": "prod/20210727/2a4f36755bd042c69313432f72b408c0.ofd",
+      "ossWordOfdSize": 251709,
+      "ossPdfPath": "prod/20210727/40b24b982cbd4cd680e045205c468161.pdf",
+      "ossPdfOfdPath": "prod/20210727/40b24b982cbd4cd680e045205c468161.ofd",
+      "ossPdfOfdSize": 979827
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081817b6472a3017b6821065a01bc",
+        "title": "公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "doc",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民检察院",
+    "gbrq": "2021-07-27",
+    "sxrq": "2021-09-01",
+    "title": "人民检察院行政诉讼监督规则",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:43"
+}

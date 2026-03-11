@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181927f09310192c2ec90a67250",
+  "title": "城市公共交通条例",
+  "gbrq": "2024-10-17",
+  "sxrq": "2024-12-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181927f09310192c2ec90a67250",
+    "ossFile": {
+      "ossWordPath": "prod/20241017/e83ba49652a74bb0a5734ec7ab8c0e18.docx",
+      "ossWordOfdPath": "prod/20241017/e83ba49652a74bb0a5734ec7ab8c0e18.ofd",
+      "ossWordOfdSize": 146424,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181927b2d1a0192c7dffffc2e3d",
+        "title": "中华人民共和国国务院令第793号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a0192c7dfce9d2e2f",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-10-17",
+    "sxrq": "2024-12-01",
+    "title": "城市公共交通条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:04:29"
+}

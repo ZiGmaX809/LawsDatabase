@@ -1,0 +1,291 @@
+{
+  "bbbs": "ff8081818a21dc13018a51328e0c0c3c",
+  "title": "中华人民共和国外国国家豁免法",
+  "gbrq": "2023-09-01",
+  "sxrq": "2024-01-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "ff8081818a21dc13018a51328e0c0c3c",
+    "ossFile": {
+      "ossWordPath": "prod/20230901/d6c91dc71f154e72a336094b83d37c67.docx",
+      "ossWordOfdPath": "prod/20230901/d6c91dc71f154e72a336094b83d37c67.ofd",
+      "ossWordOfdSize": 96717,
+      "ossPdfPath": "prod/20230901/03b43695e1b145038fcbf7dbb79d385c.pdf",
+      "ossPdfOfdPath": "prod/20230901/03b43695e1b145038fcbf7dbb79d385c.ofd",
+      "ossPdfOfdSize": 748493
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21dc13018a513c22090c46",
+        "title": "中华人民共和国主席令（第十号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018b424177bf09ac",
+        "title": "中华人民共和国主席令（第十号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018b4242155109af",
+        "title": "关于《中华人民共和国外国国家豁免法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e6c3018b424236c20958",
+        "title": "关于《中华人民共和国外国国家豁免法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018b4245b21b09c6",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国外国国家豁免法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018b424410b909ba",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国外国国家豁免法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018b4246543709c9",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国外国国家豁免法（草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21dc13018b4243cd3d085b",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国外国国家豁免法（草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e6c3018b4244521a0967",
+        "title": "全国人民代表大会常务委员会法制工作委员会负责人就外国国家豁免法答记者问",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21dc13018b42446c2c0862",
+        "title": "全国人民代表大会常务委员会法制工作委员会负责人就外国国家豁免法答记者问",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2023-09-01",
+    "sxrq": "2024-01-01",
+    "title": "中华人民共和国外国国家豁免法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国外国国家豁免法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-9fe2-08dd5babd9de",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b0b1-08dd5babd9de",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第一条",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c1f2-08dd5babd9de",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第二条",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-d3f1-08dd5babd9de",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第三条",
+          "index": 4,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-e5a8-08dd5babd9de",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第四条",
+          "index": 5,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-f88d-08dd5babd9de",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第五条",
+          "index": 6,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-0b42-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第六条",
+          "index": 7,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1dcb-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第七条",
+          "index": 8,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-2fdb-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第八条",
+          "index": 9,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-4365-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第九条",
+          "index": 10,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-55bc-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第十条",
+          "index": 11,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-6942-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第十一条",
+          "index": 12,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-7c71-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第十二条",
+          "index": 13,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-90a7-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第十三条",
+          "index": 14,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-a455-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第十四条",
+          "index": 15,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b899-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第十五条",
+          "index": 16,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c699-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第十六条",
+          "index": 17,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-d271-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第十七条",
+          "index": 18,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-df15-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第十八条",
+          "index": 19,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-eb7c-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第十九条",
+          "index": 20,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-f812-08dd5babd9df",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第二十条",
+          "index": 21,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-040e-08dd5babd9e0",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第二十一条",
+          "index": 22,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-101c-08dd5babd9e0",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第二十二条",
+          "index": 23,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1c56-08dd5babd9e0",
+          "parentId": "79890000-3e3b-0016-9f5b-08dd5babd9de",
+          "title": "第二十三条",
+          "index": 24,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:28:38"
+}

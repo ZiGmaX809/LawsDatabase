@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3e9784016f41fbad1a024d",
+  "title": "中华人民共和国外资保险公司管理条例",
+  "gbrq": "2016-02-06",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f41fbad1a024d",
+    "ossFile": {
+      "ossWordPath": "prod/20160206/9440f7ad91324c2cade089c2bf78ed41.docx",
+      "ossWordOfdPath": "prod/20160206/9440f7ad91324c2cade089c2bf78ed41.ofd",
+      "ossWordOfdSize": 131216,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181927f0e7b0192949ff642357d",
+        "title": "烈士褒扬条例",
+        "gbrq": "2024-09-27",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f413f689f1ec1",
+        "title": "烈士褒扬条例",
+        "gbrq": "2019-08-01",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2016-02-06",
+    "sxrq": null,
+    "title": "中华人民共和国外资保险公司管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:20:56"
+}

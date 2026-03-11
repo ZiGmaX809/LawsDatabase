@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f411a1e6b1731",
+  "title": "电力监管条例",
+  "gbrq": "2005-02-15",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f411a1e6b1731",
+    "ossFile": {
+      "ossWordPath": "prod/20050215/2ab02de3417f4909b0d492eeb503ea3a.docx",
+      "ossWordOfdPath": "prod/20050215/2ab02de3417f4909b0d492eeb503ea3a.ofd",
+      "ossWordOfdSize": 101300,
+      "ossPdfPath": "prod/20050215/4a36316ed208400f90edc6efcbb2ee12.pdf",
+      "ossPdfOfdPath": "prod/20050215/4a36316ed208400f90edc6efcbb2ee12.ofd",
+      "ossPdfOfdSize": 2907922
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2005-02-15",
+    "sxrq": null,
+    "title": "电力监管条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:29:01"
+}

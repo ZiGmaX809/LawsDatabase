@@ -1,0 +1,265 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf6154002ad",
+  "title": "中华人民共和国海关关衔条例",
+  "gbrq": "2003-02-28",
+  "sxrq": "2003-02-28",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf6154002ad",
+    "ossFile": {
+      "ossWordPath": "prod/20030228/569447d740a644f0831878dbb7860fa1.docx",
+      "ossWordOfdPath": "prod/20030228/569447d740a644f0831878dbb7860fa1.ofd",
+      "ossWordOfdSize": 74103,
+      "ossPdfPath": "prod/20030228/97b53657711a47f695d0bd2fc584aa7d.pdf",
+      "ossPdfOfdPath": "prod/20030228/97b53657711a47f695d0bd2fc584aa7d.ofd",
+      "ossPdfOfdSize": 1473707
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2003-02-28",
+    "sxrq": "2003-02-28",
+    "title": "中华人民共和国海关关衔条例",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-3b23-08dd71bf9fcc",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国海关关衔条例",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-3bc2-08dd71bf9fcc",
+          "parentId": "79890000-3e3b-0016-3b23-08dd71bf9fcc",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-3c37-08dd71bf9fcc",
+          "parentId": "79890000-3e3b-0016-3b23-08dd71bf9fcc",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-4e26-08dd71bf9fcc",
+          "parentId": "79890000-3e3b-0016-3b23-08dd71bf9fcc",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5d6d-08dd71bf9fcc",
+              "parentId": "79890000-3e3b-0016-4e26-08dd71bf9fcc",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6d57-08dd71bf9fcc",
+              "parentId": "79890000-3e3b-0016-4e26-08dd71bf9fcc",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7c5b-08dd71bf9fcc",
+              "parentId": "79890000-3e3b-0016-4e26-08dd71bf9fcc",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8c64-08dd71bf9fcc",
+              "parentId": "79890000-3e3b-0016-4e26-08dd71bf9fcc",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9e10-08dd71bf9fcc",
+              "parentId": "79890000-3e3b-0016-4e26-08dd71bf9fcc",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-af7e-08dd71bf9fcc",
+              "parentId": "79890000-3e3b-0016-4e26-08dd71bf9fcc",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-c05c-08dd71bf9fcc",
+          "parentId": "79890000-3e3b-0016-3b23-08dd71bf9fcc",
+          "title": "第二章 关衔等级的设置",
+          "index": 10,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-d10a-08dd71bf9fcc",
+              "parentId": "79890000-3e3b-0016-c05c-08dd71bf9fcc",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e53b-08dd71bf9fcc",
+              "parentId": "79890000-3e3b-0016-c05c-08dd71bf9fcc",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-f93a-08dd71bf9fcc",
+          "parentId": "79890000-3e3b-0016-3b23-08dd71bf9fcc",
+          "title": "第三章 关衔的授予",
+          "index": 13,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0c03-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-f93a-08dd71bf9fcc",
+              "title": "第九条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1c04-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-f93a-08dd71bf9fcc",
+              "title": "第十条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-31af-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-f93a-08dd71bf9fcc",
+              "title": "第十一条",
+              "index": 16,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-3f5d-08dd71bf9fcd",
+          "parentId": "79890000-3e3b-0016-3b23-08dd71bf9fcc",
+          "title": "第四章 关衔的晋级",
+          "index": 17,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-49fc-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-3f5d-08dd71bf9fcd",
+              "title": "第十二条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-551a-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-3f5d-08dd71bf9fcd",
+              "title": "第十三条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6080-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-3f5d-08dd71bf9fcd",
+              "title": "第十四条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6b2a-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-3f5d-08dd71bf9fcd",
+              "title": "第十五条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-75c7-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-3f5d-08dd71bf9fcd",
+              "title": "第十六条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8182-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-3f5d-08dd71bf9fcd",
+              "title": "第十七条",
+              "index": 23,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-8c14-08dd71bf9fcd",
+          "parentId": "79890000-3e3b-0016-3b23-08dd71bf9fcc",
+          "title": "第五章 关衔的保留、降级、取消",
+          "index": 24,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9668-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-8c14-08dd71bf9fcd",
+              "title": "第十八条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a1b1-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-8c14-08dd71bf9fcd",
+              "title": "第十九条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ace8-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-8c14-08dd71bf9fcd",
+              "title": "第二十条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b862-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-8c14-08dd71bf9fcd",
+              "title": "第二十一条",
+              "index": 28,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-c360-08dd71bf9fcd",
+          "parentId": "79890000-3e3b-0016-3b23-08dd71bf9fcc",
+          "title": "第六章 附则",
+          "index": 29,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-ce92-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-c360-08dd71bf9fcd",
+              "title": "第二十二条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-da1c-08dd71bf9fcd",
+              "parentId": "79890000-3e3b-0016-c360-08dd71bf9fcd",
+              "title": "第二十三条",
+              "index": 31,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:48:26"
+}

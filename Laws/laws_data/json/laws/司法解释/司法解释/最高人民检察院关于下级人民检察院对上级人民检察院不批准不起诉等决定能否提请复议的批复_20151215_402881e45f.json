@@ -1,0 +1,49 @@
+{
+  "bbbs": "402881e45ffbbe41015ffc995545108d",
+  "title": "最高人民检察院关于下级人民检察院对上级人民检察院不批准不起诉等决定能否提请复议的批复",
+  "gbrq": "2015-12-15",
+  "sxrq": "2015-12-25",
+  "sxx": 1,
+  "zdjgName": "最高人民检察院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 150,
+  "flfgCodeId": 330,
+  "detail": {
+    "bbbs": "402881e45ffbbe41015ffc995545108d",
+    "ossFile": {
+      "ossWordPath": "prod/20151215/bfc3a01bf7cf4cd9b755b3ec6d73f338.docx",
+      "ossWordOfdPath": "prod/20151215/bfc3a01bf7cf4cd9b755b3ec6d73f338.ofd",
+      "ossWordOfdSize": 38890,
+      "ossPdfPath": "prod/20151215/b0ce3bb41a024d6d917e619551b9073b.pdf",
+      "ossPdfOfdPath": "prod/20151215/b0ce3bb41a024d6d917e619551b9073b.ofd",
+      "ossPdfOfdSize": 141799
+    },
+    "xgwj": [
+      {
+        "bbbs": "f6654f4f18a944108fdcf965605a6fca",
+        "title": "最高人民检察院关于废止《最高人民检察院关于下级人民检察院对上级人民检察院不批准不起诉等决定能否提请复议的批复》的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818198794ccd01999453ec060253",
+        "title": "最高人民检察院关于废止《最高人民检察院关于下级人民检察院对上级人民检察院不批准不起诉等决定能否提请复议的批复》的决定",
+        "titleHighLight": null,
+        "busiType": "废止决定",
+        "fileType": "doc",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民检察院",
+    "gbrq": "2015-12-15",
+    "sxrq": "2015-12-25",
+    "title": "最高人民检察院关于下级人民检察院对上级人民检察院不批准不起诉等决定能否提请复议的批复",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 08:28:14"
+}

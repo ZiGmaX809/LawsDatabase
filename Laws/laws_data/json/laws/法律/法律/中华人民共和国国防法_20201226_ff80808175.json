@@ -1,0 +1,676 @@
+{
+  "bbbs": "ff808081752b7d430176a89d613a3565",
+  "title": "中华人民共和国国防法",
+  "gbrq": "2020-12-26",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "法律",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "ff808081752b7d430176a89d613a3565",
+    "ossFile": {
+      "ossWordPath": "prod/20201226/dbfaf87cf6f84963a10ed913e42c8160.docx",
+      "ossWordOfdPath": "prod/20201226/dbfaf87cf6f84963a10ed913e42c8160.ofd",
+      "ossWordOfdSize": 185460,
+      "ossPdfPath": "prod/20201226/765340cc716e4199ac8e8e3f0e6d66bf.pdf",
+      "ossPdfOfdPath": "prod/20201226/765340cc716e4199ac8e8e3f0e6d66bf.ofd",
+      "ossPdfOfdSize": 960921
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081752b7d430176a89d613a3565",
+        "title": "中华人民共和国国防法",
+        "gbrq": "2020-12-26",
+        "highLight": true
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf67bc90433",
+        "title": "中华人民共和国国防法",
+        "gbrq": "2009-08-27",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "2020-12-26",
+    "sxrq": "2021-01-01",
+    "title": "中华人民共和国国防法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-b495-08dd5ac926f5",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国国防法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-b528-08dd5ac926f5",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b588-08dd5ac926f5",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c7aa-08dd5ac926f5",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-d8f4-08dd5ac926f5",
+              "parentId": "79890000-3e3b-0016-c7aa-08dd5ac926f5",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ea9d-08dd5ac926f5",
+              "parentId": "79890000-3e3b-0016-c7aa-08dd5ac926f5",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fbe8-08dd5ac926f5",
+              "parentId": "79890000-3e3b-0016-c7aa-08dd5ac926f5",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-27fa-08dd5ac926f6",
+              "parentId": "79890000-3e3b-0016-c7aa-08dd5ac926f5",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3b4f-08dd5ac926f6",
+              "parentId": "79890000-3e3b-0016-c7aa-08dd5ac926f5",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4d60-08dd5ac926f6",
+              "parentId": "79890000-3e3b-0016-c7aa-08dd5ac926f5",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5e00-08dd5ac926f6",
+              "parentId": "79890000-3e3b-0016-c7aa-08dd5ac926f5",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6ef2-08dd5ac926f6",
+              "parentId": "79890000-3e3b-0016-c7aa-08dd5ac926f5",
+              "title": "第八条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7f33-08dd5ac926f6",
+              "parentId": "79890000-3e3b-0016-c7aa-08dd5ac926f5",
+              "title": "第九条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8f5a-08dd5ac926f6",
+              "parentId": "79890000-3e3b-0016-c7aa-08dd5ac926f5",
+              "title": "第十条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9fc1-08dd5ac926f6",
+              "parentId": "79890000-3e3b-0016-c7aa-08dd5ac926f5",
+              "title": "第十一条",
+              "index": 14,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-b00e-08dd5ac926f6",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "第二章 国家机构的国防职权",
+          "index": 15,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-c088-08dd5ac926f6",
+              "parentId": "79890000-3e3b-0016-b00e-08dd5ac926f6",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d165-08dd5ac926f6",
+              "parentId": "79890000-3e3b-0016-b00e-08dd5ac926f6",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e592-08dd5ac926f6",
+              "parentId": "79890000-3e3b-0016-b00e-08dd5ac926f6",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fafa-08dd5ac926f6",
+              "parentId": "79890000-3e3b-0016-b00e-08dd5ac926f6",
+              "title": "第十五条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0ec6-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-b00e-08dd5ac926f6",
+              "title": "第十六条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1fb0-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-b00e-08dd5ac926f6",
+              "title": "第十七条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3137-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-b00e-08dd5ac926f6",
+              "title": "第十八条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4253-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-b00e-08dd5ac926f6",
+              "title": "第十九条",
+              "index": 23,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-53a8-08dd5ac926f7",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "第三章 武装力量",
+          "index": 24,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-652b-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-53a8-08dd5ac926f7",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7722-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-53a8-08dd5ac926f7",
+              "title": "第二十一条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8920-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-53a8-08dd5ac926f7",
+              "title": "第二十二条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9b31-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-53a8-08dd5ac926f7",
+              "title": "第二十三条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ad1e-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-53a8-08dd5ac926f7",
+              "title": "第二十四条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-beff-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-53a8-08dd5ac926f7",
+              "title": "第二十五条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d0d9-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-53a8-08dd5ac926f7",
+              "title": "第二十六条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e2bd-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-53a8-08dd5ac926f7",
+              "title": "第二十七条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f4ed-08dd5ac926f7",
+              "parentId": "79890000-3e3b-0016-53a8-08dd5ac926f7",
+              "title": "第二十八条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0739-08dd5ac926f8",
+              "parentId": "79890000-3e3b-0016-53a8-08dd5ac926f7",
+              "title": "第二十九条",
+              "index": 34,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-1997-08dd5ac926f8",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "第四章 边防、海防、空防和其他重大安全领域防卫",
+          "index": 35,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-2b99-08dd5ac926f8",
+              "parentId": "79890000-3e3b-0016-1997-08dd5ac926f8",
+              "title": "第三十条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3e16-08dd5ac926f8",
+              "parentId": "79890000-3e3b-0016-1997-08dd5ac926f8",
+              "title": "第三十一条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5104-08dd5ac926f8",
+              "parentId": "79890000-3e3b-0016-1997-08dd5ac926f8",
+              "title": "第三十二条",
+              "index": 38,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-6367-08dd5ac926f8",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "第五章 国防科研生产和军事采购",
+          "index": 39,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-759f-08dd5ac926f8",
+              "parentId": "79890000-3e3b-0016-6367-08dd5ac926f8",
+              "title": "第三十三条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-881a-08dd5ac926f8",
+              "parentId": "79890000-3e3b-0016-6367-08dd5ac926f8",
+              "title": "第三十四条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9bd4-08dd5ac926f8",
+              "parentId": "79890000-3e3b-0016-6367-08dd5ac926f8",
+              "title": "第三十五条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-aec3-08dd5ac926f8",
+              "parentId": "79890000-3e3b-0016-6367-08dd5ac926f8",
+              "title": "第三十六条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c241-08dd5ac926f8",
+              "parentId": "79890000-3e3b-0016-6367-08dd5ac926f8",
+              "title": "第三十七条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d51c-08dd5ac926f8",
+              "parentId": "79890000-3e3b-0016-6367-08dd5ac926f8",
+              "title": "第三十八条",
+              "index": 45,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-e886-08dd5ac926f8",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "第六章 国防经费和国防资产",
+          "index": 46,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-faeb-08dd5ac926f8",
+              "parentId": "79890000-3e3b-0016-e886-08dd5ac926f8",
+              "title": "第三十九条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-109f-08dd5ac926f9",
+              "parentId": "79890000-3e3b-0016-e886-08dd5ac926f8",
+              "title": "第四十条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-25cc-08dd5ac926f9",
+              "parentId": "79890000-3e3b-0016-e886-08dd5ac926f8",
+              "title": "第四十一条",
+              "index": 49,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3afc-08dd5ac926f9",
+              "parentId": "79890000-3e3b-0016-e886-08dd5ac926f8",
+              "title": "第四十二条",
+              "index": 50,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-6208-08dd5ac926f9",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "第七章 国防教育",
+          "index": 51,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-7a6b-08dd5ac926f9",
+              "parentId": "79890000-3e3b-0016-6208-08dd5ac926f9",
+              "title": "第四十三条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8f40-08dd5ac926f9",
+              "parentId": "79890000-3e3b-0016-6208-08dd5ac926f9",
+              "title": "第四十四条",
+              "index": 53,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a35e-08dd5ac926f9",
+              "parentId": "79890000-3e3b-0016-6208-08dd5ac926f9",
+              "title": "第四十五条",
+              "index": 54,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b7cd-08dd5ac926f9",
+              "parentId": "79890000-3e3b-0016-6208-08dd5ac926f9",
+              "title": "第四十六条",
+              "index": 55,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-cb28-08dd5ac926f9",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "第八章 国防动员和战争状态",
+          "index": 56,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-de04-08dd5ac926f9",
+              "parentId": "79890000-3e3b-0016-cb28-08dd5ac926f9",
+              "title": "第四十七条",
+              "index": 57,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f1f6-08dd5ac926f9",
+              "parentId": "79890000-3e3b-0016-cb28-08dd5ac926f9",
+              "title": "第四十八条",
+              "index": 58,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-05bd-08dd5ac926fa",
+              "parentId": "79890000-3e3b-0016-cb28-08dd5ac926f9",
+              "title": "第四十九条",
+              "index": 59,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-19d0-08dd5ac926fa",
+              "parentId": "79890000-3e3b-0016-cb28-08dd5ac926f9",
+              "title": "第五十条",
+              "index": 60,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2d93-08dd5ac926fa",
+              "parentId": "79890000-3e3b-0016-cb28-08dd5ac926f9",
+              "title": "第五十一条",
+              "index": 61,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-417c-08dd5ac926fa",
+              "parentId": "79890000-3e3b-0016-cb28-08dd5ac926f9",
+              "title": "第五十二条",
+              "index": 62,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-5576-08dd5ac926fa",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "第九章 公民、组织的国防义务和权利",
+          "index": 63,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-694b-08dd5ac926fa",
+              "parentId": "79890000-3e3b-0016-5576-08dd5ac926fa",
+              "title": "第五十三条",
+              "index": 64,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7dd7-08dd5ac926fa",
+              "parentId": "79890000-3e3b-0016-5576-08dd5ac926fa",
+              "title": "第五十四条",
+              "index": 65,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-920a-08dd5ac926fa",
+              "parentId": "79890000-3e3b-0016-5576-08dd5ac926fa",
+              "title": "第五十五条",
+              "index": 66,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a720-08dd5ac926fa",
+              "parentId": "79890000-3e3b-0016-5576-08dd5ac926fa",
+              "title": "第五十六条",
+              "index": 67,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bc22-08dd5ac926fa",
+              "parentId": "79890000-3e3b-0016-5576-08dd5ac926fa",
+              "title": "第五十七条",
+              "index": 68,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d0ba-08dd5ac926fa",
+              "parentId": "79890000-3e3b-0016-5576-08dd5ac926fa",
+              "title": "第五十八条",
+              "index": 69,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-e5da-08dd5ac926fa",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "第十章 军人的义务和权益",
+          "index": 70,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-fac4-08dd5ac926fa",
+              "parentId": "79890000-3e3b-0016-e5da-08dd5ac926fa",
+              "title": "第五十九条",
+              "index": 71,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0ff7-08dd5ac926fb",
+              "parentId": "79890000-3e3b-0016-e5da-08dd5ac926fa",
+              "title": "第六十条",
+              "index": 72,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-248c-08dd5ac926fb",
+              "parentId": "79890000-3e3b-0016-e5da-08dd5ac926fa",
+              "title": "第六十一条",
+              "index": 73,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-39d2-08dd5ac926fb",
+              "parentId": "79890000-3e3b-0016-e5da-08dd5ac926fa",
+              "title": "第六十二条",
+              "index": 74,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-50b8-08dd5ac926fb",
+              "parentId": "79890000-3e3b-0016-e5da-08dd5ac926fa",
+              "title": "第六十三条",
+              "index": 75,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6602-08dd5ac926fb",
+              "parentId": "79890000-3e3b-0016-e5da-08dd5ac926fa",
+              "title": "第六十四条",
+              "index": 76,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7b18-08dd5ac926fb",
+              "parentId": "79890000-3e3b-0016-e5da-08dd5ac926fa",
+              "title": "第六十五条",
+              "index": 77,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-90af-08dd5ac926fb",
+              "parentId": "79890000-3e3b-0016-e5da-08dd5ac926fa",
+              "title": "第六十六条",
+              "index": 78,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-a65a-08dd5ac926fb",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "第十一章 对外军事关系",
+          "index": 79,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-de8e-08dd5ac926fb",
+              "parentId": "79890000-3e3b-0016-a65a-08dd5ac926fb",
+              "title": "第六十七条",
+              "index": 80,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f8aa-08dd5ac926fb",
+              "parentId": "79890000-3e3b-0016-a65a-08dd5ac926fb",
+              "title": "第六十八条",
+              "index": 81,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0fa1-08dd5ac926fc",
+              "parentId": "79890000-3e3b-0016-a65a-08dd5ac926fb",
+              "title": "第六十九条",
+              "index": 82,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-25ac-08dd5ac926fc",
+              "parentId": "79890000-3e3b-0016-a65a-08dd5ac926fb",
+              "title": "第七十条",
+              "index": 83,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-3bf5-08dd5ac926fc",
+          "parentId": "79890000-3e3b-0016-b495-08dd5ac926f5",
+          "title": "第十二章 附则",
+          "index": 84,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-523b-08dd5ac926fc",
+              "parentId": "79890000-3e3b-0016-3bf5-08dd5ac926fc",
+              "title": "第七十一条",
+              "index": 85,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-691a-08dd5ac926fc",
+              "parentId": "79890000-3e3b-0016-3bf5-08dd5ac926fc",
+              "title": "第七十二条",
+              "index": 86,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7f07-08dd5ac926fc",
+              "parentId": "79890000-3e3b-0016-3bf5-08dd5ac926fc",
+              "title": "第七十三条",
+              "index": 87,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:32:58"
+}

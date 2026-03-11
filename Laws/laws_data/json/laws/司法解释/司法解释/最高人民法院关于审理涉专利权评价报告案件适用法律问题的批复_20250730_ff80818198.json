@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff80818198a7ecd40198bb1b2565523c",
+  "title": "最高人民法院关于审理涉专利权评价报告案件适用法律问题的批复",
+  "gbrq": "2025-07-30",
+  "sxrq": "2025-08-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff80818198a7ecd40198bb1b2565523c",
+    "ossFile": {
+      "ossWordPath": "prod/20250730/7e1c6688f6ee486f833acb735a8acdc1.docx",
+      "ossWordOfdPath": "prod/20250730/7e1c6688f6ee486f833acb735a8acdc1.ofd",
+      "ossWordOfdSize": 40657,
+      "ossPdfPath": "prod/20250730/e2a6341e22d0443ca1b76d0511e54aee.pdf",
+      "ossPdfOfdPath": "prod/20250730/e2a6341e22d0443ca1b76d0511e54aee.ofd",
+      "ossPdfOfdSize": 242133
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818198794ccd0198f005423b1ee4",
+        "title": "法释2025-11公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819a77678a019a9ad9767a2ffd",
+        "title": "法释2025-11公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2025-07-30",
+    "sxrq": "2025-08-01",
+    "title": "最高人民法院关于审理涉专利权评价报告案件适用法律问题的批复",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:25"
+}

@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f408a30a703fb",
+  "title": "证券公司风险处置条例",
+  "gbrq": "2016-02-06",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f408a30a703fb",
+    "ossFile": {
+      "ossWordPath": "prod/20160206/8c57b0b46c0c47d1a8ea48a167d35daa.docx",
+      "ossWordOfdPath": "prod/20160206/8c57b0b46c0c47d1a8ea48a167d35daa.ofd",
+      "ossWordOfdSize": 160993,
+      "ossPdfPath": "prod/20160206/53fea98cb1204d679be20a0ce247a2ac.pdf",
+      "ossPdfOfdPath": "prod/20160206/53fea98cb1204d679be20a0ce247a2ac.ofd",
+      "ossPdfOfdSize": 7001962
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a1cb709018a6e34fa9b321b",
+        "title": "证券公司风险处置条例",
+        "gbrq": "2023-07-20",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f408a30a703fb",
+        "title": "证券公司风险处置条例",
+        "gbrq": "2016-02-06",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2016-02-06",
+    "sxrq": null,
+    "title": "证券公司风险处置条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:21:00"
+}

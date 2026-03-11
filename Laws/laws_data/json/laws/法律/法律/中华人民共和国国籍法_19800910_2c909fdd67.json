@@ -1,0 +1,175 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5aba10073",
+  "title": "中华人民共和国国籍法",
+  "gbrq": "1980-09-10",
+  "sxrq": "1980-09-10",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "法律",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5aba10073",
+    "ossFile": {
+      "ossWordPath": "prod/19800910/6827143da2604b6ba732ae0fea2d6511.docx",
+      "ossWordOfdPath": "prod/19800910/6827143da2604b6ba732ae0fea2d6511.ofd",
+      "ossWordOfdSize": 44442,
+      "ossPdfPath": "prod/19800910/ab0d79fea5544459b8045c1d8184220e.pdf",
+      "ossPdfOfdPath": "prod/19800910/ab0d79fea5544459b8045c1d8184220e.ofd",
+      "ossPdfOfdSize": 436232
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "1980-09-10",
+    "sxrq": "1980-09-10",
+    "title": "中华人民共和国国籍法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国国籍法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-322c-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-3d07-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第一条",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-4720-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第二条",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-518a-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第三条",
+          "index": 4,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-5bfe-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第四条",
+          "index": 5,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-669a-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第五条",
+          "index": 6,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-717e-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第六条",
+          "index": 7,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-839c-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第七条",
+          "index": 8,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-91da-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第八条",
+          "index": 9,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-9b97-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第九条",
+          "index": 10,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-a498-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第十条",
+          "index": 11,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-aee5-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第十一条",
+          "index": 12,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b7e5-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第十二条",
+          "index": 13,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c0f1-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第十三条",
+          "index": 14,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-ca43-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第十四条",
+          "index": 15,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-d3e2-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第十五条",
+          "index": 16,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-dd6d-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第十六条",
+          "index": 17,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-e764-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第十七条",
+          "index": 18,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-f116-08dd5ac9264f",
+          "parentId": "79890000-3e3b-0016-31c5-08dd5ac9264f",
+          "title": "第十八条",
+          "index": 19,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:51:07"
+}

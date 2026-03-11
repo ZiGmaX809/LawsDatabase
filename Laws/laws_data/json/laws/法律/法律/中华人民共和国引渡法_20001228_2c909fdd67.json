@@ -1,0 +1,529 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf60bd90253",
+  "title": "中华人民共和国引渡法",
+  "gbrq": "2000-12-28",
+  "sxrq": "2000-12-28",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 170,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf60bd90253",
+    "ossFile": {
+      "ossWordPath": "prod/20001228/1b6978e7633046c8b6e0b85b70fb666e.docx",
+      "ossWordOfdPath": "prod/20001228/1b6978e7633046c8b6e0b85b70fb666e.ofd",
+      "ossWordOfdSize": 144051,
+      "ossPdfPath": "prod/20001228/5fcc47a7246e4f4b9e9ff33c12720023.pdf",
+      "ossPdfOfdPath": "prod/20001228/5fcc47a7246e4f4b9e9ff33c12720023.ofd",
+      "ossPdfOfdSize": 2810880
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2000-12-28",
+    "sxrq": "2000-12-28",
+    "title": "中华人民共和国引渡法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-a5e4-08dd5c89e27a",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国引渡法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-a6a2-08dd5c89e27a",
+          "parentId": "79890000-3e3b-0016-a5e4-08dd5c89e27a",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-a71a-08dd5c89e27a",
+          "parentId": "79890000-3e3b-0016-a5e4-08dd5c89e27a",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b9d4-08dd5c89e27a",
+          "parentId": "79890000-3e3b-0016-a5e4-08dd5c89e27a",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-c81c-08dd5c89e27a",
+              "parentId": "79890000-3e3b-0016-b9d4-08dd5c89e27a",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d60f-08dd5c89e27a",
+              "parentId": "79890000-3e3b-0016-b9d4-08dd5c89e27a",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e4a4-08dd5c89e27a",
+              "parentId": "79890000-3e3b-0016-b9d4-08dd5c89e27a",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f2ac-08dd5c89e27a",
+              "parentId": "79890000-3e3b-0016-b9d4-08dd5c89e27a",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-00a9-08dd5c89e27b",
+              "parentId": "79890000-3e3b-0016-b9d4-08dd5c89e27a",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0f2a-08dd5c89e27b",
+              "parentId": "79890000-3e3b-0016-b9d4-08dd5c89e27a",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-1d49-08dd5c89e27b",
+          "parentId": "79890000-3e3b-0016-a5e4-08dd5c89e27a",
+          "title": "第二章 向中华人民共和国请求引渡",
+          "index": 10,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-2aad-08dd5c89e27b",
+              "parentId": "79890000-3e3b-0016-1d49-08dd5c89e27b",
+              "title": "第一节 引渡的条件",
+              "index": 11,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-38d1-08dd5c89e27b",
+                  "parentId": "79890000-3e3b-0016-2aad-08dd5c89e27b",
+                  "title": "第七条",
+                  "index": 12,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-47a5-08dd5c89e27b",
+                  "parentId": "79890000-3e3b-0016-2aad-08dd5c89e27b",
+                  "title": "第八条",
+                  "index": 13,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-5827-08dd5c89e27b",
+                  "parentId": "79890000-3e3b-0016-2aad-08dd5c89e27b",
+                  "title": "第九条",
+                  "index": 14,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "79890000-3e3b-0016-672d-08dd5c89e27b",
+              "parentId": "79890000-3e3b-0016-1d49-08dd5c89e27b",
+              "title": "第二节 引渡请求的提出",
+              "index": 15,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-7514-08dd5c89e27b",
+                  "parentId": "79890000-3e3b-0016-672d-08dd5c89e27b",
+                  "title": "第十条",
+                  "index": 16,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-8427-08dd5c89e27b",
+                  "parentId": "79890000-3e3b-0016-672d-08dd5c89e27b",
+                  "title": "第十一条",
+                  "index": 17,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-9350-08dd5c89e27b",
+                  "parentId": "79890000-3e3b-0016-672d-08dd5c89e27b",
+                  "title": "第十二条",
+                  "index": 18,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-a2af-08dd5c89e27b",
+                  "parentId": "79890000-3e3b-0016-672d-08dd5c89e27b",
+                  "title": "第十三条",
+                  "index": 19,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-b1c9-08dd5c89e27b",
+                  "parentId": "79890000-3e3b-0016-672d-08dd5c89e27b",
+                  "title": "第十四条",
+                  "index": 20,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-c0ec-08dd5c89e27b",
+                  "parentId": "79890000-3e3b-0016-672d-08dd5c89e27b",
+                  "title": "第十五条",
+                  "index": 21,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "79890000-3e3b-0016-d044-08dd5c89e27b",
+              "parentId": "79890000-3e3b-0016-1d49-08dd5c89e27b",
+              "title": "第三节 对引渡请求的审查",
+              "index": 22,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-deca-08dd5c89e27b",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第十六条",
+                  "index": 23,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-ee20-08dd5c89e27b",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第十七条",
+                  "index": 24,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-1aa9-08dd5c89e27c",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第十八条",
+                  "index": 25,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-2dc2-08dd5c89e27c",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第十九条",
+                  "index": 26,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-3e28-08dd5c89e27c",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第二十条",
+                  "index": 27,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-4e84-08dd5c89e27c",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第二十一条",
+                  "index": 28,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-5e37-08dd5c89e27c",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第二十二条",
+                  "index": 29,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-6ea4-08dd5c89e27c",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第二十三条",
+                  "index": 30,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-7f80-08dd5c89e27c",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第二十四条",
+                  "index": 31,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-9062-08dd5c89e27c",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第二十五条",
+                  "index": 32,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-aaeb-08dd5c89e27c",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第二十六条",
+                  "index": 33,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-bfd6-08dd5c89e27c",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第二十七条",
+                  "index": 34,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-d0ea-08dd5c89e27c",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第二十八条",
+                  "index": 35,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-e212-08dd5c89e27c",
+                  "parentId": "79890000-3e3b-0016-d044-08dd5c89e27b",
+                  "title": "第二十九条",
+                  "index": 36,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "79890000-3e3b-0016-f2a5-08dd5c89e27c",
+              "parentId": "79890000-3e3b-0016-1d49-08dd5c89e27b",
+              "title": "第四节 为引渡而采取的强制措施",
+              "index": 37,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-02f9-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-f2a5-08dd5c89e27c",
+                  "title": "第三十条",
+                  "index": 38,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-14a3-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-f2a5-08dd5c89e27c",
+                  "title": "第三十一条",
+                  "index": 39,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-266b-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-f2a5-08dd5c89e27c",
+                  "title": "第三十二条",
+                  "index": 40,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-38fb-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-f2a5-08dd5c89e27c",
+                  "title": "第三十三条",
+                  "index": 41,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-4b26-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-f2a5-08dd5c89e27c",
+                  "title": "第三十四条",
+                  "index": 42,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-5de5-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-f2a5-08dd5c89e27c",
+                  "title": "第三十五条",
+                  "index": 43,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-70b8-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-f2a5-08dd5c89e27c",
+                  "title": "第三十六条",
+                  "index": 44,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-83c5-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-f2a5-08dd5c89e27c",
+                  "title": "第三十七条",
+                  "index": 45,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "79890000-3e3b-0016-955d-08dd5c89e27d",
+              "parentId": "79890000-3e3b-0016-1d49-08dd5c89e27b",
+              "title": "第五节 引渡的执行",
+              "index": 46,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-a71d-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-955d-08dd5c89e27d",
+                  "title": "第三十八条",
+                  "index": 47,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-b8f1-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-955d-08dd5c89e27d",
+                  "title": "第三十九条",
+                  "index": 48,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-cae3-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-955d-08dd5c89e27d",
+                  "title": "第四十条",
+                  "index": 49,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-dc5a-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-955d-08dd5c89e27d",
+                  "title": "第四十一条",
+                  "index": 50,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "79890000-3e3b-0016-edd2-08dd5c89e27d",
+              "parentId": "79890000-3e3b-0016-1d49-08dd5c89e27b",
+              "title": "第六节 暂缓引渡和临时引渡",
+              "index": 51,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-ff48-08dd5c89e27d",
+                  "parentId": "79890000-3e3b-0016-edd2-08dd5c89e27d",
+                  "title": "第四十二条",
+                  "index": 52,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-115c-08dd5c89e27e",
+                  "parentId": "79890000-3e3b-0016-edd2-08dd5c89e27d",
+                  "title": "第四十三条",
+                  "index": 53,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "79890000-3e3b-0016-235f-08dd5c89e27e",
+              "parentId": "79890000-3e3b-0016-1d49-08dd5c89e27b",
+              "title": "第七节 引渡的过境",
+              "index": 54,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-3498-08dd5c89e27e",
+                  "parentId": "79890000-3e3b-0016-235f-08dd5c89e27e",
+                  "title": "第四十四条",
+                  "index": 55,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-46b0-08dd5c89e27e",
+                  "parentId": "79890000-3e3b-0016-235f-08dd5c89e27e",
+                  "title": "第四十五条",
+                  "index": 56,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-58c1-08dd5c89e27e",
+                  "parentId": "79890000-3e3b-0016-235f-08dd5c89e27e",
+                  "title": "第四十六条",
+                  "index": 57,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-6b3e-08dd5c89e27e",
+          "parentId": "79890000-3e3b-0016-a5e4-08dd5c89e27a",
+          "title": "第三章 向外国请求引渡",
+          "index": 58,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-7c9d-08dd5c89e27e",
+              "parentId": "79890000-3e3b-0016-6b3e-08dd5c89e27e",
+              "title": "第四十七条",
+              "index": 59,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8ede-08dd5c89e27e",
+              "parentId": "79890000-3e3b-0016-6b3e-08dd5c89e27e",
+              "title": "第四十八条",
+              "index": 60,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a121-08dd5c89e27e",
+              "parentId": "79890000-3e3b-0016-6b3e-08dd5c89e27e",
+              "title": "第四十九条",
+              "index": 61,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b3d2-08dd5c89e27e",
+              "parentId": "79890000-3e3b-0016-6b3e-08dd5c89e27e",
+              "title": "第五十条",
+              "index": 62,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c68b-08dd5c89e27e",
+              "parentId": "79890000-3e3b-0016-6b3e-08dd5c89e27e",
+              "title": "第五十一条",
+              "index": 63,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-d9ce-08dd5c89e27e",
+          "parentId": "79890000-3e3b-0016-a5e4-08dd5c89e27a",
+          "title": "第四章 附则",
+          "index": 64,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-ec46-08dd5c89e27e",
+              "parentId": "79890000-3e3b-0016-d9ce-08dd5c89e27e",
+              "title": "第五十二条",
+              "index": 65,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0703-08dd5c89e27f",
+              "parentId": "79890000-3e3b-0016-d9ce-08dd5c89e27e",
+              "title": "第五十三条",
+              "index": 66,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1c37-08dd5c89e27f",
+              "parentId": "79890000-3e3b-0016-d9ce-08dd5c89e27e",
+              "title": "第五十四条",
+              "index": 67,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2f9f-08dd5c89e27f",
+              "parentId": "79890000-3e3b-0016-d9ce-08dd5c89e27e",
+              "title": "第五十五条",
+              "index": 68,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:49:04"
+}

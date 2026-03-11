@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181907350630190dd6d975c6c01",
+  "title": "国务院关于实施《中华人民共和国公司法》注册资本登记管理制度的规定",
+  "gbrq": "2024-07-01",
+  "sxrq": "2024-07-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181907350630190dd6d975c6c01",
+    "ossFile": {
+      "ossWordPath": "prod/20240701/0ad16ea4588545a6b9e74f99d7ca3dd8.docx",
+      "ossWordOfdPath": "prod/20240701/0ad16ea4588545a6b9e74f99d7ca3dd8.ofd",
+      "ossWordOfdSize": 66850,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a46390191065384c24407",
+        "title": "中华人民共和国国务院令第784号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a46390190e36831843e48",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-07-01",
+    "sxrq": "2024-07-01",
+    "title": "国务院关于实施《中华人民共和国公司法》注册资本登记管理制度的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:04:47"
+}

@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40d5bc0f0659",
+  "title": "工伤保险条例",
+  "gbrq": "2010-12-20",
+  "sxrq": "2011-01-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40d5bc0f0659",
+    "ossFile": {
+      "ossWordPath": "prod/20101220/1c6edb499bf548d7ac800385feaa7870.docx",
+      "ossWordOfdPath": "prod/20101220/1c6edb499bf548d7ac800385feaa7870.ofd",
+      "ossWordOfdSize": 182523,
+      "ossPdfPath": "prod/20101220/9fd077a3f06e4ff5924edbdaa4dc6cd5.pdf",
+      "ossPdfOfdPath": "prod/20101220/9fd077a3f06e4ff5924edbdaa4dc6cd5.ofd",
+      "ossPdfOfdSize": 9429517
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2010-12-20",
+    "sxrq": "2011-01-01",
+    "title": "工伤保险条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:26:43"
+}

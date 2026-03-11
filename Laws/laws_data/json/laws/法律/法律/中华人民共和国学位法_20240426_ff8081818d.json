@@ -1,0 +1,492 @@
+{
+  "bbbs": "ff8081818d6a424b018f1a63b49a796a",
+  "title": "中华人民共和国学位法",
+  "gbrq": "2024-04-26",
+  "sxrq": "2025-01-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "ff8081818d6a424b018f1a63b49a796a",
+    "ossFile": {
+      "ossWordPath": "prod/20240426/34365ad426f341449386eec6b18ce2cf.docx",
+      "ossWordOfdPath": "prod/20240426/34365ad426f341449386eec6b18ce2cf.ofd",
+      "ossWordOfdSize": 127300,
+      "ossPdfPath": "prod/20240426/a751f10f2dc84283bbb3fcecc629ae4d.pdf",
+      "ossPdfOfdPath": "prod/20240426/a751f10f2dc84283bbb3fcecc629ae4d.ofd",
+      "ossPdfOfdSize": 817469
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818f197cf0018f1a6f3e8601d7",
+        "title": "中华人民共和国主席令（第二十二号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a463901906dd5aeff30da",
+        "title": "中华人民共和国主席令（第二十二号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b01906dd558bd32c6",
+        "title": "关于《中华人民共和国学位法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b01906dd53f2832c1",
+        "title": "关于《中华人民共和国学位法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818f197cf001906dc88275396f",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国学位法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b01906dc86213329b",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国学位法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b01906dc7b05c3297",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国学位法（草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a463901906dc78a4730ad",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国学位法（草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2024-04-26",
+    "sxrq": "2025-01-01",
+    "title": "中华人民共和国学位法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-6d68-08dd5babdb23",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国学位法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-6e16-08dd5babdb23",
+          "parentId": "79890000-3e3b-0016-6d68-08dd5babdb23",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-6e85-08dd5babdb23",
+          "parentId": "79890000-3e3b-0016-6d68-08dd5babdb23",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-843f-08dd5babdb23",
+          "parentId": "79890000-3e3b-0016-6d68-08dd5babdb23",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9724-08dd5babdb23",
+              "parentId": "79890000-3e3b-0016-843f-08dd5babdb23",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a97f-08dd5babdb23",
+              "parentId": "79890000-3e3b-0016-843f-08dd5babdb23",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b801-08dd5babdb23",
+              "parentId": "79890000-3e3b-0016-843f-08dd5babdb23",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c605-08dd5babdb23",
+              "parentId": "79890000-3e3b-0016-843f-08dd5babdb23",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d326-08dd5babdb23",
+              "parentId": "79890000-3e3b-0016-843f-08dd5babdb23",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-df2e-08dd5babdb23",
+          "parentId": "79890000-3e3b-0016-6d68-08dd5babdb23",
+          "title": "第二章 学位工作体制",
+          "index": 9,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-eb5d-08dd5babdb23",
+              "parentId": "79890000-3e3b-0016-df2e-08dd5babdb23",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f84b-08dd5babdb23",
+              "parentId": "79890000-3e3b-0016-df2e-08dd5babdb23",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-04af-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-df2e-08dd5babdb23",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1173-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-df2e-08dd5babdb23",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1f39-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-df2e-08dd5babdb23",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2bf8-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-df2e-08dd5babdb23",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-38ab-08dd5babdb24",
+          "parentId": "79890000-3e3b-0016-6d68-08dd5babdb23",
+          "title": "第三章 学位授予资格",
+          "index": 16,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-679e-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-38ab-08dd5babdb24",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-77de-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-38ab-08dd5babdb24",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-859d-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-38ab-08dd5babdb24",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-93bb-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-38ab-08dd5babdb24",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a0d5-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-38ab-08dd5babdb24",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ae4b-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-38ab-08dd5babdb24",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-bc0d-08dd5babdb24",
+          "parentId": "79890000-3e3b-0016-6d68-08dd5babdb23",
+          "title": "第四章 学位授予条件",
+          "index": 23,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-c92f-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-bc0d-08dd5babdb24",
+              "title": "第十八条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d728-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-bc0d-08dd5babdb24",
+              "title": "第十九条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e55b-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-bc0d-08dd5babdb24",
+              "title": "第二十条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f329-08dd5babdb24",
+              "parentId": "79890000-3e3b-0016-bc0d-08dd5babdb24",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-01d4-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-bc0d-08dd5babdb24",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-0f59-08dd5babdb25",
+          "parentId": "79890000-3e3b-0016-6d68-08dd5babdb23",
+          "title": "第五章 学位授予程序",
+          "index": 29,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-1d2a-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-0f59-08dd5babdb25",
+              "title": "第二十三条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2bc6-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-0f59-08dd5babdb25",
+              "title": "第二十四条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-39e4-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-0f59-08dd5babdb25",
+              "title": "第二十五条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4874-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-0f59-08dd5babdb25",
+              "title": "第二十六条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5722-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-0f59-08dd5babdb25",
+              "title": "第二十七条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-658d-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-0f59-08dd5babdb25",
+              "title": "第二十八条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-74a4-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-0f59-08dd5babdb25",
+              "title": "第二十九条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-836d-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-0f59-08dd5babdb25",
+              "title": "第三十条",
+              "index": 37,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-91f6-08dd5babdb25",
+          "parentId": "79890000-3e3b-0016-6d68-08dd5babdb23",
+          "title": "第六章 学位质量保障",
+          "index": 38,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a0bf-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-91f6-08dd5babdb25",
+              "title": "第三十一条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-af94-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-91f6-08dd5babdb25",
+              "title": "第三十二条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bec1-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-91f6-08dd5babdb25",
+              "title": "第三十三条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ce66-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-91f6-08dd5babdb25",
+              "title": "第三十四条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dd4c-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-91f6-08dd5babdb25",
+              "title": "第三十五条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-eca1-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-91f6-08dd5babdb25",
+              "title": "第三十六条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fbda-08dd5babdb25",
+              "parentId": "79890000-3e3b-0016-91f6-08dd5babdb25",
+              "title": "第三十七条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1200-08dd5babdb26",
+              "parentId": "79890000-3e3b-0016-91f6-08dd5babdb25",
+              "title": "第三十八条",
+              "index": 46,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-29ef-08dd5babdb26",
+              "parentId": "79890000-3e3b-0016-91f6-08dd5babdb25",
+              "title": "第三十九条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3bb1-08dd5babdb26",
+              "parentId": "79890000-3e3b-0016-91f6-08dd5babdb25",
+              "title": "第四十条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4c66-08dd5babdb26",
+              "parentId": "79890000-3e3b-0016-91f6-08dd5babdb25",
+              "title": "第四十一条",
+              "index": 49,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-5d56-08dd5babdb26",
+          "parentId": "79890000-3e3b-0016-6d68-08dd5babdb23",
+          "title": "第七章 附则",
+          "index": 50,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-6df6-08dd5babdb26",
+              "parentId": "79890000-3e3b-0016-5d56-08dd5babdb26",
+              "title": "第四十二条",
+              "index": 51,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7e62-08dd5babdb26",
+              "parentId": "79890000-3e3b-0016-5d56-08dd5babdb26",
+              "title": "第四十三条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8f67-08dd5babdb26",
+              "parentId": "79890000-3e3b-0016-5d56-08dd5babdb26",
+              "title": "第四十四条",
+              "index": 53,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a065-08dd5babdb26",
+              "parentId": "79890000-3e3b-0016-5d56-08dd5babdb26",
+              "title": "第四十五条",
+              "index": 54,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:27:55"
+}

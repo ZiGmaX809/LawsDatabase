@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3e98bd016f4256565b0528",
+  "title": "总会计师条例",
+  "gbrq": "2011-01-08",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f4256565b0528",
+    "ossFile": {
+      "ossWordPath": "prod/20110108/e23ee1dfe19a4048aeaf1cd814233f3b.docx",
+      "ossWordOfdPath": "prod/20110108/e23ee1dfe19a4048aeaf1cd814233f3b.ofd",
+      "ossWordOfdSize": 108747,
+      "ossPdfPath": "prod/20110108/9e539397a94d43b1bde056e80ec5f36a.pdf",
+      "ossPdfOfdPath": "prod/20110108/9e539397a94d43b1bde056e80ec5f36a.ofd",
+      "ossPdfOfdSize": 2083222
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2011-01-08",
+    "sxrq": null,
+    "title": "总会计师条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:25:12"
+}

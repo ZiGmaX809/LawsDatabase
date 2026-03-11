@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40ee04010be6",
+  "title": "城市房地产开发经营管理条例",
+  "gbrq": "2019-03-24",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40ee04010be6",
+    "ossFile": {
+      "ossWordPath": "prod/20190324/d122e2f6cef148ddab456cc8a19a47c5.docx",
+      "ossWordOfdPath": "prod/20190324/d122e2f6cef148ddab456cc8a19a47c5.ofd",
+      "ossWordOfdSize": 126013,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d0c940177b849e10d2bd1",
+        "title": "城市房地产开发经营管理条例",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40ee04010be6",
+        "title": "城市房地产开发经营管理条例",
+        "gbrq": "2019-03-24",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-03-24",
+    "sxrq": null,
+    "title": "城市房地产开发经营管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:10:53"
+}

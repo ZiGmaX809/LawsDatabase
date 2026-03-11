@@ -1,0 +1,410 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf7157005cd",
+  "title": "中华人民共和国村民委员会组织法",
+  "gbrq": "2010-10-28",
+  "sxrq": "2010-10-28",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf7157005cd",
+    "ossFile": {
+      "ossWordPath": "prod/20101028/e16f86622a094a308d5c242fcc6fad52.docx",
+      "ossWordOfdPath": "prod/20101028/e16f86622a094a308d5c242fcc6fad52.ofd",
+      "ossWordOfdSize": 142882,
+      "ossPdfPath": "prod/20101028/037cac485a0a40079922114536733396.pdf",
+      "ossPdfOfdPath": "prod/20101028/037cac485a0a40079922114536733396.ofd",
+      "ossPdfOfdSize": 3995342
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "090f4cc550f84241941e1109c8772e76",
+        "title": "中华人民共和国村民委员会组织法",
+        "gbrq": "2025-10-28",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f135f46016f1d901c941589",
+        "title": "中华人民共和国村民委员会组织法",
+        "gbrq": "2018-12-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf7157005cd",
+        "title": "中华人民共和国村民委员会组织法",
+        "gbrq": "2010-10-28",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2010-10-28",
+    "sxrq": "2010-10-28",
+    "title": "中华人民共和国村民委员会组织法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-1df1-08dd61d0cd4b",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国村民委员会组织法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-1e73-08dd61d0cd4b",
+          "parentId": "79890000-3e3b-0016-1df1-08dd61d0cd4b",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1ecc-08dd61d0cd4b",
+          "parentId": "79890000-3e3b-0016-1df1-08dd61d0cd4b",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-2dbb-08dd61d0cd4b",
+          "parentId": "79890000-3e3b-0016-1df1-08dd61d0cd4b",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-3f42-08dd61d0cd4b",
+              "parentId": "79890000-3e3b-0016-2dbb-08dd61d0cd4b",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4c9c-08dd61d0cd4b",
+              "parentId": "79890000-3e3b-0016-2dbb-08dd61d0cd4b",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5a67-08dd61d0cd4b",
+              "parentId": "79890000-3e3b-0016-2dbb-08dd61d0cd4b",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-67af-08dd61d0cd4b",
+              "parentId": "79890000-3e3b-0016-2dbb-08dd61d0cd4b",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-74c0-08dd61d0cd4b",
+              "parentId": "79890000-3e3b-0016-2dbb-08dd61d0cd4b",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-8262-08dd61d0cd4b",
+          "parentId": "79890000-3e3b-0016-1df1-08dd61d0cd4b",
+          "title": "第二章 村民委员会的组成和职责",
+          "index": 9,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-8fbb-08dd61d0cd4b",
+              "parentId": "79890000-3e3b-0016-8262-08dd61d0cd4b",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b8c0-08dd61d0cd4b",
+              "parentId": "79890000-3e3b-0016-8262-08dd61d0cd4b",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c8af-08dd61d0cd4b",
+              "parentId": "79890000-3e3b-0016-8262-08dd61d0cd4b",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-da21-08dd61d0cd4b",
+              "parentId": "79890000-3e3b-0016-8262-08dd61d0cd4b",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-eba9-08dd61d0cd4b",
+              "parentId": "79890000-3e3b-0016-8262-08dd61d0cd4b",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-f9b1-08dd61d0cd4b",
+          "parentId": "79890000-3e3b-0016-1df1-08dd61d0cd4b",
+          "title": "第三章 村民委员会的选举",
+          "index": 15,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0760-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-f9b1-08dd61d0cd4b",
+              "title": "第十一条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-15f2-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-f9b1-08dd61d0cd4b",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2495-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-f9b1-08dd61d0cd4b",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-333b-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-f9b1-08dd61d0cd4b",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-425f-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-f9b1-08dd61d0cd4b",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-510e-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-f9b1-08dd61d0cd4b",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5f03-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-f9b1-08dd61d0cd4b",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6db8-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-f9b1-08dd61d0cd4b",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7bf4-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-f9b1-08dd61d0cd4b",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8a74-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-f9b1-08dd61d0cd4b",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9910-08dd61d0cd4c",
+          "parentId": "79890000-3e3b-0016-1df1-08dd61d0cd4b",
+          "title": "第四章 村民会议和村民代表会议",
+          "index": 26,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a708-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-9910-08dd61d0cd4c",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b60c-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-9910-08dd61d0cd4c",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c4cd-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-9910-08dd61d0cd4c",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d39d-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-9910-08dd61d0cd4c",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e501-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-9910-08dd61d0cd4c",
+              "title": "第二十五条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f41c-08dd61d0cd4c",
+              "parentId": "79890000-3e3b-0016-9910-08dd61d0cd4c",
+              "title": "第二十六条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-03d3-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-9910-08dd61d0cd4c",
+              "title": "第二十七条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-132d-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-9910-08dd61d0cd4c",
+              "title": "第二十八条",
+              "index": 34,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-2256-08dd61d0cd4d",
+          "parentId": "79890000-3e3b-0016-1df1-08dd61d0cd4b",
+          "title": "第五章 民主管理和民主监督",
+          "index": 35,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-323b-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-2256-08dd61d0cd4d",
+              "title": "第二十九条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-420d-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-2256-08dd61d0cd4d",
+              "title": "第三十条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5354-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-2256-08dd61d0cd4d",
+              "title": "第三十一条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6314-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-2256-08dd61d0cd4d",
+              "title": "第三十二条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-72fe-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-2256-08dd61d0cd4d",
+              "title": "第三十三条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8368-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-2256-08dd61d0cd4d",
+              "title": "第三十四条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9384-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-2256-08dd61d0cd4d",
+              "title": "第三十五条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a533-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-2256-08dd61d0cd4d",
+              "title": "第三十六条",
+              "index": 43,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-b57e-08dd61d0cd4d",
+          "parentId": "79890000-3e3b-0016-1df1-08dd61d0cd4b",
+          "title": "第六章 附则",
+          "index": 44,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-c538-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-b57e-08dd61d0cd4d",
+              "title": "第三十七条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d648-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-b57e-08dd61d0cd4d",
+              "title": "第三十八条",
+              "index": 46,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e6a1-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-b57e-08dd61d0cd4d",
+              "title": "第三十九条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f790-08dd61d0cd4d",
+              "parentId": "79890000-3e3b-0016-b57e-08dd61d0cd4d",
+              "title": "第四十条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-07e0-08dd61d0cd4e",
+              "parentId": "79890000-3e3b-0016-b57e-08dd61d0cd4d",
+              "title": "第四十一条",
+              "index": 49,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:44:56"
+}

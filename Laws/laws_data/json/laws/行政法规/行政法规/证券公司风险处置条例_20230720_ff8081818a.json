@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081818a1cb709018a6e34fa9b321b",
+  "title": "证券公司风险处置条例",
+  "gbrq": "2023-07-20",
+  "sxrq": "2023-07-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818a1cb709018a6e34fa9b321b",
+    "ossFile": {
+      "ossWordPath": "prod/20230720/915a836b4e7f41299a83c5919b2ac31a.docx",
+      "ossWordOfdPath": "prod/20230720/915a836b4e7f41299a83c5919b2ac31a.ofd",
+      "ossWordOfdSize": 147158,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a1cb709018a6e34fa9b321b",
+        "title": "证券公司风险处置条例",
+        "gbrq": "2023-07-20",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f408a30a703fb",
+        "title": "证券公司风险处置条例",
+        "gbrq": "2016-02-06",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21e8b2018a789f65aa168c",
+        "title": "中华人民共和国国务院令第764号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21dc13018a789f1ec9159a",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018a789fa8c11693",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-07-20",
+    "sxrq": "2023-07-20",
+    "title": "证券公司风险处置条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:38"
+}

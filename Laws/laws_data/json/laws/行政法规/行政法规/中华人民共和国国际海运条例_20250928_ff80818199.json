@@ -1,0 +1,79 @@
+{
+  "bbbs": "ff808181999a5e270199db1c68bd6953",
+  "title": "中华人民共和国国际海运条例",
+  "gbrq": "2025-09-28",
+  "sxrq": "2025-09-28",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181999a5e270199db1c68bd6953",
+    "ossFile": {
+      "ossWordPath": "prod/20250928/e80332acf22f4ee0bfe4738a2d06094b.docx",
+      "ossWordOfdPath": "prod/20250928/e80332acf22f4ee0bfe4738a2d06094b.ofd",
+      "ossWordOfdSize": 149265,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181999a5e270199db1c68bd6953",
+        "title": "中华人民共和国国际海运条例",
+        "gbrq": "2025-09-28",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8081818a22132f018a6e36bb32230e",
+        "title": "中华人民共和国国际海运条例",
+        "gbrq": "2023-07-20",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f41faa0db026d",
+        "title": "中华人民共和国国际海运条例",
+        "gbrq": "2019-03-02",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff808181987921230199dbabe4d91796",
+        "title": "中华人民共和国国务院令第817号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181987921230199dbabd6cf178c",
+        "title": "国务院关于修改《中华人民共和国国际海运条例》的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818198794ccd0199dbaba9711691",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-09-28",
+    "sxrq": "2025-09-28",
+    "title": "中华人民共和国国际海运条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:32"
+}

@@ -1,0 +1,84 @@
+{
+  "bbbs": "ff8081817f48f067017f78b79ff4115c",
+  "title": "第十三届全国人民代表大会第五次会议关于第十四届全国人民代表大会代表名额和选举问题的决定",
+  "gbrq": "2022-03-11",
+  "sxrq": "2022-03-11",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "ff8081817f48f067017f78b79ff4115c",
+    "ossFile": {
+      "ossWordPath": "prod/20220311/a36a25e04c0849be8f08040431a1873d.docx",
+      "ossWordOfdPath": "prod/20220311/a36a25e04c0849be8f08040431a1873d.ofd",
+      "ossWordOfdSize": 49425,
+      "ossPdfPath": "prod/20220311/c136e326d28648af95d23d8f610b5d6e.pdf",
+      "ossPdfOfdPath": "prod/20220311/c136e326d28648af95d23d8f610b5d6e.ofd",
+      "ossPdfOfdSize": 885746
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818180926a570180b25ae2b91a28",
+        "title": "关于《第十三届全国人民代表大会第五次会议关于第十四届全国人民代表大会代表名额和选举问题的决定(草案)》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818180743e1301807458b015003d",
+        "title": "关于《第十三届全国人民代表大会第五次会议关于第十四届全国人民代表大会代表名额和选举问题的决定（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817f48d6f4017f78f308a0110a",
+        "title": "第十三届全国人民代表大会宪法和法律委员会关于《第十三届全国人民代表大会第五次会议关于第十四届全国人民代表大会代表名额和选举问题的决定(草案)》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181807447770180745902cb0007",
+        "title": "第十三届全国人民代表大会宪法和法律委员会关于《第十三届全国人民代表大会第五次会议关于第十四届全国人民代表大会代表名额和选举问题的决定（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818180743e13018074595d7f0046",
+        "title": "第十三届全国人民代表大会宪法和法律委员会关于《第十三届全国人民代表大会第五次会议关于第十四届全国人民代表大会代表名额和选举问题的决定（草案修改稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818180743e130180745986b4004e",
+        "title": "第十三届全国人民代表大会宪法和法律委员会关于《第十三届全国人民代表大会第五次会议关于第十四届全国人民代表大会代表名额和选举问题的决定（草案修改稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "2022-03-11",
+    "sxrq": "2022-03-11",
+    "title": "第十三届全国人民代表大会第五次会议关于第十四届全国人民代表大会代表名额和选举问题的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:30:21"
+}

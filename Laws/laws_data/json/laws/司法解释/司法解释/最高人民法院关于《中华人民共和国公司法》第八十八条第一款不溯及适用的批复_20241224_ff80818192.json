@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff808181927f1276019448a29dca7d34",
+  "title": "最高人民法院关于《中华人民共和国公司法》第八十八条第一款不溯及适用的批复",
+  "gbrq": "2024-12-24",
+  "sxrq": "2024-12-24",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181927f1276019448a29dca7d34",
+    "ossFile": {
+      "ossWordPath": "prod/20241224/92371b48c66345f4b0e081a4d80a0c84.docx",
+      "ossWordOfdPath": "prod/20241224/92371b48c66345f4b0e081a4d80a0c84.ofd",
+      "ossWordOfdSize": 38700,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081819440697201944a40c0a10749",
+        "title": "法释2024-15公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2024-12-24",
+    "sxrq": "2024-12-24",
+    "title": "最高人民法院关于《中华人民共和国公司法》第八十八条第一款不溯及适用的批复",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:27"
+}

@@ -1,0 +1,129 @@
+{
+  "bbbs": "1349e6aadd4947fe83ff811739825d3c",
+  "title": "中华人民共和国海商法",
+  "gbrq": "2025-10-28",
+  "sxrq": "2026-05-01",
+  "sxx": 4,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 120,
+  "detail": {
+    "bbbs": "1349e6aadd4947fe83ff811739825d3c",
+    "ossFile": {
+      "ossWordPath": "prod/20251028/9fee09f0c1944a1c97a1983b74e05c59.docx",
+      "ossWordOfdPath": "prod/20251028/9fee09f0c1944a1c97a1983b74e05c59.ofd",
+      "ossWordOfdSize": 362363,
+      "ossPdfPath": "prod/20251028/1ca3fdd3e09f4fee955d9297bad0a753.pdf",
+      "ossPdfOfdPath": "prod/20251028/1ca3fdd3e09f4fee955d9297bad0a753.ofd",
+      "ossPdfOfdSize": 1202526
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "1349e6aadd4947fe83ff811739825d3c",
+        "title": "中华人民共和国海商法",
+        "gbrq": "2025-10-28",
+        "highLight": true
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf5cb610159",
+        "title": "中华人民共和国海商法",
+        "gbrq": "1992-11-07",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "41cd703173be41da96d2990088454246",
+        "title": "中华人民共和国主席令（第五十八号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "6263a0420b704e0faf4d5d58cba64265",
+        "title": "中华人民共和国主席令（第五十八号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "57d26dcbdd364f628772383db4bf47ee",
+        "title": "关于《中华人民共和国海商法（修订草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "3ad321f96d33493a8addec35986319ba",
+        "title": "关于《中华人民共和国海商法（修订草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "c40659b2b95d4e3283a276b2e5a0bf86",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国海商法（修订草案）》修改情况的汇报",
+        "titleHighLight": null,
+        "busiType": "修改情况的汇报",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "154117f8f6c34668a1b1f2e16a4471bb",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国海商法（修订草案）》修改情况的汇报",
+        "titleHighLight": null,
+        "busiType": "修改情况的汇报",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "208aef953439410f9ab64f1c62f60125",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国海商法（修订草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "5529be9d2af0483aaf3e92d9a0eec23b",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国海商法（修订草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "9c25ebb19c4a46e2af6623473bfb242d",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国海商法（修订草案三次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "0f3e23b9b63c4776bab638e27164c673",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国海商法（修订草案三次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2025-10-28",
+    "sxrq": "2026-05-01",
+    "title": "中华人民共和国海商法",
+    "sxx": 4,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:25:22"
+}

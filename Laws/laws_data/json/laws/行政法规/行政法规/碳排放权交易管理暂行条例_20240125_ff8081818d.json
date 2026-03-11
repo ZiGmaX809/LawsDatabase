@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081818d736ac1018dcfae95612eae",
+  "title": "碳排放权交易管理暂行条例",
+  "gbrq": "2024-01-25",
+  "sxrq": "2024-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818d736ac1018dcfae95612eae",
+    "ossFile": {
+      "ossWordPath": "prod/20240125/b2c387bfcebe4a028cd85527fda22997.docx",
+      "ossWordOfdPath": "prod/20240125/b2c387bfcebe4a028cd85527fda22997.ofd",
+      "ossWordOfdSize": 117156,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a424b018de0fab670106a",
+        "title": "中华人民共和国国务院令第775号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b018de0faf26c1071",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-01-25",
+    "sxrq": "2024-05-01",
+    "title": "碳排放权交易管理暂行条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:05:39"
+}

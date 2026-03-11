@@ -1,0 +1,70 @@
+{
+  "bbbs": "ff808181799df4000179b1ad2c591ae4",
+  "title": "最高人民法院关于适用简易程序审理民事案件的若干规定",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799df4000179b1ad2c591ae4",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/7d84facd69944b6e9feddcedac7bd2ed.doc",
+      "ossWordOfdPath": "prod/20201229/7d84facd69944b6e9feddcedac7bd2ed.ofd",
+      "ossWordOfdSize": 103409,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "ff8081818a21e6c3018bf5e4fd726c0a",
+        "title": "最高人民法院关于修改《最高人民法院关于人民法院民事调解工作若干问题的规定》等十九件民事诉讼类司法解释的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799df4000179b1ad2c591ae4",
+        "title": "最高人民法院关于适用简易程序审理民事案件的若干规定",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e46000e279016001b9416709fb",
+        "title": "最高人民法院关于适用简易程序审理民事案件的若干规定",
+        "gbrq": "2003-09-10",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179a8c0a40179b5eac2500e5b",
+        "title": "法释〔2020〕20号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "doc",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179a8c0a40179b5eac5050e5e",
+        "title": "法释〔2020〕20号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于适用简易程序审理民事案件的若干规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:53"
+}

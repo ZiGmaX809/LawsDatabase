@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181799df4000179b0a9a81f18c0",
+  "title": "最高人民法院关于债务人在约定的期限届满后未履行债务而出具没有还款日期的欠款条诉讼时效期间应从何时开始计算问题的批复",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799df4000179b0a9a81f18c0",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/2d21073340c14f46a697c612f0ba3d95.doc",
+      "ossWordOfdPath": "prod/20201229/2d21073340c14f46a697c612f0ba3d95.ofd",
+      "ossWordOfdSize": 50334,
+      "ossPdfPath": "prod/20201229/27115445895b4279b3dd634cb9c0a130.pdf",
+      "ossPdfOfdPath": "prod/20201229/27115445895b4279b3dd634cb9c0a130.ofd",
+      "ossPdfOfdSize": 230308
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799df4000179b0a9a81f18c0",
+        "title": "最高人民法院关于债务人在约定的期限届满后未履行债务而出具没有还款日期的欠款条诉讼时效期间应从何时开始计算问题的批复",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e45ffb0c10015ffb3e5fdc01c0",
+        "title": "最高人民法院关于债务人在约定的期限届满后未履行债务而出具没有还款日期的欠款条诉讼时效期间应从何时开始计算问题的批复",
+        "gbrq": "1994-03-26",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179a8c0a40179c59e9d0c498c",
+        "title": "法释〔2020〕17号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179a8c7550179c59e9d5a49b1",
+        "title": "法释〔2020〕17号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于债务人在约定的期限届满后未履行债务而出具没有还款日期的欠款条诉讼时效期间应从何时开始计算问题的批复",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:05:31"
+}

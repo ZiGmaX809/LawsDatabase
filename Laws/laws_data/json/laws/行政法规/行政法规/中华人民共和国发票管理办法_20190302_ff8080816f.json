@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f411e469a1853",
+  "title": "中华人民共和国发票管理办法",
+  "gbrq": "2019-03-02",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f411e469a1853",
+    "ossFile": {
+      "ossWordPath": "prod/20190302/37dfb31bb69841439b9c2267bef2c933.docx",
+      "ossWordOfdPath": "prod/20190302/37dfb31bb69841439b9c2267bef2c933.ofd",
+      "ossWordOfdSize": 129866,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a1cb546018a6e362a746d5a",
+        "title": "中华人民共和国发票管理办法",
+        "gbrq": "2023-07-20",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f411e469a1853",
+        "title": "中华人民共和国发票管理办法",
+        "gbrq": "2019-03-02",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-03-02",
+    "sxrq": null,
+    "title": "中华人民共和国发票管理办法",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:12:23"
+}

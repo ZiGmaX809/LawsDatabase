@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f413b6a231df7",
+  "title": "乡镇煤矿管理条例",
+  "gbrq": "2013-07-18",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f413b6a231df7",
+    "ossFile": {
+      "ossWordPath": "prod/20130718/b4faab4edee84d94b0e998daf9adfc52.docx",
+      "ossWordOfdPath": "prod/20130718/b4faab4edee84d94b0e998daf9adfc52.ofd",
+      "ossWordOfdSize": 111380,
+      "ossPdfPath": "prod/20130718/610f8f1939d342a2a5a51eb0ec509864.pdf",
+      "ossPdfOfdPath": "prod/20130718/610f8f1939d342a2a5a51eb0ec509864.ofd",
+      "ossPdfOfdSize": 2695907
+    },
+    "xgwj": [
+      {
+        "bbbs": "2d24100e20fa46408daa098e994e984d",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2013-07-18",
+    "sxrq": null,
+    "title": "乡镇煤矿管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:23:04"
+}

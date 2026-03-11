@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40ff9adc109c",
+  "title": "外国人在中华人民共和国收养子女登记办法",
+  "gbrq": "1999-05-25",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40ff9adc109c",
+    "ossFile": {
+      "ossWordPath": "prod/19990525/53bc583ebd364c8a9308889519ce70c9.docx",
+      "ossWordOfdPath": "prod/19990525/53bc583ebd364c8a9308889519ce70c9.ofd",
+      "ossWordOfdSize": 94623,
+      "ossPdfPath": "prod/19990525/ef60745638b54197964b63c3153d1d12.pdf",
+      "ossPdfOfdPath": "prod/19990525/ef60745638b54197964b63c3153d1d12.ofd",
+      "ossPdfOfdSize": 2694556
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff808181966737700196a99664ed33de",
+        "title": "外国人在中华人民共和国收养子女登记办法",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40ff9adc109c",
+        "title": "外国人在中华人民共和国收养子女登记办法",
+        "gbrq": "1999-05-25",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1999-05-25",
+    "sxrq": null,
+    "title": "外国人在中华人民共和国收养子女登记办法",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:31:40"
+}

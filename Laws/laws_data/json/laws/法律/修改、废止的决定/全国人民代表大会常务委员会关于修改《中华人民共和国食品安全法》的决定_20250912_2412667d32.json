@@ -1,0 +1,105 @@
+{
+  "bbbs": "2412667d32514d52914dbc4f9a08e91a",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国食品安全法》的决定",
+  "gbrq": "2025-09-12",
+  "sxrq": "2025-12-01",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "2412667d32514d52914dbc4f9a08e91a",
+    "ossFile": {
+      "ossWordPath": "prod/20250912/ea4ef69eff684ebdaf10b8a0dd0a5f00.docx",
+      "ossWordOfdPath": "prod/20250912/ea4ef69eff684ebdaf10b8a0dd0a5f00.ofd",
+      "ossWordOfdSize": 60905,
+      "ossPdfPath": "prod/20250912/8dd6c8e613a54126b99ead1b48b58324.pdf",
+      "ossPdfOfdPath": "prod/20250912/8dd6c8e613a54126b99ead1b48b58324.ofd",
+      "ossPdfOfdSize": 846167
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "95f4d5a904df423ca082773fa8b8cbcd",
+        "title": "中华人民共和国主席令（第五十六号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "26f5197700314063afe1c53bfbe29de9",
+        "title": "中华人民共和国主席令（第五十六号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "018ef8422b3b4a9dbf9b14563c97e909",
+        "title": "关于《中华人民共和国食品安全法（修正草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "cce3b7f9ee9541dc8d0fceba362d01ba",
+        "title": "关于《中华人民共和国食品安全法（修正草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "00282fc743f2449885c30b88a7ba0fb0",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国食品安全法（修正草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "3dcbff38a054444f8cc88dcc23a95736",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国食品安全法（修正草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "c57410c2b1a64153b48aa7728d0d6dc7",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于修改〈中华人民共和国食品安全法〉的决定（草案）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "fe4d6f9e0b1746e480693600ab278499",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于修改〈中华人民共和国食品安全法〉的决定（草案）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "ff8081817ab22e0c017abd8d85a205f1",
+        "title": "中华人民共和国食品安全法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2025-09-12",
+    "sxrq": "2025-12-01",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国食品安全法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:26:43"
+}

@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff80818181cdceb30181d80b195040af",
+  "title": "最高人民法院关于第一审知识产权民事、行政案件管辖的若干规定",
+  "gbrq": "2022-04-20",
+  "sxrq": "2022-05-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff80818181cdceb30181d80b195040af",
+    "ossFile": {
+      "ossWordPath": "prod/20220420/327def703c3c4107b64d53ad31446fae.docx",
+      "ossWordOfdPath": "prod/20220420/327def703c3c4107b64d53ad31446fae.ofd",
+      "ossWordOfdSize": 50706,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818181eb65270181eba636450007",
+        "title": "法释2022-13公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2022-04-20",
+    "sxrq": "2022-05-01",
+    "title": "最高人民法院关于第一审知识产权民事、行政案件管辖的若干规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:38"
+}

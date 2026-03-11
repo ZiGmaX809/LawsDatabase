@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40f340ca0d9c",
+  "title": "兽药管理条例",
+  "gbrq": "2016-02-06",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40f340ca0d9c",
+    "ossFile": {
+      "ossWordPath": "prod/20160206/689ffe8b40d54236835d93d528c5758f.docx",
+      "ossWordOfdPath": "prod/20160206/689ffe8b40d54236835d93d528c5758f.ofd",
+      "ossWordOfdSize": 186371,
+      "ossPdfPath": "prod/20160206/3a9b60a16136443a87c4044f35888672.pdf",
+      "ossPdfOfdPath": "prod/20160206/3a9b60a16136443a87c4044f35888672.ofd",
+      "ossPdfOfdSize": 7958129
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d07c50177b80b86032a90",
+        "title": "兽药管理条例",
+        "gbrq": "2020-03-27",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40f340ca0d9c",
+        "title": "兽药管理条例",
+        "gbrq": "2016-02-06",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2016-02-06",
+    "sxrq": null,
+    "title": "兽药管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:21:07"
+}

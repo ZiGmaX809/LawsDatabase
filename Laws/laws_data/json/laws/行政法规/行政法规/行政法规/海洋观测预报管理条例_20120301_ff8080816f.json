@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f410cc91813b9",
+  "title": "海洋观测预报管理条例",
+  "gbrq": "2012-03-01",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f410cc91813b9",
+    "ossFile": {
+      "ossWordPath": "prod/20120301/61a11a1ca9894ccb90400b9280759efd.docx",
+      "ossWordOfdPath": "prod/20120301/61a11a1ca9894ccb90400b9280759efd.ofd",
+      "ossWordOfdSize": 151758,
+      "ossPdfPath": "prod/20120301/23f9ef81d0864413a9dbe2d6705dadaf.pdf",
+      "ossPdfOfdPath": "prod/20120301/23f9ef81d0864413a9dbe2d6705dadaf.ofd",
+      "ossPdfOfdSize": 3911068
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a1cb546018a6e3495ce6d4a",
+        "title": "海洋观测预报管理条例",
+        "gbrq": "2023-07-20",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f410cc91813b9",
+        "title": "海洋观测预报管理条例",
+        "gbrq": "2012-03-01",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2012-03-01",
+    "sxrq": null,
+    "title": "海洋观测预报管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:23:46"
+}

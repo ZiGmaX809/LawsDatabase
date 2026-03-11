@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f412b3f801af8",
+  "title": "医疗机构管理条例",
+  "gbrq": "2016-02-06",
+  "sxrq": "2016-02-06",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f412b3f801af8",
+    "ossFile": {
+      "ossWordPath": "prod/20160206/46810241b80b46d98384f9e1688cfb5d.docx",
+      "ossWordOfdPath": "prod/20160206/46810241b80b46d98384f9e1688cfb5d.ofd",
+      "ossWordOfdSize": 125540,
+      "ossPdfPath": "prod/20160206/9b277974a17b446fbc96a1caf2ec91c6.pdf",
+      "ossPdfOfdPath": "prod/20160206/9b277974a17b446fbc96a1caf2ec91c6.ofd",
+      "ossPdfOfdSize": 2651614
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818180e0a61301811e33ace71ef2",
+        "title": "医疗机构管理条例",
+        "gbrq": "2022-03-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f412b3f801af8",
+        "title": "医疗机构管理条例",
+        "gbrq": "2016-02-06",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2016-02-06",
+    "sxrq": "2016-02-06",
+    "title": "医疗机构管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:20:49"
+}

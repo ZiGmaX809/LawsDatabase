@@ -1,0 +1,97 @@
+{
+  "bbbs": "ff8081818d6a4639018f1a7759c47964",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国农业技术推广法》、《中华人民共和国未成年人保护法》、《中华人民共和国生物安全法》的决定",
+  "gbrq": "2024-04-26",
+  "sxrq": "2024-04-26",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff8081818d6a4639018f1a7759c47964",
+    "ossFile": {
+      "ossWordPath": "prod/20240426/99ce5b9d9faa47bc9f66793a4a737d8d.docx",
+      "ossWordOfdPath": "prod/20240426/99ce5b9d9faa47bc9f66793a4a737d8d.ofd",
+      "ossWordOfdSize": 50573,
+      "ossPdfPath": "prod/20240426/49732a07cced4cfb892b1147f7fa2baa.pdf",
+      "ossPdfOfdPath": "prod/20240426/49732a07cced4cfb892b1147f7fa2baa.ofd",
+      "ossPdfOfdSize": 780833
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a424b018f1a7b03887997",
+        "title": "中华人民共和国主席令（第二十四号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a463901905e9b77392cc3",
+        "title": "中华人民共和国主席令（第二十四号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818f197cf0018f1a7b8c1701fe",
+        "title": "关于《〈中华人民共和国农业技术推广法〉等3部法律的修正案（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a463901905e9bae402cc6",
+        "title": "关于《〈中华人民共和国农业技术推广法〉等3部法律的修正案（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b018f1a9752ca79bf",
+        "title": "全国人民代表大会宪法和法律委员会关于《〈中华人民共和国农业技术推广法〉等3部法律的修正案（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818f197cf001905e9ef25f35d6",
+        "title": "全国人民代表大会宪法和法律委员会关于《〈中华人民共和国农业技术推广法〉等3部法律的修正案（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf744070663",
+        "title": "中华人民共和国农业技术推广法"
+      },
+      {
+        "bbbs": "ff80808175265dd401753fb9c458127b",
+        "title": "中华人民共和国未成年人保护法"
+      },
+      {
+        "bbbs": "ff80808175265dd401753facb12a125d",
+        "title": "中华人民共和国生物安全法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2024-04-26",
+    "sxrq": "2024-04-26",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国农业技术推广法》、《中华人民共和国未成年人保护法》、《中华人民共和国生物安全法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:28:08"
+}

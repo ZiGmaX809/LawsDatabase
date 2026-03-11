@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181799def980179ac050b09116a",
+  "title": "最高人民法院关于适用《中华人民共和国保险法》若干问题的解释（四）",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799def980179ac050b09116a",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/23326f35715b4702a99ad575be009916.docx",
+      "ossWordOfdPath": "prod/20201229/23326f35715b4702a99ad575be009916.ofd",
+      "ossWordOfdSize": 74246,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799def980179ac050b09116a",
+        "title": "最高人民法院关于适用《中华人民共和国保险法》若干问题的解释（四）",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "2c90e5bb65c68cfd0167f29f80654df6",
+        "title": "最高人民法院关于适用《中华人民共和国保险法》若干问题的解释（四）",
+        "gbrq": "2018-07-31",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179a8c7550179b69008800fad",
+        "title": "法释〔2020〕18号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179a8c7550179b6900a7c0fb3",
+        "title": "法释〔2020〕18号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于适用《中华人民共和国保险法》若干问题的解释（四）",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:53"
+}

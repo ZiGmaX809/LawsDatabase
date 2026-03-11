@@ -1,0 +1,119 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf62dde02fd",
+  "title": "反分裂国家法",
+  "gbrq": "2005-03-14",
+  "sxrq": "2005-03-14",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "法律",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf62dde02fd",
+    "ossFile": {
+      "ossWordPath": "prod/20050314/89502ae1bc644ee19b38e82f0c14e0f3.docx",
+      "ossWordOfdPath": "prod/20050314/89502ae1bc644ee19b38e82f0c14e0f3.ofd",
+      "ossWordOfdSize": 67008,
+      "ossPdfPath": "prod/20050314/2c0ba3f886f5477f9a8dcddde3bd5d3e.pdf",
+      "ossPdfOfdPath": "prod/20050314/2c0ba3f886f5477f9a8dcddde3bd5d3e.ofd",
+      "ossPdfOfdSize": 1046111
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "2005-03-14",
+    "sxrq": "2005-03-14",
+    "title": "反分裂国家法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-d030-08dd6fef7f97",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "反分裂国家法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-d096-08dd6fef7f97",
+          "parentId": "79890000-3e3b-0016-d030-08dd6fef7f97",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-db71-08dd6fef7f97",
+          "parentId": "79890000-3e3b-0016-d030-08dd6fef7f97",
+          "title": "第一条",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-e661-08dd6fef7f97",
+          "parentId": "79890000-3e3b-0016-d030-08dd6fef7f97",
+          "title": "第二条",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-f109-08dd6fef7f97",
+          "parentId": "79890000-3e3b-0016-d030-08dd6fef7f97",
+          "title": "第三条",
+          "index": 4,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-fb14-08dd6fef7f97",
+          "parentId": "79890000-3e3b-0016-d030-08dd6fef7f97",
+          "title": "第四条",
+          "index": 5,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-05d4-08dd6fef7f98",
+          "parentId": "79890000-3e3b-0016-d030-08dd6fef7f97",
+          "title": "第五条",
+          "index": 6,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1084-08dd6fef7f98",
+          "parentId": "79890000-3e3b-0016-d030-08dd6fef7f97",
+          "title": "第六条",
+          "index": 7,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1dec-08dd6fef7f98",
+          "parentId": "79890000-3e3b-0016-d030-08dd6fef7f97",
+          "title": "第七条",
+          "index": 8,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-2a87-08dd6fef7f98",
+          "parentId": "79890000-3e3b-0016-d030-08dd6fef7f97",
+          "title": "第八条",
+          "index": 9,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-35e2-08dd6fef7f98",
+          "parentId": "79890000-3e3b-0016-d030-08dd6fef7f97",
+          "title": "第九条",
+          "index": 10,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-40d6-08dd6fef7f98",
+          "parentId": "79890000-3e3b-0016-d030-08dd6fef7f97",
+          "title": "第十条",
+          "index": 11,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:47:52"
+}

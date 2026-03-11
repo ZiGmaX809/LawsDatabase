@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40f09a970cb8",
+  "title": "中华人民共和国民办教育促进法实施条例",
+  "gbrq": "2004-03-05",
+  "sxrq": "2004-04-01",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40f09a970cb8",
+    "ossFile": {
+      "ossWordPath": "prod/20040305/176ef655fadf41929f7cf8897a1153bf.docx",
+      "ossWordOfdPath": "prod/20040305/176ef655fadf41929f7cf8897a1153bf.ofd",
+      "ossWordOfdSize": 154995,
+      "ossPdfPath": "prod/20040305/a7a07cc390cc45259c4706d81e23f4d7.pdf",
+      "ossPdfOfdPath": "prod/20040305/a7a07cc390cc45259c4706d81e23f4d7.ofd",
+      "ossPdfOfdSize": 6283016
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081817b63b935017b7b0063c179b3",
+        "title": "中华人民共和国民办教育促进法实施条例",
+        "gbrq": "2021-04-07",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40f09a970cb8",
+        "title": "中华人民共和国民办教育促进法实施条例",
+        "gbrq": "2004-03-05",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2004-03-05",
+    "sxrq": "2004-04-01",
+    "title": "中华人民共和国民办教育促进法实施条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:29:41"
+}

@@ -1,0 +1,54 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40e69c6509fe",
+  "title": "中华人民共和国认证认可条例",
+  "gbrq": "2016-02-06",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40e69c6509fe",
+    "ossFile": {
+      "ossWordPath": "prod/20160206/97ad2a1417c643f48e091e0e17af5d73.docx",
+      "ossWordOfdPath": "prod/20160206/97ad2a1417c643f48e091e0e17af5d73.ofd",
+      "ossWordOfdSize": 156681,
+      "ossPdfPath": "prod/20160206/bc4e5fa791e4479e994bfad90c48b44e.pdf",
+      "ossPdfOfdPath": "prod/20160206/bc4e5fa791e4479e994bfad90c48b44e.ofd",
+      "ossPdfOfdSize": 6569452
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a22132f018a6e37a7b6231d",
+        "title": "中华人民共和国认证认可条例",
+        "gbrq": "2023-07-20",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff808081777d07c50177b8ce729b3887",
+        "title": "中华人民共和国认证认可条例",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40e69c6509fe",
+        "title": "中华人民共和国认证认可条例",
+        "gbrq": "2016-02-06",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2016-02-06",
+    "sxrq": null,
+    "title": "中华人民共和国认证认可条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:21:13"
+}

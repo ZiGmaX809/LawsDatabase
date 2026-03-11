@@ -1,0 +1,57 @@
+{
+  "bbbs": "ff8081817d99a651017dda9f07382bd4",
+  "title": "国务院关于修改《中华人民共和国烟草专卖法实施条例》的决定",
+  "gbrq": "2021-11-10",
+  "sxrq": "2021-11-10",
+  "sxx": null,
+  "zdjgName": "国务院",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 215,
+  "detail": {
+    "bbbs": "ff8081817d99a651017dda9f07382bd4",
+    "ossFile": {
+      "ossWordPath": "prod/20211110/f4c32f365aa64d768f6f86d22f4dbc1b.docx",
+      "ossWordOfdPath": "prod/20211110/f4c32f365aa64d768f6f86d22f4dbc1b.ofd",
+      "ossWordOfdSize": 20039,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081817d99a39f017dda9f23fc2bd5",
+        "title": "中华人民共和国国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817d99a43a017dda9f60642d24",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "ff8080816f3cbb3c016f40996b2a0510",
+        "title": "中华人民共和国烟草专卖法实施条例"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "国务院",
+    "gbrq": "2021-11-10",
+    "sxrq": "2021-11-10",
+    "title": "国务院关于修改《中华人民共和国烟草专卖法实施条例》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:07:55"
+}

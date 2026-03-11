@@ -1,0 +1,57 @@
+{
+  "bbbs": "ff8081817c92ddac017c975afebd26d0",
+  "title": "中华人民共和国监察法实施条例",
+  "gbrq": "2021-09-20",
+  "sxrq": "2021-09-20",
+  "sxx": 2,
+  "zdjgName": "国家监察委员会",
+  "flxz": "监察法规",
+  "zdjgCodeId": 130,
+  "flfgCodeId": 220,
+  "detail": {
+    "bbbs": "ff8081817c92ddac017c975afebd26d0",
+    "ossFile": {
+      "ossWordPath": "prod/20210920/75556d75229d4fb380aa4b6299e5c90e.docx",
+      "ossWordOfdPath": "prod/20210920/75556d75229d4fb380aa4b6299e5c90e.ofd",
+      "ossWordOfdSize": 430840,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818198a7ecd40198e24493592f36",
+        "title": "中华人民共和国监察法实施条例",
+        "gbrq": "2025-06-01",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8081817c92ddac017c975afebd26d0",
+        "title": "中华人民共和国监察法实施条例",
+        "gbrq": "2021-09-20",
+        "highLight": true
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081817be7bfc9017c976875d403e0",
+        "title": "中华人民共和国国家监察委员会公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "监察法规",
+    "zdjgName": "国家监察委员会",
+    "gbrq": "2021-09-20",
+    "sxrq": "2021-09-20",
+    "title": "中华人民共和国监察法实施条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:44:49"
+}

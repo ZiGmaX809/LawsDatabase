@@ -1,0 +1,79 @@
+{
+  "bbbs": "ff8081818a22132f018a6e37e7092325",
+  "title": "中华人民共和国烟草专卖法实施条例",
+  "gbrq": "2023-07-20",
+  "sxrq": "2023-07-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818a22132f018a6e37e7092325",
+    "ossFile": {
+      "ossWordPath": "prod/20230720/e3b0e82f09c149ca94919b30984dba34.docx",
+      "ossWordOfdPath": "prod/20230720/e3b0e82f09c149ca94919b30984dba34.ofd",
+      "ossWordOfdSize": 139512,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a22132f018a6e37e7092325",
+        "title": "中华人民共和国烟草专卖法实施条例",
+        "gbrq": "2023-07-20",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8081817dc68bb1017dda93f9a91e26",
+        "title": "中华人民共和国烟草专卖法实施条例",
+        "gbrq": "2021-11-10",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40996b2a0510",
+        "title": "中华人民共和国烟草专卖法实施条例",
+        "gbrq": "2016-02-06",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21e8b2018a78a8130e170f",
+        "title": "中华人民共和国国务院令第764号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e6c3018a78a7c9ef16e3",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e6c3018a78a8513e16f1",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-07-20",
+    "sxrq": "2023-07-20",
+    "title": "中华人民共和国烟草专卖法实施条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:32"
+}

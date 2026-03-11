@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8080816f3e98bd016f42008c8002b5",
+  "title": "森林病虫害防治条例",
+  "gbrq": "1989-12-18",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f42008c8002b5",
+    "ossFile": {
+      "ossWordPath": "prod/19891218/7ef64350127f47f49767bf91f198b630.docx",
+      "ossWordOfdPath": "prod/19891218/7ef64350127f47f49767bf91f198b630.ofd",
+      "ossWordOfdSize": 117530,
+      "ossPdfPath": "prod/19891218/aa0a6111daf54b4188961dce114dd61d.pdf",
+      "ossPdfOfdPath": "prod/19891218/aa0a6111daf54b4188961dce114dd61d.ofd",
+      "ossPdfOfdSize": 6275348
+    },
+    "xgwj": [
+      {
+        "bbbs": "2d24100e20fa46408daa098e994e984d",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1989-12-18",
+    "sxrq": null,
+    "title": "森林病虫害防治条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:36:02"
+}

@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3e9784016f42464c320447",
+  "title": "国务院关于经营者集中申报标准的规定",
+  "gbrq": "2018-09-18",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f42464c320447",
+    "ossFile": {
+      "ossWordPath": "prod/20180918/b4c49c3ae9174ee1b18fa806aba342e5.docx",
+      "ossWordOfdPath": "prod/20180918/b4c49c3ae9174ee1b18fa806aba342e5.ofd",
+      "ossWordOfdSize": 48677,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818d736e08018dcf8f960f054d",
+        "title": "国务院关于经营者集中申报标准的规定",
+        "gbrq": "2024-01-22",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f42464c320447",
+        "title": "国务院关于经营者集中申报标准的规定",
+        "gbrq": "2018-09-18",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2018-09-18",
+    "sxrq": null,
+    "title": "国务院关于经营者集中申报标准的规定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:13:35"
+}

@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181927f1276019643173f20705f",
+  "title": "中国人民解放军实施《中华人民共和国药品管理法》办法",
+  "gbrq": "2025-04-05",
+  "sxrq": "2025-06-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181927f1276019643173f20705f",
+    "ossFile": {
+      "ossWordPath": "prod/20250405/ceaae6bea5654e6b88a140850c645c41.docx",
+      "ossWordOfdPath": "prod/20250405/ceaae6bea5654e6b88a140850c645c41.ofd",
+      "ossWordOfdSize": 132791,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181927f1276019643173f20705f",
+        "title": "中国人民解放军实施《中华人民共和国药品管理法》办法",
+        "gbrq": "2025-04-05",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f411723461685",
+        "title": "中国人民解放军实施《中华人民共和国药品管理法》办法",
+        "gbrq": "2004-12-09",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818195b1209d0196432a1e812453",
+        "title": "中华人民共和国国务院　中华人民共和国中央军事委员会令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818195b110130196432a31d62355",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-04-05",
+    "sxrq": "2025-06-01",
+    "title": "中国人民解放军实施《中华人民共和国药品管理法》办法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:09"
+}

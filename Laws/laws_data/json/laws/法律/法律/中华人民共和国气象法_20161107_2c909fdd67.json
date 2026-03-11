@@ -1,0 +1,435 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf831d10997",
+  "title": "中华人民共和国气象法",
+  "gbrq": "2016-11-07",
+  "sxrq": "2016-11-07",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf831d10997",
+    "ossFile": {
+      "ossWordPath": "prod/20161107/f17b3934c19140a6ab6a91310a7fece1.docx",
+      "ossWordOfdPath": "prod/20161107/f17b3934c19140a6ab6a91310a7fece1.ofd",
+      "ossWordOfdSize": 153324,
+      "ossPdfPath": "prod/20161107/122410464eb64e2f93a9129a474368b5.pdf",
+      "ossPdfOfdPath": "prod/20161107/122410464eb64e2f93a9129a474368b5.ofd",
+      "ossPdfOfdSize": 3538156
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2016-11-07",
+    "sxrq": "2016-11-07",
+    "title": "中华人民共和国气象法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-ca05-08dd61feb57e",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国气象法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-ca8d-08dd61feb57e",
+          "parentId": "79890000-3e3b-0016-ca05-08dd61feb57e",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-caf6-08dd61feb57e",
+          "parentId": "79890000-3e3b-0016-ca05-08dd61feb57e",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-dab4-08dd61feb57e",
+          "parentId": "79890000-3e3b-0016-ca05-08dd61feb57e",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-e8fc-08dd61feb57e",
+              "parentId": "79890000-3e3b-0016-dab4-08dd61feb57e",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f74e-08dd61feb57e",
+              "parentId": "79890000-3e3b-0016-dab4-08dd61feb57e",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0490-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-dab4-08dd61feb57e",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1236-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-dab4-08dd61feb57e",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2001-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-dab4-08dd61feb57e",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2d74-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-dab4-08dd61feb57e",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3a79-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-dab4-08dd61feb57e",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-48ac-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-dab4-08dd61feb57e",
+              "title": "第八条",
+              "index": 11,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-562e-08dd61feb57f",
+          "parentId": "79890000-3e3b-0016-ca05-08dd61feb57e",
+          "title": "第二章 气象设施的建设与管理",
+          "index": 12,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-632f-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-562e-08dd61feb57f",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-71a2-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-562e-08dd61feb57f",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7f4b-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-562e-08dd61feb57f",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8d87-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-562e-08dd61feb57f",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9bae-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-562e-08dd61feb57f",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a9f1-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-562e-08dd61feb57f",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-b80c-08dd61feb57f",
+          "parentId": "79890000-3e3b-0016-ca05-08dd61feb57e",
+          "title": "第三章 气象探测",
+          "index": 19,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-c5d2-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-b80c-08dd61feb57f",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d3f9-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-b80c-08dd61feb57f",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e2f3-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-b80c-08dd61feb57f",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f15e-08dd61feb57f",
+              "parentId": "79890000-3e3b-0016-b80c-08dd61feb57f",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0023-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-b80c-08dd61feb57f",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0eef-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-b80c-08dd61feb57f",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1e52-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-b80c-08dd61feb57f",
+              "title": "第二十一条",
+              "index": 26,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-2ce6-08dd61feb580",
+          "parentId": "79890000-3e3b-0016-ca05-08dd61feb57e",
+          "title": "第四章 气象预报与灾害性天气警报",
+          "index": 27,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-3be2-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-2ce6-08dd61feb580",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4b84-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-2ce6-08dd61feb580",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5ac2-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-2ce6-08dd61feb580",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-70ac-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-2ce6-08dd61feb580",
+              "title": "第二十五条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-81d2-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-2ce6-08dd61feb580",
+              "title": "第二十六条",
+              "index": 32,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9151-08dd61feb580",
+          "parentId": "79890000-3e3b-0016-ca05-08dd61feb57e",
+          "title": "第五章 气象灾害防御",
+          "index": 33,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a01f-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-9151-08dd61feb580",
+              "title": "第二十七条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-af7c-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-9151-08dd61feb580",
+              "title": "第二十八条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bf0a-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-9151-08dd61feb580",
+              "title": "第二十九条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ceeb-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-9151-08dd61feb580",
+              "title": "第三十条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dead-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-9151-08dd61feb580",
+              "title": "第三十一条",
+              "index": 38,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-ee10-08dd61feb580",
+          "parentId": "79890000-3e3b-0016-ca05-08dd61feb57e",
+          "title": "第六章 气候资源开发利用和保护",
+          "index": 39,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-fd75-08dd61feb580",
+              "parentId": "79890000-3e3b-0016-ee10-08dd61feb580",
+              "title": "第三十二条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0d02-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-ee10-08dd61feb580",
+              "title": "第三十三条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1db3-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-ee10-08dd61feb580",
+              "title": "第三十四条",
+              "index": 42,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-2d9e-08dd61feb581",
+          "parentId": "79890000-3e3b-0016-ca05-08dd61feb57e",
+          "title": "第七章 法律责任",
+          "index": 43,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-3d15-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-2d9e-08dd61feb581",
+              "title": "第三十五条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4f29-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-2d9e-08dd61feb581",
+              "title": "第三十六条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-60fa-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-2d9e-08dd61feb581",
+              "title": "第三十七条",
+              "index": 46,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7281-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-2d9e-08dd61feb581",
+              "title": "第三十八条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8451-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-2d9e-08dd61feb581",
+              "title": "第三十九条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9668-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-2d9e-08dd61feb581",
+              "title": "第四十条",
+              "index": 49,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-a818-08dd61feb581",
+          "parentId": "79890000-3e3b-0016-ca05-08dd61feb57e",
+          "title": "第八章 附则",
+          "index": 50,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b9cd-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-a818-08dd61feb581",
+              "title": "第四十一条",
+              "index": 51,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cb37-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-a818-08dd61feb581",
+              "title": "第四十二条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dbc1-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-a818-08dd61feb581",
+              "title": "第四十三条",
+              "index": 53,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ecb1-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-a818-08dd61feb581",
+              "title": "第四十四条",
+              "index": 54,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fd35-08dd61feb581",
+              "parentId": "79890000-3e3b-0016-a818-08dd61feb581",
+              "title": "第四十五条",
+              "index": 55,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:39:46"
+}

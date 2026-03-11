@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081819c230ff2019c455581057e05",
+  "title": "生态环境监测条例",
+  "gbrq": "2025-10-31",
+  "sxrq": "2026-01-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819c230ff2019c455581057e05",
+    "ossFile": {
+      "ossWordPath": "prod/20251031/7676e38233f14d09a36a820b2f902f2a.docx",
+      "ossWordOfdPath": "prod/20251031/7676e38233f14d09a36a820b2f902f2a.ofd",
+      "ossWordOfdSize": 132814,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "0244505c841d48a99fd2c91b4a5bf15e",
+        "title": "中华人民共和国国务院令第820号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "777ea44e3f2a4f4eb60311b31f0f8683",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-10-31",
+    "sxrq": "2026-01-01",
+    "title": "生态环境监测条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:26"
+}

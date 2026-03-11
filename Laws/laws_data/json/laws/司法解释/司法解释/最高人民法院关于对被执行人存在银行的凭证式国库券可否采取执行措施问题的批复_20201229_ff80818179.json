@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff80818179f5d3e70179fa27047a0385",
+  "title": "最高人民法院关于对被执行人存在银行的凭证式国库券可否采取执行措施问题的批复",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff80818179f5d3e70179fa27047a0385",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/bc739aeddd60400bb0ff6b4cbe489bb4.docx",
+      "ossWordOfdPath": "prod/20201229/bc739aeddd60400bb0ff6b4cbe489bb4.ofd",
+      "ossWordOfdSize": 41647,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818179f5d3e70179fa27047a0385",
+        "title": "最高人民法院关于对被执行人存在银行的凭证式国库券可否采取执行措施问题的批复",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e45ffff950016000a59ab80a37",
+        "title": "最高人民法院关于对被执行人存在银行的凭证式国库券可否采取执行措施问题的批复",
+        "gbrq": "1998-02-10",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179f5e0800179fa76befd0d66",
+        "title": "法释〔2020〕21号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179f5da5e0179fa76c0680d13",
+        "title": "法释〔2020〕21号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于对被执行人存在银行的凭证式国库券可否采取执行措施问题的批复",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:05:33"
+}

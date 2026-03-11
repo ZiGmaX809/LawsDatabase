@@ -1,0 +1,76 @@
+{
+  "bbbs": "ff8081817b63b679017b7af7449134a3",
+  "title": "医疗器械监督管理条例",
+  "gbrq": "2021-02-09",
+  "sxrq": "2021-06-01",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081817b63b679017b7af7449134a3",
+    "ossFile": {
+      "ossWordPath": "prod/20210209/1231d1f97d9645c7a38764ee49f89076.docx",
+      "ossWordOfdPath": "prod/20210209/1231d1f97d9645c7a38764ee49f89076.ofd",
+      "ossWordOfdSize": 231759,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a8a62afa3257",
+        "title": "医疗器械监督管理条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8081817b63b679017b7af7449134a3",
+        "title": "医疗器械监督管理条例",
+        "gbrq": "2021-02-09",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f410941d712b4",
+        "title": "医疗器械监督管理条例",
+        "gbrq": "2017-05-04",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081817b6471a2017b7c0022eb0846",
+        "title": "国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817b6471a2017b7c00266c0851",
+        "title": "其它",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2021-02-09",
+    "sxrq": "2021-06-01",
+    "title": "医疗器械监督管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:08:25"
+}

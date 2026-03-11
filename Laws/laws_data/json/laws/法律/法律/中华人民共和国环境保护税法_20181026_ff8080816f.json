@@ -1,0 +1,382 @@
+{
+  "bbbs": "ff8080816f135f46016f1d0bdc6a1306",
+  "title": "中华人民共和国环境保护税法",
+  "gbrq": "2018-10-26",
+  "sxrq": "2018-10-26",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "ff8080816f135f46016f1d0bdc6a1306",
+    "ossFile": {
+      "ossWordPath": "prod/20181026/ab28726b58b745d0bf7f234c9da63cfd.docx",
+      "ossWordOfdPath": "prod/20181026/ab28726b58b745d0bf7f234c9da63cfd.ofd",
+      "ossWordOfdSize": 192109,
+      "ossPdfPath": "prod/20181026/8fa7b0ba3b2a4a88af4a36b372248d05.pdf",
+      "ossPdfOfdPath": "prod/20181026/8fa7b0ba3b2a4a88af4a36b372248d05.ofd",
+      "ossPdfOfdSize": 574564
+    },
+    "xgwj": [
+      {
+        "bbbs": "ed6a723de5aa445d9b6c0c1c850224c6",
+        "title": "全国人民代表大会常务委员会关于修改《中华人民共和国环境保护税法》的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "6bae366fd9f94fbf9450c48a68bfc68a",
+        "title": "中华人民共和国环境保护税法",
+        "gbrq": "2025-10-28",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f135f46016f1d0bdc6a1306",
+        "title": "中华人民共和国环境保护税法",
+        "gbrq": "2018-10-26",
+        "highLight": true
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf8429b09bf",
+        "title": "中华人民共和国环境保护税法",
+        "gbrq": "2016-12-25",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2018-10-26",
+    "sxrq": "2018-10-26",
+    "title": "中华人民共和国环境保护税法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-540d-08de1829bfef",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国环境保护税法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-5492-08de1829bfef",
+          "parentId": "79890000-3e3b-0016-540d-08de1829bfef",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-5512-08de1829bfef",
+          "parentId": "79890000-3e3b-0016-540d-08de1829bfef",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-6bda-08de1829bfef",
+          "parentId": "79890000-3e3b-0016-540d-08de1829bfef",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-8086-08de1829bfef",
+              "parentId": "79890000-3e3b-0016-6bda-08de1829bfef",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-979e-08de1829bfef",
+              "parentId": "79890000-3e3b-0016-6bda-08de1829bfef",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-acad-08de1829bfef",
+              "parentId": "79890000-3e3b-0016-6bda-08de1829bfef",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c1cf-08de1829bfef",
+              "parentId": "79890000-3e3b-0016-6bda-08de1829bfef",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d7f5-08de1829bfef",
+              "parentId": "79890000-3e3b-0016-6bda-08de1829bfef",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ed36-08de1829bfef",
+              "parentId": "79890000-3e3b-0016-6bda-08de1829bfef",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-096f-08de1829bff0",
+          "parentId": "79890000-3e3b-0016-540d-08de1829bfef",
+          "title": "第二章 计税依据和应纳税额",
+          "index": 10,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-2adb-08de1829bff0",
+              "parentId": "79890000-3e3b-0016-096f-08de1829bff0",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4fb8-08de1829bff0",
+              "parentId": "79890000-3e3b-0016-096f-08de1829bff0",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-722d-08de1829bff0",
+              "parentId": "79890000-3e3b-0016-096f-08de1829bff0",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8c21-08de1829bff0",
+              "parentId": "79890000-3e3b-0016-096f-08de1829bff0",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a240-08de1829bff0",
+              "parentId": "79890000-3e3b-0016-096f-08de1829bff0",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-b8ab-08de1829bff0",
+          "parentId": "79890000-3e3b-0016-540d-08de1829bfef",
+          "title": "第三章 税收减免",
+          "index": 16,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-cca5-08de1829bff0",
+              "parentId": "79890000-3e3b-0016-b8ab-08de1829bff0",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e3dc-08de1829bff0",
+              "parentId": "79890000-3e3b-0016-b8ab-08de1829bff0",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-f876-08de1829bff0",
+          "parentId": "79890000-3e3b-0016-540d-08de1829bfef",
+          "title": "第四章 征收管理",
+          "index": 19,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0c5c-08de1829bff1",
+              "parentId": "79890000-3e3b-0016-f876-08de1829bff0",
+              "title": "第十四条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-21c6-08de1829bff1",
+              "parentId": "79890000-3e3b-0016-f876-08de1829bff0",
+              "title": "第十五条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-37af-08de1829bff1",
+              "parentId": "79890000-3e3b-0016-f876-08de1829bff0",
+              "title": "第十六条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4ce2-08de1829bff1",
+              "parentId": "79890000-3e3b-0016-f876-08de1829bff0",
+              "title": "第十七条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-61ec-08de1829bff1",
+              "parentId": "79890000-3e3b-0016-f876-08de1829bff0",
+              "title": "第十八条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7737-08de1829bff1",
+              "parentId": "79890000-3e3b-0016-f876-08de1829bff0",
+              "title": "第十九条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8d59-08de1829bff1",
+              "parentId": "79890000-3e3b-0016-f876-08de1829bff0",
+              "title": "第二十条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a306-08de1829bff1",
+              "parentId": "79890000-3e3b-0016-f876-08de1829bff0",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b8bb-08de1829bff1",
+              "parentId": "79890000-3e3b-0016-f876-08de1829bff0",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ce28-08de1829bff1",
+              "parentId": "79890000-3e3b-0016-f876-08de1829bff0",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e44f-08de1829bff1",
+              "parentId": "79890000-3e3b-0016-f876-08de1829bff0",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-f982-08de1829bff1",
+          "parentId": "79890000-3e3b-0016-540d-08de1829bfef",
+          "title": "第五章 附则",
+          "index": 31,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0f4f-08de1829bff2",
+              "parentId": "79890000-3e3b-0016-f982-08de1829bff1",
+              "title": "第二十五条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2617-08de1829bff2",
+              "parentId": "79890000-3e3b-0016-f982-08de1829bff1",
+              "title": "第二十六条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3ca4-08de1829bff2",
+              "parentId": "79890000-3e3b-0016-f982-08de1829bff1",
+              "title": "第二十七条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-524b-08de1829bff2",
+              "parentId": "79890000-3e3b-0016-f982-08de1829bff1",
+              "title": "第二十八条",
+              "index": 35,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-6b33-08de1829bff2",
+          "parentId": "79890000-3e3b-0016-540d-08de1829bfef",
+          "title": "附表一",
+          "index": 36,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-8418-08de1829bff2",
+              "parentId": "79890000-3e3b-0016-6b33-08de1829bff2",
+              "title": "环境保护税税目税额表",
+              "index": 37,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9e36-08de1829bff2",
+          "parentId": "79890000-3e3b-0016-540d-08de1829bfef",
+          "title": "附表二",
+          "index": 38,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b3d1-08de1829bff2",
+              "parentId": "79890000-3e3b-0016-9e36-08de1829bff2",
+              "title": "应税污染物和当量值表",
+              "index": 39,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-ca3f-08de1829bff2",
+                  "parentId": "79890000-3e3b-0016-b3d1-08de1829bff2",
+                  "title": "一、第一类水污染物污染当量值",
+                  "index": 40,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-e765-08de1829bff2",
+                  "parentId": "79890000-3e3b-0016-b3d1-08de1829bff2",
+                  "title": "二、第二类水污染物污染当量值",
+                  "index": 41,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-084c-08de1829bff3",
+                  "parentId": "79890000-3e3b-0016-b3d1-08de1829bff2",
+                  "title": "三、pH值、色度、大肠菌群数、余氯量水污染物污染当量值",
+                  "index": 42,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-2133-08de1829bff3",
+                  "parentId": "79890000-3e3b-0016-b3d1-08de1829bff2",
+                  "title": "四、禽畜养殖业、小型企业和第三产业水污染物污染当量值",
+                  "index": 43,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-3bff-08de1829bff3",
+                  "parentId": "79890000-3e3b-0016-b3d1-08de1829bff2",
+                  "title": "五、大气污染物污染当量值",
+                  "index": 44,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:36:42"
+}

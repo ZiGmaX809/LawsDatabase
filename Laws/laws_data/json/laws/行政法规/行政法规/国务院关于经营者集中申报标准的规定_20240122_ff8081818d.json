@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff8081818d736e08018dcf8f960f054d",
+  "title": "国务院关于经营者集中申报标准的规定",
+  "gbrq": "2024-01-22",
+  "sxrq": "2024-01-22",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818d736e08018dcf8f960f054d",
+    "ossFile": {
+      "ossWordPath": "prod/20240122/ac2f63250bfe47d7856ce3cb8810e03a.docx",
+      "ossWordOfdPath": "prod/20240122/ac2f63250bfe47d7856ce3cb8810e03a.ofd",
+      "ossWordOfdSize": 51109,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818d736e08018dcf8f960f054d",
+        "title": "国务院关于经营者集中申报标准的规定",
+        "gbrq": "2024-01-22",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f42464c320447",
+        "title": "国务院关于经营者集中申报标准的规定",
+        "gbrq": "2018-09-18",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a424b018de0f4fed51050",
+        "title": "中华人民共和国国务院令第773号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4639018de0f538420ff9",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-01-22",
+    "sxrq": "2024-01-22",
+    "title": "国务院关于经营者集中申报标准的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:05:43"
+}

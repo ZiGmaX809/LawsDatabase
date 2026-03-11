@@ -1,0 +1,441 @@
+{
+  "bbbs": "ff8081818a21dc13018b625b4a68173f",
+  "title": "中华人民共和国爱国主义教育法",
+  "gbrq": "2023-10-24",
+  "sxrq": "2024-01-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "ff8081818a21dc13018b625b4a68173f",
+    "ossFile": {
+      "ossWordPath": "prod/20231024/ac8fc8a8e47948509f6bcd2fe888e9f2.docx",
+      "ossWordOfdPath": "prod/20231024/ac8fc8a8e47948509f6bcd2fe888e9f2.ofd",
+      "ossWordOfdSize": 148983,
+      "ossPdfPath": "prod/20231024/f758dba61c5743fbb7e3efc1d71ffcd8.pdf",
+      "ossPdfOfdPath": "prod/20231024/f758dba61c5743fbb7e3efc1d71ffcd8.ofd",
+      "ossPdfOfdSize": 1005354
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21e6c3018b6264bb7f180f",
+        "title": "中华人民共和国主席令（第十三号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818c3ce0ed018d5e13dfd758f1",
+        "title": "中华人民共和国主席令（第十三号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818c3ce31f018d5e144d005b70",
+        "title": "关于《中华人民共和国爱国主义教育法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818c9108eb018d5e14704d3843",
+        "title": "关于《中华人民共和国爱国主义教育法（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818c3ce0ed018d5e14de0158fa",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国爱国主义教育法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818c9108eb018d5e14fa6c3849",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国爱国主义教育法（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818c3ce31f018d5e15521e5b84",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国爱国主义教育法（草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818c9108eb018d5e1570fb3855",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国爱国主义教育法（草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2023-10-24",
+    "sxrq": "2024-01-01",
+    "title": "中华人民共和国爱国主义教育法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-ad3f-08dd66b73455",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国爱国主义教育法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-adb8-08dd66b73455",
+          "parentId": "79890000-3e3b-0016-ad3f-08dd66b73455",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-ae0f-08dd66b73455",
+          "parentId": "79890000-3e3b-0016-ad3f-08dd66b73455",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-bccd-08dd66b73455",
+          "parentId": "79890000-3e3b-0016-ad3f-08dd66b73455",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-c9b1-08dd66b73455",
+              "parentId": "79890000-3e3b-0016-bccd-08dd66b73455",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d734-08dd66b73455",
+              "parentId": "79890000-3e3b-0016-bccd-08dd66b73455",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e4f1-08dd66b73455",
+              "parentId": "79890000-3e3b-0016-bccd-08dd66b73455",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f25b-08dd66b73455",
+              "parentId": "79890000-3e3b-0016-bccd-08dd66b73455",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-000f-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-bccd-08dd66b73455",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0e1d-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-bccd-08dd66b73455",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1daf-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-bccd-08dd66b73455",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2bf2-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-bccd-08dd66b73455",
+              "title": "第八条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3987-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-bccd-08dd66b73455",
+              "title": "第九条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-474c-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-bccd-08dd66b73455",
+              "title": "第十条",
+              "index": 13,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-5562-08dd66b73456",
+          "parentId": "79890000-3e3b-0016-ad3f-08dd66b73455",
+          "title": "第二章 职责任务",
+          "index": 14,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-634f-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-720a-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-80ab-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8ec7-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9d7d-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第十五条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ac03-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第十六条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bac6-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第十七条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c999-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第十八条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d820-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第十九条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e741-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第二十条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f649-08dd66b73456",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第二十一条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-087d-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第二十二条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2052-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-5562-08dd66b73456",
+              "title": "第二十三条",
+              "index": 27,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-3189-08dd66b73457",
+          "parentId": "79890000-3e3b-0016-ad3f-08dd66b73455",
+          "title": "第三章 实施措施",
+          "index": 28,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-40cc-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-3189-08dd66b73457",
+              "title": "第二十四条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5019-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-3189-08dd66b73457",
+              "title": "第二十五条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6062-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-3189-08dd66b73457",
+              "title": "第二十六条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7028-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-3189-08dd66b73457",
+              "title": "第二十七条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7fd3-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-3189-08dd66b73457",
+              "title": "第二十八条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-900c-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-3189-08dd66b73457",
+              "title": "第二十九条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9fc9-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-3189-08dd66b73457",
+              "title": "第三十条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b047-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-3189-08dd66b73457",
+              "title": "第三十一条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bffe-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-3189-08dd66b73457",
+              "title": "第三十二条",
+              "index": 37,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-cfb8-08dd66b73457",
+          "parentId": "79890000-3e3b-0016-ad3f-08dd66b73455",
+          "title": "第四章 支持保障",
+          "index": 38,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-df93-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-cfb8-08dd66b73457",
+              "title": "第三十三条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-efc4-08dd66b73457",
+              "parentId": "79890000-3e3b-0016-cfb8-08dd66b73457",
+              "title": "第三十四条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-073d-08dd66b73458",
+              "parentId": "79890000-3e3b-0016-cfb8-08dd66b73457",
+              "title": "第三十五条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2178-08dd66b73458",
+              "parentId": "79890000-3e3b-0016-cfb8-08dd66b73457",
+              "title": "第三十六条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3c11-08dd66b73458",
+              "parentId": "79890000-3e3b-0016-cfb8-08dd66b73457",
+              "title": "第三十七条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-58f4-08dd66b73458",
+              "parentId": "79890000-3e3b-0016-cfb8-08dd66b73457",
+              "title": "第三十八条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7409-08dd66b73458",
+              "parentId": "79890000-3e3b-0016-cfb8-08dd66b73457",
+              "title": "第三十九条",
+              "index": 45,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-8ee3-08dd66b73458",
+          "parentId": "79890000-3e3b-0016-ad3f-08dd66b73455",
+          "title": "第五章 附则",
+          "index": 46,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a309-08dd66b73458",
+              "parentId": "79890000-3e3b-0016-8ee3-08dd66b73458",
+              "title": "第四十条",
+              "index": 47,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:28:31"
+}

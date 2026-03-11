@@ -1,0 +1,49 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5acd40087",
+  "title": "第五届全国人民代表大会常务委员会关于批准《国务院关于职工探亲待遇的规定》的决议",
+  "gbrq": "1981-03-06",
+  "sxrq": "1981-03-06",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 150,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5acd40087",
+    "ossFile": {
+      "ossWordPath": "prod/19810306/2d762c8649324fbcb3812be91c8576bd.docx",
+      "ossWordOfdPath": "prod/19810306/2d762c8649324fbcb3812be91c8576bd.ofd",
+      "ossWordOfdSize": 25435,
+      "ossPdfPath": "prod/19810306/307c96c8c4564168bc34eb10e693939e.pdf",
+      "ossPdfOfdPath": "prod/19810306/307c96c8c4564168bc34eb10e693939e.ofd",
+      "ossPdfOfdSize": 277894
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1981-03-06",
+    "sxrq": "1981-03-06",
+    "title": "第五届全国人民代表大会常务委员会关于批准《国务院关于职工探亲待遇的规定》的决议",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-9b2e-08dde37b22e6",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "第五届全国人民代表大会常务委员会关于批准《国务院关于职工探亲待遇的规定》的决议",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-9bb4-08dde37b22e6",
+          "parentId": "79890000-3e3b-0016-9b2e-08dde37b22e6",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:51:02"
+}

@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff80818199614db0019975a126dd3125",
+  "title": "中华人民共和国外国人入境出境管理条例",
+  "gbrq": "2025-08-07",
+  "sxrq": "2025-10-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80818199614db0019975a126dd3125",
+    "ossFile": {
+      "ossWordPath": "prod/20250807/16f33180df2d43479625285ca02aaff8.docx",
+      "ossWordOfdPath": "prod/20250807/16f33180df2d43479625285ca02aaff8.ofd",
+      "ossWordOfdSize": 141445,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818199614db0019975a126dd3125",
+        "title": "中华人民共和国外国人入境出境管理条例",
+        "gbrq": "2025-08-07",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f411b3459177c",
+        "title": "中华人民共和国外国人入境出境管理条例",
+        "gbrq": "2013-07-21",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818198794ccd01997989b2d16e0c",
+        "title": "中华人民共和国国务院令第814号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819879212301997989a3a26dc0",
+        "title": "国务院关于修改《中华人民共和国外国人入境出境管理条例》的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818198794ccd01997989c3996e16",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-08-07",
+    "sxrq": "2025-10-01",
+    "title": "中华人民共和国外国人入境出境管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:41"
+}

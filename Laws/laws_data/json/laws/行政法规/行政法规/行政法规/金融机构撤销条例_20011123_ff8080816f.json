@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3e9784016f41ea30ce0195",
+  "title": "金融机构撤销条例",
+  "gbrq": "2001-11-23",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f41ea30ce0195",
+    "ossFile": {
+      "ossWordPath": "prod/20011123/92760e8bb97b45f38a84e075fb046c04.docx",
+      "ossWordOfdPath": "prod/20011123/92760e8bb97b45f38a84e075fb046c04.ofd",
+      "ossWordOfdSize": 118917,
+      "ossPdfPath": "prod/20011123/66653aaca3cf439bb90db7e21b4d0828.pdf",
+      "ossPdfOfdPath": "prod/20011123/66653aaca3cf439bb90db7e21b4d0828.ofd",
+      "ossPdfOfdSize": 4321450
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2001-11-23",
+    "sxrq": null,
+    "title": "金融机构撤销条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:30:44"
+}

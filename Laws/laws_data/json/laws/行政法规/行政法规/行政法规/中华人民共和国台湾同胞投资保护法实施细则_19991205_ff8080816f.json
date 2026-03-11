@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f41087351128c",
+  "title": "中华人民共和国台湾同胞投资保护法实施细则",
+  "gbrq": "1999-12-05",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f41087351128c",
+    "ossFile": {
+      "ossWordPath": "prod/19991205/04d6124d6e1b4e1a8da64d7fc7170f57.docx",
+      "ossWordOfdPath": "prod/19991205/04d6124d6e1b4e1a8da64d7fc7170f57.ofd",
+      "ossWordOfdSize": 105725,
+      "ossPdfPath": "prod/19991205/1858b5427e2349a4823e23dc5189ce41.pdf",
+      "ossPdfOfdPath": "prod/19991205/1858b5427e2349a4823e23dc5189ce41.ofd",
+      "ossPdfOfdSize": 2871337
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d0c940177b8d3aaa736c2",
+        "title": "中华人民共和国台湾同胞投资保护法实施细则",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f41087351128c",
+        "title": "中华人民共和国台湾同胞投资保护法实施细则",
+        "gbrq": "1999-12-05",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1999-12-05",
+    "sxrq": null,
+    "title": "中华人民共和国台湾同胞投资保护法实施细则",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:31:25"
+}

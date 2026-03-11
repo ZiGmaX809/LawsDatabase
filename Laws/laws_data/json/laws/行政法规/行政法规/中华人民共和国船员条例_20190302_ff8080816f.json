@@ -1,0 +1,54 @@
+{
+  "bbbs": "ff8080816f3e9784016f41f6358d0217",
+  "title": "中华人民共和国船员条例",
+  "gbrq": "2019-03-02",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f41f6358d0217",
+    "ossFile": {
+      "ossWordPath": "prod/20190302/d399a4967dd04e23a1c3887d4cd2b7fd.docx",
+      "ossWordOfdPath": "prod/20190302/d399a4967dd04e23a1c3887d4cd2b7fd.ofd",
+      "ossWordOfdSize": 178981,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a22132f018a6e3598eb2301",
+        "title": "中华人民共和国船员条例",
+        "gbrq": "2023-07-20",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff808081777d0c940177b84646b02baa",
+        "title": "中华人民共和国船员条例",
+        "gbrq": "2020-03-27",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f41f6358d0217",
+        "title": "中华人民共和国船员条例",
+        "gbrq": "2019-03-02",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-03-02",
+    "sxrq": null,
+    "title": "中华人民共和国船员条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:12:27"
+}

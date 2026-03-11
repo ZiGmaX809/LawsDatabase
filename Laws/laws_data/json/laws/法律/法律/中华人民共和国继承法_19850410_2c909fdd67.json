@@ -1,0 +1,348 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5aff900b9",
+  "title": "中华人民共和国继承法",
+  "gbrq": "1985-04-10",
+  "sxrq": "1985-10-01",
+  "sxx": 1,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "法律",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 120,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5aff900b9",
+    "ossFile": {
+      "ossWordPath": "prod/19850410/799a46bd5115411cbd1d46d6e50e4915.docx",
+      "ossWordOfdPath": "prod/19850410/799a46bd5115411cbd1d46d6e50e4915.ofd",
+      "ossWordOfdSize": 99899,
+      "ossPdfPath": "prod/19850410/c2fa848d0d414ff6be046106249e8456.pdf",
+      "ossPdfOfdPath": "prod/19850410/c2fa848d0d414ff6be046106249e8456.ofd",
+      "ossPdfOfdSize": 4085882
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "1985-04-10",
+    "sxrq": "1985-10-01",
+    "title": "中华人民共和国继承法",
+    "sxx": 1,
+    "content": {
+      "id": "79890000-3e3b-0016-a4d9-08dd6aac948e",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国继承法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-a55c-08dd6aac948e",
+          "parentId": "79890000-3e3b-0016-a4d9-08dd6aac948e",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b788-08dd6aac948e",
+          "parentId": "79890000-3e3b-0016-a4d9-08dd6aac948e",
+          "title": "第一章 总则",
+          "index": 2,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-c690-08dd6aac948e",
+              "parentId": "79890000-3e3b-0016-b788-08dd6aac948e",
+              "title": "第一条",
+              "index": 3,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d323-08dd6aac948e",
+              "parentId": "79890000-3e3b-0016-b788-08dd6aac948e",
+              "title": "第二条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e020-08dd6aac948e",
+              "parentId": "79890000-3e3b-0016-b788-08dd6aac948e",
+              "title": "第三条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ee58-08dd6aac948e",
+              "parentId": "79890000-3e3b-0016-b788-08dd6aac948e",
+              "title": "第四条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fad5-08dd6aac948e",
+              "parentId": "79890000-3e3b-0016-b788-08dd6aac948e",
+              "title": "第五条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-07be-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-b788-08dd6aac948e",
+              "title": "第六条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-14e7-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-b788-08dd6aac948e",
+              "title": "第七条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2296-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-b788-08dd6aac948e",
+              "title": "第八条",
+              "index": 10,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-2f81-08dd6aac948f",
+          "parentId": "79890000-3e3b-0016-a4d9-08dd6aac948e",
+          "title": "第二章 法定继承",
+          "index": 11,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-3c04-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-2f81-08dd6aac948f",
+              "title": "第九条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-48f8-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-2f81-08dd6aac948f",
+              "title": "第十条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5655-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-2f81-08dd6aac948f",
+              "title": "第十一条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6246-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-2f81-08dd6aac948f",
+              "title": "第十二条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6df2-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-2f81-08dd6aac948f",
+              "title": "第十三条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7ae1-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-2f81-08dd6aac948f",
+              "title": "第十四条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-86c2-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-2f81-08dd6aac948f",
+              "title": "第十五条",
+              "index": 18,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9284-08dd6aac948f",
+          "parentId": "79890000-3e3b-0016-a4d9-08dd6aac948e",
+          "title": "第三章 遗嘱继承和遗赠",
+          "index": 19,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b92d-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-9284-08dd6aac948f",
+              "title": "第十六条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c8a3-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-9284-08dd6aac948f",
+              "title": "第十七条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d6ff-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-9284-08dd6aac948f",
+              "title": "第十八条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e5e6-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-9284-08dd6aac948f",
+              "title": "第十九条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f460-08dd6aac948f",
+              "parentId": "79890000-3e3b-0016-9284-08dd6aac948f",
+              "title": "第二十条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-029e-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-9284-08dd6aac948f",
+              "title": "第二十一条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-110c-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-9284-08dd6aac948f",
+              "title": "第二十二条",
+              "index": 26,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-250b-08dd6aac9490",
+          "parentId": "79890000-3e3b-0016-a4d9-08dd6aac948e",
+          "title": "第四章 遗产的处理",
+          "index": 27,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-37b2-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-250b-08dd6aac9490",
+              "title": "第二十三条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4cc9-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-250b-08dd6aac9490",
+              "title": "第二十四条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5d56-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-250b-08dd6aac9490",
+              "title": "第二十五条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6b79-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-250b-08dd6aac9490",
+              "title": "第二十六条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-78c8-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-250b-08dd6aac9490",
+              "title": "第二十七条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-878d-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-250b-08dd6aac9490",
+              "title": "第二十八条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9509-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-250b-08dd6aac9490",
+              "title": "第二十九条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a299-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-250b-08dd6aac9490",
+              "title": "第三十条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b05b-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-250b-08dd6aac9490",
+              "title": "第三十一条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-be44-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-250b-08dd6aac9490",
+              "title": "第三十二条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cc04-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-250b-08dd6aac9490",
+              "title": "第三十三条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-da3c-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-250b-08dd6aac9490",
+              "title": "第三十四条",
+              "index": 39,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-e80b-08dd6aac9490",
+          "parentId": "79890000-3e3b-0016-a4d9-08dd6aac948e",
+          "title": "第五章 附则",
+          "index": 40,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-f532-08dd6aac9490",
+              "parentId": "79890000-3e3b-0016-e80b-08dd6aac9490",
+              "title": "第三十五条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-03dd-08dd6aac9491",
+              "parentId": "79890000-3e3b-0016-e80b-08dd6aac9490",
+              "title": "第三十六条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1217-08dd6aac9491",
+              "parentId": "79890000-3e3b-0016-e80b-08dd6aac9490",
+              "title": "第三十七条",
+              "index": 43,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:50:46"
+}

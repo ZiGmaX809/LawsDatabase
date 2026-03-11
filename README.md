@@ -8,29 +8,74 @@
 
 ## 📎 人民法院案例库
 
-运行`court_data_processor.py`脚本直接运行拉取全量案例库列表（默认：民事），并且根据拉取内容进行整理（支持指定目录）以及增量更新。
+运行`court_data_processor.py`脚本，通过交互式流程拉取全量案例库列表，并根据拉取内容进行整理及增量更新。
 
-### 需自行获取tokens
-有两个途径可以获取tokens，每个token每天可以请求100次json。
+### 支持的案件类型
 
-#### 1.网页
+| 类型 | 代码 | sort_id |
+|------|------|---------|
+| 刑事 | criminal | 10000 |
+| 民事 | civil | 20000 |
+| 行政 | administrative | 30000 |
+| 执行 | execution | 40000 |
+| 国家赔偿 | compensation | 50000 |
 
-[人民法院案例库](https://rmfyalk.court.gov.cn)右上角登录后使用如下代码获取
+### Token获取
+
+每个token每天可请求约100次。有两种获取途径：
+
+#### 1. 网页端
+
+[人民法院案例库](https://rmfyalk.court.gov.cn)右上角登录后，在浏览器开发者工具中获取：
 
 ```js
 document.cookie.split(';').map(c => c.trim().split('=')).find(pair => pair[0] === 'faxin-cpws-al-token')?.[1]
 ```
 
-#### 2.小程序
+#### 2. 小程序端
 
-微信小程序搜索`人民法院案例库`，登录后抓取请求链接获取
+微信小程序搜索`人民法院案例库`，登录后抓取请求链接获取。
 
-### 使用
+### 使用方法
 
-1. 在`court_config.json`中配置需要整理文档的目标目录
-2. 使用命令
 ```shell
-python court_data_processor.py --token "your_token_here"
+# 直接运行，进入交互式流程
+python court_data_processor.py
+
+# 统计目标文件夹中的文件数量
+python court_data_processor.py --count
+
+# 显示帮助信息
+python court_data_processor.py --help
+```
+
+### 交互式流程
+
+1. 输入token（首次运行或需更新时）
+2. 选择案件类型
+3. 自动执行以下步骤：
+   - 获取案例列表（最多100页）
+   - 下载案例详情并转为Markdown
+   - 整理文件到分类目录
+
+### 目录结构
+
+```
+PCC_Database/
+├── downloaded_markdown/          # Markdown文件
+│   ├── 刑事/
+│   ├── 民事/
+│   ├── 行政/
+│   ├── 执行/
+│   └── 国家赔偿/
+├── court_data/pages/             # JSON数据
+│   ├── 刑事/
+│   ├── 民事/
+│   ├── 行政/
+│   ├── 执行/
+│   └── 国家赔偿/
+├── downloaded_records_*.txt      # 增量更新记录
+└── court_config.json             # 配置文件
 ```
 
 ## 📎 LPR利息计算工具
@@ -71,3 +116,74 @@ python LPR_Calculator.py --amount 100000 --start 2023-01-01 --end 2024-12-31 --t
 * --update: 可选标志，强制更新LPR数据
 * --export: 导出docx文件路径
 * --no-export: 跳过文件导出
+
+## 📎 国家法律法规数据库
+
+从 [国家法律法规数据库](https://flk.npc.gov.cn/) 下载法律文件并转换为Markdown格式。
+
+### 功能特性
+
+- 支持全部分类：宪法、法律、行政法规、监察法规、地方法规、司法解释
+- 自动下载docx格式法律文件
+- 自动转换为Markdown格式
+- 支持 .doc 格式文件自动转换（macOS/Linux）
+- 断点续传支持（可中断后继续）
+- 自动保存法律元数据到JSON格式
+- 分页自动处理
+- 按分类和法律类型双层目录组织
+- 快速下载模式支持
+
+### 环境要求
+
+- Python 3.7+
+- 依赖库：`requests`, `python-docx`
+- 可选：LibreOffice（Linux系统转换.doc文件需要）
+
+### 使用方法
+
+```bash
+# 进入Laws目录
+cd Laws
+
+# 安装依赖
+pip install requests python-docx
+
+# 下载所有分类
+python3 flk_downloader.py --all
+
+# 快速批量下载（推荐）
+python3 flk_downloader.py --all --fast
+
+# 下载指定分类
+python3 flk_downloader.py --category law
+python3 flk_downloader.py --category administrative_regulation
+python3 flk_downloader.py --category judicial_interpretation
+
+# 仅保存JSON信息，不下载文件
+python3 flk_downloader.py --all --json-only
+```
+
+### 法律分类说明
+
+| 分类代码 | 分类名称 | 数量 |
+|---------|---------|------|
+| constitution | 宪法 | 7 |
+| law | 法律 | 307 |
+| administrative_regulation | 行政法规 | 611 |
+| supervision_regulation | 监察法规 | 2 |
+| local_regulation | 地方法规 | 15612 |
+| judicial_interpretation | 司法解释 | 554 |
+
+### 输出目录结构
+
+```
+Laws/laws_data/
+├── logs/                        # 运行日志
+├── docx/                        # 原始docx文件
+│   └── {分类名称}/{法律类型}/
+├── markdown/                    # 转换后的markdown文件
+│   └── {分类名称}/{法律类型}/
+├── json/                        # 单个法律的完整JSON信息
+│   └── laws/{分类名称}/{法律类型}/
+└── download_state.json          # 下载状态（断点续传）
+```

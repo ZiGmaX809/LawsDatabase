@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081818a1cb709018a6e34645c3219",
+  "title": "国内水路运输管理条例",
+  "gbrq": "2023-07-20",
+  "sxrq": "2023-07-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818a1cb709018a6e34645c3219",
+    "ossFile": {
+      "ossWordPath": "prod/20230720/b3d99d83a12a401899da67da02b7055d.docx",
+      "ossWordOfdPath": "prod/20230720/b3d99d83a12a401899da67da02b7055d.ofd",
+      "ossWordOfdSize": 130168,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a1cb709018a6e34645c3219",
+        "title": "国内水路运输管理条例",
+        "gbrq": "2023-07-20",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4115ee6f162e",
+        "title": "国内水路运输管理条例",
+        "gbrq": "2017-03-01",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21dc13018a77e473e0154a",
+        "title": "中华人民共和国国务院令第764号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018a77e41eb5163f",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e6c3018a77e4b7ac160e",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-07-20",
+    "sxrq": "2023-07-20",
+    "title": "国内水路运输管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:26"
+}

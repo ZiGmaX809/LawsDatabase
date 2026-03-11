@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff8081819150415e0191735242606e87",
+  "title": "军人抚恤优待条例",
+  "gbrq": "2024-08-05",
+  "sxrq": "2024-10-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819150415e0191735242606e87",
+    "ossFile": {
+      "ossWordPath": "prod/20240805/95a155a5b4b74884bd18113c3feedef2.docx",
+      "ossWordOfdPath": "prod/20240805/95a155a5b4b74884bd18113c3feedef2.ofd",
+      "ossWordOfdSize": 203085,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819150415e0191735242606e87",
+        "title": "军人抚恤优待条例",
+        "gbrq": "2024-08-05",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4101cc861115",
+        "title": "军人抚恤优待条例",
+        "gbrq": "2019-03-02",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a4639019178b5986e56d1",
+        "title": "中华人民共和国国务院　中华人民共和国中央军事委员会令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b019173a2bafd56c2",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-08-05",
+    "sxrq": "2024-10-01",
+    "title": "军人抚恤优待条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:04:40"
+}

@@ -1,0 +1,314 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf6072e0221",
+  "title": "中华人民共和国澳门特别行政区驻军法",
+  "gbrq": "1999-06-28",
+  "sxrq": "1999-12-20",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf6072e0221",
+    "ossFile": {
+      "ossWordPath": "prod/19990628/6ce557a68d564a678dfc866259817745.docx",
+      "ossWordOfdPath": "prod/19990628/6ce557a68d564a678dfc866259817745.ofd",
+      "ossWordOfdSize": 109251,
+      "ossPdfPath": "prod/19990628/9c93c52bfccc472c80ea0707cf0c107f.pdf",
+      "ossPdfOfdPath": "prod/19990628/9c93c52bfccc472c80ea0707cf0c107f.ofd",
+      "ossPdfOfdSize": 2126935
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1999-06-28",
+    "sxrq": "1999-12-20",
+    "title": "中华人民共和国澳门特别行政区驻军法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-9902-08dd66ac04e9",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国澳门特别行政区驻军法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-9a28-08dd66ac04e9",
+          "parentId": "79890000-3e3b-0016-9902-08dd66ac04e9",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-9a97-08dd66ac04e9",
+          "parentId": "79890000-3e3b-0016-9902-08dd66ac04e9",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-acbe-08dd66ac04e9",
+          "parentId": "79890000-3e3b-0016-9902-08dd66ac04e9",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-bee0-08dd66ac04e9",
+              "parentId": "79890000-3e3b-0016-acbe-08dd66ac04e9",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d16d-08dd66ac04e9",
+              "parentId": "79890000-3e3b-0016-acbe-08dd66ac04e9",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e43f-08dd66ac04e9",
+              "parentId": "79890000-3e3b-0016-acbe-08dd66ac04e9",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f6ce-08dd66ac04e9",
+              "parentId": "79890000-3e3b-0016-acbe-08dd66ac04e9",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0a91-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-acbe-08dd66ac04e9",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-1bf0-08dd66ac04ea",
+          "parentId": "79890000-3e3b-0016-9902-08dd66ac04e9",
+          "title": "第二章 澳门驻军的职责",
+          "index": 9,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-2d7a-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-1bf0-08dd66ac04ea",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3b51-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-1bf0-08dd66ac04ea",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-47b2-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-1bf0-08dd66ac04ea",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5436-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-1bf0-08dd66ac04ea",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-6088-08dd66ac04ea",
+          "parentId": "79890000-3e3b-0016-9902-08dd66ac04e9",
+          "title": "第三章 澳门驻军与澳门特别行政区政府的关系",
+          "index": 14,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-6c86-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-6088-08dd66ac04ea",
+              "title": "第十条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7953-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-6088-08dd66ac04ea",
+              "title": "第十一条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-859a-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-6088-08dd66ac04ea",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-92e0-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-6088-08dd66ac04ea",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9fed-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-6088-08dd66ac04ea",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-accf-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-6088-08dd66ac04ea",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-b957-08dd66ac04ea",
+          "parentId": "79890000-3e3b-0016-9902-08dd66ac04e9",
+          "title": "第四章 澳门驻军人员的义务与纪律",
+          "index": 21,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-cab8-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-b957-08dd66ac04ea",
+              "title": "第十六条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dda2-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-b957-08dd66ac04ea",
+              "title": "第十七条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ed58-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-b957-08dd66ac04ea",
+              "title": "第十八条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fc0e-08dd66ac04ea",
+              "parentId": "79890000-3e3b-0016-b957-08dd66ac04ea",
+              "title": "第十九条",
+              "index": 25,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-0a47-08dd66ac04eb",
+          "parentId": "79890000-3e3b-0016-9902-08dd66ac04e9",
+          "title": "第五章 澳门驻军人员的司法管辖",
+          "index": 26,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-1866-08dd66ac04eb",
+              "parentId": "79890000-3e3b-0016-0a47-08dd66ac04eb",
+              "title": "第二十条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2727-08dd66ac04eb",
+              "parentId": "79890000-3e3b-0016-0a47-08dd66ac04eb",
+              "title": "第二十一条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3705-08dd66ac04eb",
+              "parentId": "79890000-3e3b-0016-0a47-08dd66ac04eb",
+              "title": "第二十二条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-45c5-08dd66ac04eb",
+              "parentId": "79890000-3e3b-0016-0a47-08dd66ac04eb",
+              "title": "第二十三条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-544a-08dd66ac04eb",
+              "parentId": "79890000-3e3b-0016-0a47-08dd66ac04eb",
+              "title": "第二十四条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6358-08dd66ac04eb",
+              "parentId": "79890000-3e3b-0016-0a47-08dd66ac04eb",
+              "title": "第二十五条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7202-08dd66ac04eb",
+              "parentId": "79890000-3e3b-0016-0a47-08dd66ac04eb",
+              "title": "第二十六条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-818b-08dd66ac04eb",
+              "parentId": "79890000-3e3b-0016-0a47-08dd66ac04eb",
+              "title": "第二十七条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9045-08dd66ac04eb",
+              "parentId": "79890000-3e3b-0016-0a47-08dd66ac04eb",
+              "title": "第二十八条",
+              "index": 35,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9f22-08dd66ac04eb",
+          "parentId": "79890000-3e3b-0016-9902-08dd66ac04e9",
+          "title": "第六章 附则",
+          "index": 36,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-ae03-08dd66ac04eb",
+              "parentId": "79890000-3e3b-0016-9f22-08dd66ac04eb",
+              "title": "第二十九条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bcd5-08dd66ac04eb",
+              "parentId": "79890000-3e3b-0016-9f22-08dd66ac04eb",
+              "title": "第三十条",
+              "index": 38,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:49:21"
+}

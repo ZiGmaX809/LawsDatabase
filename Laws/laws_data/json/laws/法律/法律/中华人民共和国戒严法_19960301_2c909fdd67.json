@@ -1,0 +1,320 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5dcaf01bd",
+  "title": "中华人民共和国戒严法",
+  "gbrq": "1996-03-01",
+  "sxrq": "1996-03-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5dcaf01bd",
+    "ossFile": {
+      "ossWordPath": "prod/19960301/ce92df52061f4c089007dfd37383c4f5.docx",
+      "ossWordOfdPath": "prod/19960301/ce92df52061f4c089007dfd37383c4f5.ofd",
+      "ossWordOfdSize": 114845,
+      "ossPdfPath": "prod/19960301/d0329b90021c4c77b53061d25b43f781.pdf",
+      "ossPdfOfdPath": "prod/19960301/d0329b90021c4c77b53061d25b43f781.ofd",
+      "ossPdfOfdSize": 1390680
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1996-03-01",
+    "sxrq": "1996-03-01",
+    "title": "中华人民共和国戒严法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-7d62-08dd5c89e391",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国戒严法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-7dde-08dd5c89e391",
+          "parentId": "79890000-3e3b-0016-7d62-08dd5c89e391",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-7e3b-08dd5c89e391",
+          "parentId": "79890000-3e3b-0016-7d62-08dd5c89e391",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-8bf4-08dd5c89e391",
+          "parentId": "79890000-3e3b-0016-7d62-08dd5c89e391",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9b18-08dd5c89e391",
+              "parentId": "79890000-3e3b-0016-8bf4-08dd5c89e391",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ad79-08dd5c89e391",
+              "parentId": "79890000-3e3b-0016-8bf4-08dd5c89e391",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bc3e-08dd5c89e391",
+              "parentId": "79890000-3e3b-0016-8bf4-08dd5c89e391",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c987-08dd5c89e391",
+              "parentId": "79890000-3e3b-0016-8bf4-08dd5c89e391",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d696-08dd5c89e391",
+              "parentId": "79890000-3e3b-0016-8bf4-08dd5c89e391",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e3a0-08dd5c89e391",
+              "parentId": "79890000-3e3b-0016-8bf4-08dd5c89e391",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f10a-08dd5c89e391",
+              "parentId": "79890000-3e3b-0016-8bf4-08dd5c89e391",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fe56-08dd5c89e391",
+              "parentId": "79890000-3e3b-0016-8bf4-08dd5c89e391",
+              "title": "第八条",
+              "index": 11,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-0bc9-08dd5c89e392",
+          "parentId": "79890000-3e3b-0016-7d62-08dd5c89e391",
+          "title": "第二章 戒严的实施",
+          "index": 12,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-20dd-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-0bc9-08dd5c89e392",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-38e3-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-0bc9-08dd5c89e392",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-46d8-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-0bc9-08dd5c89e392",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-52b9-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-0bc9-08dd5c89e392",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-5e87-08dd5c89e392",
+          "parentId": "79890000-3e3b-0016-7d62-08dd5c89e391",
+          "title": "第三章 实施戒严的措施",
+          "index": 17,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-6a31-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-5e87-08dd5c89e392",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7819-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-5e87-08dd5c89e392",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-83fc-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-5e87-08dd5c89e392",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9019-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-5e87-08dd5c89e392",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9d23-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-5e87-08dd5c89e392",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a94e-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-5e87-08dd5c89e392",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b747-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-5e87-08dd5c89e392",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c3cc-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-5e87-08dd5c89e392",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-cfce-08dd5c89e392",
+          "parentId": "79890000-3e3b-0016-7d62-08dd5c89e391",
+          "title": "第四章 戒严执勤人员的职责",
+          "index": 26,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-dc30-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-cfce-08dd5c89e392",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e93c-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-cfce-08dd5c89e392",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f5af-08dd5c89e392",
+              "parentId": "79890000-3e3b-0016-cfce-08dd5c89e392",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-02f9-08dd5c89e393",
+              "parentId": "79890000-3e3b-0016-cfce-08dd5c89e392",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-10d3-08dd5c89e393",
+              "parentId": "79890000-3e3b-0016-cfce-08dd5c89e392",
+              "title": "第二十五条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1dc9-08dd5c89e393",
+              "parentId": "79890000-3e3b-0016-cfce-08dd5c89e392",
+              "title": "第二十六条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2b7a-08dd5c89e393",
+              "parentId": "79890000-3e3b-0016-cfce-08dd5c89e392",
+              "title": "第二十七条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-390c-08dd5c89e393",
+              "parentId": "79890000-3e3b-0016-cfce-08dd5c89e392",
+              "title": "第二十八条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-47b1-08dd5c89e393",
+              "parentId": "79890000-3e3b-0016-cfce-08dd5c89e392",
+              "title": "第二十九条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5612-08dd5c89e393",
+              "parentId": "79890000-3e3b-0016-cfce-08dd5c89e392",
+              "title": "第三十条",
+              "index": 36,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-63c8-08dd5c89e393",
+          "parentId": "79890000-3e3b-0016-7d62-08dd5c89e391",
+          "title": "第五章 附则",
+          "index": 37,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-70b4-08dd5c89e393",
+              "parentId": "79890000-3e3b-0016-63c8-08dd5c89e393",
+              "title": "第三十一条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7e88-08dd5c89e393",
+              "parentId": "79890000-3e3b-0016-63c8-08dd5c89e393",
+              "title": "第三十二条",
+              "index": 39,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:49:56"
+}

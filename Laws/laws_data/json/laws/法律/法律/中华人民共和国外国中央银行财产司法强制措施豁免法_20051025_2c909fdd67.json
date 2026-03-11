@@ -1,0 +1,77 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf634330311",
+  "title": "中华人民共和国外国中央银行财产司法强制措施豁免法",
+  "gbrq": "2005-10-25",
+  "sxrq": "2005-10-25",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf634330311",
+    "ossFile": {
+      "ossWordPath": "prod/20051025/0865ea4d1974428bbad46555c25b1eeb.docx",
+      "ossWordOfdPath": "prod/20051025/0865ea4d1974428bbad46555c25b1eeb.ofd",
+      "ossWordOfdSize": 38604,
+      "ossPdfPath": "prod/20051025/25d023873c004b99a5f2d61dcc1f10d8.pdf",
+      "ossPdfOfdPath": "prod/20051025/25d023873c004b99a5f2d61dcc1f10d8.ofd",
+      "ossPdfOfdSize": 340378
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2005-10-25",
+    "sxrq": "2005-10-25",
+    "title": "中华人民共和国外国中央银行财产司法强制措施豁免法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-7d28-08dd5babd9b7",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国外国中央银行财产司法强制措施豁免法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-7d88-08dd5babd9b7",
+          "parentId": "79890000-3e3b-0016-7d28-08dd5babd9b7",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-869b-08dd5babd9b7",
+          "parentId": "79890000-3e3b-0016-7d28-08dd5babd9b7",
+          "title": "第一条",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-8f7a-08dd5babd9b7",
+          "parentId": "79890000-3e3b-0016-7d28-08dd5babd9b7",
+          "title": "第二条",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-9804-08dd5babd9b7",
+          "parentId": "79890000-3e3b-0016-7d28-08dd5babd9b7",
+          "title": "第三条",
+          "index": 4,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-a041-08dd5babd9b7",
+          "parentId": "79890000-3e3b-0016-7d28-08dd5babd9b7",
+          "title": "第四条",
+          "index": 5,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:47:47"
+}

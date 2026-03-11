@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff8081819a7c996b019a9b424b9a6b92",
+  "title": "对外使用国徽图案的办法",
+  "gbrq": "2025-11-09",
+  "sxrq": "2025-11-09",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819a7c996b019a9b424b9a6b92",
+    "ossFile": {
+      "ossWordPath": "prod/20251109/7408ed686e214dc9a6de6e012e62a822.docx",
+      "ossWordOfdPath": "prod/20251109/7408ed686e214dc9a6de6e012e62a822.ofd",
+      "ossWordOfdSize": 69136,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819a7c996b019a9b424b9a6b92",
+        "title": "对外使用国徽图案的办法",
+        "gbrq": "2025-11-09",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f410f1961144a",
+        "title": "对外使用国徽图案的办法",
+        "gbrq": "1993-09-24",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081819a77678a019a9ec6ea9a349e",
+        "title": "中华人民共和国国务院令第821号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819a77678a019a9ec7087634bd",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-11-09",
+    "sxrq": "2025-11-09",
+    "title": "对外使用国徽图案的办法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:24"
+}

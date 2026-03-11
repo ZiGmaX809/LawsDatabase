@@ -1,0 +1,49 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5ac1c007d",
+  "title": "第五届全国人民代表大会常务委员会关于批准《国务院关于老干部离职休养的暂行规定》的决议",
+  "gbrq": "1980-09-29",
+  "sxrq": "1980-09-29",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5ac1c007d",
+    "ossFile": {
+      "ossWordPath": "prod/19800929/d092859c5244416ab2e786b5f1f6df2d.docx",
+      "ossWordOfdPath": "prod/19800929/d092859c5244416ab2e786b5f1f6df2d.ofd",
+      "ossWordOfdSize": 26362,
+      "ossPdfPath": "prod/19800929/028b5e91d5e84458930a43e1f6c9585d.pdf",
+      "ossPdfOfdPath": "prod/19800929/028b5e91d5e84458930a43e1f6c9585d.ofd",
+      "ossPdfOfdSize": 271863
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1980-09-29",
+    "sxrq": "1980-09-29",
+    "title": "第五届全国人民代表大会常务委员会关于批准《国务院关于老干部离职休养的暂行规定》的决议",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-77d4-08dde37b22ce",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "第五届全国人民代表大会常务委员会关于批准《国务院关于老干部离职休养的暂行规定》的决议",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-785b-08dde37b22ce",
+          "parentId": "79890000-3e3b-0016-77d4-08dde37b22ce",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:51:04"
+}

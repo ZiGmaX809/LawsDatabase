@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081817d283644017d4569b4505da7",
+  "title": "地下水管理条例",
+  "gbrq": "2021-10-21",
+  "sxrq": "2021-12-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081817d283644017d4569b4505da7",
+    "ossFile": {
+      "ossWordPath": "prod/20211021/bc703040095b4ca6b271494d5e5deb1c.docx",
+      "ossWordOfdPath": "prod/20211021/bc703040095b4ca6b271494d5e5deb1c.ofd",
+      "ossWordOfdSize": 165598,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081817d3c0e94017d4598526f02dd",
+        "title": "中华人民共和国国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817d3c1e89017d45987c8b02a2",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2021-10-21",
+    "sxrq": "2021-12-01",
+    "title": "地下水管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:07:59"
+}

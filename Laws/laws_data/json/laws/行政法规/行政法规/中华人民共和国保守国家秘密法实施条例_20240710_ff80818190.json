@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181907351a50190d83de7486141",
+  "title": "中华人民共和国保守国家秘密法实施条例",
+  "gbrq": "2024-07-10",
+  "sxrq": "2024-09-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181907351a50190d83de7486141",
+    "ossFile": {
+      "ossWordPath": "prod/20240710/3aecb559b2704eb0b11af4912d500902.docx",
+      "ossWordOfdPath": "prod/20240710/3aecb559b2704eb0b11af4912d500902.ofd",
+      "ossWordOfdSize": 184204,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181907351a50190d83de7486141",
+        "title": "中华人民共和国保守国家秘密法实施条例",
+        "gbrq": "2024-07-10",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4122606c1932",
+        "title": "中华人民共和国保守国家秘密法实施条例",
+        "gbrq": "2014-01-17",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a463901910647d9b14401",
+        "title": "中华人民共和国国务院令第786号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818f197cf00190e365f7bf46d8",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-07-10",
+    "sxrq": "2024-09-01",
+    "title": "中华人民共和国保守国家秘密法实施条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:04:44"
+}

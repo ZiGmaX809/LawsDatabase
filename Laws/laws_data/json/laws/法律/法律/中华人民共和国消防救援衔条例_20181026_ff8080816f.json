@@ -1,0 +1,308 @@
+{
+  "bbbs": "ff8080816f135f46016f1d256fdd13d7",
+  "title": "中华人民共和国消防救援衔条例",
+  "gbrq": "2018-10-26",
+  "sxrq": "2018-10-27",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "ff8080816f135f46016f1d256fdd13d7",
+    "ossFile": {
+      "ossWordPath": "prod/20181026/2a0203ae52fa470e97e2a4b80043bd8a.docx",
+      "ossWordOfdPath": "prod/20181026/2a0203ae52fa470e97e2a4b80043bd8a.ofd",
+      "ossWordOfdSize": 96117,
+      "ossPdfPath": "prod/20181026/158afc134fcc4c3f8ac68ee1fbb34933.pdf",
+      "ossPdfOfdPath": "prod/20181026/158afc134fcc4c3f8ac68ee1fbb34933.ofd",
+      "ossPdfOfdSize": 272274
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2018-10-26",
+    "sxrq": "2018-10-27",
+    "title": "中华人民共和国消防救援衔条例",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-47c8-08dd71bf9fe2",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国消防救援衔条例",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-4864-08dd71bf9fe2",
+          "parentId": "79890000-3e3b-0016-47c8-08dd71bf9fe2",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-48de-08dd71bf9fe2",
+          "parentId": "79890000-3e3b-0016-47c8-08dd71bf9fe2",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-5b9f-08dd71bf9fe2",
+          "parentId": "79890000-3e3b-0016-47c8-08dd71bf9fe2",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-6eee-08dd71bf9fe2",
+              "parentId": "79890000-3e3b-0016-5b9f-08dd71bf9fe2",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8279-08dd71bf9fe2",
+              "parentId": "79890000-3e3b-0016-5b9f-08dd71bf9fe2",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9688-08dd71bf9fe2",
+              "parentId": "79890000-3e3b-0016-5b9f-08dd71bf9fe2",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a9e4-08dd71bf9fe2",
+              "parentId": "79890000-3e3b-0016-5b9f-08dd71bf9fe2",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c377-08dd71bf9fe2",
+              "parentId": "79890000-3e3b-0016-5b9f-08dd71bf9fe2",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-d46c-08dd71bf9fe2",
+          "parentId": "79890000-3e3b-0016-47c8-08dd71bf9fe2",
+          "title": "第二章 消防救援衔等级的设置",
+          "index": 9,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-e208-08dd71bf9fe2",
+              "parentId": "79890000-3e3b-0016-d46c-08dd71bf9fe2",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ef3e-08dd71bf9fe2",
+              "parentId": "79890000-3e3b-0016-d46c-08dd71bf9fe2",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fc33-08dd71bf9fe2",
+              "parentId": "79890000-3e3b-0016-d46c-08dd71bf9fe2",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-08bc-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-d46c-08dd71bf9fe2",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-1551-08dd71bf9fe3",
+          "parentId": "79890000-3e3b-0016-47c8-08dd71bf9fe2",
+          "title": "第三章 消防救援衔等级的编制",
+          "index": 14,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-2123-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-1551-08dd71bf9fe3",
+              "title": "第十条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3068-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-1551-08dd71bf9fe3",
+              "title": "第十一条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5b81-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-1551-08dd71bf9fe3",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-69cd-08dd71bf9fe3",
+          "parentId": "79890000-3e3b-0016-47c8-08dd71bf9fe2",
+          "title": "第四章 消防救援衔的首次授予",
+          "index": 18,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-7685-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-69cd-08dd71bf9fe3",
+              "title": "第十三条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-839c-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-69cd-08dd71bf9fe3",
+              "title": "第十四条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9139-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-69cd-08dd71bf9fe3",
+              "title": "第十五条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9ec3-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-69cd-08dd71bf9fe3",
+              "title": "第十六条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-acb5-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-69cd-08dd71bf9fe3",
+              "title": "第十七条",
+              "index": 23,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-b9a0-08dd71bf9fe3",
+          "parentId": "79890000-3e3b-0016-47c8-08dd71bf9fe2",
+          "title": "第五章 消防救援衔的晋级",
+          "index": 24,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-c6bd-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-b9a0-08dd71bf9fe3",
+              "title": "第十八条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d42a-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-b9a0-08dd71bf9fe3",
+              "title": "第十九条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e149-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-b9a0-08dd71bf9fe3",
+              "title": "第二十条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f078-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-b9a0-08dd71bf9fe3",
+              "title": "第二十一条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fe68-08dd71bf9fe3",
+              "parentId": "79890000-3e3b-0016-b9a0-08dd71bf9fe3",
+              "title": "第二十二条",
+              "index": 29,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-0b7e-08dd71bf9fe4",
+          "parentId": "79890000-3e3b-0016-47c8-08dd71bf9fe2",
+          "title": "第六章 消防救援衔的保留、降级和取消",
+          "index": 30,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-191e-08dd71bf9fe4",
+              "parentId": "79890000-3e3b-0016-0b7e-08dd71bf9fe4",
+              "title": "第二十三条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2655-08dd71bf9fe4",
+              "parentId": "79890000-3e3b-0016-0b7e-08dd71bf9fe4",
+              "title": "第二十四条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-33be-08dd71bf9fe4",
+              "parentId": "79890000-3e3b-0016-0b7e-08dd71bf9fe4",
+              "title": "第二十五条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-41f3-08dd71bf9fe4",
+              "parentId": "79890000-3e3b-0016-0b7e-08dd71bf9fe4",
+              "title": "第二十六条",
+              "index": 34,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-4f73-08dd71bf9fe4",
+          "parentId": "79890000-3e3b-0016-47c8-08dd71bf9fe2",
+          "title": "第七章 附则",
+          "index": 35,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5c41-08dd71bf9fe4",
+              "parentId": "79890000-3e3b-0016-4f73-08dd71bf9fe4",
+              "title": "第二十七条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6a92-08dd71bf9fe4",
+              "parentId": "79890000-3e3b-0016-4f73-08dd71bf9fe4",
+              "title": "第二十八条",
+              "index": 37,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:36:14"
+}

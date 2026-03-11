@@ -1,0 +1,370 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf7f9d60889",
+  "title": "中华人民共和国反家庭暴力法",
+  "gbrq": "2015-12-27",
+  "sxrq": "2016-03-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 150,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf7f9d60889",
+    "ossFile": {
+      "ossWordPath": "prod/20151227/4dc0270d207c47a6b54f023a5987758f.docx",
+      "ossWordOfdPath": "prod/20151227/4dc0270d207c47a6b54f023a5987758f.ofd",
+      "ossWordOfdSize": 120387,
+      "ossPdfPath": "prod/20151227/e019192d72d84a27b4d07ffa3e91288e.pdf",
+      "ossPdfOfdPath": "prod/20151227/e019192d72d84a27b4d07ffa3e91288e.ofd",
+      "ossPdfOfdSize": 2118356
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2015-12-27",
+    "sxrq": "2016-03-01",
+    "title": "中华人民共和国反家庭暴力法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-d942-08dd56fd487f",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国反家庭暴力法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-d9f9-08dd56fd487f",
+          "parentId": "79890000-3e3b-0016-d942-08dd56fd487f",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-da84-08dd56fd487f",
+          "parentId": "79890000-3e3b-0016-d942-08dd56fd487f",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-efae-08dd56fd487f",
+          "parentId": "79890000-3e3b-0016-d942-08dd56fd487f",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0807-08dd56fd4880",
+              "parentId": "79890000-3e3b-0016-efae-08dd56fd487f",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1d31-08dd56fd4880",
+              "parentId": "79890000-3e3b-0016-efae-08dd56fd487f",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-34c4-08dd56fd4880",
+              "parentId": "79890000-3e3b-0016-efae-08dd56fd487f",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4bd3-08dd56fd4880",
+              "parentId": "79890000-3e3b-0016-efae-08dd56fd487f",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6309-08dd56fd4880",
+              "parentId": "79890000-3e3b-0016-efae-08dd56fd487f",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-7892-08dd56fd4880",
+          "parentId": "79890000-3e3b-0016-d942-08dd56fd487f",
+          "title": "第二章 家庭暴力的预防",
+          "index": 9,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-8c9e-08dd56fd4880",
+              "parentId": "79890000-3e3b-0016-7892-08dd56fd4880",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a1cf-08dd56fd4880",
+              "parentId": "79890000-3e3b-0016-7892-08dd56fd4880",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b847-08dd56fd4880",
+              "parentId": "79890000-3e3b-0016-7892-08dd56fd4880",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cca8-08dd56fd4880",
+              "parentId": "79890000-3e3b-0016-7892-08dd56fd4880",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e27e-08dd56fd4880",
+              "parentId": "79890000-3e3b-0016-7892-08dd56fd4880",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f374-08dd56fd4880",
+              "parentId": "79890000-3e3b-0016-7892-08dd56fd4880",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0103-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-7892-08dd56fd4880",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-0d2a-08dd56fd4881",
+          "parentId": "79890000-3e3b-0016-d942-08dd56fd487f",
+          "title": "第三章 家庭暴力的处置",
+          "index": 17,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-1883-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-0d2a-08dd56fd4881",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-24f1-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-0d2a-08dd56fd4881",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3141-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-0d2a-08dd56fd4881",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3dcc-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-0d2a-08dd56fd4881",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4a3b-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-0d2a-08dd56fd4881",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-56c2-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-0d2a-08dd56fd4881",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6328-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-0d2a-08dd56fd4881",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6f7e-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-0d2a-08dd56fd4881",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7c39-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-0d2a-08dd56fd4881",
+              "title": "第二十一条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8872-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-0d2a-08dd56fd4881",
+              "title": "第二十二条",
+              "index": 27,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-95c7-08dd56fd4881",
+          "parentId": "79890000-3e3b-0016-d942-08dd56fd487f",
+          "title": "第四章 人身安全保护令",
+          "index": 28,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a2be-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-95c7-08dd56fd4881",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-afd5-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-95c7-08dd56fd4881",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bcca-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-95c7-08dd56fd4881",
+              "title": "第二十五条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cba7-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-95c7-08dd56fd4881",
+              "title": "第二十六条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-da47-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-95c7-08dd56fd4881",
+              "title": "第二十七条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ea66-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-95c7-08dd56fd4881",
+              "title": "第二十八条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f92d-08dd56fd4881",
+              "parentId": "79890000-3e3b-0016-95c7-08dd56fd4881",
+              "title": "第二十九条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-092c-08dd56fd4882",
+              "parentId": "79890000-3e3b-0016-95c7-08dd56fd4881",
+              "title": "第三十条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1866-08dd56fd4882",
+              "parentId": "79890000-3e3b-0016-95c7-08dd56fd4881",
+              "title": "第三十一条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-314b-08dd56fd4882",
+              "parentId": "79890000-3e3b-0016-95c7-08dd56fd4881",
+              "title": "第三十二条",
+              "index": 38,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-4aff-08dd56fd4882",
+          "parentId": "79890000-3e3b-0016-d942-08dd56fd487f",
+          "title": "第五章 法律责任",
+          "index": 39,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-595e-08dd56fd4882",
+              "parentId": "79890000-3e3b-0016-4aff-08dd56fd4882",
+              "title": "第三十三条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6783-08dd56fd4882",
+              "parentId": "79890000-3e3b-0016-4aff-08dd56fd4882",
+              "title": "第三十四条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-755a-08dd56fd4882",
+              "parentId": "79890000-3e3b-0016-4aff-08dd56fd4882",
+              "title": "第三十五条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-83c2-08dd56fd4882",
+              "parentId": "79890000-3e3b-0016-4aff-08dd56fd4882",
+              "title": "第三十六条",
+              "index": 43,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-913f-08dd56fd4882",
+          "parentId": "79890000-3e3b-0016-d942-08dd56fd487f",
+          "title": "第六章 附则",
+          "index": 44,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9e7c-08dd56fd4882",
+              "parentId": "79890000-3e3b-0016-913f-08dd56fd4882",
+              "title": "第三十七条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-acb1-08dd56fd4882",
+              "parentId": "79890000-3e3b-0016-913f-08dd56fd4882",
+              "title": "第三十八条",
+              "index": 46,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:40:57"
+}

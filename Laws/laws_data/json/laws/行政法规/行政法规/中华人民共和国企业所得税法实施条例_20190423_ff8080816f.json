@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3e9784016f42099687030a",
+  "title": "中华人民共和国企业所得税法实施条例",
+  "gbrq": "2019-04-23",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f42099687030a",
+    "ossFile": {
+      "ossWordPath": "prod/20190423/3b4bfbb55b4f45d49bd6004e77a4890a.docx",
+      "ossWordOfdPath": "prod/20190423/3b4bfbb55b4f45d49bd6004e77a4890a.ofd",
+      "ossWordOfdSize": 242088,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a8b3aa6f328b",
+        "title": "中华人民共和国企业所得税法实施条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f42099687030a",
+        "title": "中华人民共和国企业所得税法实施条例",
+        "gbrq": "2019-04-23",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-04-23",
+    "sxrq": null,
+    "title": "中华人民共和国企业所得税法实施条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:10:28"
+}

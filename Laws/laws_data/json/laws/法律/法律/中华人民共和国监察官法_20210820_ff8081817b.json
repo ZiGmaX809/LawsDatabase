@@ -1,0 +1,604 @@
+{
+  "bbbs": "ff8081817b6472a3017b65724edf004f",
+  "title": "中华人民共和国监察官法",
+  "gbrq": "2021-08-20",
+  "sxrq": "2022-01-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "ff8081817b6472a3017b65724edf004f",
+    "ossFile": {
+      "ossWordPath": "prod/20210820/b30709d4147a4c499ff695beace89492.docx",
+      "ossWordOfdPath": "prod/20210820/b30709d4147a4c499ff695beace89492.ofd",
+      "ossWordOfdSize": 172212,
+      "ossPdfPath": "prod/20210820/a463eeede53840348a4f7fa8d1f15ae7.pdf",
+      "ossPdfOfdPath": "prod/20210820/a463eeede53840348a4f7fa8d1f15ae7.ofd",
+      "ossPdfOfdSize": 895391
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2021-08-20",
+    "sxrq": "2022-01-01",
+    "title": "中华人民共和国监察官法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-b43c-08dd66b737c7",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国监察官法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-b4c5-08dd66b737c7",
+          "parentId": "79890000-3e3b-0016-b43c-08dd66b737c7",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b52d-08dd66b737c7",
+          "parentId": "79890000-3e3b-0016-b43c-08dd66b737c7",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c551-08dd66b737c7",
+          "parentId": "79890000-3e3b-0016-b43c-08dd66b737c7",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-d503-08dd66b737c7",
+              "parentId": "79890000-3e3b-0016-c551-08dd66b737c7",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e5dc-08dd66b737c7",
+              "parentId": "79890000-3e3b-0016-c551-08dd66b737c7",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f6aa-08dd66b737c7",
+              "parentId": "79890000-3e3b-0016-c551-08dd66b737c7",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0857-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-c551-08dd66b737c7",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1916-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-c551-08dd66b737c7",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-29ad-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-c551-08dd66b737c7",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3a65-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-c551-08dd66b737c7",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4aeb-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-c551-08dd66b737c7",
+              "title": "第八条",
+              "index": 11,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-59c6-08dd66b737c8",
+          "parentId": "79890000-3e3b-0016-b43c-08dd66b737c7",
+          "title": "第二章 监察官的职责、义务和权利",
+          "index": 12,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-68bb-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-59c6-08dd66b737c8",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-79c1-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-59c6-08dd66b737c8",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8bd9-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-59c6-08dd66b737c8",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9cbb-08dd66b737c8",
+          "parentId": "79890000-3e3b-0016-b43c-08dd66b737c7",
+          "title": "第三章 监察官的条件和选用",
+          "index": 16,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-abcd-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-9cbb-08dd66b737c8",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bddd-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-9cbb-08dd66b737c8",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cec1-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-9cbb-08dd66b737c8",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dede-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-9cbb-08dd66b737c8",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-eee7-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-9cbb-08dd66b737c8",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fed2-08dd66b737c8",
+              "parentId": "79890000-3e3b-0016-9cbb-08dd66b737c8",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0f4a-08dd66b737c9",
+              "parentId": "79890000-3e3b-0016-9cbb-08dd66b737c8",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-1f36-08dd66b737c9",
+          "parentId": "79890000-3e3b-0016-b43c-08dd66b737c7",
+          "title": "第四章 监察官的任免",
+          "index": 24,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-2f99-08dd66b737c9",
+              "parentId": "79890000-3e3b-0016-1f36-08dd66b737c9",
+              "title": "第十九条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4048-08dd66b737c9",
+              "parentId": "79890000-3e3b-0016-1f36-08dd66b737c9",
+              "title": "第二十条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-50db-08dd66b737c9",
+              "parentId": "79890000-3e3b-0016-1f36-08dd66b737c9",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-62de-08dd66b737c9",
+              "parentId": "79890000-3e3b-0016-1f36-08dd66b737c9",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7369-08dd66b737c9",
+              "parentId": "79890000-3e3b-0016-1f36-08dd66b737c9",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-84f9-08dd66b737c9",
+              "parentId": "79890000-3e3b-0016-1f36-08dd66b737c9",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-965b-08dd66b737c9",
+          "parentId": "79890000-3e3b-0016-b43c-08dd66b737c7",
+          "title": "第五章 监察官的管理",
+          "index": 31,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a6f1-08dd66b737c9",
+              "parentId": "79890000-3e3b-0016-965b-08dd66b737c9",
+              "title": "第二十五条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b7bf-08dd66b737c9",
+              "parentId": "79890000-3e3b-0016-965b-08dd66b737c9",
+              "title": "第二十六条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c8de-08dd66b737c9",
+              "parentId": "79890000-3e3b-0016-965b-08dd66b737c9",
+              "title": "第二十七条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-da8f-08dd66b737c9",
+              "parentId": "79890000-3e3b-0016-965b-08dd66b737c9",
+              "title": "第二十八条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ebd6-08dd66b737c9",
+              "parentId": "79890000-3e3b-0016-965b-08dd66b737c9",
+              "title": "第二十九条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0083-08dd66b737ca",
+              "parentId": "79890000-3e3b-0016-965b-08dd66b737c9",
+              "title": "第三十条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-151a-08dd66b737ca",
+              "parentId": "79890000-3e3b-0016-965b-08dd66b737c9",
+              "title": "第三十一条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-273e-08dd66b737ca",
+              "parentId": "79890000-3e3b-0016-965b-08dd66b737c9",
+              "title": "第三十二条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3931-08dd66b737ca",
+              "parentId": "79890000-3e3b-0016-965b-08dd66b737c9",
+              "title": "第三十三条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4b0d-08dd66b737ca",
+              "parentId": "79890000-3e3b-0016-965b-08dd66b737c9",
+              "title": "第三十四条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5cfd-08dd66b737ca",
+              "parentId": "79890000-3e3b-0016-965b-08dd66b737c9",
+              "title": "第三十五条",
+              "index": 42,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-6f3a-08dd66b737ca",
+          "parentId": "79890000-3e3b-0016-b43c-08dd66b737c7",
+          "title": "第六章 监察官的考核和奖励",
+          "index": 43,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-80b4-08dd66b737ca",
+              "parentId": "79890000-3e3b-0016-6f3a-08dd66b737ca",
+              "title": "第三十六条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9335-08dd66b737ca",
+              "parentId": "79890000-3e3b-0016-6f3a-08dd66b737ca",
+              "title": "第三十七条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a55c-08dd66b737ca",
+              "parentId": "79890000-3e3b-0016-6f3a-08dd66b737ca",
+              "title": "第三十八条",
+              "index": 46,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b821-08dd66b737ca",
+              "parentId": "79890000-3e3b-0016-6f3a-08dd66b737ca",
+              "title": "第三十九条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ca56-08dd66b737ca",
+              "parentId": "79890000-3e3b-0016-6f3a-08dd66b737ca",
+              "title": "第四十条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dcf4-08dd66b737ca",
+              "parentId": "79890000-3e3b-0016-6f3a-08dd66b737ca",
+              "title": "第四十一条",
+              "index": 49,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-f0de-08dd66b737ca",
+          "parentId": "79890000-3e3b-0016-b43c-08dd66b737c7",
+          "title": "第七章 监察官的监督和惩戒",
+          "index": 50,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-03a5-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第四十二条",
+              "index": 51,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1678-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第四十三条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2961-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第四十四条",
+              "index": 53,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3beb-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第四十五条",
+              "index": 54,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4ec8-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第四十六条",
+              "index": 55,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6209-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第四十七条",
+              "index": 56,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7626-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第四十八条",
+              "index": 57,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-89bd-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第四十九条",
+              "index": 58,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9d18-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第五十条",
+              "index": 59,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b071-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第五十一条",
+              "index": 60,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c3d4-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第五十二条",
+              "index": 61,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d9c6-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第五十三条",
+              "index": 62,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ed1b-08dd66b737cb",
+              "parentId": "79890000-3e3b-0016-f0de-08dd66b737ca",
+              "title": "第五十四条",
+              "index": 63,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-00bb-08dd66b737cc",
+          "parentId": "79890000-3e3b-0016-b43c-08dd66b737c7",
+          "title": "第八章 监察官的职业保障",
+          "index": 64,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-144d-08dd66b737cc",
+              "parentId": "79890000-3e3b-0016-00bb-08dd66b737cc",
+              "title": "第五十五条",
+              "index": 65,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2999-08dd66b737cc",
+              "parentId": "79890000-3e3b-0016-00bb-08dd66b737cc",
+              "title": "第五十六条",
+              "index": 66,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3dc5-08dd66b737cc",
+              "parentId": "79890000-3e3b-0016-00bb-08dd66b737cc",
+              "title": "第五十七条",
+              "index": 67,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-51fa-08dd66b737cc",
+              "parentId": "79890000-3e3b-0016-00bb-08dd66b737cc",
+              "title": "第五十八条",
+              "index": 68,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-94d6-08dd66b737cc",
+              "parentId": "79890000-3e3b-0016-00bb-08dd66b737cc",
+              "title": "第五十九条",
+              "index": 69,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ae56-08dd66b737cc",
+              "parentId": "79890000-3e3b-0016-00bb-08dd66b737cc",
+              "title": "第六十条",
+              "index": 70,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c5b5-08dd66b737cc",
+              "parentId": "79890000-3e3b-0016-00bb-08dd66b737cc",
+              "title": "第六十一条",
+              "index": 71,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dd2e-08dd66b737cc",
+              "parentId": "79890000-3e3b-0016-00bb-08dd66b737cc",
+              "title": "第六十二条",
+              "index": 72,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f29c-08dd66b737cc",
+              "parentId": "79890000-3e3b-0016-00bb-08dd66b737cc",
+              "title": "第六十三条",
+              "index": 73,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0876-08dd66b737cd",
+              "parentId": "79890000-3e3b-0016-00bb-08dd66b737cc",
+              "title": "第六十四条",
+              "index": 74,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1de3-08dd66b737cd",
+              "parentId": "79890000-3e3b-0016-00bb-08dd66b737cc",
+              "title": "第六十五条",
+              "index": 75,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-3334-08dd66b737cd",
+          "parentId": "79890000-3e3b-0016-b43c-08dd66b737c7",
+          "title": "第九章 附则",
+          "index": 76,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-4851-08dd66b737cd",
+              "parentId": "79890000-3e3b-0016-3334-08dd66b737cd",
+              "title": "第六十六条",
+              "index": 77,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5e21-08dd66b737cd",
+              "parentId": "79890000-3e3b-0016-3334-08dd66b737cd",
+              "title": "第六十七条",
+              "index": 78,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7320-08dd66b737cd",
+              "parentId": "79890000-3e3b-0016-3334-08dd66b737cd",
+              "title": "第六十八条",
+              "index": 79,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:31:17"
+}

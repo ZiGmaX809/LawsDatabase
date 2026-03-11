@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff80818179f5d52f0179fa47e5ed06ef",
+  "title": "最高人民法院关于人民法院执行工作若干问题的规定（试行）",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff80818179f5d52f0179fa47e5ed06ef",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/2bcb2f8b143f46958c1f2a962511bc0f.docx",
+      "ossWordOfdPath": "prod/20201229/2bcb2f8b143f46958c1f2a962511bc0f.ofd",
+      "ossWordOfdSize": 143826,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818179f5d52f0179fa47e5ed06ef",
+        "title": "最高人民法院关于人民法院执行工作若干问题的规定（试行）",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e46000e2790160017ee10005da",
+        "title": "最高人民法院关于人民法院执行工作若干问题的规定（试行）",
+        "gbrq": "1998-07-08",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179f5dd9f017a0e32629d10f8",
+        "title": "法释〔2020〕21号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179facbcc017a0e32654a0240",
+        "title": "法释〔2020〕21号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于人民法院执行工作若干问题的规定（试行）",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:54"
+}

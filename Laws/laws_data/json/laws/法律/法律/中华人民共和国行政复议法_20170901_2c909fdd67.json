@@ -1,0 +1,426 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf86f120a73",
+  "title": "中华人民共和国行政复议法",
+  "gbrq": "2017-09-01",
+  "sxrq": "2018-01-01",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf86f120a73",
+    "ossFile": {
+      "ossWordPath": "prod/20170901/97593f0d3c6d46c180ba5b67608bfa6c.docx",
+      "ossWordOfdPath": "prod/20170901/97593f0d3c6d46c180ba5b67608bfa6c.ofd",
+      "ossWordOfdSize": 134856,
+      "ossPdfPath": "prod/20170901/6d0ab220fffb433487ae8f42fa419fa4.pdf",
+      "ossPdfOfdPath": "prod/20170901/6d0ab220fffb433487ae8f42fa419fa4.ofd",
+      "ossPdfOfdSize": 3481451
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a21e6c3018a508d491a0c98",
+        "title": "中华人民共和国行政复议法",
+        "gbrq": "2023-09-01",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf86f120a73",
+        "title": "中华人民共和国行政复议法",
+        "gbrq": "2017-09-01",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2017-09-01",
+    "sxrq": "2018-01-01",
+    "title": "中华人民共和国行政复议法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-7b3d-08dd6ff21f7f",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国行政复议法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-7c5a-08dd6ff21f7f",
+          "parentId": "79890000-3e3b-0016-7b3d-08dd6ff21f7f",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-7ce8-08dd6ff21f7f",
+          "parentId": "79890000-3e3b-0016-7b3d-08dd6ff21f7f",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-9d4e-08dd6ff21f7f",
+          "parentId": "79890000-3e3b-0016-7b3d-08dd6ff21f7f",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b372-08dd6ff21f7f",
+              "parentId": "79890000-3e3b-0016-9d4e-08dd6ff21f7f",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c95f-08dd6ff21f7f",
+              "parentId": "79890000-3e3b-0016-9d4e-08dd6ff21f7f",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e007-08dd6ff21f7f",
+              "parentId": "79890000-3e3b-0016-9d4e-08dd6ff21f7f",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fabe-08dd6ff21f7f",
+              "parentId": "79890000-3e3b-0016-9d4e-08dd6ff21f7f",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-10f8-08dd6ff21f80",
+              "parentId": "79890000-3e3b-0016-9d4e-08dd6ff21f7f",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-25ba-08dd6ff21f80",
+          "parentId": "79890000-3e3b-0016-7b3d-08dd6ff21f7f",
+          "title": "第二章 行政复议范围",
+          "index": 9,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-3bfe-08dd6ff21f80",
+              "parentId": "79890000-3e3b-0016-25ba-08dd6ff21f80",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-58b1-08dd6ff21f80",
+              "parentId": "79890000-3e3b-0016-25ba-08dd6ff21f80",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-70b3-08dd6ff21f80",
+              "parentId": "79890000-3e3b-0016-25ba-08dd6ff21f80",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-87a5-08dd6ff21f80",
+          "parentId": "79890000-3e3b-0016-7b3d-08dd6ff21f7f",
+          "title": "第三章 行政复议申请",
+          "index": 13,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a0a4-08dd6ff21f80",
+              "parentId": "79890000-3e3b-0016-87a5-08dd6ff21f80",
+              "title": "第九条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bbc9-08dd6ff21f80",
+              "parentId": "79890000-3e3b-0016-87a5-08dd6ff21f80",
+              "title": "第十条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d845-08dd6ff21f80",
+              "parentId": "79890000-3e3b-0016-87a5-08dd6ff21f80",
+              "title": "第十一条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f46e-08dd6ff21f80",
+              "parentId": "79890000-3e3b-0016-87a5-08dd6ff21f80",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1044-08dd6ff21f81",
+              "parentId": "79890000-3e3b-0016-87a5-08dd6ff21f80",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2c66-08dd6ff21f81",
+              "parentId": "79890000-3e3b-0016-87a5-08dd6ff21f80",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4776-08dd6ff21f81",
+              "parentId": "79890000-3e3b-0016-87a5-08dd6ff21f80",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-656d-08dd6ff21f81",
+              "parentId": "79890000-3e3b-0016-87a5-08dd6ff21f80",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-8181-08dd6ff21f81",
+          "parentId": "79890000-3e3b-0016-7b3d-08dd6ff21f7f",
+          "title": "第四章 行政复议受理",
+          "index": 22,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9d38-08dd6ff21f81",
+              "parentId": "79890000-3e3b-0016-8181-08dd6ff21f81",
+              "title": "第十七条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b9f6-08dd6ff21f81",
+              "parentId": "79890000-3e3b-0016-8181-08dd6ff21f81",
+              "title": "第十八条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d64e-08dd6ff21f81",
+              "parentId": "79890000-3e3b-0016-8181-08dd6ff21f81",
+              "title": "第十九条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f2e4-08dd6ff21f81",
+              "parentId": "79890000-3e3b-0016-8181-08dd6ff21f81",
+              "title": "第二十条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-085f-08dd6ff21f82",
+              "parentId": "79890000-3e3b-0016-8181-08dd6ff21f81",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+          "parentId": "79890000-3e3b-0016-7b3d-08dd6ff21f7f",
+          "title": "第五章 行政复议决定",
+          "index": 28,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-2e4a-08dd6ff21f82",
+              "parentId": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+              "title": "第二十二条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4120-08dd6ff21f82",
+              "parentId": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+              "title": "第二十三条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-53d5-08dd6ff21f82",
+              "parentId": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+              "title": "第二十四条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6670-08dd6ff21f82",
+              "parentId": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+              "title": "第二十五条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7915-08dd6ff21f82",
+              "parentId": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+              "title": "第二十六条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8c13-08dd6ff21f82",
+              "parentId": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+              "title": "第二十七条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9ecb-08dd6ff21f82",
+              "parentId": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+              "title": "第二十八条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b421-08dd6ff21f82",
+              "parentId": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+              "title": "第二十九条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c712-08dd6ff21f82",
+              "parentId": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+              "title": "第三十条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-da63-08dd6ff21f82",
+              "parentId": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+              "title": "第三十一条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ee21-08dd6ff21f82",
+              "parentId": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+              "title": "第三十二条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-033d-08dd6ff21f83",
+              "parentId": "79890000-3e3b-0016-1c81-08dd6ff21f82",
+              "title": "第三十三条",
+              "index": 40,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-1759-08dd6ff21f83",
+          "parentId": "79890000-3e3b-0016-7b3d-08dd6ff21f7f",
+          "title": "第六章 法律责任",
+          "index": 41,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-2a56-08dd6ff21f83",
+              "parentId": "79890000-3e3b-0016-1759-08dd6ff21f83",
+              "title": "第三十四条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3da1-08dd6ff21f83",
+              "parentId": "79890000-3e3b-0016-1759-08dd6ff21f83",
+              "title": "第三十五条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5127-08dd6ff21f83",
+              "parentId": "79890000-3e3b-0016-1759-08dd6ff21f83",
+              "title": "第三十六条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-647b-08dd6ff21f83",
+              "parentId": "79890000-3e3b-0016-1759-08dd6ff21f83",
+              "title": "第三十七条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7810-08dd6ff21f83",
+              "parentId": "79890000-3e3b-0016-1759-08dd6ff21f83",
+              "title": "第三十八条",
+              "index": 46,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-8b9b-08dd6ff21f83",
+          "parentId": "79890000-3e3b-0016-7b3d-08dd6ff21f7f",
+          "title": "第七章 附则",
+          "index": 47,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9ebd-08dd6ff21f83",
+              "parentId": "79890000-3e3b-0016-8b9b-08dd6ff21f83",
+              "title": "第三十九条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b2fc-08dd6ff21f83",
+              "parentId": "79890000-3e3b-0016-8b9b-08dd6ff21f83",
+              "title": "第四十条",
+              "index": 49,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c6ee-08dd6ff21f83",
+              "parentId": "79890000-3e3b-0016-8b9b-08dd6ff21f83",
+              "title": "第四十一条",
+              "index": 50,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dbf7-08dd6ff21f83",
+              "parentId": "79890000-3e3b-0016-8b9b-08dd6ff21f83",
+              "title": "第四十二条",
+              "index": 51,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f020-08dd6ff21f83",
+              "parentId": "79890000-3e3b-0016-8b9b-08dd6ff21f83",
+              "title": "第四十三条",
+              "index": 52,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:38:51"
+}

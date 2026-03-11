@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181999a5e270199db3053706a04",
+  "title": "生物医学新技术临床研究和临床转化应用管理条例",
+  "gbrq": "2025-09-28",
+  "sxrq": "2026-05-01",
+  "sxx": 4,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181999a5e270199db3053706a04",
+    "ossFile": {
+      "ossWordPath": "prod/20250928/5089a73e4579457886650c5bf3ec16a3.docx",
+      "ossWordOfdPath": "prod/20250928/5089a73e4579457886650c5bf3ec16a3.ofd",
+      "ossWordOfdSize": 146493,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181987921230199dbace80d17a1",
+        "title": "中华人民共和国国务院令第818号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181987921230199dbad06e717ad",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-09-28",
+    "sxrq": "2026-05-01",
+    "title": "生物医学新技术临床研究和临床转化应用管理条例",
+    "sxx": 4,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:30"
+}

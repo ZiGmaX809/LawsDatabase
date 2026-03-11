@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3e9784016f4244d3af0424",
+  "title": "中国人民银行货币政策委员会条例",
+  "gbrq": "1997-04-15",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f4244d3af0424",
+    "ossFile": {
+      "ossWordPath": "prod/19970415/114d7e56092f4342bbf35f26799a8678.docx",
+      "ossWordOfdPath": "prod/19970415/114d7e56092f4342bbf35f26799a8678.ofd",
+      "ossWordOfdSize": 87095,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "ff808181966737700196a9c343c53515",
+        "title": "国务院关于修改部分行政法规和国务院决定的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a9c9e22c35e7",
+        "title": "中国人民银行货币政策委员会条例",
+        "gbrq": "2024-01-13",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f4244d3af0424",
+        "title": "中国人民银行货币政策委员会条例",
+        "gbrq": "1997-04-15",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1997-04-15",
+    "sxrq": null,
+    "title": "中国人民银行货币政策委员会条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:32:20"
+}

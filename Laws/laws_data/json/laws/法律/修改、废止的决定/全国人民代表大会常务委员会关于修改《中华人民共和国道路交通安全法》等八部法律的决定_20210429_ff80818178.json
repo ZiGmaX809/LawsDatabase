@@ -1,0 +1,68 @@
+{
+  "bbbs": "ff80818178efe3620179207b83a228f1",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国道路交通安全法》等八部法律的决定",
+  "gbrq": "2021-04-29",
+  "sxrq": "2021-04-29",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff80818178efe3620179207b83a228f1",
+    "ossFile": {
+      "ossWordPath": "prod/20210429/874624b027c64b22a4433753bbc7fcb8.docx",
+      "ossWordOfdPath": "prod/20210429/874624b027c64b22a4433753bbc7fcb8.ofd",
+      "ossWordOfdSize": 97306,
+      "ossPdfPath": "prod/20210429/8f91d0ba2c504c3aa9d97d893be82f1b.pdf",
+      "ossPdfOfdPath": "prod/20210429/8f91d0ba2c504c3aa9d97d893be82f1b.ofd",
+      "ossPdfOfdSize": 971239
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf753d506d1",
+        "title": "中华人民共和国草原法"
+      },
+      {
+        "bbbs": "ff8080816f135f46016f1cf8da371228",
+        "title": "中华人民共和国广告法"
+      },
+      {
+        "bbbs": "ff8080816f135f46016f20ee6f1f1728",
+        "title": "中华人民共和国进出口商品检验法"
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf87f3b0ac3",
+        "title": "中华人民共和国海关法"
+      },
+      {
+        "bbbs": "ff8080816f135f46016f2195fed41b64",
+        "title": "中华人民共和国消防法"
+      },
+      {
+        "bbbs": "ff8080816f135f46016f210c09fa17a9",
+        "title": "中华人民共和国食品安全法"
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf7201d05ff",
+        "title": "中华人民共和国道路交通安全法"
+      },
+      {
+        "bbbs": "ff8080816f135f46016f21015ef51765",
+        "title": "中华人民共和国民用航空法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2021-04-29",
+    "sxrq": "2021-04-29",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国道路交通安全法》等八部法律的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:32:40"
+}

@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40d93dc80716",
+  "title": "国有资产评估管理办法",
+  "gbrq": "1991-11-16",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40d93dc80716",
+    "ossFile": {
+      "ossWordPath": "prod/19911116/794d1c0ea71843779a439c88e82bda3d.docx",
+      "ossWordOfdPath": "prod/19911116/794d1c0ea71843779a439c88e82bda3d.ofd",
+      "ossWordOfdSize": 102413,
+      "ossPdfPath": "prod/19911116/4f6050cc85ec4fdfb071e64a6a7dfb43.pdf",
+      "ossPdfOfdPath": "prod/19911116/4f6050cc85ec4fdfb071e64a6a7dfb43.ofd",
+      "ossPdfOfdSize": 4686628
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d07c50177b8e6c12d3942",
+        "title": "国有资产评估管理办法",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40d93dc80716",
+        "title": "国有资产评估管理办法",
+        "gbrq": "1991-11-16",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1991-11-16",
+    "sxrq": null,
+    "title": "国有资产评估管理办法",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:35:57"
+}

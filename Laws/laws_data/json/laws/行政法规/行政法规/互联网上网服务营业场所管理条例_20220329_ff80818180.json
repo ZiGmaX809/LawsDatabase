@@ -1,0 +1,84 @@
+{
+  "bbbs": "ff80818180e0a5d001811e1e376112a6",
+  "title": "互联网上网服务营业场所管理条例",
+  "gbrq": "2022-03-29",
+  "sxrq": "2022-05-01",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80818180e0a5d001811e1e376112a6",
+    "ossFile": {
+      "ossWordPath": "prod/20220329/13bf1079b06045cca713199174c80295.docx",
+      "ossWordOfdPath": "prod/20220329/13bf1079b06045cca713199174c80295.ofd",
+      "ossWordOfdSize": 136656,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff808181966737700196a953deca32eb",
+        "title": "互联网上网服务营业场所管理条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff80818180e0a5d001811e1e376112a6",
+        "title": "互联网上网服务营业场所管理条例",
+        "gbrq": "2022-03-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f4256b8ae0521",
+        "title": "互联网上网服务营业场所管理条例",
+        "gbrq": "2019-03-24",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818119c13501811e603bbb0315",
+        "title": "中华人民共和国国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c13501811e607f830321",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c13501811e6473990338",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2022-03-29",
+    "sxrq": "2022-05-01",
+    "title": "互联网上网服务营业场所管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:07:41"
+}

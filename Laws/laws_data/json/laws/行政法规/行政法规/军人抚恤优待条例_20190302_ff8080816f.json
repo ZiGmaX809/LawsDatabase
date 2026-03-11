@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4101cc861115",
+  "title": "军人抚恤优待条例",
+  "gbrq": "2019-03-02",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4101cc861115",
+    "ossFile": {
+      "ossWordPath": "prod/20190302/35e384c58a7545bd9d3942c4aedc60c0.docx",
+      "ossWordOfdPath": "prod/20190302/35e384c58a7545bd9d3942c4aedc60c0.ofd",
+      "ossWordOfdSize": 180036,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819150415e0191735242606e87",
+        "title": "军人抚恤优待条例",
+        "gbrq": "2024-08-05",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4101cc861115",
+        "title": "军人抚恤优待条例",
+        "gbrq": "2019-03-02",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-03-02",
+    "sxrq": null,
+    "title": "军人抚恤优待条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:12:34"
+}

@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8081818a21e8b2018a50f8d6340ca7",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国民事诉讼法》的决定",
+  "gbrq": "2023-09-01",
+  "sxrq": "2024-01-01",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff8081818a21e8b2018a50f8d6340ca7",
+    "ossFile": {
+      "ossWordPath": "prod/20230901/22c3c03d6f4840fb899fd73a4bc0f5f6.docx",
+      "ossWordOfdPath": "prod/20230901/22c3c03d6f4840fb899fd73a4bc0f5f6.ofd",
+      "ossWordOfdSize": 108235,
+      "ossPdfPath": "prod/20230901/0abe625f9764416f97c829bbf97f6c72.pdf",
+      "ossPdfOfdPath": "prod/20230901/0abe625f9764416f97c829bbf97f6c72.ofd",
+      "ossPdfOfdSize": 759902
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": [
+      {
+        "bbbs": "ff8081817ed766ea017ee6ab99ad1cbc",
+        "title": "中华人民共和国民事诉讼法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2023-09-01",
+    "sxrq": "2024-01-01",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国民事诉讼法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:28:47"
+}

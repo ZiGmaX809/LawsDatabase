@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081818d736ac1018dcfa3fda42e0d",
+  "title": "煤矿安全生产条例",
+  "gbrq": "2024-01-24",
+  "sxrq": "2024-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818d736ac1018dcfa3fda42e0d",
+    "ossFile": {
+      "ossWordPath": "prod/20240124/5847288612134a389b9e110600891917.docx",
+      "ossWordOfdPath": "prod/20240124/5847288612134a389b9e110600891917.ofd",
+      "ossWordOfdSize": 187657,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a424b018de0f7c811105b",
+        "title": "中华人民共和国国务院令第774号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4464018de0f805ef1065",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-01-24",
+    "sxrq": "2024-05-01",
+    "title": "煤矿安全生产条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:05:41"
+}

@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f412a39e71ab9",
+  "title": "博物馆条例",
+  "gbrq": "2015-02-09",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f412a39e71ab9",
+    "ossFile": {
+      "ossWordPath": "prod/20150209/9d86134984f14bf1834192caf6917cf1.docx",
+      "ossWordOfdPath": "prod/20150209/9d86134984f14bf1834192caf6917cf1.ofd",
+      "ossWordOfdSize": 145442,
+      "ossPdfPath": "prod/20150209/2f37a1fdd8bd445bb126d3b294bee3db.pdf",
+      "ossPdfOfdPath": "prod/20150209/2f37a1fdd8bd445bb126d3b294bee3db.ofd",
+      "ossPdfOfdSize": 3598725
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2015-02-09",
+    "sxrq": null,
+    "title": "博物馆条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:21:41"
+}

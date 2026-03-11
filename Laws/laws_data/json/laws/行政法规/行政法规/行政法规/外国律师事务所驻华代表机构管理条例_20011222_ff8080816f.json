@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3e98bd016f420378fd02e2",
+  "title": "外国律师事务所驻华代表机构管理条例",
+  "gbrq": "2001-12-22",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f420378fd02e2",
+    "ossFile": {
+      "ossWordPath": "prod/20011222/015a2c81fff94ff98504b4e144a18c3c.docx",
+      "ossWordOfdPath": "prod/20011222/015a2c81fff94ff98504b4e144a18c3c.ofd",
+      "ossWordOfdSize": 134351,
+      "ossPdfPath": "prod/20011222/e5e8c44cd5574ae4bcd299b8e6257c2a.pdf",
+      "ossPdfOfdPath": "prod/20011222/e5e8c44cd5574ae4bcd299b8e6257c2a.ofd",
+      "ossPdfOfdSize": 5991738
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a99fddf0349c",
+        "title": "外国律师事务所驻华代表机构管理条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f420378fd02e2",
+        "title": "外国律师事务所驻华代表机构管理条例",
+        "gbrq": "2001-12-22",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2001-12-22",
+    "sxrq": null,
+    "title": "外国律师事务所驻华代表机构管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:30:36"
+}

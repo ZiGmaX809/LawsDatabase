@@ -1,0 +1,97 @@
+{
+  "bbbs": "2d24100e20fa46408daa098e994e984d",
+  "title": "国务院关于修改和废止部分行政法规的决定",
+  "gbrq": "2026-01-30",
+  "sxrq": "2026-03-20",
+  "sxx": null,
+  "zdjgName": "国务院",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 215,
+  "detail": {
+    "bbbs": "2d24100e20fa46408daa098e994e984d",
+    "ossFile": {
+      "ossWordPath": "prod/20260130/6ab12bc7a54642cb8a3c873113016d79.docx",
+      "ossWordOfdPath": "prod/20260130/6ab12bc7a54642cb8a3c873113016d79.ofd",
+      "ossWordOfdSize": 75130,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "896da6774be541699d33f1d5a495452c",
+        "title": "中华人民共和国国务院令第829号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "eee1b206d815429b9aa454652c2eceda",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "ff8080816f3cbb3c016f413b6a231df7",
+        "title": "乡镇煤矿管理条例"
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f41d593c900eb",
+        "title": "中华人民共和国注册建筑师条例"
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40e77eaa0a39",
+        "title": "城市绿化条例"
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f414ac3bc2078",
+        "title": "中华人民共和国河道管理条例"
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f425bc932056d",
+        "title": "中华人民共和国学位条例暂行实施办法"
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f42008c8002b5",
+        "title": "森林病虫害防治条例"
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f413c3c5b1e1c",
+        "title": "风景名胜区条例"
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40e4004b0973",
+        "title": "植物检疫条例"
+      },
+      {
+        "bbbs": "ff8081819667441b0196a9fecc5736fe",
+        "title": "中华人民共和国标准化法实施条例"
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f425b132b0558",
+        "title": "水库大坝安全管理条例"
+      },
+      {
+        "bbbs": "ff8081818a1cb546018a6e35e00b6d53",
+        "title": "中华人民共和国道路运输条例"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "国务院",
+    "gbrq": "2026-01-30",
+    "sxrq": "2026-03-20",
+    "title": "国务院关于修改和废止部分行政法规的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:06"
+}

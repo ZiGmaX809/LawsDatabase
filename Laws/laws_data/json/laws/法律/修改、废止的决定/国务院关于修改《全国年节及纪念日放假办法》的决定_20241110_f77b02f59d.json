@@ -1,0 +1,57 @@
+{
+  "bbbs": "f77b02f59d8e4b2e8299e4bf37f8862f",
+  "title": "国务院关于修改《全国年节及纪念日放假办法》的决定",
+  "gbrq": "2024-11-10",
+  "sxrq": "2025-01-01",
+  "sxx": null,
+  "zdjgName": "国务院",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 215,
+  "detail": {
+    "bbbs": "f77b02f59d8e4b2e8299e4bf37f8862f",
+    "ossFile": {
+      "ossWordPath": "prod/20241110/55aeaf3c01814eacb59d885a59412a10.docx",
+      "ossWordOfdPath": "prod/20241110/55aeaf3c01814eacb59d885a59412a10.ofd",
+      "ossWordOfdSize": 34572,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181927b083b01936d0ba1a130d2",
+        "title": "中华人民共和国国务院令第795号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b01936d0bb65930d4",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "ff8080816f3e98bd016f41eff78401f8",
+        "title": "全国年节及纪念日放假办法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "国务院",
+    "gbrq": "2024-11-10",
+    "sxrq": "2025-01-01",
+    "title": "国务院关于修改《全国年节及纪念日放假办法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:04:24"
+}

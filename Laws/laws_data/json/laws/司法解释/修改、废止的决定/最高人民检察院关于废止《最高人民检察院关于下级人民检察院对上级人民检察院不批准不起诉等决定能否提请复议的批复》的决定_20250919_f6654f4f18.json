@@ -1,0 +1,49 @@
+{
+  "bbbs": "f6654f4f18a944108fdcf965605a6fca",
+  "title": "最高人民检察院关于废止《最高人民检察院关于下级人民检察院对上级人民检察院不批准不起诉等决定能否提请复议的批复》的决定",
+  "gbrq": "2025-09-19",
+  "sxrq": "2025-09-19",
+  "sxx": null,
+  "zdjgName": "最高人民检察院",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 9999,
+  "flfgCodeId": 350,
+  "detail": {
+    "bbbs": "f6654f4f18a944108fdcf965605a6fca",
+    "ossFile": {
+      "ossWordPath": "prod/20250919/370604fca1824b09944c3792cf6eac92.docx",
+      "ossWordOfdPath": "prod/20250919/370604fca1824b09944c3792cf6eac92.ofd",
+      "ossWordOfdSize": 35046,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181987921230199c68434ab0b2f",
+        "title": "高检发释字2025-2号公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "402881e45ffbbe41015ffc995545108d",
+        "title": "最高人民检察院关于下级人民检察院对上级人民检察院不批准不起诉等决定能否提请复议的批复"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "最高人民检察院",
+    "gbrq": "2025-09-19",
+    "sxrq": "2025-09-19",
+    "title": "最高人民检察院关于废止《最高人民检察院关于下级人民检察院对上级人民检察院不批准不起诉等决定能否提请复议的批复》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:24"
+}

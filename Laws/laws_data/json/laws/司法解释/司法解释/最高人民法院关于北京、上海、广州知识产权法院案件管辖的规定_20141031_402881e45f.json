@@ -1,0 +1,53 @@
+{
+  "bbbs": "402881e45ffb0c10015ffb3f4ce501d1",
+  "title": "最高人民法院关于北京、上海、广州知识产权法院案件管辖的规定",
+  "gbrq": "2014-10-31",
+  "sxrq": "2014-11-03",
+  "sxx": 2,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "402881e45ffb0c10015ffb3f4ce501d1",
+    "ossFile": {
+      "ossWordPath": "prod/20141031/18ca0a871fa94e7c8c63a9004162e689.docx",
+      "ossWordOfdPath": "prod/20141031/18ca0a871fa94e7c8c63a9004162e689.ofd",
+      "ossWordOfdSize": 49149,
+      "ossPdfPath": "prod/20141031/ba23d762fcf24c9380ac22c1f8888af6.pdf",
+      "ossPdfOfdPath": "prod/20141031/ba23d762fcf24c9380ac22c1f8888af6.ofd",
+      "ossPdfOfdSize": 576739
+    },
+    "xgwj": [
+      {
+        "bbbs": "ff808181799df6140179ac290a571ad1",
+        "title": "最高人民法院关于修改《最高人民法院关于审理侵犯专利权纠纷案件应用法律若干问题的解释（二）》等十八件知识产权类司法解释的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799df6140179ac2750531acc",
+        "title": "最高人民法院关于北京、上海、广州知识产权法院案件管辖的规定",
+        "gbrq": "2020-12-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "402881e45ffb0c10015ffb3f4ce501d1",
+        "title": "最高人民法院关于北京、上海、广州知识产权法院案件管辖的规定",
+        "gbrq": "2014-10-31",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2014-10-31",
+    "sxrq": "2014-11-03",
+    "title": "最高人民法院关于北京、上海、广州知识产权法院案件管辖的规定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 08:29:05"
+}

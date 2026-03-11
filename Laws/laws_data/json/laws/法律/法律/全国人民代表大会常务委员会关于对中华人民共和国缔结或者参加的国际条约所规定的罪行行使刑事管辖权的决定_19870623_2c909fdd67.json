@@ -1,0 +1,49 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5b4b200cd",
+  "title": "全国人民代表大会常务委员会关于对中华人民共和国缔结或者参加的国际条约所规定的罪行行使刑事管辖权的决定",
+  "gbrq": "1987-06-23",
+  "sxrq": "1987-06-23",
+  "sxx": 1,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 170,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5b4b200cd",
+    "ossFile": {
+      "ossWordPath": "prod/19870623/3cd7a482ce1941959eef182a07aa77dd.docx",
+      "ossWordOfdPath": "prod/19870623/3cd7a482ce1941959eef182a07aa77dd.ofd",
+      "ossWordOfdSize": 30719,
+      "ossPdfPath": "prod/19870623/2f394a80a8874023a20a7c3e4ca0de06.pdf",
+      "ossPdfOfdPath": "prod/19870623/2f394a80a8874023a20a7c3e4ca0de06.ofd",
+      "ossPdfOfdSize": 315822
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1987-06-23",
+    "sxrq": "1987-06-23",
+    "title": "全国人民代表大会常务委员会关于对中华人民共和国缔结或者参加的国际条约所规定的罪行行使刑事管辖权的决定",
+    "sxx": 1,
+    "content": {
+      "id": "79890000-3e3b-0016-7001-08dde37b2317",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "全国人民代表大会常务委员会关于对中华人民共和国缔结或者参加的国际条约所规定的罪行行使刑事管辖权的决定",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-7089-08dde37b2317",
+          "parentId": "79890000-3e3b-0016-7001-08dde37b2317",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:50:41"
+}

@@ -1,0 +1,52 @@
+{
+  "bbbs": "5a44efbbfed84e90aa82a1429faf7abe",
+  "title": "国务院关于修改《中华人民共和国专利法实施细则》的决定",
+  "gbrq": "2023-12-11",
+  "sxrq": "2024-01-20",
+  "sxx": null,
+  "zdjgName": "国务院",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 215,
+  "detail": {
+    "bbbs": "5a44efbbfed84e90aa82a1429faf7abe",
+    "ossFile": {
+      "ossWordPath": "prod/20231211/23319f0877dd4c7a83887b356c90b39c.docx",
+      "ossWordOfdPath": "prod/20231211/23319f0877dd4c7a83887b356c90b39c.ofd",
+      "ossWordOfdSize": 156387,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a4639018de0ed37da0faf",
+        "title": "中华人民共和国国务院令第769号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b018de0ed77c11010",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "国务院",
+    "gbrq": "2023-12-11",
+    "sxrq": "2024-01-20",
+    "title": "国务院关于修改《中华人民共和国专利法实施细则》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:00"
+}

@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f410f5e99145c",
+  "title": "国有企业监事会暂行条例",
+  "gbrq": "2000-03-15",
+  "sxrq": "",
+  "sxx": 1,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f410f5e99145c",
+    "ossFile": {
+      "ossWordPath": "prod/20000315/d5459a0171644077974897ef1141c9ac.docx",
+      "ossWordOfdPath": "prod/20000315/d5459a0171644077974897ef1141c9ac.ofd",
+      "ossWordOfdSize": 111356,
+      "ossPdfPath": "prod/20000315/6c526360eb474f5ca65e81648b470d78.pdf",
+      "ossPdfOfdPath": "prod/20000315/6c526360eb474f5ca65e81648b470d78.ofd",
+      "ossPdfOfdSize": 2906363
+    },
+    "xgwj": [
+      {
+        "bbbs": "ff808181804a1c5001805a8f14f1053b",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2000-03-15",
+    "sxrq": null,
+    "title": "国有企业监事会暂行条例",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:31:20"
+}

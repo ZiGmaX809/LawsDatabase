@@ -1,0 +1,48 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf6ff980541",
+  "title": "中华人民共和国国徽法",
+  "gbrq": "2009-08-27",
+  "sxrq": "2009-08-27",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf6ff980541",
+    "ossFile": {
+      "ossWordPath": "prod/20090827/b0f163ec9ba04d4398dcb0902d693c36.docx",
+      "ossWordOfdPath": "prod/20090827/b0f163ec9ba04d4398dcb0902d693c36.ofd",
+      "ossWordOfdSize": 290247,
+      "ossPdfPath": "prod/20090827/4657521a409444a2ba643a5e20e1ac53.pdf",
+      "ossPdfOfdPath": "prod/20090827/4657521a409444a2ba643a5e20e1ac53.ofd",
+      "ossPdfOfdSize": 1035892
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081752b7d430175e4c797ed15ff",
+        "title": "中华人民共和国国徽法",
+        "gbrq": "2020-10-17",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf6ff980541",
+        "title": "中华人民共和国国徽法",
+        "gbrq": "2009-08-27",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2009-08-27",
+    "sxrq": "2009-08-27",
+    "title": "中华人民共和国国徽法",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:45:39"
+}

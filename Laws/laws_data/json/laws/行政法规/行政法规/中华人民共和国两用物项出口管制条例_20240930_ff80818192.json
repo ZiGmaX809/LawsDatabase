@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181927f0e7b019294a6bf08358f",
+  "title": "中华人民共和国两用物项出口管制条例",
+  "gbrq": "2024-09-30",
+  "sxrq": "2024-12-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181927f0e7b019294a6bf08358f",
+    "ossFile": {
+      "ossWordPath": "prod/20240930/8cc0803ca0a44e299a232b4636b1e5bc.docx",
+      "ossWordOfdPath": "prod/20240930/8cc0803ca0a44e299a232b4636b1e5bc.ofd",
+      "ossWordOfdSize": 151662,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181927b083b0192acffac4410a5",
+        "title": "中华人民共和国国务院令第792号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a0192acffe7a11049",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-09-30",
+    "sxrq": "2024-12-01",
+    "title": "中华人民共和国两用物项出口管制条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:04:31"
+}

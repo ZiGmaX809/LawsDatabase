@@ -1,0 +1,35 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf594240005",
+  "title": "中华人民共和国宪法修正案（1988年）",
+  "gbrq": "1988-04-12",
+  "sxrq": "1988-04-12",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "宪法",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 100,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf594240005",
+    "ossFile": {
+      "ossWordPath": "prod/19880412/dc91e9288c094a4aa6f96ec56bb4a4c8.docx",
+      "ossWordOfdPath": "prod/19880412/dc91e9288c094a4aa6f96ec56bb4a4c8.ofd",
+      "ossWordOfdSize": 30868,
+      "ossPdfPath": "prod/19880412/4b6b86b783d24ce68a16e6dc30019352.pdf",
+      "ossPdfOfdPath": "prod/19880412/4b6b86b783d24ce68a16e6dc30019352.ofd",
+      "ossPdfOfdSize": 204041
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "宪法",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "1988-04-12",
+    "sxrq": "1988-04-12",
+    "title": "中华人民共和国宪法修正案（1988年）",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:25:57"
+}

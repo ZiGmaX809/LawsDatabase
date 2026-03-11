@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4127f0361a2d",
+  "title": "不动产登记暂行条例",
+  "gbrq": "2019-03-24",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4127f0361a2d",
+    "ossFile": {
+      "ossWordPath": "prod/20190324/e4938131cae04e5fb29a63f3953afea1.docx",
+      "ossWordOfdPath": "prod/20190324/e4938131cae04e5fb29a63f3953afea1.ofd",
+      "ossWordOfdSize": 127462,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff808181966737700196a9f2440b35f3",
+        "title": "不动产登记暂行条例",
+        "gbrq": "2024-03-10",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4127f0361a2d",
+        "title": "不动产登记暂行条例",
+        "gbrq": "2019-03-24",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-03-24",
+    "sxrq": null,
+    "title": "不动产登记暂行条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:10:50"
+}

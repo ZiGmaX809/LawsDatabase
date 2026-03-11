@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff80818199e72aa4019a2a0237d51a76",
+  "title": "密云水库水源保护条例",
+  "gbrq": "2025-10-06",
+  "sxrq": "2025-12-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80818199e72aa4019a2a0237d51a76",
+    "ossFile": {
+      "ossWordPath": "prod/20251006/1df09bae255c4440814e5a19b78a8de5.docx",
+      "ossWordOfdPath": "prod/20251006/1df09bae255c4440814e5a19b78a8de5.ofd",
+      "ossWordOfdSize": 107960,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818198794ccd019a2a08348c4b6f",
+        "title": "中华人民共和国国务院令第819号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818198794ccd019a2a0879764b7b",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-10-06",
+    "sxrq": "2025-12-01",
+    "title": "密云水库水源保护条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:28"
+}

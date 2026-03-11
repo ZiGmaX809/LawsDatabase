@@ -1,0 +1,54 @@
+{
+  "bbbs": "ff8080816f3e9784016f423bf5500375",
+  "title": "出版管理条例",
+  "gbrq": "2016-02-06",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f423bf5500375",
+    "ossFile": {
+      "ossWordPath": "prod/20160206/38d66a67ba9d4fddad565f9af60394bf.docx",
+      "ossWordOfdPath": "prod/20160206/38d66a67ba9d4fddad565f9af60394bf.ofd",
+      "ossWordOfdSize": 199137,
+      "ossPdfPath": "prod/20160206/d3c960ca8c8e4061aace564f31e0ab67.pdf",
+      "ossPdfOfdPath": "prod/20160206/d3c960ca8c8e4061aace564f31e0ab67.ofd",
+      "ossPdfOfdSize": 7783036
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181966737700196a8c35f863256",
+        "title": "出版管理条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff808081777d07c50177b8ce2ae0387f",
+        "title": "出版管理条例",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f423bf5500375",
+        "title": "出版管理条例",
+        "gbrq": "2016-02-06",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2016-02-06",
+    "sxrq": null,
+    "title": "出版管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:21:21"
+}

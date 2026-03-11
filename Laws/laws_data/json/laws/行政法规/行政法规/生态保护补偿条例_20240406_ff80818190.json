@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181900f8e94019010b54dbe0865",
+  "title": "生态保护补偿条例",
+  "gbrq": "2024-04-06",
+  "sxrq": "2024-06-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181900f8e94019010b54dbe0865",
+    "ossFile": {
+      "ossWordPath": "prod/20240406/21a6756053274976a22413594806f5c2.docx",
+      "ossWordOfdPath": "prod/20240406/21a6756053274976a22413594806f5c2.ofd",
+      "ossWordOfdSize": 110178,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818f197cf0019010d72f087265",
+        "title": "中华人民共和国国务院令第779号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b019010d76ecd69b8",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-04-06",
+    "sxrq": "2024-06-01",
+    "title": "生态保护补偿条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:05:06"
+}

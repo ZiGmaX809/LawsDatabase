@@ -1,0 +1,654 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf60e1d0271",
+  "title": "中华人民共和国信托法",
+  "gbrq": "2001-04-28",
+  "sxrq": "2001-10-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 120,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf60e1d0271",
+    "ossFile": {
+      "ossWordPath": "prod/20010428/153ac4a4ad964495b25279ede78df3f4.docx",
+      "ossWordOfdPath": "prod/20010428/153ac4a4ad964495b25279ede78df3f4.ofd",
+      "ossWordOfdSize": 128335,
+      "ossPdfPath": "prod/20010428/61c83db41e63449f8e956cfc824228b6.pdf",
+      "ossPdfOfdPath": "prod/20010428/61c83db41e63449f8e956cfc824228b6.ofd",
+      "ossPdfOfdSize": 2777985
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2001-04-28",
+    "sxrq": "2001-10-01",
+    "title": "中华人民共和国信托法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-8ffc-08dd5537d0c3",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国信托法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-9082-08dd5537d0c3",
+          "parentId": "79890000-3e3b-0016-8ffc-08dd5537d0c3",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-90e9-08dd5537d0c3",
+          "parentId": "79890000-3e3b-0016-8ffc-08dd5537d0c3",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-a2d7-08dd5537d0c3",
+          "parentId": "79890000-3e3b-0016-8ffc-08dd5537d0c3",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b340-08dd5537d0c3",
+              "parentId": "79890000-3e3b-0016-a2d7-08dd5537d0c3",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c3da-08dd5537d0c3",
+              "parentId": "79890000-3e3b-0016-a2d7-08dd5537d0c3",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d4a8-08dd5537d0c3",
+              "parentId": "79890000-3e3b-0016-a2d7-08dd5537d0c3",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e5a3-08dd5537d0c3",
+              "parentId": "79890000-3e3b-0016-a2d7-08dd5537d0c3",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f727-08dd5537d0c3",
+              "parentId": "79890000-3e3b-0016-a2d7-08dd5537d0c3",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-07f0-08dd5537d0c4",
+          "parentId": "79890000-3e3b-0016-8ffc-08dd5537d0c3",
+          "title": "第二章 信托的设立",
+          "index": 9,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-184d-08dd5537d0c4",
+              "parentId": "79890000-3e3b-0016-07f0-08dd5537d0c4",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-29aa-08dd5537d0c4",
+              "parentId": "79890000-3e3b-0016-07f0-08dd5537d0c4",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3b58-08dd5537d0c4",
+              "parentId": "79890000-3e3b-0016-07f0-08dd5537d0c4",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5107-08dd5537d0c4",
+              "parentId": "79890000-3e3b-0016-07f0-08dd5537d0c4",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-690a-08dd5537d0c4",
+              "parentId": "79890000-3e3b-0016-07f0-08dd5537d0c4",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7be2-08dd5537d0c4",
+              "parentId": "79890000-3e3b-0016-07f0-08dd5537d0c4",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9448-08dd5537d0c4",
+              "parentId": "79890000-3e3b-0016-07f0-08dd5537d0c4",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a69b-08dd5537d0c4",
+              "parentId": "79890000-3e3b-0016-07f0-08dd5537d0c4",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-b69e-08dd5537d0c4",
+          "parentId": "79890000-3e3b-0016-8ffc-08dd5537d0c3",
+          "title": "第三章 信托财产",
+          "index": 18,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-c622-08dd5537d0c4",
+              "parentId": "79890000-3e3b-0016-b69e-08dd5537d0c4",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d6dd-08dd5537d0c4",
+              "parentId": "79890000-3e3b-0016-b69e-08dd5537d0c4",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e693-08dd5537d0c4",
+              "parentId": "79890000-3e3b-0016-b69e-08dd5537d0c4",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f702-08dd5537d0c4",
+              "parentId": "79890000-3e3b-0016-b69e-08dd5537d0c4",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0763-08dd5537d0c5",
+              "parentId": "79890000-3e3b-0016-b69e-08dd5537d0c4",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-176d-08dd5537d0c5",
+          "parentId": "79890000-3e3b-0016-8ffc-08dd5537d0c3",
+          "title": "第四章 信托当事人",
+          "index": 24,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-2744-08dd5537d0c5",
+              "parentId": "79890000-3e3b-0016-176d-08dd5537d0c5",
+              "title": "第一节 委托人",
+              "index": 25,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-36c9-08dd5537d0c5",
+                  "parentId": "79890000-3e3b-0016-2744-08dd5537d0c5",
+                  "title": "第十九条",
+                  "index": 26,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-4752-08dd5537d0c5",
+                  "parentId": "79890000-3e3b-0016-2744-08dd5537d0c5",
+                  "title": "第二十条",
+                  "index": 27,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-5771-08dd5537d0c5",
+                  "parentId": "79890000-3e3b-0016-2744-08dd5537d0c5",
+                  "title": "第二十一条",
+                  "index": 28,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-67f9-08dd5537d0c5",
+                  "parentId": "79890000-3e3b-0016-2744-08dd5537d0c5",
+                  "title": "第二十二条",
+                  "index": 29,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-78d3-08dd5537d0c5",
+                  "parentId": "79890000-3e3b-0016-2744-08dd5537d0c5",
+                  "title": "第二十三条",
+                  "index": 30,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+              "parentId": "79890000-3e3b-0016-176d-08dd5537d0c5",
+              "title": "第二节 受托人",
+              "index": 31,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-9945-08dd5537d0c5",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第二十四条",
+                  "index": 32,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-a9e0-08dd5537d0c5",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第二十五条",
+                  "index": 33,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-bb1e-08dd5537d0c5",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第二十六条",
+                  "index": 34,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-cc34-08dd5537d0c5",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第二十七条",
+                  "index": 35,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-dd27-08dd5537d0c5",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第二十八条",
+                  "index": 36,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-ee44-08dd5537d0c5",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第二十九条",
+                  "index": 37,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-ff4a-08dd5537d0c5",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第三十条",
+                  "index": 38,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-10a9-08dd5537d0c6",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第三十一条",
+                  "index": 39,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-225f-08dd5537d0c6",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第三十二条",
+                  "index": 40,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-342c-08dd5537d0c6",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第三十三条",
+                  "index": 41,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-45dc-08dd5537d0c6",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第三十四条",
+                  "index": 42,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-57dc-08dd5537d0c6",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第三十五条",
+                  "index": 43,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-69ab-08dd5537d0c6",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第三十六条",
+                  "index": 44,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-7baa-08dd5537d0c6",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第三十七条",
+                  "index": 45,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-8d89-08dd5537d0c6",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第三十八条",
+                  "index": 46,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-a00c-08dd5537d0c6",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第三十九条",
+                  "index": 47,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-b2b1-08dd5537d0c6",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第四十条",
+                  "index": 48,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-c554-08dd5537d0c6",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第四十一条",
+                  "index": 49,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-d7c5-08dd5537d0c6",
+                  "parentId": "79890000-3e3b-0016-88f3-08dd5537d0c5",
+                  "title": "第四十二条",
+                  "index": 50,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "id": "79890000-3e3b-0016-ee83-08dd5537d0c6",
+              "parentId": "79890000-3e3b-0016-176d-08dd5537d0c5",
+              "title": "第三节 受益人",
+              "index": 51,
+              "children": [
+                {
+                  "id": "79890000-3e3b-0016-0c94-08dd5537d0c7",
+                  "parentId": "79890000-3e3b-0016-ee83-08dd5537d0c6",
+                  "title": "第四十三条",
+                  "index": 52,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-4357-08dd5537d0c7",
+                  "parentId": "79890000-3e3b-0016-ee83-08dd5537d0c6",
+                  "title": "第四十四条",
+                  "index": 53,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-5941-08dd5537d0c7",
+                  "parentId": "79890000-3e3b-0016-ee83-08dd5537d0c6",
+                  "title": "第四十五条",
+                  "index": 54,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-6d35-08dd5537d0c7",
+                  "parentId": "79890000-3e3b-0016-ee83-08dd5537d0c6",
+                  "title": "第四十六条",
+                  "index": 55,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-8138-08dd5537d0c7",
+                  "parentId": "79890000-3e3b-0016-ee83-08dd5537d0c6",
+                  "title": "第四十七条",
+                  "index": 56,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-94c9-08dd5537d0c7",
+                  "parentId": "79890000-3e3b-0016-ee83-08dd5537d0c6",
+                  "title": "第四十八条",
+                  "index": 57,
+                  "children": []
+                },
+                {
+                  "id": "79890000-3e3b-0016-a7ce-08dd5537d0c7",
+                  "parentId": "79890000-3e3b-0016-ee83-08dd5537d0c6",
+                  "title": "第四十九条",
+                  "index": 58,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-bad2-08dd5537d0c7",
+          "parentId": "79890000-3e3b-0016-8ffc-08dd5537d0c3",
+          "title": "第五章 信托的变更与终止",
+          "index": 59,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-cd7b-08dd5537d0c7",
+              "parentId": "79890000-3e3b-0016-bad2-08dd5537d0c7",
+              "title": "第五十条",
+              "index": 60,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e11f-08dd5537d0c7",
+              "parentId": "79890000-3e3b-0016-bad2-08dd5537d0c7",
+              "title": "第五十一条",
+              "index": 61,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f477-08dd5537d0c7",
+              "parentId": "79890000-3e3b-0016-bad2-08dd5537d0c7",
+              "title": "第五十二条",
+              "index": 62,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0825-08dd5537d0c8",
+              "parentId": "79890000-3e3b-0016-bad2-08dd5537d0c7",
+              "title": "第五十三条",
+              "index": 63,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1c60-08dd5537d0c8",
+              "parentId": "79890000-3e3b-0016-bad2-08dd5537d0c7",
+              "title": "第五十四条",
+              "index": 64,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-308a-08dd5537d0c8",
+              "parentId": "79890000-3e3b-0016-bad2-08dd5537d0c7",
+              "title": "第五十五条",
+              "index": 65,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-43d6-08dd5537d0c8",
+              "parentId": "79890000-3e3b-0016-bad2-08dd5537d0c7",
+              "title": "第五十六条",
+              "index": 66,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-57ed-08dd5537d0c8",
+              "parentId": "79890000-3e3b-0016-bad2-08dd5537d0c7",
+              "title": "第五十七条",
+              "index": 67,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6bd2-08dd5537d0c8",
+              "parentId": "79890000-3e3b-0016-bad2-08dd5537d0c7",
+              "title": "第五十八条",
+              "index": 68,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+          "parentId": "79890000-3e3b-0016-8ffc-08dd5537d0c3",
+          "title": "第六章 公益信托",
+          "index": 69,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9343-08dd5537d0c8",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第五十九条",
+              "index": 70,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a7c2-08dd5537d0c8",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第六十条",
+              "index": 71,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bcd4-08dd5537d0c8",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第六十一条",
+              "index": 72,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d146-08dd5537d0c8",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第六十二条",
+              "index": 73,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e5a6-08dd5537d0c8",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第六十三条",
+              "index": 74,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fa1d-08dd5537d0c8",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第六十四条",
+              "index": 75,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-10ad-08dd5537d0c9",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第六十五条",
+              "index": 76,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2622-08dd5537d0c9",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第六十六条",
+              "index": 77,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3b21-08dd5537d0c9",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第六十七条",
+              "index": 78,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-592e-08dd5537d0c9",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第六十八条",
+              "index": 79,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7666-08dd5537d0c9",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第六十九条",
+              "index": 80,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8e5d-08dd5537d0c9",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第七十条",
+              "index": 81,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a5f9-08dd5537d0c9",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第七十一条",
+              "index": 82,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-be11-08dd5537d0c9",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第七十二条",
+              "index": 83,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d56c-08dd5537d0c9",
+              "parentId": "79890000-3e3b-0016-7ff0-08dd5537d0c8",
+              "title": "第七十三条",
+              "index": 84,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-ed2e-08dd5537d0c9",
+          "parentId": "79890000-3e3b-0016-8ffc-08dd5537d0c3",
+          "title": "第七章 附则",
+          "index": 85,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-048e-08dd5537d0ca",
+              "parentId": "79890000-3e3b-0016-ed2e-08dd5537d0c9",
+              "title": "第七十四条",
+              "index": 86,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:48:57"
+}

@@ -1,0 +1,49 @@
+{
+  "bbbs": "ff8080816f3e98bd016f41d843660104",
+  "title": "关于国务院管理干部的公司领导职数等若干问题的规定",
+  "gbrq": "1989-05-10",
+  "sxrq": "",
+  "sxx": 1,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f41d843660104",
+    "ossFile": {
+      "ossWordPath": "prod/19890510/5990e8d8e8264d108b9e53cef3ea839a.docx",
+      "ossWordOfdPath": "prod/19890510/5990e8d8e8264d108b9e53cef3ea839a.ofd",
+      "ossWordOfdSize": 59975,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181927b083b0193d7a5d3db63c9",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "废止决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1989-05-10",
+    "sxrq": null,
+    "title": "关于国务院管理干部的公司领导职数等若干问题的规定",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:36:03"
+}

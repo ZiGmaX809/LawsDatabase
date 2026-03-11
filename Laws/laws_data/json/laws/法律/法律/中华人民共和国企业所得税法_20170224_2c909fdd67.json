@@ -1,0 +1,553 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf8470409d3",
+  "title": "中华人民共和国企业所得税法",
+  "gbrq": "2017-02-24",
+  "sxrq": "2017-02-24",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "法律",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf8470409d3",
+    "ossFile": {
+      "ossWordPath": "prod/20170224/6e1c420a74804febae6dfaf9851c733b.docx",
+      "ossWordOfdPath": "prod/20170224/6e1c420a74804febae6dfaf9851c733b.ofd",
+      "ossWordOfdSize": 133296,
+      "ossPdfPath": "prod/20170224/bdf7e2ff783b422fa22d687c6fe0c32d.pdf",
+      "ossPdfOfdPath": "prod/20170224/bdf7e2ff783b422fa22d687c6fe0c32d.ofd",
+      "ossPdfOfdSize": 3297304
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8080816f135f46016f2106acd11784",
+        "title": "中华人民共和国企业所得税法",
+        "gbrq": "2018-12-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf8470409d3",
+        "title": "中华人民共和国企业所得税法",
+        "gbrq": "2017-02-24",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "2017-02-24",
+    "sxrq": "2017-02-24",
+    "title": "中华人民共和国企业所得税法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-6b2f-08dd5537da63",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国企业所得税法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-6bb5-08dd5537da63",
+          "parentId": "79890000-3e3b-0016-6b2f-08dd5537da63",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-6c1a-08dd5537da63",
+          "parentId": "79890000-3e3b-0016-6b2f-08dd5537da63",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-7d7f-08dd5537da63",
+          "parentId": "79890000-3e3b-0016-6b2f-08dd5537da63",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-8ce7-08dd5537da63",
+              "parentId": "79890000-3e3b-0016-7d7f-08dd5537da63",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9cf9-08dd5537da63",
+              "parentId": "79890000-3e3b-0016-7d7f-08dd5537da63",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ac79-08dd5537da63",
+              "parentId": "79890000-3e3b-0016-7d7f-08dd5537da63",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bca3-08dd5537da63",
+              "parentId": "79890000-3e3b-0016-7d7f-08dd5537da63",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-d171-08dd5537da63",
+          "parentId": "79890000-3e3b-0016-6b2f-08dd5537da63",
+          "title": "第二章 应纳税所得额",
+          "index": 8,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-e8fc-08dd5537da63",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第五条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-01b4-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1c82-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3681-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4fa8-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6998-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7dfd-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8e8b-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9e1e-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-add0-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bcb4-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第十五条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cbf5-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第十六条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-db24-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第十七条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ea41-08dd5537da64",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第十八条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-01a7-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第十九条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-12a3-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第二十条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2212-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-d171-08dd5537da63",
+              "title": "第二十一条",
+              "index": 25,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-30ee-08dd5537da65",
+          "parentId": "79890000-3e3b-0016-6b2f-08dd5537da63",
+          "title": "第三章 应纳税额",
+          "index": 26,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-404f-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-30ee-08dd5537da65",
+              "title": "第二十二条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4fd8-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-30ee-08dd5537da65",
+              "title": "第二十三条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5fce-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-30ee-08dd5537da65",
+              "title": "第二十四条",
+              "index": 29,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-6f60-08dd5537da65",
+          "parentId": "79890000-3e3b-0016-6b2f-08dd5537da63",
+          "title": "第四章 税收优惠",
+          "index": 30,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-7e44-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-6f60-08dd5537da65",
+              "title": "第二十五条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8e4b-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-6f60-08dd5537da65",
+              "title": "第二十六条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9e9e-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-6f60-08dd5537da65",
+              "title": "第二十七条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-af61-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-6f60-08dd5537da65",
+              "title": "第二十八条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bf8f-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-6f60-08dd5537da65",
+              "title": "第二十九条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cefa-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-6f60-08dd5537da65",
+              "title": "第三十条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-df7b-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-6f60-08dd5537da65",
+              "title": "第三十一条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-efa9-08dd5537da65",
+              "parentId": "79890000-3e3b-0016-6f60-08dd5537da65",
+              "title": "第三十二条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-001b-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-6f60-08dd5537da65",
+              "title": "第三十三条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1071-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-6f60-08dd5537da65",
+              "title": "第三十四条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-20df-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-6f60-08dd5537da65",
+              "title": "第三十五条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3149-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-6f60-08dd5537da65",
+              "title": "第三十六条",
+              "index": 42,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-41b9-08dd5537da66",
+          "parentId": "79890000-3e3b-0016-6b2f-08dd5537da63",
+          "title": "第五章 源泉扣缴",
+          "index": 43,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-51e9-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-41b9-08dd5537da66",
+              "title": "第三十七条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-629d-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-41b9-08dd5537da66",
+              "title": "第三十八条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7387-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-41b9-08dd5537da66",
+              "title": "第三十九条",
+              "index": 46,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8483-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-41b9-08dd5537da66",
+              "title": "第四十条",
+              "index": 47,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9598-08dd5537da66",
+          "parentId": "79890000-3e3b-0016-6b2f-08dd5537da63",
+          "title": "第六章 特别纳税调整",
+          "index": 48,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a62a-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-9598-08dd5537da66",
+              "title": "第四十一条",
+              "index": 49,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b744-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-9598-08dd5537da66",
+              "title": "第四十二条",
+              "index": 50,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c914-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-9598-08dd5537da66",
+              "title": "第四十三条",
+              "index": 51,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-da21-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-9598-08dd5537da66",
+              "title": "第四十四条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ebd0-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-9598-08dd5537da66",
+              "title": "第四十五条",
+              "index": 53,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fd44-08dd5537da66",
+              "parentId": "79890000-3e3b-0016-9598-08dd5537da66",
+              "title": "第四十六条",
+              "index": 54,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0e96-08dd5537da67",
+              "parentId": "79890000-3e3b-0016-9598-08dd5537da66",
+              "title": "第四十七条",
+              "index": 55,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2099-08dd5537da67",
+              "parentId": "79890000-3e3b-0016-9598-08dd5537da66",
+              "title": "第四十八条",
+              "index": 56,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-549d-08dd5537da67",
+          "parentId": "79890000-3e3b-0016-6b2f-08dd5537da63",
+          "title": "第七章 征收管理",
+          "index": 57,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-6c1a-08dd5537da67",
+              "parentId": "79890000-3e3b-0016-549d-08dd5537da67",
+              "title": "第四十九条",
+              "index": 58,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7fb7-08dd5537da67",
+              "parentId": "79890000-3e3b-0016-549d-08dd5537da67",
+              "title": "第五十条",
+              "index": 59,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-92fb-08dd5537da67",
+              "parentId": "79890000-3e3b-0016-549d-08dd5537da67",
+              "title": "第五十一条",
+              "index": 60,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a559-08dd5537da67",
+              "parentId": "79890000-3e3b-0016-549d-08dd5537da67",
+              "title": "第五十二条",
+              "index": 61,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b7e4-08dd5537da67",
+              "parentId": "79890000-3e3b-0016-549d-08dd5537da67",
+              "title": "第五十三条",
+              "index": 62,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cab8-08dd5537da67",
+              "parentId": "79890000-3e3b-0016-549d-08dd5537da67",
+              "title": "第五十四条",
+              "index": 63,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ddd7-08dd5537da67",
+              "parentId": "79890000-3e3b-0016-549d-08dd5537da67",
+              "title": "第五十五条",
+              "index": 64,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f04d-08dd5537da67",
+              "parentId": "79890000-3e3b-0016-549d-08dd5537da67",
+              "title": "第五十六条",
+              "index": 65,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-030a-08dd5537da68",
+          "parentId": "79890000-3e3b-0016-6b2f-08dd5537da63",
+          "title": "第八章 附则",
+          "index": 66,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-156d-08dd5537da68",
+              "parentId": "79890000-3e3b-0016-030a-08dd5537da68",
+              "title": "第五十七条",
+              "index": 67,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-289f-08dd5537da68",
+              "parentId": "79890000-3e3b-0016-030a-08dd5537da68",
+              "title": "第五十八条",
+              "index": 68,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3b74-08dd5537da68",
+              "parentId": "79890000-3e3b-0016-030a-08dd5537da68",
+              "title": "第五十九条",
+              "index": 69,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4e45-08dd5537da68",
+              "parentId": "79890000-3e3b-0016-030a-08dd5537da68",
+              "title": "第六十条",
+              "index": 70,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:39:25"
+}

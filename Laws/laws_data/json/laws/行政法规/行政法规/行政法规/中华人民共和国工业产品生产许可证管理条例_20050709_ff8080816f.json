@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4121faee1917",
+  "title": "中华人民共和国工业产品生产许可证管理条例",
+  "gbrq": "2005-07-09",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4121faee1917",
+    "ossFile": {
+      "ossWordPath": "prod/20050709/132271614f084da89ce4b1adea11743a.docx",
+      "ossWordOfdPath": "prod/20050709/132271614f084da89ce4b1adea11743a.ofd",
+      "ossWordOfdSize": 160042,
+      "ossPdfPath": "prod/20050709/4fe32e61e55a4861aa56bdafd88418fc.pdf",
+      "ossPdfOfdPath": "prod/20050709/4fe32e61e55a4861aa56bdafd88418fc.ofd",
+      "ossPdfOfdSize": 6774329
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a22132f018a6e367561230c",
+        "title": "中华人民共和国工业产品生产许可证管理条例",
+        "gbrq": "2023-07-20",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4121faee1917",
+        "title": "中华人民共和国工业产品生产许可证管理条例",
+        "gbrq": "2005-07-09",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2005-07-09",
+    "sxrq": null,
+    "title": "中华人民共和国工业产品生产许可证管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:28:54"
+}

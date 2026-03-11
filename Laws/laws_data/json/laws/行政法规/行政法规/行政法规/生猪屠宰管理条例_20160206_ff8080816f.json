@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40df6b74089b",
+  "title": "生猪屠宰管理条例",
+  "gbrq": "2016-02-06",
+  "sxrq": "2016-02-06",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40df6b74089b",
+    "ossFile": {
+      "ossWordPath": "prod/20160206/c862dd25fc004a618ff5414ff6493481.docx",
+      "ossWordOfdPath": "prod/20160206/c862dd25fc004a618ff5414ff6493481.ofd",
+      "ossWordOfdSize": 122960,
+      "ossPdfPath": "prod/20160206/374dc128e8a14776916ab4b866445873.pdf",
+      "ossPdfOfdPath": "prod/20160206/374dc128e8a14776916ab4b866445873.ofd",
+      "ossPdfOfdSize": 3260083
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081817b63b935017b7af032287969",
+        "title": "生猪屠宰管理条例",
+        "gbrq": "2021-06-25",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40df6b74089b",
+        "title": "生猪屠宰管理条例",
+        "gbrq": "2016-02-06",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2016-02-06",
+    "sxrq": "2016-02-06",
+    "title": "生猪屠宰管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:20:53"
+}

@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff808081777d07c50177b8ed29bf3950",
+  "title": "护士条例",
+  "gbrq": "2020-03-27",
+  "sxrq": "2020-03-27",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808081777d07c50177b8ed29bf3950",
+    "ossFile": {
+      "ossWordPath": "prod/20200327/454dd094d5fb4724969bdf4fd24df8ae.docx",
+      "ossWordOfdPath": "prod/20200327/454dd094d5fb4724969bdf4fd24df8ae.ofd",
+      "ossWordOfdSize": 128646,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d07c50177b8ed29bf3950",
+        "title": "护士条例",
+        "gbrq": "2020-03-27",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f423ab7730398",
+        "title": "护士条例",
+        "gbrq": "2008-01-31",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2020-03-27",
+    "sxrq": "2020-03-27",
+    "title": "护士条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:09:49"
+}

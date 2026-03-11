@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f414ac3bc2078",
+  "title": "中华人民共和国河道管理条例",
+  "gbrq": "2018-03-19",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f414ac3bc2078",
+    "ossFile": {
+      "ossWordPath": "prod/20180319/a39744d2598943fabaa77bb0309e9a0d.docx",
+      "ossWordOfdPath": "prod/20180319/a39744d2598943fabaa77bb0309e9a0d.ofd",
+      "ossWordOfdSize": 156852,
+      "ossPdfPath": "prod/20180319/aa8677174f7f42b28e4aa3be3c651f6c.pdf",
+      "ossPdfOfdPath": "prod/20180319/aa8677174f7f42b28e4aa3be3c651f6c.ofd",
+      "ossPdfOfdSize": 4241129
+    },
+    "xgwj": [
+      {
+        "bbbs": "2d24100e20fa46408daa098e994e984d",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2018-03-19",
+    "sxrq": null,
+    "title": "中华人民共和国河道管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:14:08"
+}

@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff80818188c8b06b01897c76756c43e9",
+  "title": "无人驾驶航空器飞行管理暂行条例",
+  "gbrq": "2023-05-31",
+  "sxrq": "2024-01-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80818188c8b06b01897c76756c43e9",
+    "ossFile": {
+      "ossWordPath": "prod/20230531/a91103ba51f443bc9dbae98b59913cc5.docx",
+      "ossWordOfdPath": "prod/20230531/a91103ba51f443bc9dbae98b59913cc5.ofd",
+      "ossWordOfdSize": 189880,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21e8b2018b4c4653fe0d09",
+        "title": "中华人民共和国国务院  中华人民共和国中央军事委员会令第761号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21dc13018b4c469f950ba9",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-05-31",
+    "sxrq": "2024-01-01",
+    "title": "无人驾驶航空器飞行管理暂行条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:56"
+}

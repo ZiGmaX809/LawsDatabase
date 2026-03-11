@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081819150458d01916e91d1784902",
+  "title": "最高人民法院关于正确确定强制拆除行政诉讼案件被告及起诉期限的批复",
+  "gbrq": "2024-08-07",
+  "sxrq": "2024-08-08",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081819150458d01916e91d1784902",
+    "ossFile": {
+      "ossWordPath": "prod/20240807/6cd93a11133c4ab7a95599290e264140.docx",
+      "ossWordOfdPath": "prod/20240807/6cd93a11133c4ab7a95599290e264140.ofd",
+      "ossWordOfdSize": 49049,
+      "ossPdfPath": "prod/20240807/3091d05792ee44d983707be34121b55f.pdf",
+      "ossPdfOfdPath": "prod/20240807/3091d05792ee44d983707be34121b55f.ofd",
+      "ossPdfOfdSize": 242630
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a4639019192cef7885e5a",
+        "title": "法释2024-8公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b01927e69e04f0023",
+        "title": "法释2024-8公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2024-08-07",
+    "sxrq": "2024-08-08",
+    "title": "最高人民法院关于正确确定强制拆除行政诉讼案件被告及起诉期限的批复",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:29"
+}

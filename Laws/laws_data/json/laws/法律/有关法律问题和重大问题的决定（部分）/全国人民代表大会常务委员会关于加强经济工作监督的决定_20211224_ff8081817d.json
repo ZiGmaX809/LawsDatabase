@@ -1,0 +1,81 @@
+{
+  "bbbs": "ff8081817d99a651017deca3dba2349a",
+  "title": "全国人民代表大会常务委员会关于加强经济工作监督的决定",
+  "gbrq": "2021-12-24",
+  "sxrq": "2021-12-24",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "ff8081817d99a651017deca3dba2349a",
+    "ossFile": {
+      "ossWordPath": "prod/20211224/0ab9f9cbba75445a8ab3be887db78554.docx",
+      "ossWordOfdPath": "prod/20211224/0ab9f9cbba75445a8ab3be887db78554.ofd",
+      "ossWordOfdSize": 123827,
+      "ossPdfPath": "prod/20211224/96521e0405114c2e9a4a69c778fe1d4b.pdf",
+      "ossPdfOfdPath": "prod/20211224/96521e0405114c2e9a4a69c778fe1d4b.ofd",
+      "ossPdfOfdSize": 779875
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081817d99a651017deca3dba2349a",
+        "title": "全国人民代表大会常务委员会关于加强经济工作监督的决定",
+        "gbrq": "2021-12-24",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff808081774c72b30177700aebdb19e4",
+        "title": "全国人民代表大会常务委员会关于加强经济工作监督的决定",
+        "gbrq": "2000-03-01",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081817f072c99017f0acbc33200d6",
+        "title": "关于《全国人民代表大会常务委员会关于加强经济工作监督的决定（修订草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817f072c99017f0acbd96600d9",
+        "title": "关于《全国人民代表大会常务委员会关于加强经济工作监督的决定（修订草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817f072c99017f25b4ac7d1bdb",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于加强经济工作监督的决定（修订草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817f072a2e017f0acb8d9300e3",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于加强经济工作监督的决定（修订草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2021-12-24",
+    "sxrq": "2021-12-24",
+    "title": "全国人民代表大会常务委员会关于加强经济工作监督的决定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:30:50"
+}

@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff808081777d0c940177beac6d5a3f21",
+  "title": "中华人民共和国外资银行管理条例",
+  "gbrq": "2019-09-30",
+  "sxrq": "2019-09-30",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808081777d0c940177beac6d5a3f21",
+    "ossFile": {
+      "ossWordPath": "prod/20190930/d00256cc0227423792006b3c76afca48.docx",
+      "ossWordOfdPath": "prod/20190930/d00256cc0227423792006b3c76afca48.ofd",
+      "ossWordOfdSize": 164112,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d0c940177beac6d5a3f21",
+        "title": "中华人民共和国外资银行管理条例",
+        "gbrq": "2019-09-30",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f41db71030110",
+        "title": "中华人民共和国外资银行管理条例",
+        "gbrq": "2014-11-27",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-09-30",
+    "sxrq": "2019-09-30",
+    "title": "中华人民共和国外资银行管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:10:08"
+}

@@ -1,0 +1,224 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf6fec40537",
+  "title": "中华人民共和国国旗法",
+  "gbrq": "2009-08-27",
+  "sxrq": "2009-08-27",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf6fec40537",
+    "ossFile": {
+      "ossWordPath": "prod/20090827/bc37b2df60174a6d999d68ebe096cfdb.docx",
+      "ossWordOfdPath": "prod/20090827/bc37b2df60174a6d999d68ebe096cfdb.ofd",
+      "ossWordOfdSize": 133176,
+      "ossPdfPath": "prod/20090827/1aec91062fa841819fde19c0e637bef5.pdf",
+      "ossPdfOfdPath": "prod/20090827/1aec91062fa841819fde19c0e637bef5.ofd",
+      "ossPdfOfdSize": 1160538
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80808175265dd40175e4c1504b0f2e",
+        "title": "中华人民共和国国旗法",
+        "gbrq": "2020-10-17",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf6fec40537",
+        "title": "中华人民共和国国旗法",
+        "gbrq": "2009-08-27",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2009-08-27",
+    "sxrq": "2009-08-27",
+    "title": "中华人民共和国国旗法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国国旗法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-2abe-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-371c-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第一条",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-4298-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第二条",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-4e1a-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第三条",
+          "index": 4,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-5fc7-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第四条",
+          "index": 5,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-6f5a-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第五条",
+          "index": 6,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-80ae-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第六条",
+          "index": 7,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-90bb-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第七条",
+          "index": 8,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-a083-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第八条",
+          "index": 9,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b0eb-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第九条",
+          "index": 10,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c1b0-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第十条",
+          "index": 11,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-d0dd-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第十一条",
+          "index": 12,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-dd53-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第十二条",
+          "index": 13,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-e9a6-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第十三条",
+          "index": 14,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-f6ea-08dd7cc1126b",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第十四条",
+          "index": 15,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-049d-08dd7cc1126c",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第十五条",
+          "index": 16,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1170-08dd7cc1126c",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第十六条",
+          "index": 17,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1e86-08dd7cc1126c",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第十七条",
+          "index": 18,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-2b0e-08dd7cc1126c",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第十八条",
+          "index": 19,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-37d2-08dd7cc1126c",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第十九条",
+          "index": 20,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-43c9-08dd7cc1126c",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "第二十条",
+          "index": 21,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-4f06-08dd7cc1126c",
+          "parentId": "79890000-3e3b-0016-2a60-08dd7cc1126b",
+          "title": "附：",
+          "index": 22,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5b84-08dd7cc1126c",
+              "parentId": "79890000-3e3b-0016-4f06-08dd7cc1126c",
+              "title": "国旗制法说明",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6b11-08dd7cc1126c",
+              "parentId": "79890000-3e3b-0016-4f06-08dd7cc1126c",
+              "title": "国旗制法图案",
+              "index": 24,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:45:41"
+}

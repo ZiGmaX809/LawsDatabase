@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081819667441b0196a9938e883454",
+  "title": "互联网信息服务管理办法",
+  "gbrq": "2024-12-06",
+  "sxrq": "2025-01-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819667441b0196a9938e883454",
+    "ossFile": {
+      "ossWordPath": "prod/20241206/9fb0cff662074e3b8d3daaabedf27412.docx",
+      "ossWordOfdPath": "prod/20241206/9fb0cff662074e3b8d3daaabedf27412.ofd",
+      "ossWordOfdSize": 103839,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a9938e883454",
+        "title": "互联网信息服务管理办法",
+        "gbrq": "2024-12-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4118e47616f1",
+        "title": "互联网信息服务管理办法",
+        "gbrq": "2011-01-08",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff808181966737700196a99477b733c9",
+        "title": "中华人民共和国国务院令第797号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667441b0196a99491fc345b",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667441b0196aa50924c38f0",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-12-06",
+    "sxrq": "2025-01-20",
+    "title": "互联网信息服务管理办法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:48"
+}

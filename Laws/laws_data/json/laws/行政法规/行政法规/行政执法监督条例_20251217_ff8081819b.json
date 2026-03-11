@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081819b697249019bc0b370d50de0",
+  "title": "行政执法监督条例",
+  "gbrq": "2025-12-17",
+  "sxrq": "2026-02-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819b697249019bc0b370d50de0",
+    "ossFile": {
+      "ossWordPath": "prod/20251217/b8640ecb9f894de98df43c4154de5842.docx",
+      "ossWordOfdPath": "prod/20251217/b8640ecb9f894de98df43c4154de5842.ofd",
+      "ossWordOfdSize": 116747,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "032ab5a60fe5469095f04ac48bb99184",
+        "title": "中华人民共和国国务院令第825号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "2e4cc4a7d56a480f9eb0b7013beb6b3f",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-12-17",
+    "sxrq": "2026-02-01",
+    "title": "行政执法监督条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:14"
+}

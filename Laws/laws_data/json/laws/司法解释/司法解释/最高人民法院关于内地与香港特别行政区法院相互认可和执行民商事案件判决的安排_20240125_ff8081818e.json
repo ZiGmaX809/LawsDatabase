@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff8081818e750aac018e88ecd4826245",
+  "title": "最高人民法院关于内地与香港特别行政区法院相互认可和执行民商事案件判决的安排",
+  "gbrq": "2024-01-25",
+  "sxrq": "2024-01-29",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081818e750aac018e88ecd4826245",
+    "ossFile": {
+      "ossWordPath": "prod/20240125/edba25e6a4494ca18bd7c3da43b9f63f.docx",
+      "ossWordOfdPath": "prod/20240125/edba25e6a4494ca18bd7c3da43b9f63f.ofd",
+      "ossWordOfdSize": 118877,
+      "ossPdfPath": "prod/20240125/c21633f0b3eb48ddb0bc95de157e8a8b.pdf",
+      "ossPdfOfdPath": "prod/20240125/c21633f0b3eb48ddb0bc95de157e8a8b.ofd",
+      "ossPdfOfdSize": 344603
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818f197cf0018fc38c0ea560bb",
+        "title": "法释2024-2公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2024-01-25",
+    "sxrq": "2024-01-29",
+    "title": "最高人民法院关于内地与香港特别行政区法院相互认可和执行民商事案件判决的安排",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:32"
+}

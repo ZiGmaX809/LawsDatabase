@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff8081819c46f9bb019c9ce74bcd021c",
+  "title": "最高人民法院关于部分民事案件管辖适用法律有关问题的批复",
+  "gbrq": "2025-12-30",
+  "sxrq": "2025-12-31",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081819c46f9bb019c9ce74bcd021c",
+    "ossFile": {
+      "ossWordPath": "prod/20251230/6ab5ce93cc63463fb9b61115badca133.docx",
+      "ossWordOfdPath": "prod/20251230/6ab5ce93cc63463fb9b61115badca133.ofd",
+      "ossWordOfdSize": 55540,
+      "ossPdfPath": "prod/20251230/f1c8f147dd7a4444acb2c41f8430574f.pdf",
+      "ossPdfOfdPath": "prod/20251230/f1c8f147dd7a4444acb2c41f8430574f.ofd",
+      "ossPdfOfdSize": 256476
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "c1504202d35145b9bf8f3460818fa9ea",
+        "title": "法释2025-15公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2025-12-30",
+    "sxrq": "2025-12-31",
+    "title": "最高人民法院关于部分民事案件管辖适用法律有关问题的批复",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:24"
+}

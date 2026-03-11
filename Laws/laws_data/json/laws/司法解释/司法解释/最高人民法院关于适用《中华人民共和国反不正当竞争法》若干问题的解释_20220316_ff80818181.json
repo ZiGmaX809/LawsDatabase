@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff80818181cdd7a70181d7e56efb41b3",
+  "title": "最高人民法院关于适用《中华人民共和国反不正当竞争法》若干问题的解释",
+  "gbrq": "2022-03-16",
+  "sxrq": "2022-03-20",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff80818181cdd7a70181d7e56efb41b3",
+    "ossFile": {
+      "ossWordPath": "prod/20220316/8de28901fdb74dbd8b2972198a9e38ef.docx",
+      "ossWordOfdPath": "prod/20220316/8de28901fdb74dbd8b2972198a9e38ef.ofd",
+      "ossWordOfdSize": 108642,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818181eb5b8f0181f1a9eec4043e",
+        "title": "法释2022-9公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2022-03-16",
+    "sxrq": "2022-03-20",
+    "title": "最高人民法院关于适用《中华人民共和国反不正当竞争法》若干问题的解释",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:39"
+}

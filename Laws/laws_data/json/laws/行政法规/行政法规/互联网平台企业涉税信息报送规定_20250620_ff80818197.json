@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181971b86bf0197a61d2a06193a",
+  "title": "互联网平台企业涉税信息报送规定",
+  "gbrq": "2025-06-20",
+  "sxrq": "2025-06-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181971b86bf0197a61d2a06193a",
+    "ossFile": {
+      "ossWordPath": "prod/20250620/4bf20909d6d146a2ae01559801c1001f.docx",
+      "ossWordOfdPath": "prod/20250620/4bf20909d6d146a2ae01559801c1001f.ofd",
+      "ossWordOfdSize": 70356,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181971552b40197a62c5a19448d",
+        "title": "中华人民共和国国务院令第810号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181966737700197a62c6ff54b9b",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-06-20",
+    "sxrq": "2025-06-20",
+    "title": "互联网平台企业涉税信息报送规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:55"
+}

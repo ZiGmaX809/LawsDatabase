@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40f8971f0ef3",
+  "title": "失业保险条例",
+  "gbrq": "1999-01-22",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40f8971f0ef3",
+    "ossFile": {
+      "ossWordPath": "prod/19990122/f2c6d237f91c473ea9393fa0e19d11fe.docx",
+      "ossWordOfdPath": "prod/19990122/f2c6d237f91c473ea9393fa0e19d11fe.ofd",
+      "ossWordOfdSize": 104942,
+      "ossPdfPath": "prod/19990122/bff8ac2336c94a07ba9fed72f675c22a.pdf",
+      "ossPdfOfdPath": "prod/19990122/bff8ac2336c94a07ba9fed72f675c22a.ofd",
+      "ossPdfOfdSize": 3213712
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1999-01-22",
+    "sxrq": null,
+    "title": "失业保险条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:31:47"
+}

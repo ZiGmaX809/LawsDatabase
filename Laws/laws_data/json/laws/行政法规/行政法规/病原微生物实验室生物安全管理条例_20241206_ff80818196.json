@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff808181966737700196a8ae0f5131f4",
+  "title": "病原微生物实验室生物安全管理条例",
+  "gbrq": "2024-12-06",
+  "sxrq": "2025-01-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181966737700196a8ae0f5131f4",
+    "ossFile": {
+      "ossWordPath": "prod/20241206/3c583918c8b3496ab42dc1eaacee1cfb.docx",
+      "ossWordOfdPath": "prod/20241206/3c583918c8b3496ab42dc1eaacee1cfb.ofd",
+      "ossWordOfdSize": 172624,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181966737700196a8ae0f5131f4",
+        "title": "病原微生物实验室生物安全管理条例",
+        "gbrq": "2024-12-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f41122326151e",
+        "title": "病原微生物实验室生物安全管理条例",
+        "gbrq": "2018-03-19",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081819667441b0196a8b06469327d",
+        "title": "中华人民共和国国务院令第797号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667441b0196a8b079943281",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181966737700196a9e14312359d",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-12-06",
+    "sxrq": "2025-01-20",
+    "title": "病原微生物实验室生物安全管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:42"
+}

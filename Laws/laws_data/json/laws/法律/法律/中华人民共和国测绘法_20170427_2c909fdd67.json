@@ -1,0 +1,612 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf848b309e7",
+  "title": "中华人民共和国测绘法",
+  "gbrq": "2017-04-27",
+  "sxrq": "2017-07-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf848b309e7",
+    "ossFile": {
+      "ossWordPath": "prod/20170427/4b0c045b285b486d8b735729572545b7.docx",
+      "ossWordOfdPath": "prod/20170427/4b0c045b285b486d8b735729572545b7.ofd",
+      "ossWordOfdSize": 163547,
+      "ossPdfPath": "prod/20170427/edd1ecc64d7044a89a484a1b002af862.pdf",
+      "ossPdfOfdPath": "prod/20170427/edd1ecc64d7044a89a484a1b002af862.ofd",
+      "ossPdfOfdSize": 4839747
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2017-04-27",
+    "sxrq": "2017-07-01",
+    "title": "中华人民共和国测绘法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-51e6-08dd61feb784",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国测绘法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-5266-08dd61feb784",
+          "parentId": "79890000-3e3b-0016-51e6-08dd61feb784",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-52b8-08dd61feb784",
+          "parentId": "79890000-3e3b-0016-51e6-08dd61feb784",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-656c-08dd61feb784",
+          "parentId": "79890000-3e3b-0016-51e6-08dd61feb784",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-7545-08dd61feb784",
+              "parentId": "79890000-3e3b-0016-656c-08dd61feb784",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8596-08dd61feb784",
+              "parentId": "79890000-3e3b-0016-656c-08dd61feb784",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9625-08dd61feb784",
+              "parentId": "79890000-3e3b-0016-656c-08dd61feb784",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a62c-08dd61feb784",
+              "parentId": "79890000-3e3b-0016-656c-08dd61feb784",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b6f6-08dd61feb784",
+              "parentId": "79890000-3e3b-0016-656c-08dd61feb784",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c75c-08dd61feb784",
+              "parentId": "79890000-3e3b-0016-656c-08dd61feb784",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d764-08dd61feb784",
+              "parentId": "79890000-3e3b-0016-656c-08dd61feb784",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e7bb-08dd61feb784",
+              "parentId": "79890000-3e3b-0016-656c-08dd61feb784",
+              "title": "第八条",
+              "index": 11,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-f819-08dd61feb784",
+          "parentId": "79890000-3e3b-0016-51e6-08dd61feb784",
+          "title": "第二章 测绘基准和测绘系统",
+          "index": 12,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-083b-08dd61feb785",
+              "parentId": "79890000-3e3b-0016-f819-08dd61feb784",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-18b2-08dd61feb785",
+              "parentId": "79890000-3e3b-0016-f819-08dd61feb784",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2999-08dd61feb785",
+              "parentId": "79890000-3e3b-0016-f819-08dd61feb784",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5f2b-08dd61feb785",
+              "parentId": "79890000-3e3b-0016-f819-08dd61feb784",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-72b8-08dd61feb785",
+              "parentId": "79890000-3e3b-0016-f819-08dd61feb784",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-85ef-08dd61feb785",
+              "parentId": "79890000-3e3b-0016-f819-08dd61feb784",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-98a4-08dd61feb785",
+          "parentId": "79890000-3e3b-0016-51e6-08dd61feb784",
+          "title": "第三章 基础测绘",
+          "index": 19,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-aaa7-08dd61feb785",
+              "parentId": "79890000-3e3b-0016-98a4-08dd61feb785",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bd20-08dd61feb785",
+              "parentId": "79890000-3e3b-0016-98a4-08dd61feb785",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cfa8-08dd61feb785",
+              "parentId": "79890000-3e3b-0016-98a4-08dd61feb785",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e20c-08dd61feb785",
+              "parentId": "79890000-3e3b-0016-98a4-08dd61feb785",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f52f-08dd61feb785",
+              "parentId": "79890000-3e3b-0016-98a4-08dd61feb785",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-065d-08dd61feb786",
+          "parentId": "79890000-3e3b-0016-51e6-08dd61feb784",
+          "title": "第四章 界线测绘和其他测绘",
+          "index": 25,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-172f-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-065d-08dd61feb786",
+              "title": "第二十条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2816-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-065d-08dd61feb786",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-399d-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-065d-08dd61feb786",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4ad6-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-065d-08dd61feb786",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5c7f-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-065d-08dd61feb786",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6dca-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-065d-08dd61feb786",
+              "title": "第二十五条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7f88-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-065d-08dd61feb786",
+              "title": "第二十六条",
+              "index": 32,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9146-08dd61feb786",
+          "parentId": "79890000-3e3b-0016-51e6-08dd61feb784",
+          "title": "第五章 测绘资质资格",
+          "index": 33,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a255-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-9146-08dd61feb786",
+              "title": "第二十七条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b579-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-9146-08dd61feb786",
+              "title": "第二十八条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c702-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-9146-08dd61feb786",
+              "title": "第二十九条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d9be-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-9146-08dd61feb786",
+              "title": "第三十条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ebb9-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-9146-08dd61feb786",
+              "title": "第三十一条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fe48-08dd61feb786",
+              "parentId": "79890000-3e3b-0016-9146-08dd61feb786",
+              "title": "第三十二条",
+              "index": 39,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-1010-08dd61feb787",
+          "parentId": "79890000-3e3b-0016-51e6-08dd61feb784",
+          "title": "第六章 测绘成果",
+          "index": 40,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-224c-08dd61feb787",
+              "parentId": "79890000-3e3b-0016-1010-08dd61feb787",
+              "title": "第三十三条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-34bf-08dd61feb787",
+              "parentId": "79890000-3e3b-0016-1010-08dd61feb787",
+              "title": "第三十四条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-47bd-08dd61feb787",
+              "parentId": "79890000-3e3b-0016-1010-08dd61feb787",
+              "title": "第三十五条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5a34-08dd61feb787",
+              "parentId": "79890000-3e3b-0016-1010-08dd61feb787",
+              "title": "第三十六条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6cc5-08dd61feb787",
+              "parentId": "79890000-3e3b-0016-1010-08dd61feb787",
+              "title": "第三十七条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7fb9-08dd61feb787",
+              "parentId": "79890000-3e3b-0016-1010-08dd61feb787",
+              "title": "第三十八条",
+              "index": 46,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-92d4-08dd61feb787",
+              "parentId": "79890000-3e3b-0016-1010-08dd61feb787",
+              "title": "第三十九条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ad15-08dd61feb787",
+              "parentId": "79890000-3e3b-0016-1010-08dd61feb787",
+              "title": "第四十条",
+              "index": 48,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-c2b2-08dd61feb787",
+          "parentId": "79890000-3e3b-0016-51e6-08dd61feb784",
+          "title": "第七章 测量标志保护",
+          "index": 49,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-d56a-08dd61feb787",
+              "parentId": "79890000-3e3b-0016-c2b2-08dd61feb787",
+              "title": "第四十一条",
+              "index": 50,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e8d9-08dd61feb787",
+              "parentId": "79890000-3e3b-0016-c2b2-08dd61feb787",
+              "title": "第四十二条",
+              "index": 51,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fbb2-08dd61feb787",
+              "parentId": "79890000-3e3b-0016-c2b2-08dd61feb787",
+              "title": "第四十三条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0f1b-08dd61feb788",
+              "parentId": "79890000-3e3b-0016-c2b2-08dd61feb787",
+              "title": "第四十四条",
+              "index": 53,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2289-08dd61feb788",
+              "parentId": "79890000-3e3b-0016-c2b2-08dd61feb787",
+              "title": "第四十五条",
+              "index": 54,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-3632-08dd61feb788",
+          "parentId": "79890000-3e3b-0016-51e6-08dd61feb784",
+          "title": "第八章 监督管理",
+          "index": 55,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-48f7-08dd61feb788",
+              "parentId": "79890000-3e3b-0016-3632-08dd61feb788",
+              "title": "第四十六条",
+              "index": 56,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5cb3-08dd61feb788",
+              "parentId": "79890000-3e3b-0016-3632-08dd61feb788",
+              "title": "第四十七条",
+              "index": 57,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-70a9-08dd61feb788",
+              "parentId": "79890000-3e3b-0016-3632-08dd61feb788",
+              "title": "第四十八条",
+              "index": 58,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-84c4-08dd61feb788",
+              "parentId": "79890000-3e3b-0016-3632-08dd61feb788",
+              "title": "第四十九条",
+              "index": 59,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-98e4-08dd61feb788",
+          "parentId": "79890000-3e3b-0016-51e6-08dd61feb784",
+          "title": "第九章 法律责任",
+          "index": 60,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-ac4d-08dd61feb788",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第五十条",
+              "index": 61,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c034-08dd61feb788",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第五十一条",
+              "index": 62,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d489-08dd61feb788",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第五十二条",
+              "index": 63,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e896-08dd61feb788",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第五十三条",
+              "index": 64,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fd18-08dd61feb788",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第五十四条",
+              "index": 65,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-110d-08dd61feb789",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第五十五条",
+              "index": 66,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-25e7-08dd61feb789",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第五十六条",
+              "index": 67,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3ad6-08dd61feb789",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第五十七条",
+              "index": 68,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4f59-08dd61feb789",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第五十八条",
+              "index": 69,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-63aa-08dd61feb789",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第五十九条",
+              "index": 70,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-790c-08dd61feb789",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第六十条",
+              "index": 71,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8dd0-08dd61feb789",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第六十一条",
+              "index": 72,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a281-08dd61feb789",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第六十二条",
+              "index": 73,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b73c-08dd61feb789",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第六十三条",
+              "index": 74,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ccd5-08dd61feb789",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第六十四条",
+              "index": 75,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e31b-08dd61feb789",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第六十五条",
+              "index": 76,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f81c-08dd61feb789",
+              "parentId": "79890000-3e3b-0016-98e4-08dd61feb788",
+              "title": "第六十六条",
+              "index": 77,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-1dd9-08dd61feb78a",
+          "parentId": "79890000-3e3b-0016-51e6-08dd61feb784",
+          "title": "第十章 附则",
+          "index": 78,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-3457-08dd61feb78a",
+              "parentId": "79890000-3e3b-0016-1dd9-08dd61feb78a",
+              "title": "第六十七条",
+              "index": 79,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4a2b-08dd61feb78a",
+              "parentId": "79890000-3e3b-0016-1dd9-08dd61feb78a",
+              "title": "第六十八条",
+              "index": 80,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:39:06"
+}

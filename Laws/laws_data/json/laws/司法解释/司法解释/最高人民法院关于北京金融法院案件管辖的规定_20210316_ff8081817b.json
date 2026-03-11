@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff8081817b96971c017b9ba5934011b6",
+  "title": "最高人民法院关于北京金融法院案件管辖的规定",
+  "gbrq": "2021-03-16",
+  "sxrq": "2021-03-16",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081817b96971c017b9ba5934011b6",
+    "ossFile": {
+      "ossWordPath": "prod/20210316/5425e83ff5e04016b22fa5d2ac9429b2.docx",
+      "ossWordOfdPath": "prod/20210316/5425e83ff5e04016b22fa5d2ac9429b2.ofd",
+      "ossWordOfdSize": 65608,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081817d044a18017d11e797920336",
+        "title": "法释2021-7公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2021-03-16",
+    "sxrq": "2021-03-16",
+    "title": "最高人民法院关于北京金融法院案件管辖的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:48"
+}

@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff808081777d0c940177cdb0394c4fac",
+  "title": "中华人民共和国劳动保险条例",
+  "gbrq": "1953-01-02",
+  "sxrq": "1953-01-02",
+  "sxx": 1,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808081777d0c940177cdb0394c4fac",
+    "ossFile": {
+      "ossWordPath": "prod/19530102/a71adfc9d96c489699c787a8d48dbbd5.docx",
+      "ossWordOfdPath": "prod/19530102/a71adfc9d96c489699c787a8d48dbbd5.ofd",
+      "ossWordOfdSize": 136668,
+      "ossPdfPath": "prod/19530102/bf881b463d324f0ebcb1ef85385fb0c2.pdf",
+      "ossPdfOfdPath": "prod/19530102/bf881b463d324f0ebcb1ef85385fb0c2.ofd",
+      "ossPdfOfdSize": 5852649
+    },
+    "xgwj": [
+      {
+        "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1953-01-02",
+    "sxrq": "1953-01-02",
+    "title": "中华人民共和国劳动保险条例",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:36:19"
+}

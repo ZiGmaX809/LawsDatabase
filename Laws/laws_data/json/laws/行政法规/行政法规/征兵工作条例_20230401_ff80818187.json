@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff80818187c29b5001882d6f1b1a4508",
+  "title": "征兵工作条例",
+  "gbrq": "2023-04-01",
+  "sxrq": "2023-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80818187c29b5001882d6f1b1a4508",
+    "ossFile": {
+      "ossWordPath": "prod/20230401/e033509e0b0d46f1924394e46babcc09.docx",
+      "ossWordOfdPath": "prod/20230401/e033509e0b0d46f1924394e46babcc09.ofd",
+      "ossWordOfdSize": 185034,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818187c29b5001882d6f1b1a4508",
+        "title": "征兵工作条例",
+        "gbrq": "2023-04-01",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f410aa00512fd",
+        "title": "征兵工作条例",
+        "gbrq": "2001-09-05",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818808eb2201882d88e2e01db5",
+        "title": "中华人民共和国国务院　中华人民共和国中央军事委员会令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818808ed5501882d8921a21dc9",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-04-01",
+    "sxrq": "2023-05-01",
+    "title": "征兵工作条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:07:00"
+}

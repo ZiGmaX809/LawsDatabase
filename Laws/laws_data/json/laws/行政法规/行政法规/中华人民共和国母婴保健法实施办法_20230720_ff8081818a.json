@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081818a1cb546018a6e3759cd6d5c",
+  "title": "中华人民共和国母婴保健法实施办法",
+  "gbrq": "2023-07-20",
+  "sxrq": "2023-07-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818a1cb546018a6e3759cd6d5c",
+    "ossFile": {
+      "ossWordPath": "prod/20230720/e485295d687f4907a7f98a1cf9e79d2d.docx",
+      "ossWordOfdPath": "prod/20230720/e485295d687f4907a7f98a1cf9e79d2d.ofd",
+      "ossWordOfdSize": 135838,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a1cb546018a6e3759cd6d5c",
+        "title": "中华人民共和国母婴保健法实施办法",
+        "gbrq": "2023-07-20",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4127fb811a3d",
+        "title": "中华人民共和国母婴保健法实施办法",
+        "gbrq": "2017-11-17",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21dc13018a78a6420c1609",
+        "title": "中华人民共和国国务院令第764号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018a78a5f4a016ec",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e6c3018a78a687ae16cd",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-07-20",
+    "sxrq": "2023-07-20",
+    "title": "中华人民共和国母婴保健法实施办法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:18"
+}

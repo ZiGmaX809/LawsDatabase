@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081817b63b679017b7b2085953607",
+  "title": "中华人民共和国市场主体登记管理条例",
+  "gbrq": "2021-07-27",
+  "sxrq": "2022-03-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081817b63b679017b7b2085953607",
+    "ossFile": {
+      "ossWordPath": "prod/20210727/15e2753c77dd4546b4a8f4a3ce19ab29.docx",
+      "ossWordOfdPath": "prod/20210727/15e2753c77dd4546b4a8f4a3ce19ab29.ofd",
+      "ossWordOfdSize": 135299,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081817b6471a2017b7bf290e007e0",
+        "title": "国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817b6450e6017b7bf2946808c6",
+        "title": "其它",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2021-07-27",
+    "sxrq": "2022-03-01",
+    "title": "中华人民共和国市场主体登记管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:08:09"
+}

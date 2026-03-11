@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4132371e1c52",
+  "title": "娱乐场所管理条例",
+  "gbrq": "2016-02-06",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4132371e1c52",
+    "ossFile": {
+      "ossWordPath": "prod/20160206/383d1e2f1aaa411aaa2aa7709f0011c9.docx",
+      "ossWordOfdPath": "prod/20160206/383d1e2f1aaa411aaa2aa7709f0011c9.ofd",
+      "ossWordOfdSize": 173250,
+      "ossPdfPath": "prod/20160206/1b56f5dd227448a6b4e63eb367f988a0.pdf",
+      "ossPdfOfdPath": "prod/20160206/1b56f5dd227448a6b4e63eb367f988a0.ofd",
+      "ossPdfOfdSize": 4831857
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d07c50177b8bcef5c37d5",
+        "title": "娱乐场所管理条例",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4132371e1c52",
+        "title": "娱乐场所管理条例",
+        "gbrq": "2016-02-06",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2016-02-06",
+    "sxrq": null,
+    "title": "娱乐场所管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:20:58"
+}

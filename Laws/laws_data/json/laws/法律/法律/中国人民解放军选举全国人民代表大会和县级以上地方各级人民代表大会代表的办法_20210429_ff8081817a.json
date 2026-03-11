@@ -1,0 +1,413 @@
+{
+  "bbbs": "ff8081817ab22e0c017abd51fda1054a",
+  "title": "中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法",
+  "gbrq": "2021-04-29",
+  "sxrq": "2021-04-30",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "ff8081817ab22e0c017abd51fda1054a",
+    "ossFile": {
+      "ossWordPath": "prod/20210429/06848694070346429e8ec19f39e2521c.docx",
+      "ossWordOfdPath": "prod/20210429/06848694070346429e8ec19f39e2521c.ofd",
+      "ossWordOfdSize": 127640,
+      "ossPdfPath": "prod/20210429/7ccf598d94a0461387294af44e38158c.pdf",
+      "ossPdfOfdPath": "prod/20210429/7ccf598d94a0461387294af44e38158c.ofd",
+      "ossPdfOfdSize": 818013
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081817ab22e0c017abd51fda1054a",
+        "title": "中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法",
+        "gbrq": "2021-04-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf73fc80659",
+        "title": "中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法",
+        "gbrq": "2012-06-30",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2021-04-29",
+    "sxrq": "2021-04-30",
+    "title": "中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-2668-08dd6fef7f72",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中国人民解放军选举全国人民代表大会和县级以上地方各级人民代表大会代表的办法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-272d-08dd6fef7f72",
+          "parentId": "79890000-3e3b-0016-2668-08dd6fef7f72",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-279d-08dd6fef7f72",
+          "parentId": "79890000-3e3b-0016-2668-08dd6fef7f72",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-3f0e-08dd6fef7f72",
+          "parentId": "79890000-3e3b-0016-2668-08dd6fef7f72",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-53ff-08dd6fef7f72",
+              "parentId": "79890000-3e3b-0016-3f0e-08dd6fef7f72",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-68ea-08dd6fef7f72",
+              "parentId": "79890000-3e3b-0016-3f0e-08dd6fef7f72",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7e3a-08dd6fef7f72",
+              "parentId": "79890000-3e3b-0016-3f0e-08dd6fef7f72",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-92ff-08dd6fef7f72",
+              "parentId": "79890000-3e3b-0016-3f0e-08dd6fef7f72",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a7fc-08dd6fef7f72",
+              "parentId": "79890000-3e3b-0016-3f0e-08dd6fef7f72",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bce6-08dd6fef7f72",
+              "parentId": "79890000-3e3b-0016-3f0e-08dd6fef7f72",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d345-08dd6fef7f72",
+              "parentId": "79890000-3e3b-0016-3f0e-08dd6fef7f72",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-ea42-08dd6fef7f72",
+          "parentId": "79890000-3e3b-0016-2668-08dd6fef7f72",
+          "title": "第二章 选举委员会",
+          "index": 11,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0017-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-ea42-08dd6fef7f72",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-179d-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-ea42-08dd6fef7f72",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-28d5-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-ea42-08dd6fef7f72",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3843-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-ea42-08dd6fef7f72",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-463b-08dd6fef7f73",
+          "parentId": "79890000-3e3b-0016-2668-08dd6fef7f72",
+          "title": "第三章 代表名额的决定和分配",
+          "index": 16,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5336-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-463b-08dd6fef7f73",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-607f-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-463b-08dd6fef7f73",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6e8e-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-463b-08dd6fef7f73",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-7c07-08dd6fef7f73",
+          "parentId": "79890000-3e3b-0016-2668-08dd6fef7f72",
+          "title": "第四章 选区和选举单位",
+          "index": 20,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-891b-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-7c07-08dd6fef7f73",
+              "title": "第十五条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9759-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-7c07-08dd6fef7f73",
+              "title": "第十六条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a53a-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-7c07-08dd6fef7f73",
+              "title": "第十七条",
+              "index": 23,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-bc6d-08dd6fef7f73",
+          "parentId": "79890000-3e3b-0016-2668-08dd6fef7f72",
+          "title": "第五章 代表候选人的提出",
+          "index": 24,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-cdf3-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-bc6d-08dd6fef7f73",
+              "title": "第十八条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ddcf-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-bc6d-08dd6fef7f73",
+              "title": "第十九条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ed11-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-bc6d-08dd6fef7f73",
+              "title": "第二十条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fc1a-08dd6fef7f73",
+              "parentId": "79890000-3e3b-0016-bc6d-08dd6fef7f73",
+              "title": "第二十一条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0af1-08dd6fef7f74",
+              "parentId": "79890000-3e3b-0016-bc6d-08dd6fef7f73",
+              "title": "第二十二条",
+              "index": 29,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-19ba-08dd6fef7f74",
+          "parentId": "79890000-3e3b-0016-2668-08dd6fef7f72",
+          "title": "第六章 选举程序",
+          "index": 30,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-282b-08dd6fef7f74",
+              "parentId": "79890000-3e3b-0016-19ba-08dd6fef7f74",
+              "title": "第二十三条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3775-08dd6fef7f74",
+              "parentId": "79890000-3e3b-0016-19ba-08dd6fef7f74",
+              "title": "第二十四条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-46df-08dd6fef7f74",
+              "parentId": "79890000-3e3b-0016-19ba-08dd6fef7f74",
+              "title": "第二十五条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-560d-08dd6fef7f74",
+              "parentId": "79890000-3e3b-0016-19ba-08dd6fef7f74",
+              "title": "第二十六条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8292-08dd6fef7f74",
+              "parentId": "79890000-3e3b-0016-19ba-08dd6fef7f74",
+              "title": "第二十七条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9503-08dd6fef7f74",
+              "parentId": "79890000-3e3b-0016-19ba-08dd6fef7f74",
+              "title": "第二十八条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a560-08dd6fef7f74",
+              "parentId": "79890000-3e3b-0016-19ba-08dd6fef7f74",
+              "title": "第二十九条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b4e5-08dd6fef7f74",
+              "parentId": "79890000-3e3b-0016-19ba-08dd6fef7f74",
+              "title": "第三十条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c512-08dd6fef7f74",
+              "parentId": "79890000-3e3b-0016-19ba-08dd6fef7f74",
+              "title": "第三十一条",
+              "index": 39,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-d4bc-08dd6fef7f74",
+          "parentId": "79890000-3e3b-0016-2668-08dd6fef7f72",
+          "title": "第七章 对代表的监督和罢免、辞职、补选",
+          "index": 40,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-e3ab-08dd6fef7f74",
+              "parentId": "79890000-3e3b-0016-d4bc-08dd6fef7f74",
+              "title": "第三十二条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f3fd-08dd6fef7f74",
+              "parentId": "79890000-3e3b-0016-d4bc-08dd6fef7f74",
+              "title": "第三十三条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0439-08dd6fef7f75",
+              "parentId": "79890000-3e3b-0016-d4bc-08dd6fef7f74",
+              "title": "第三十四条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-13e9-08dd6fef7f75",
+              "parentId": "79890000-3e3b-0016-d4bc-08dd6fef7f74",
+              "title": "第三十五条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2400-08dd6fef7f75",
+              "parentId": "79890000-3e3b-0016-d4bc-08dd6fef7f74",
+              "title": "第三十六条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3449-08dd6fef7f75",
+              "parentId": "79890000-3e3b-0016-d4bc-08dd6fef7f74",
+              "title": "第三十七条",
+              "index": 46,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4516-08dd6fef7f75",
+              "parentId": "79890000-3e3b-0016-d4bc-08dd6fef7f74",
+              "title": "第三十八条",
+              "index": 47,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-555f-08dd6fef7f75",
+          "parentId": "79890000-3e3b-0016-2668-08dd6fef7f72",
+          "title": "第八章 附则",
+          "index": 48,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-6539-08dd6fef7f75",
+              "parentId": "79890000-3e3b-0016-555f-08dd6fef7f75",
+              "title": "第三十九条",
+              "index": 49,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-758d-08dd6fef7f75",
+              "parentId": "79890000-3e3b-0016-555f-08dd6fef7f75",
+              "title": "第四十条",
+              "index": 50,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:31:57"
+}

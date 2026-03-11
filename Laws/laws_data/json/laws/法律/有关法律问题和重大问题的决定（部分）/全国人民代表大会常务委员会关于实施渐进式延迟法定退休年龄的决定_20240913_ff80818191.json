@@ -1,0 +1,68 @@
+{
+  "bbbs": "ff80818191db10440191eb2614320909",
+  "title": "全国人民代表大会常务委员会关于实施渐进式延迟法定退休年龄的决定",
+  "gbrq": "2024-09-13",
+  "sxrq": "2025-01-01",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "ff80818191db10440191eb2614320909",
+    "ossFile": {
+      "ossWordPath": "prod/20240913/6693f9ac81404773ab50eba612f99628.docx",
+      "ossWordOfdPath": "prod/20240913/6693f9ac81404773ab50eba612f99628.ofd",
+      "ossWordOfdSize": 173375,
+      "ossPdfPath": "prod/20240913/d97c1769719940acb9580016d9b752fe.pdf",
+      "ossPdfOfdPath": "prod/20240913/d97c1769719940acb9580016d9b752fe.ofd",
+      "ossPdfOfdSize": 3800957
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181927b2d1a019289b8c00a03d0",
+        "title": "关于《关于实施渐进式延迟法定退休年龄的决定（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b019289b9817a03fe",
+        "title": "关于《关于实施渐进式延迟法定退休年龄的决定（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b019289b8dec803fb",
+        "title": "全国人民代表大会宪法和法律委员会对《关于实施渐进式延迟法定退休年龄的决定（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a019289b9a2ac03e2",
+        "title": "全国人民代表大会宪法和法律委员会对《关于实施渐进式延迟法定退休年龄的决定（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2024-09-13",
+    "sxrq": "2025-01-01",
+    "title": "全国人民代表大会常务委员会关于实施渐进式延迟法定退休年龄的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:27:34"
+}

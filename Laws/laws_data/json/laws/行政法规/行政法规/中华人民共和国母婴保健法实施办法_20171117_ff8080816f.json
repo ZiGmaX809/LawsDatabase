@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4127fb811a3d",
+  "title": "中华人民共和国母婴保健法实施办法",
+  "gbrq": "2017-11-17",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4127fb811a3d",
+    "ossFile": {
+      "ossWordPath": "prod/20171117/62e0e4491c01419a81616d6663a0b626.docx",
+      "ossWordOfdPath": "prod/20171117/62e0e4491c01419a81616d6663a0b626.ofd",
+      "ossWordOfdSize": 146414,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "ff808181804a1c5001805a8f14f1053b",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a1cb546018a6e3759cd6d5c",
+        "title": "中华人民共和国母婴保健法实施办法",
+        "gbrq": "2023-07-20",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4127fb811a3d",
+        "title": "中华人民共和国母婴保健法实施办法",
+        "gbrq": "2017-11-17",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2017-11-17",
+    "sxrq": null,
+    "title": "中华人民共和国母婴保健法实施办法",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:14:42"
+}

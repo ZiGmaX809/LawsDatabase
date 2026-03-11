@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081819aedd63e019b3015d4c05626",
+  "title": "全民阅读促进条例",
+  "gbrq": "2025-12-09",
+  "sxrq": "2026-02-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819aedd63e019b3015d4c05626",
+    "ossFile": {
+      "ossWordPath": "prod/20251209/89af04cf9b004bbba6258943d0f8c0d2.docx",
+      "ossWordOfdPath": "prod/20251209/89af04cf9b004bbba6258943d0f8c0d2.ofd",
+      "ossWordOfdSize": 129104,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "4afd9db64e6341ac9ef3aebf35e918c8",
+        "title": "中华人民共和国国务院令第823号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "006e2a1cc4a04a938125b9521281a9f4",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-12-09",
+    "sxrq": "2026-02-01",
+    "title": "全民阅读促进条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:20"
+}

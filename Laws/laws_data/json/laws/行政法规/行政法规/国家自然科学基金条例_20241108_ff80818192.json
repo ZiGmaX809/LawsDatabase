@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181927f0e7b0193708e45673d8a",
+  "title": "国家自然科学基金条例",
+  "gbrq": "2024-11-08",
+  "sxrq": "2025-01-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181927f0e7b0193708e45673d8a",
+    "ossFile": {
+      "ossWordPath": "prod/20241108/5973bfb4f32048caa3e9fd06f9858ed7.docx",
+      "ossWordOfdPath": "prod/20241108/5973bfb4f32048caa3e9fd06f9858ed7.ofd",
+      "ossWordOfdSize": 152447,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181927f0e7b0193708e45673d8a",
+        "title": "国家自然科学基金条例",
+        "gbrq": "2024-11-08",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4030f416014d",
+        "title": "国家自然科学基金条例",
+        "gbrq": "2007-02-24",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff808181927b083b01937099f99b32dd",
+        "title": "中华人民共和国国务院令第796号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b0193709a33a332e8",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-11-08",
+    "sxrq": "2025-01-01",
+    "title": "国家自然科学基金条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:04:26"
+}

@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff808081777d07c50177b8b185673796",
+  "title": "城市供水条例",
+  "gbrq": "2020-03-27",
+  "sxrq": "2020-03-27",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808081777d07c50177b8b185673796",
+    "ossFile": {
+      "ossWordPath": "prod/20200327/a9b611fef39040589f20b32fa464d340.docx",
+      "ossWordOfdPath": "prod/20200327/a9b611fef39040589f20b32fa464d340.ofd",
+      "ossWordOfdSize": 109254,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d07c50177b8b185673796",
+        "title": "城市供水条例",
+        "gbrq": "2020-03-27",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4135e0dd1d31",
+        "title": "城市供水条例",
+        "gbrq": "2018-03-19",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2020-03-27",
+    "sxrq": "2020-03-27",
+    "title": "城市供水条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:09:44"
+}

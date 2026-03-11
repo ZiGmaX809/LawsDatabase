@@ -1,0 +1,49 @@
+{
+  "bbbs": "f46b2dd1b8b14e49b8b871ca52ad7731",
+  "title": "最高人民法院关于修改《最高人民法院关于认可和执行台湾地区法院民事判决的规定》的决定",
+  "gbrq": "2024-12-17",
+  "sxrq": "2025-01-01",
+  "sxx": null,
+  "zdjgName": "最高人民法院",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 9999,
+  "flfgCodeId": 350,
+  "detail": {
+    "bbbs": "f46b2dd1b8b14e49b8b871ca52ad7731",
+    "ossFile": {
+      "ossWordPath": "prod/20241217/b63f2d3cf8f74b74aa4a6b0f34b38b06.docx",
+      "ossWordOfdPath": "prod/20241217/b63f2d3cf8f74b74aa4a6b0f34b38b06.ofd",
+      "ossWordOfdSize": 95393,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081819440697201945f06bdb21461",
+        "title": "法释2024-14公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "402881e45ffb5c4c015ffb6af52b0166",
+        "title": "最高人民法院关于认可和执行台湾地区法院民事判决的规定"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2024-12-17",
+    "sxrq": "2025-01-01",
+    "title": "最高人民法院关于修改《最高人民法院关于认可和执行台湾地区法院民事判决的规定》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:28"
+}

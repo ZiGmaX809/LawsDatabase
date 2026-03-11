@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f412e40741b7e",
+  "title": "中华人民共和国海关统计条例",
+  "gbrq": "2005-12-25",
+  "sxrq": "2006-03-01",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f412e40741b7e",
+    "ossFile": {
+      "ossWordPath": "prod/20051225/795d1125464a4f7bbbc160d11ef30bc8.docx",
+      "ossWordOfdPath": "prod/20051225/795d1125464a4f7bbbc160d11ef30bc8.ofd",
+      "ossWordOfdSize": 81361,
+      "ossPdfPath": "prod/20051225/d3eea63c461d40e2aed373f9e97f97f9.pdf",
+      "ossPdfOfdPath": "prod/20051225/d3eea63c461d40e2aed373f9e97f97f9.ofd",
+      "ossPdfOfdSize": 1679124
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818180e0a61301811e3e6c391f6f",
+        "title": "中华人民共和国海关统计条例",
+        "gbrq": "2022-03-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f412e40741b7e",
+        "title": "中华人民共和国海关统计条例",
+        "gbrq": "2005-12-25",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2005-12-25",
+    "sxrq": "2006-03-01",
+    "title": "中华人民共和国海关统计条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:28:50"
+}

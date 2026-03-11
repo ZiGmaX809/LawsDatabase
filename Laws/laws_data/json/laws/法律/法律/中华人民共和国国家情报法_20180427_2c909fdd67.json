@@ -1,0 +1,320 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf8498d09f1",
+  "title": "中华人民共和国国家情报法",
+  "gbrq": "2018-04-27",
+  "sxrq": "2018-04-27",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf8498d09f1",
+    "ossFile": {
+      "ossWordPath": "prod/20180427/eac1385596dd4cd3a05748420bcd6cc8.docx",
+      "ossWordOfdPath": "prod/20180427/eac1385596dd4cd3a05748420bcd6cc8.ofd",
+      "ossWordOfdSize": 111171,
+      "ossPdfPath": "prod/20180427/218bc2ba452d4ec39d8a1a6080545d99.pdf",
+      "ossPdfOfdPath": "prod/20180427/218bc2ba452d4ec39d8a1a6080545d99.ofd",
+      "ossPdfOfdSize": 1611795
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2018-04-27",
+    "sxrq": "2018-04-27",
+    "title": "中华人民共和国国家情报法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-f390-08dd59f558c6",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国国家情报法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-f406-08dd59f558c6",
+          "parentId": "79890000-3e3b-0016-f390-08dd59f558c6",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-f45b-08dd59f558c6",
+          "parentId": "79890000-3e3b-0016-f390-08dd59f558c6",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-00dc-08dd59f558c7",
+          "parentId": "79890000-3e3b-0016-f390-08dd59f558c6",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0c7e-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-00dc-08dd59f558c7",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-18ae-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-00dc-08dd59f558c7",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-253d-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-00dc-08dd59f558c7",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3199-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-00dc-08dd59f558c7",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3cb4-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-00dc-08dd59f558c7",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4816-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-00dc-08dd59f558c7",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5309-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-00dc-08dd59f558c7",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5d8a-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-00dc-08dd59f558c7",
+              "title": "第八条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-68ab-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-00dc-08dd59f558c7",
+              "title": "第九条",
+              "index": 12,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-733f-08dd59f558c7",
+          "parentId": "79890000-3e3b-0016-f390-08dd59f558c6",
+          "title": "第二章 国家情报工作机构职权",
+          "index": 13,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-7de2-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-733f-08dd59f558c7",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-88da-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-733f-08dd59f558c7",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-93c3-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-733f-08dd59f558c7",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9f4a-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-733f-08dd59f558c7",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-aa30-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-733f-08dd59f558c7",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d0f1-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-733f-08dd59f558c7",
+              "title": "第十五条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e5c7-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-733f-08dd59f558c7",
+              "title": "第十六条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f29b-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-733f-08dd59f558c7",
+              "title": "第十七条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fe8d-08dd59f558c7",
+              "parentId": "79890000-3e3b-0016-733f-08dd59f558c7",
+              "title": "第十八条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0a67-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-733f-08dd59f558c7",
+              "title": "第十九条",
+              "index": 23,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-165b-08dd59f558c8",
+          "parentId": "79890000-3e3b-0016-f390-08dd59f558c6",
+          "title": "第三章 国家情报工作保障",
+          "index": 24,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-2175-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-165b-08dd59f558c8",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2d34-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-165b-08dd59f558c8",
+              "title": "第二十一条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-39e7-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-165b-08dd59f558c8",
+              "title": "第二十二条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-45eb-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-165b-08dd59f558c8",
+              "title": "第二十三条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-51ca-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-165b-08dd59f558c8",
+              "title": "第二十四条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5e7c-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-165b-08dd59f558c8",
+              "title": "第二十五条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6ada-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-165b-08dd59f558c8",
+              "title": "第二十六条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-771a-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-165b-08dd59f558c8",
+              "title": "第二十七条",
+              "index": 32,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-83ef-08dd59f558c8",
+          "parentId": "79890000-3e3b-0016-f390-08dd59f558c6",
+          "title": "第四章 法律责任",
+          "index": 33,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9000-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-83ef-08dd59f558c8",
+              "title": "第二十八条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9c5d-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-83ef-08dd59f558c8",
+              "title": "第二十九条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a8fd-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-83ef-08dd59f558c8",
+              "title": "第三十条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b5c1-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-83ef-08dd59f558c8",
+              "title": "第三十一条",
+              "index": 37,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-c22c-08dd59f558c8",
+          "parentId": "79890000-3e3b-0016-f390-08dd59f558c6",
+          "title": "第五章 附则",
+          "index": 38,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-ceaf-08dd59f558c8",
+              "parentId": "79890000-3e3b-0016-c22c-08dd59f558c8",
+              "title": "第三十二条",
+              "index": 39,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:37:19"
+}

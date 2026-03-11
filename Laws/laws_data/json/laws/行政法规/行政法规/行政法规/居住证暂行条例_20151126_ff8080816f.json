@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f412c25a71b1a",
+  "title": "居住证暂行条例",
+  "gbrq": "2015-11-26",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f412c25a71b1a",
+    "ossFile": {
+      "ossWordPath": "prod/20151126/8b4654782ded4dfba685a426c149dbe1.docx",
+      "ossWordOfdPath": "prod/20151126/8b4654782ded4dfba685a426c149dbe1.ofd",
+      "ossWordOfdSize": 109836,
+      "ossPdfPath": "prod/20151126/8276ac5904c344e7baaed943e391a90b.pdf",
+      "ossPdfOfdPath": "prod/20151126/8276ac5904c344e7baaed943e391a90b.ofd",
+      "ossPdfOfdSize": 3145800
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2015-11-26",
+    "sxrq": null,
+    "title": "居住证暂行条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:21:29"
+}

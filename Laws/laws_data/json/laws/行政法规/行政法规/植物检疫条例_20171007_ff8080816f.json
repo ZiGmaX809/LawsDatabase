@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40e4004b0973",
+  "title": "植物检疫条例",
+  "gbrq": "2017-10-07",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40e4004b0973",
+    "ossFile": {
+      "ossWordPath": "prod/20171007/31d45523516e470b8a7a6fd2d4a4f1ac.docx",
+      "ossWordOfdPath": "prod/20171007/31d45523516e470b8a7a6fd2d4a4f1ac.ofd",
+      "ossWordOfdSize": 111350,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "2d24100e20fa46408daa098e994e984d",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2017-10-07",
+    "sxrq": null,
+    "title": "植物检疫条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:15:08"
+}

@@ -1,0 +1,105 @@
+{
+  "bbbs": "ff80818191db55220191eadb1cd908d6",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国统计法》的决定",
+  "gbrq": "2024-09-13",
+  "sxrq": "2024-09-13",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff80818191db55220191eadb1cd908d6",
+    "ossFile": {
+      "ossWordPath": "prod/20240913/2ca48a2b9a254fa0a10984feee254f8a.docx",
+      "ossWordOfdPath": "prod/20240913/2ca48a2b9a254fa0a10984feee254f8a.ofd",
+      "ossWordOfdSize": 95793,
+      "ossPdfPath": "prod/20240913/dbc963f5384c4f7c93df13f507827b46.pdf",
+      "ossPdfOfdPath": "prod/20240913/dbc963f5384c4f7c93df13f507827b46.ofd",
+      "ossPdfOfdSize": 806817
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818191db55220191eef32c6309a0",
+        "title": "中华人民共和国主席令（第三十一号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a0192896498740390",
+        "title": "中华人民共和国主席令（第三十一号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b01928e3f121d059c",
+        "title": "关于《中华人民共和国统计法（修正草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b01928965222803b6",
+        "title": "关于《中华人民共和国统计法（修正草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b01928965e73503c4",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国统计法（修正草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b0192896644a903ca",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国统计法（修正草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a01928966badc03b3",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于修改〈中华人民共和国统计法〉的决定（草案）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b01928966edda03d8",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于修改〈中华人民共和国统计法〉的决定（草案）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf673070401",
+        "title": "中华人民共和国统计法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2024-09-13",
+    "sxrq": "2024-09-13",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国统计法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:27:38"
+}

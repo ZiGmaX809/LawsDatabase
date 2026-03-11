@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff80818199614c1a019975a5e05632d7",
+  "title": "外国驻华外交领事机构中国籍雇员管理条例",
+  "gbrq": "2025-08-23",
+  "sxrq": "2026-01-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80818199614c1a019975a5e05632d7",
+    "ossFile": {
+      "ossWordPath": "prod/20250823/97d8f868e5ff441d81dc44793f8768d7.docx",
+      "ossWordOfdPath": "prod/20250823/97d8f868e5ff441d81dc44793f8768d7.ofd",
+      "ossWordOfdSize": 56792,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818198794ccd0199798972dc6df8",
+        "title": "中华人民共和国国务院令第815号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819879212301997989858f6db9",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-08-23",
+    "sxrq": "2026-01-01",
+    "title": "外国驻华外交领事机构中国籍雇员管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:39"
+}

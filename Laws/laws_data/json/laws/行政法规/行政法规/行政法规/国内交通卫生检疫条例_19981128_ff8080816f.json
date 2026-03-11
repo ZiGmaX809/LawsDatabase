@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40f290280d5b",
+  "title": "国内交通卫生检疫条例",
+  "gbrq": "1998-11-28",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40f290280d5b",
+    "ossFile": {
+      "ossWordPath": "prod/19981128/00087e1ff21a49c994e16874ef55f405.docx",
+      "ossWordOfdPath": "prod/19981128/00087e1ff21a49c994e16874ef55f405.ofd",
+      "ossWordOfdSize": 94478,
+      "ossPdfPath": "prod/19981128/8f0ec85895c04a9c97c7fffe6c2f9564.pdf",
+      "ossPdfOfdPath": "prod/19981128/8f0ec85895c04a9c97c7fffe6c2f9564.ofd",
+      "ossPdfOfdSize": 3352540
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1998-11-28",
+    "sxrq": null,
+    "title": "国内交通卫生检疫条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:31:52"
+}

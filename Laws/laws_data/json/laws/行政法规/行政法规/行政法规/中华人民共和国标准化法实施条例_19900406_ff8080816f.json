@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3e9784016f420a8cb50313",
+  "title": "中华人民共和国标准化法实施条例",
+  "gbrq": "1990-04-06",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f420a8cb50313",
+    "ossFile": {
+      "ossWordPath": "prod/19900406/078790a81096491e87b1366c463f1b69.docx",
+      "ossWordOfdPath": "prod/19900406/078790a81096491e87b1366c463f1b69.ofd",
+      "ossWordOfdSize": 125032,
+      "ossPdfPath": "prod/19900406/4cb85af37ca94bd4a5737f2fff103cb8.pdf",
+      "ossPdfOfdPath": "prod/19900406/4cb85af37ca94bd4a5737f2fff103cb8.ofd",
+      "ossPdfOfdSize": 8480608
+    },
+    "xgwj": [
+      {
+        "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a9fecc5736fe",
+        "title": "中华人民共和国标准化法实施条例",
+        "gbrq": "2024-03-10",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f420a8cb50313",
+        "title": "中华人民共和国标准化法实施条例",
+        "gbrq": "1990-04-06",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1990-04-06",
+    "sxrq": null,
+    "title": "中华人民共和国标准化法实施条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:35:59"
+}

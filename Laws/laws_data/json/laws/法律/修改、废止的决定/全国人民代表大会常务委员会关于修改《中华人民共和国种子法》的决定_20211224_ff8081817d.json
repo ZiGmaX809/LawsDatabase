@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8081817dea9c18017dec5d424c0210",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国种子法》的决定",
+  "gbrq": "2021-12-24",
+  "sxrq": "2022-03-01",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff8081817dea9c18017dec5d424c0210",
+    "ossFile": {
+      "ossWordPath": "prod/20211224/5a7e13b5a12c4bdc8b9c2570b862475d.docx",
+      "ossWordOfdPath": "prod/20211224/5a7e13b5a12c4bdc8b9c2570b862475d.ofd",
+      "ossWordOfdSize": 94333,
+      "ossPdfPath": "prod/20211224/19f89d95747646c79aa8b030fc8d3b87.pdf",
+      "ossPdfOfdPath": "prod/20211224/19f89d95747646c79aa8b030fc8d3b87.ofd",
+      "ossPdfOfdSize": 953841
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf7f2330875",
+        "title": "中华人民共和国种子法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2021-12-24",
+    "sxrq": "2022-03-01",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国种子法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:30:52"
+}

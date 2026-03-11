@@ -1,0 +1,76 @@
+{
+  "bbbs": "ff808181799def980179b0a23ba71899",
+  "title": "最高人民法院关于审理铁路运输人身损害赔偿纠纷案件适用法律若干问题的解释",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 2,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799def980179b0a23ba71899",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/9d71e1f97e514d0faeca81cda4e640ce.doc",
+      "ossWordOfdPath": "prod/20201229/9d71e1f97e514d0faeca81cda4e640ce.ofd",
+      "ossWordOfdSize": 85919,
+      "ossPdfPath": "prod/20201229/74a2eee3c76c4a348aede4b86cc36bf7.pdf",
+      "ossPdfOfdPath": "prod/20201229/74a2eee3c76c4a348aede4b86cc36bf7.ofd",
+      "ossPdfOfdSize": 1255394
+    },
+    "xgwj": [
+      {
+        "bbbs": "ff8081817e8ba40f017ea41aea0a0986",
+        "title": "最高人民法院关于修改《最高人民法院关于审理铁路运输人身损害赔偿纠纷案件适用法律若干问题的解释》的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081817e8f9b80017e9afb663d1f3b",
+        "title": "最高人民法院关于审理铁路运输人身损害赔偿纠纷案件适用法律若干问题的解释",
+        "gbrq": "2021-12-08",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff808181799def980179b0a23ba71899",
+        "title": "最高人民法院关于审理铁路运输人身损害赔偿纠纷案件适用法律若干问题的解释",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e45ffbbe41015ffc5d01420aff",
+        "title": "最高人民法院关于审理铁路运输人身损害赔偿纠纷案件适用法律若干问题的解释",
+        "gbrq": "2010-03-03",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179a8b4320179b7d9ea631b91",
+        "title": "法释〔2020〕17号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179a8b4320179b7d9ed2d1b94",
+        "title": "法释〔2020〕17号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于审理铁路运输人身损害赔偿纠纷案件适用法律若干问题的解释",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:05:44"
+}

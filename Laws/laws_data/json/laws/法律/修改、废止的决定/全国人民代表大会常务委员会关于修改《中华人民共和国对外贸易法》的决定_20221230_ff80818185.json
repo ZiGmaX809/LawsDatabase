@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff80818185567186018562e7b6f806a0",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国对外贸易法》的决定",
+  "gbrq": "2022-12-30",
+  "sxrq": "2022-12-30",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff80818185567186018562e7b6f806a0",
+    "ossFile": {
+      "ossWordPath": "prod/20221230/36c0046d01d34816b009e8d275fed668.docx",
+      "ossWordOfdPath": "prod/20221230/36c0046d01d34816b009e8d275fed668.ofd",
+      "ossWordOfdSize": 26233,
+      "ossPdfPath": "prod/20221230/411a396fc8374434aea551d56f32afdb.pdf",
+      "ossPdfOfdPath": "prod/20221230/411a396fc8374434aea551d56f32afdb.ofd",
+      "ossPdfOfdSize": 813938
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf82d62095b",
+        "title": "中华人民共和国对外贸易法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2022-12-30",
+    "sxrq": "2022-12-30",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国对外贸易法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:29:35"
+}

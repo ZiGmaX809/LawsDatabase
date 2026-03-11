@@ -1,0 +1,84 @@
+{
+  "bbbs": "ff8081818a22132f018a6e36bb32230e",
+  "title": "中华人民共和国国际海运条例",
+  "gbrq": "2023-07-20",
+  "sxrq": "2023-07-20",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818a22132f018a6e36bb32230e",
+    "ossFile": {
+      "ossWordPath": "prod/20230720/4110d5838ac74abcb8f2aba8bd3a7fee.docx",
+      "ossWordOfdPath": "prod/20230720/4110d5838ac74abcb8f2aba8bd3a7fee.ofd",
+      "ossWordOfdSize": 144006,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "66814b7d05d64e9f96a477722c25f633",
+        "title": "国务院关于修改《中华人民共和国国际海运条例》的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff808181999a5e270199db1c68bd6953",
+        "title": "中华人民共和国国际海运条例",
+        "gbrq": "2025-09-28",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8081818a22132f018a6e36bb32230e",
+        "title": "中华人民共和国国际海运条例",
+        "gbrq": "2023-07-20",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f41faa0db026d",
+        "title": "中华人民共和国国际海运条例",
+        "gbrq": "2019-03-02",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818a21dc13018a78a5657915ff",
+        "title": "中华人民共和国国务院令第764号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e8b2018a78a518b616da",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818a21e6c3018a78a5a67416b9",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-07-20",
+    "sxrq": "2023-07-20",
+    "title": "中华人民共和国国际海运条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:51"
+}

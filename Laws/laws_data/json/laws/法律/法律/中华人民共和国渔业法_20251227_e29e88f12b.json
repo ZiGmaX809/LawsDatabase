@@ -1,0 +1,129 @@
+{
+  "bbbs": "e29e88f12bc041d48b8b9086c4a4ece7",
+  "title": "中华人民共和国渔业法",
+  "gbrq": "2025-12-27",
+  "sxrq": "2026-05-01",
+  "sxx": 4,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "e29e88f12bc041d48b8b9086c4a4ece7",
+    "ossFile": {
+      "ossWordPath": "prod/20251227/8db6ad681d0741ed93102a23846608b4.docx",
+      "ossWordOfdPath": "prod/20251227/8db6ad681d0741ed93102a23846608b4.ofd",
+      "ossWordOfdSize": 215243,
+      "ossPdfPath": "prod/20251227/b864d077ef99486e89f30f955b27bae8.pdf",
+      "ossPdfOfdPath": "prod/20251227/b864d077ef99486e89f30f955b27bae8.ofd",
+      "ossPdfOfdSize": 1052339
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "e29e88f12bc041d48b8b9086c4a4ece7",
+        "title": "中华人民共和国渔业法",
+        "gbrq": "2025-12-27",
+        "highLight": true
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf76a110703",
+        "title": "中华人民共和国渔业法",
+        "gbrq": "2013-12-28",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "e39b5f80f2f44401a3c83bd90e9460a9",
+        "title": "中华人民共和国主席令（第六十三号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "0a7ee5d3b05e49379ccdaf959113f55a",
+        "title": "中华人民共和国主席令（第六十三号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "fb40d6050ba5442fad83e85111d6be69",
+        "title": "关于《中华人民共和国渔业法（修订草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "be1d9e0041c74b918fff4bc51210f1fe",
+        "title": "关于《中华人民共和国渔业法（修订草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "76fab5554cb442239b56e38b688b2bbd",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国渔业法（修订草案）》修改情况的汇报",
+        "titleHighLight": null,
+        "busiType": "修改情况的汇报",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "89f634c0cfd846889689d4a0857c3ee0",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国渔业法（修订草案）》修改情况的汇报",
+        "titleHighLight": null,
+        "busiType": "修改情况的汇报",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "1becc84d88044c458ab13004a852431a",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国渔业法（修订草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "c5516f058366423da60e060a80b0a26b",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国渔业法（修订草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "1ac29e1d12b94d31b15c97a7925d5cf1",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国渔业法（修订草案三次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "e3d14547b14f4fe3a6cddeaad59be091",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国渔业法（修订草案三次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2025-12-27",
+    "sxrq": "2026-05-01",
+    "title": "中华人民共和国渔业法",
+    "sxx": 4,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:25:06"
+}

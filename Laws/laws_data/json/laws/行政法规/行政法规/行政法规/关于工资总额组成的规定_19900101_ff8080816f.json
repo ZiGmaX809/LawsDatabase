@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3e9784016f4201bf5d028c",
+  "title": "关于工资总额组成的规定",
+  "gbrq": "1990-01-01",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f4201bf5d028c",
+    "ossFile": {
+      "ossWordPath": "prod/19900101/b40b8da164e147479fc71e7af3ce60d2.docx",
+      "ossWordOfdPath": "prod/19900101/b40b8da164e147479fc71e7af3ce60d2.ofd",
+      "ossWordOfdSize": 85996,
+      "ossPdfPath": "prod/19900101/9a14f9ed75ef489dbb4759c458f0e948.pdf",
+      "ossPdfOfdPath": "prod/19900101/9a14f9ed75ef489dbb4759c458f0e948.ofd",
+      "ossPdfOfdSize": 1699384
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1990-01-01",
+    "sxrq": null,
+    "title": "关于工资总额组成的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:36:01"
+}

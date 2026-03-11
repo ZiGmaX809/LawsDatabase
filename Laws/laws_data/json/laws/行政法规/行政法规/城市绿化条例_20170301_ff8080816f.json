@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40e77eaa0a39",
+  "title": "城市绿化条例",
+  "gbrq": "2017-03-01",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40e77eaa0a39",
+    "ossFile": {
+      "ossWordPath": "prod/20170301/7f8987ed8fdb4979bc47a183ca2ecd2c.docx",
+      "ossWordOfdPath": "prod/20170301/7f8987ed8fdb4979bc47a183ca2ecd2c.ofd",
+      "ossWordOfdSize": 119195,
+      "ossPdfPath": "prod/20170301/5b3d2bd6c8e8444d9ac257d447ec3337.pdf",
+      "ossPdfOfdPath": "prod/20170301/5b3d2bd6c8e8444d9ac257d447ec3337.ofd",
+      "ossPdfOfdSize": 3109848
+    },
+    "xgwj": [
+      {
+        "bbbs": "2d24100e20fa46408daa098e994e984d",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2017-03-01",
+    "sxrq": null,
+    "title": "城市绿化条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:16:12"
+}

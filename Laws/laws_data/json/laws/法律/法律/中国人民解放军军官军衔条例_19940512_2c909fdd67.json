@@ -1,0 +1,365 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5d73701a9",
+  "title": "中国人民解放军军官军衔条例",
+  "gbrq": "1994-05-12",
+  "sxrq": "1994-05-12",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5d73701a9",
+    "ossFile": {
+      "ossWordPath": "prod/19940512/dfc1df97cb9e482a975773b21ba65376.docx",
+      "ossWordOfdPath": "prod/19940512/dfc1df97cb9e482a975773b21ba65376.ofd",
+      "ossWordOfdSize": 102366,
+      "ossPdfPath": "prod/19940512/44333a42bf774652a341c781793f363b.pdf",
+      "ossPdfOfdPath": "prod/19940512/44333a42bf774652a341c781793f363b.ofd",
+      "ossPdfOfdSize": 1821668
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1994-05-12",
+    "sxrq": "1994-05-12",
+    "title": "中国人民解放军军官军衔条例",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-536e-08dd7252d38c",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中国人民解放军军官军衔条例",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-53f1-08dd7252d38c",
+          "parentId": "79890000-3e3b-0016-536e-08dd7252d38c",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-5457-08dd7252d38c",
+          "parentId": "79890000-3e3b-0016-536e-08dd7252d38c",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-6244-08dd7252d38c",
+          "parentId": "79890000-3e3b-0016-536e-08dd7252d38c",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-6fd0-08dd7252d38c",
+              "parentId": "79890000-3e3b-0016-6244-08dd7252d38c",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7cde-08dd7252d38c",
+              "parentId": "79890000-3e3b-0016-6244-08dd7252d38c",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-89ff-08dd7252d38c",
+              "parentId": "79890000-3e3b-0016-6244-08dd7252d38c",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b791-08dd7252d38c",
+              "parentId": "79890000-3e3b-0016-6244-08dd7252d38c",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c676-08dd7252d38c",
+              "parentId": "79890000-3e3b-0016-6244-08dd7252d38c",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d2a0-08dd7252d38c",
+              "parentId": "79890000-3e3b-0016-6244-08dd7252d38c",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-de87-08dd7252d38c",
+          "parentId": "79890000-3e3b-0016-536e-08dd7252d38c",
+          "title": "第二章 现役军官军衔等级的设置",
+          "index": 10,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-ea39-08dd7252d38c",
+              "parentId": "79890000-3e3b-0016-de87-08dd7252d38c",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f708-08dd7252d38c",
+              "parentId": "79890000-3e3b-0016-de87-08dd7252d38c",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-03cb-08dd7252d38d",
+          "parentId": "79890000-3e3b-0016-536e-08dd7252d38c",
+          "title": "第三章 现役军官职务等级编制军衔",
+          "index": 13,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0fcf-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-03cb-08dd7252d38d",
+              "title": "第九条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1c09-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-03cb-08dd7252d38d",
+              "title": "第十条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2946-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-03cb-08dd7252d38d",
+              "title": "第十一条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-385e-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-03cb-08dd7252d38d",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-44f1-08dd7252d38d",
+          "parentId": "79890000-3e3b-0016-536e-08dd7252d38c",
+          "title": "第四章 现役军官军衔的首次授予",
+          "index": 18,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-50f5-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-44f1-08dd7252d38d",
+              "title": "第十三条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5d96-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-44f1-08dd7252d38d",
+              "title": "第十四条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6a58-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-44f1-08dd7252d38d",
+              "title": "第十五条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7904-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-44f1-08dd7252d38d",
+              "title": "第十六条",
+              "index": 22,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-8680-08dd7252d38d",
+          "parentId": "79890000-3e3b-0016-536e-08dd7252d38c",
+          "title": "第五章 现役军官军衔的晋级",
+          "index": 23,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9318-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-8680-08dd7252d38d",
+              "title": "第十七条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a115-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-8680-08dd7252d38d",
+              "title": "第十八条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ae33-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-8680-08dd7252d38d",
+              "title": "第十九条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bb40-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-8680-08dd7252d38d",
+              "title": "第二十条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c874-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-8680-08dd7252d38d",
+              "title": "第二十一条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d58d-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-8680-08dd7252d38d",
+              "title": "第二十二条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e2be-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-8680-08dd7252d38d",
+              "title": "第二十三条",
+              "index": 30,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-f10c-08dd7252d38d",
+          "parentId": "79890000-3e3b-0016-536e-08dd7252d38c",
+          "title": "第六章 现役军官军衔的降级、取消和剥夺",
+          "index": 31,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-fe3b-08dd7252d38d",
+              "parentId": "79890000-3e3b-0016-f10c-08dd7252d38d",
+              "title": "第二十四条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0d19-08dd7252d38e",
+              "parentId": "79890000-3e3b-0016-f10c-08dd7252d38d",
+              "title": "第二十五条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1cdf-08dd7252d38e",
+              "parentId": "79890000-3e3b-0016-f10c-08dd7252d38d",
+              "title": "第二十六条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2c33-08dd7252d38e",
+              "parentId": "79890000-3e3b-0016-f10c-08dd7252d38d",
+              "title": "第二十七条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3c0a-08dd7252d38e",
+              "parentId": "79890000-3e3b-0016-f10c-08dd7252d38d",
+              "title": "第二十八条",
+              "index": 36,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-4bb4-08dd7252d38e",
+          "parentId": "79890000-3e3b-0016-536e-08dd7252d38c",
+          "title": "第七章 现役军官军衔的标志和佩带",
+          "index": 37,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5e92-08dd7252d38e",
+              "parentId": "79890000-3e3b-0016-4bb4-08dd7252d38e",
+              "title": "第二十九条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-75da-08dd7252d38e",
+              "parentId": "79890000-3e3b-0016-4bb4-08dd7252d38e",
+              "title": "第三十条",
+              "index": 39,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-8aab-08dd7252d38e",
+          "parentId": "79890000-3e3b-0016-536e-08dd7252d38c",
+          "title": "第八章 附则",
+          "index": 40,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9e06-08dd7252d38e",
+              "parentId": "79890000-3e3b-0016-8aab-08dd7252d38e",
+              "title": "第三十一条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b042-08dd7252d38e",
+              "parentId": "79890000-3e3b-0016-8aab-08dd7252d38e",
+              "title": "第三十二条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c0eb-08dd7252d38e",
+              "parentId": "79890000-3e3b-0016-8aab-08dd7252d38e",
+              "title": "第三十三条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d1a1-08dd7252d38e",
+              "parentId": "79890000-3e3b-0016-8aab-08dd7252d38e",
+              "title": "第三十四条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e1e1-08dd7252d38e",
+              "parentId": "79890000-3e3b-0016-8aab-08dd7252d38e",
+              "title": "第三十五条",
+              "index": 45,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:50:09"
+}

@@ -1,0 +1,57 @@
+{
+  "bbbs": "256820a0ca114014b5a067d7baaea90a",
+  "title": "国务院关于修改《国家科学技术奖励条例》的决定",
+  "gbrq": "2024-05-26",
+  "sxrq": "2024-05-26",
+  "sxx": null,
+  "zdjgName": "国务院",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 215,
+  "detail": {
+    "bbbs": "256820a0ca114014b5a067d7baaea90a",
+    "ossFile": {
+      "ossWordPath": "prod/20240526/b5e2f2678f864d9986ee4251768efaf4.docx",
+      "ossWordOfdPath": "prod/20240526/b5e2f2678f864d9986ee4251768efaf4.ofd",
+      "ossWordOfdSize": 45589,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818f197cf0019010dd7990729d",
+        "title": "中华人民共和国国务院令第782号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b019010ddb3e669eb",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "ff80808176d5cbce0176d72c87f503bc",
+        "title": "国家科学技术奖励条例"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "国务院",
+    "gbrq": "2024-05-26",
+    "sxrq": "2024-05-26",
+    "title": "国务院关于修改《国家科学技术奖励条例》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:04:58"
+}

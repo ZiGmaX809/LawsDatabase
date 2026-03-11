@@ -1,0 +1,59 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40e4a36509a1",
+  "title": "婚姻登记条例",
+  "gbrq": "2003-08-08",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40e4a36509a1",
+    "ossFile": {
+      "ossWordPath": "prod/20030808/3278fa07ca7b4d808b7583ad1f8fb62e.docx",
+      "ossWordOfdPath": "prod/20030808/3278fa07ca7b4d808b7583ad1f8fb62e.ofd",
+      "ossWordOfdSize": 96225,
+      "ossPdfPath": "prod/20030808/b8b98ca3de464a51b5b3a7135102cdfb.pdf",
+      "ossPdfOfdPath": "prod/20030808/b8b98ca3de464a51b5b3a7135102cdfb.ofd",
+      "ossPdfOfdSize": 2664483
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff808181927f12760196429801fb66cf",
+        "title": "婚姻登记条例",
+        "gbrq": "2025-04-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8081819667441b0196a99b6ca13483",
+        "title": "婚姻登记条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40e4a36509a1",
+        "title": "婚姻登记条例",
+        "gbrq": "2003-08-08",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2003-08-08",
+    "sxrq": null,
+    "title": "婚姻登记条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:29:48"
+}

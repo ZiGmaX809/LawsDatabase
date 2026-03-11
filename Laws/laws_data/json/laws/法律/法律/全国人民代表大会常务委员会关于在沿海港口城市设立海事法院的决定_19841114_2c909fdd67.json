@@ -1,0 +1,77 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5af4e00af",
+  "title": "全国人民代表大会常务委员会关于在沿海港口城市设立海事法院的决定",
+  "gbrq": "1984-11-14",
+  "sxrq": "1984-11-14",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5af4e00af",
+    "ossFile": {
+      "ossWordPath": "prod/19841114/b004e83c017a4cc6b597eaabf32ffd32.docx",
+      "ossWordOfdPath": "prod/19841114/b004e83c017a4cc6b597eaabf32ffd32.ofd",
+      "ossWordOfdSize": 43685,
+      "ossPdfPath": "prod/19841114/6cc476c9949d45779cc5e355e9f1cf6d.pdf",
+      "ossPdfOfdPath": "prod/19841114/6cc476c9949d45779cc5e355e9f1cf6d.ofd",
+      "ossPdfOfdSize": 554302
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1984-11-14",
+    "sxrq": "1984-11-14",
+    "title": "全国人民代表大会常务委员会关于在沿海港口城市设立海事法院的决定",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-fb24-08dde37b23a9",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "全国人民代表大会常务委员会关于在沿海港口城市设立海事法院的决定",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-fbf4-08dde37b23a9",
+          "parentId": "79890000-3e3b-0016-fb24-08dde37b23a9",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-08f9-08dde37b23aa",
+          "parentId": "79890000-3e3b-0016-fb24-08dde37b23a9",
+          "title": "一、",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-15e0-08dde37b23aa",
+          "parentId": "79890000-3e3b-0016-fb24-08dde37b23a9",
+          "title": "二、",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-2415-08dde37b23aa",
+          "parentId": "79890000-3e3b-0016-fb24-08dde37b23a9",
+          "title": "三、",
+          "index": 4,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-31ce-08dde37b23aa",
+          "parentId": "79890000-3e3b-0016-fb24-08dde37b23a9",
+          "title": "四、",
+          "index": 5,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:50:47"
+}

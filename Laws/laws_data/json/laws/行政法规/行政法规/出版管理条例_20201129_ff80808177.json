@@ -1,0 +1,59 @@
+{
+  "bbbs": "ff808081777d07c50177b8ce2ae0387f",
+  "title": "出版管理条例",
+  "gbrq": "2020-11-29",
+  "sxrq": "2020-11-29",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808081777d07c50177b8ce2ae0387f",
+    "ossFile": {
+      "ossWordPath": "prod/20201129/dc2438f97aa14c12afd2ae894a5602bf.docx",
+      "ossWordOfdPath": "prod/20201129/dc2438f97aa14c12afd2ae894a5602bf.ofd",
+      "ossWordOfdSize": 199495,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff808181966737700196a8c35f863256",
+        "title": "出版管理条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff808081777d07c50177b8ce2ae0387f",
+        "title": "出版管理条例",
+        "gbrq": "2020-11-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f423bf5500375",
+        "title": "出版管理条例",
+        "gbrq": "2016-02-06",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2020-11-29",
+    "sxrq": "2020-11-29",
+    "title": "出版管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:09:26"
+}

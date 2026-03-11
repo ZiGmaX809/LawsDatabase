@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3e9784016f42453ffa043a",
+  "title": "使用有毒物品作业场所劳动保护条例",
+  "gbrq": "2002-05-12",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f42453ffa043a",
+    "ossFile": {
+      "ossWordPath": "prod/20020512/2f45743463bf4245b76a380e6d107c5c.docx",
+      "ossWordOfdPath": "prod/20020512/2f45743463bf4245b76a380e6d107c5c.ofd",
+      "ossWordOfdSize": 198113,
+      "ossPdfPath": "prod/20020512/473011fd40f148c4972cc5954fea8806.pdf",
+      "ossPdfOfdPath": "prod/20020512/473011fd40f148c4972cc5954fea8806.ofd",
+      "ossPdfOfdSize": 9997087
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a948764f3356",
+        "title": "使用有毒物品作业场所劳动保护条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f42453ffa043a",
+        "title": "使用有毒物品作业场所劳动保护条例",
+        "gbrq": "2002-05-12",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2002-05-12",
+    "sxrq": null,
+    "title": "使用有毒物品作业场所劳动保护条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:30:25"
+}

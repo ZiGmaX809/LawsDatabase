@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181971b86bf0197ca572e8d3696",
+  "title": "蓄滞洪区运用补偿办法",
+  "gbrq": "2025-06-23",
+  "sxrq": "2025-06-23",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181971b86bf0197ca572e8d3696",
+    "ossFile": {
+      "ossWordPath": "prod/20250623/53c8d88b218747e0a01f8ebb4c95d2e2.docx",
+      "ossWordOfdPath": "prod/20250623/53c8d88b218747e0a01f8ebb4c95d2e2.ofd",
+      "ossWordOfdSize": 104241,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818197af9ccc0197ce22c2ef119b",
+        "title": "中华人民共和国国务院令第811号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181966737700197ce22d8f568fd",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-06-23",
+    "sxrq": "2025-06-23",
+    "title": "蓄滞洪区运用补偿办法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:54"
+}

@@ -1,0 +1,52 @@
+{
+  "bbbs": "48bf9ee75654439ba9325233ea8ce7c0",
+  "title": "全国人民代表大会常务委员会关于批准《全国人民代表大会常务委员会法制工作委员会关于法律清理工作情况和处理意见的报告》的决定",
+  "gbrq": "2025-12-27",
+  "sxrq": "2025-12-27",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "48bf9ee75654439ba9325233ea8ce7c0",
+    "ossFile": {
+      "ossWordPath": "prod/20251227/1120e6d18a56436c8d39d9db23ca0cab.docx",
+      "ossWordOfdPath": "prod/20251227/1120e6d18a56436c8d39d9db23ca0cab.ofd",
+      "ossWordOfdSize": 151314,
+      "ossPdfPath": "prod/20251227/fc6355e1bf614fa39b91f2fb87095179.pdf",
+      "ossPdfOfdPath": "prod/20251227/fc6355e1bf614fa39b91f2fb87095179.ofd",
+      "ossPdfOfdSize": 992778
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "37b19089214345778a801e0be40f14d0",
+        "title": "中华人民共和国主席令（第六十八号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "aae9c355d9414d2abaaa4fa909b3229b",
+        "title": "中华人民共和国主席令（第六十八号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2025-12-27",
+    "sxrq": "2025-12-27",
+    "title": "全国人民代表大会常务委员会关于批准《全国人民代表大会常务委员会法制工作委员会关于法律清理工作情况和处理意见的报告》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:25:15"
+}

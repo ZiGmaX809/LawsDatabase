@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4106230911dd",
+  "title": "中华人民共和国国家金库条例",
+  "gbrq": "1985-07-27",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4106230911dd",
+    "ossFile": {
+      "ossWordPath": "prod/19850727/6dfa71fcb08040dc9cb6be9a3de8878f.docx",
+      "ossWordOfdPath": "prod/19850727/6dfa71fcb08040dc9cb6be9a3de8878f.ofd",
+      "ossWordOfdSize": 84356,
+      "ossPdfPath": "prod/19850727/5f4a844c160240698d7fee47b06626c9.pdf",
+      "ossPdfOfdPath": "prod/19850727/5f4a844c160240698d7fee47b06626c9.ofd",
+      "ossPdfOfdSize": 3914037
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d07c50177b8c64d7d3822",
+        "title": "中华人民共和国国家金库条例",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4106230911dd",
+        "title": "中华人民共和国国家金库条例",
+        "gbrq": "1985-07-27",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1985-07-27",
+    "sxrq": null,
+    "title": "中华人民共和国国家金库条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:36:11"
+}

@@ -1,0 +1,79 @@
+{
+  "bbbs": "ff8081819c230ff2019c2d0fcea9644a",
+  "title": "中华人民共和国药品管理法实施条例",
+  "gbrq": "2024-12-06",
+  "sxrq": "2025-01-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819c230ff2019c2d0fcea9644a",
+    "ossFile": {
+      "ossWordPath": "prod/20241206/1f144c76b4b042fcb998b2f646cc242a.docx",
+      "ossWordOfdPath": "prod/20241206/1f144c76b4b042fcb998b2f646cc242a.ofd",
+      "ossWordOfdSize": 172709,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819c230ff2019c2b63faec40bf",
+        "title": "中华人民共和国药品管理法实施条例",
+        "gbrq": "2026-01-16",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8081819c230ff2019c2d0fcea9644a",
+        "title": "中华人民共和国药品管理法实施条例",
+        "gbrq": "2024-12-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f4251cd4f04f5",
+        "title": "中华人民共和国药品管理法实施条例",
+        "gbrq": "2019-03-02",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "b4ef0ac1f76845ef9103c7c7dbb4f543",
+        "title": "中华人民共和国国务院令第797号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "85c605e37b9044c6a693258dd77bb855",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "25500acaae614670a22d8267172d1057",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-12-06",
+    "sxrq": "2025-01-20",
+    "title": "中华人民共和国药品管理法实施条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:04:14"
+}

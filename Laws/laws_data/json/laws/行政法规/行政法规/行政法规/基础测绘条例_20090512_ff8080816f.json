@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40d9238f070c",
+  "title": "基础测绘条例",
+  "gbrq": "2009-05-12",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40d9238f070c",
+    "ossFile": {
+      "ossWordPath": "prod/20090512/f6a8d86c26e74e6c80f90c1754b2ff64.docx",
+      "ossWordOfdPath": "prod/20090512/f6a8d86c26e74e6c80f90c1754b2ff64.ofd",
+      "ossWordOfdSize": 126735,
+      "ossPdfPath": "prod/20090512/27cd2f7c31e14b0d88b95d46b4ebe2ac.pdf",
+      "ossPdfOfdPath": "prod/20090512/27cd2f7c31e14b0d88b95d46b4ebe2ac.ofd",
+      "ossPdfOfdSize": 3145040
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2009-05-12",
+    "sxrq": null,
+    "title": "基础测绘条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:27:12"
+}

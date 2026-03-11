@@ -1,0 +1,105 @@
+{
+  "bbbs": "ff808181927b2d1a01930c6d56e96d37",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国各级人民代表大会常务委员会监督法》的决定",
+  "gbrq": "2024-11-08",
+  "sxrq": "2024-11-08",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff808181927b2d1a01930c6d56e96d37",
+    "ossFile": {
+      "ossWordPath": "prod/20241108/649797fd991e45578ea666a49045b12e.docx",
+      "ossWordOfdPath": "prod/20241108/649797fd991e45578ea666a49045b12e.ofd",
+      "ossWordOfdSize": 113267,
+      "ossPdfPath": "prod/20241108/25a87e4ed2304c2ba70620faa70b9803.pdf",
+      "ossPdfOfdPath": "prod/20241108/25a87e4ed2304c2ba70620faa70b9803.ofd",
+      "ossPdfOfdSize": 934541
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181927b083b01930c802e9e6c11",
+        "title": "中华人民共和国主席令（第三十九号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b0193955e0e9b4953",
+        "title": "中华人民共和国主席令（第三十九号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a0193955f5b7249f0",
+        "title": "关于《中华人民共和国各级人民代表大会常务委员会监督法（修正草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a0193955edf5649e5",
+        "title": "关于《中华人民共和国各级人民代表大会常务委员会监督法（修正草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a0193b9cd1c315954",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国各级人民代表大会常务委员会监督法（修正草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b083b0193955ea4584958",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国各级人民代表大会常务委员会监督法（修正草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a0193b9cd70f05959",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于修改〈中华人民共和国各级人民代表大会常务委员会监督法〉的决定（草案）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a0193955f1b7b49ea",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于修改〈中华人民共和国各级人民代表大会常务委员会监督法〉的决定（草案）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf63b9e0339",
+        "title": "中华人民共和国各级人民代表大会常务委员会监督法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2024-11-08",
+    "sxrq": "2024-11-08",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国各级人民代表大会常务委员会监督法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:27:27"
+}

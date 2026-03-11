@@ -1,0 +1,54 @@
+{
+  "bbbs": "ff8080816f3e9784016f425cf64f053c",
+  "title": "广播电视管理条例",
+  "gbrq": "2017-03-01",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f425cf64f053c",
+    "ossFile": {
+      "ossWordPath": "prod/20170301/6a8f24e89a8a40f9bd0644d9cb70c34a.docx",
+      "ossWordOfdPath": "prod/20170301/6a8f24e89a8a40f9bd0644d9cb70c34a.ofd",
+      "ossWordOfdSize": 142182,
+      "ossPdfPath": "prod/20170301/3497e115a9814694af13ee1d6d726c20.pdf",
+      "ossPdfOfdPath": "prod/20170301/3497e115a9814694af13ee1d6d726c20.ofd",
+      "ossPdfOfdSize": 4977334
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a95705aa338f",
+        "title": "广播电视管理条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff808081777d07c50177b8e2bc3f391b",
+        "title": "广播电视管理条例",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f425cf64f053c",
+        "title": "广播电视管理条例",
+        "gbrq": "2017-03-01",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2017-03-01",
+    "sxrq": null,
+    "title": "广播电视管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:16:21"
+}

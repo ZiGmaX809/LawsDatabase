@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181900f8e94019010bc03260890",
+  "title": "国际邮轮在中华人民共和国港口靠港补给的规定",
+  "gbrq": "2024-04-22",
+  "sxrq": "2024-06-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181900f8e94019010bc03260890",
+    "ossFile": {
+      "ossWordPath": "prod/20240422/4aec1ea316b14e59b63af4983fdf88ff.docx",
+      "ossWordOfdPath": "prod/20240422/4aec1ea316b14e59b63af4983fdf88ff.ofd",
+      "ossWordOfdSize": 86157,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a4639019010d9296669b6",
+        "title": "中华人民共和国国务院令第780号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4639019010d9659569b7",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-04-22",
+    "sxrq": "2024-06-01",
+    "title": "国际邮轮在中华人民共和国港口靠港补给的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:05:04"
+}

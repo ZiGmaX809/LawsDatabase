@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff808181966737700196a9f2440b35f3",
+  "title": "不动产登记暂行条例",
+  "gbrq": "2024-03-10",
+  "sxrq": "2024-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181966737700196a9f2440b35f3",
+    "ossFile": {
+      "ossWordPath": "prod/20240310/f12f5494dd7e4eb69252bbe00a497628.docx",
+      "ossWordOfdPath": "prod/20240310/f12f5494dd7e4eb69252bbe00a497628.ofd",
+      "ossWordOfdSize": 118787,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181966737700196a9f2440b35f3",
+        "title": "不动产登记暂行条例",
+        "gbrq": "2024-03-10",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4127f0361a2d",
+        "title": "不动产登记暂行条例",
+        "gbrq": "2019-03-24",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff808181966737700196a9f2cbf435fd",
+        "title": "中华人民共和国国务院令第777号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181966737700196a9f2e48f3601",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667441b0196a9f30773369a",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-03-10",
+    "sxrq": "2024-05-01",
+    "title": "不动产登记暂行条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:05:24"
+}

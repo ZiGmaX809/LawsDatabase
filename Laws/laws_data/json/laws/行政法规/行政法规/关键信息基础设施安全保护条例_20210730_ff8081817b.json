@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081817b63b935017b7bcc49877e0b",
+  "title": "关键信息基础设施安全保护条例",
+  "gbrq": "2021-07-30",
+  "sxrq": "2021-09-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081817b63b935017b7bcc49877e0b",
+    "ossFile": {
+      "ossWordPath": "prod/20210730/f0060ccf8e7546909af167bf8f2d9a66.docx",
+      "ossWordOfdPath": "prod/20210730/f0060ccf8e7546909af167bf8f2d9a66.ofd",
+      "ossWordOfdSize": 121011,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081817b6471a2017b7be122a407a2",
+        "title": "国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817b6471a2017b7be123cf07a5",
+        "title": "其它",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2021-07-30",
+    "sxrq": "2021-09-01",
+    "title": "关键信息基础设施安全保护条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:08:05"
+}

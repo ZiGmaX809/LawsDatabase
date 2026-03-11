@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff8081819b697220019bc0af1cff6c9c",
+  "title": "殡葬管理条例",
+  "gbrq": "2025-12-12",
+  "sxrq": "2026-03-30",
+  "sxx": 4,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819b697220019bc0af1cff6c9c",
+    "ossFile": {
+      "ossWordPath": "prod/20251212/8312286dd5e24295a2e133f0c4824650.docx",
+      "ossWordOfdPath": "prod/20251212/8312286dd5e24295a2e133f0c4824650.ofd",
+      "ossWordOfdSize": 174380,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819b697220019bc0af1cff6c9c",
+        "title": "殡葬管理条例",
+        "gbrq": "2025-12-12",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f409ba1840550",
+        "title": "殡葬管理条例",
+        "gbrq": "2012-11-09",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "f9b3271bc8914a8da8283b0325ca4892",
+        "title": "中华人民共和国国务院令第824号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ea22efc747754919bc33a6c62f3c4a2f",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-12-12",
+    "sxrq": "2026-03-30",
+    "title": "殡葬管理条例",
+    "sxx": 4,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:17"
+}

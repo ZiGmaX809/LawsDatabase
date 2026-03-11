@@ -1,0 +1,160 @@
+{
+  "bbbs": "ff80808171e9e18101727e5c40d37fc5",
+  "title": "中华人民共和国台湾同胞投资保护法",
+  "gbrq": "2019-12-28",
+  "sxrq": "2019-12-28",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "ff80808171e9e18101727e5c40d37fc5",
+    "ossFile": {
+      "ossWordPath": "prod/20191228/dc63af29ef4a47cfafcaa4e5be0f450e.docx",
+      "ossWordOfdPath": "prod/20191228/dc63af29ef4a47cfafcaa4e5be0f450e.ofd",
+      "ossWordOfdSize": 67443,
+      "ossPdfPath": "prod/20191228/46b891b915b6466697216c7b8d06682b.pdf",
+      "ossPdfOfdPath": "prod/20191228/46b891b915b6466697216c7b8d06682b.ofd",
+      "ossPdfOfdSize": 759789
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80808171e9e18101727e5c40d37fc5",
+        "title": "中华人民共和国台湾同胞投资保护法",
+        "gbrq": "2019-12-28",
+        "highLight": true
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf826940933",
+        "title": "中华人民共和国台湾同胞投资保护法",
+        "gbrq": "2016-09-03",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2019-12-28",
+    "sxrq": "2019-12-28",
+    "title": "中华人民共和国台湾同胞投资保护法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-939b-08dd59f55610",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国台湾同胞投资保护法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-9425-08dd59f55610",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-9fed-08dd59f55610",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第一条",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-ab6b-08dd59f55610",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第二条",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b513-08dd59f55610",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第三条",
+          "index": 4,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-be95-08dd59f55610",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第四条",
+          "index": 5,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c7b9-08dd59f55610",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第五条",
+          "index": 6,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-d0e9-08dd59f55610",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第六条",
+          "index": 7,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-daa4-08dd59f55610",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第七条",
+          "index": 8,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-e474-08dd59f55610",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第八条",
+          "index": 9,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-edf0-08dd59f55610",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第九条",
+          "index": 10,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-f773-08dd59f55610",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第十条",
+          "index": 11,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-019f-08dd59f55611",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第十一条",
+          "index": 12,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-0b56-08dd59f55611",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第十二条",
+          "index": 13,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1528-08dd59f55611",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第十三条",
+          "index": 14,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-1f41-08dd59f55611",
+          "parentId": "79890000-3e3b-0016-939b-08dd59f55610",
+          "title": "第十四条",
+          "index": 15,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:34:20"
+}

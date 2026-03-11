@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181927f1276019610edc3930a02",
+  "title": "国务院关于涉外知识产权纠纷处理的规定",
+  "gbrq": "2025-03-13",
+  "sxrq": "2025-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181927f1276019610edc3930a02",
+    "ossFile": {
+      "ossWordPath": "prod/20250313/0c09ef15b46744b49537649aa3ca65a3.docx",
+      "ossWordOfdPath": "prod/20250313/0c09ef15b46744b49537649aa3ca65a3.ofd",
+      "ossWordOfdSize": 85914,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818195b11013019611176a6e1428",
+        "title": "中华人民共和国国务院令第801号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818195b1209d01961117a1fa152c",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-03-13",
+    "sxrq": "2025-05-01",
+    "title": "国务院关于涉外知识产权纠纷处理的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:17"
+}

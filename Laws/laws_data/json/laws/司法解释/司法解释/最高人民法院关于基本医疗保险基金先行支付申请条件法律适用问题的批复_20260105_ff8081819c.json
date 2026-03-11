@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff8081819c0d2f98019c227f9ccc76ae",
+  "title": "最高人民法院关于基本医疗保险基金先行支付申请条件法律适用问题的批复",
+  "gbrq": "2026-01-05",
+  "sxrq": "2026-02-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081819c0d2f98019c227f9ccc76ae",
+    "ossFile": {
+      "ossWordPath": "prod/20260105/1f139d64289e4704a2746666e390d29a.docx",
+      "ossWordOfdPath": "prod/20260105/1f139d64289e4704a2746666e390d29a.ofd",
+      "ossWordOfdSize": 49343,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ac41f69d811d4fce98b1e4ba257a2e84",
+        "title": "法释2026-1公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2026-01-05",
+    "sxrq": "2026-02-01",
+    "title": "最高人民法院关于基本医疗保险基金先行支付申请条件法律适用问题的批复",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:24"
+}

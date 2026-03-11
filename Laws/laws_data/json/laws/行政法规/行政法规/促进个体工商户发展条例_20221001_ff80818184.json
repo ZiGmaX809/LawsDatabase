@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181844232f7018576dc2a6c609c",
+  "title": "促进个体工商户发展条例",
+  "gbrq": "2022-10-01",
+  "sxrq": "2022-11-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181844232f7018576dc2a6c609c",
+    "ossFile": {
+      "ossWordPath": "prod/20221001/12b7a6916f93497ea0ffa15c593f4015.docx",
+      "ossWordOfdPath": "prod/20221001/12b7a6916f93497ea0ffa15c593f4015.ofd",
+      "ossWordOfdSize": 103376,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818185764705018576e722cb011d",
+        "title": "中华人民共和国国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818185764778018576e7734d0103",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2022-10-01",
+    "sxrq": "2022-11-01",
+    "title": "促进个体工商户发展条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:07:11"
+}

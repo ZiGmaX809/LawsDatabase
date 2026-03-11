@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181900f8e9401900f9ca062007f",
+  "title": "最高人民法院关于办理减刑、假释案件审查财产性判项执行问题的规定",
+  "gbrq": "2024-04-29",
+  "sxrq": "2024-05-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181900f8e9401900f9ca062007f",
+    "ossFile": {
+      "ossWordPath": "prod/20240429/dba8d45500d74785afce5d8d88414c86.docx",
+      "ossWordOfdPath": "prod/20240429/dba8d45500d74785afce5d8d88414c86.ofd",
+      "ossWordOfdSize": 92438,
+      "ossPdfPath": "prod/20240429/0b5025e532ac4fcf895f4f321a202d9e.pdf",
+      "ossPdfOfdPath": "prod/20240429/0b5025e532ac4fcf895f4f321a202d9e.ofd",
+      "ossPdfOfdSize": 328954
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818f197cf001901485eb59744c",
+        "title": "法释2024-5公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181927b2d1a01927e6d83830043",
+        "title": "法释2024-5公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2024-04-29",
+    "sxrq": "2024-05-01",
+    "title": "最高人民法院关于办理减刑、假释案件审查财产性判项执行问题的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:32"
+}

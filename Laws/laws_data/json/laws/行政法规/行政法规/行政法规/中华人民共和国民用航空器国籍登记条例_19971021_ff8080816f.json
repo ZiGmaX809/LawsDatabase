@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40d7809206c4",
+  "title": "中华人民共和国民用航空器国籍登记条例",
+  "gbrq": "1997-10-21",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40d7809206c4",
+    "ossFile": {
+      "ossWordPath": "prod/19971021/80fe9c1ff8ea4519a646fbe03eae1fe6.docx",
+      "ossWordOfdPath": "prod/19971021/80fe9c1ff8ea4519a646fbe03eae1fe6.ofd",
+      "ossWordOfdSize": 86388,
+      "ossPdfPath": "prod/19971021/b5cc6bcf0a9f490a9cfc249e2bfbd270.pdf",
+      "ossPdfOfdPath": "prod/19971021/b5cc6bcf0a9f490a9cfc249e2bfbd270.ofd",
+      "ossPdfOfdSize": 3962897
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d0c940177b8cec2df369c",
+        "title": "中华人民共和国民用航空器国籍登记条例",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40d7809206c4",
+        "title": "中华人民共和国民用航空器国籍登记条例",
+        "gbrq": "1997-10-21",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1997-10-21",
+    "sxrq": null,
+    "title": "中华人民共和国民用航空器国籍登记条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:32:05"
+}

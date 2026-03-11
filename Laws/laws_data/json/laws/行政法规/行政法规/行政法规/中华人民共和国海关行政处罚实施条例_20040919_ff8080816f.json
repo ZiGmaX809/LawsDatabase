@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f410e87ec142b",
+  "title": "中华人民共和国海关行政处罚实施条例",
+  "gbrq": "2004-09-19",
+  "sxrq": "2004-11-01",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f410e87ec142b",
+    "ossFile": {
+      "ossWordPath": "prod/20040919/04fdc6ea55d54d1a94603cad6b8fd835.docx",
+      "ossWordOfdPath": "prod/20040919/04fdc6ea55d54d1a94603cad6b8fd835.ofd",
+      "ossWordOfdSize": 198954,
+      "ossPdfPath": "prod/20040919/5f8b56f480a24eac960bf01249978ca7.pdf",
+      "ossPdfOfdPath": "prod/20040919/5f8b56f480a24eac960bf01249978ca7.ofd",
+      "ossPdfOfdSize": 8554947
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818180e0a61301811e43f41f1fa2",
+        "title": "中华人民共和国海关行政处罚实施条例",
+        "gbrq": "2022-03-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f410e87ec142b",
+        "title": "中华人民共和国海关行政处罚实施条例",
+        "gbrq": "2004-09-19",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2004-09-19",
+    "sxrq": "2004-11-01",
+    "title": "中华人民共和国海关行政处罚实施条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:29:17"
+}

@@ -1,0 +1,355 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf6149102a3",
+  "title": "中华人民共和国科学技术普及法",
+  "gbrq": "2002-06-29",
+  "sxrq": "2002-06-29",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 150,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf6149102a3",
+    "ossFile": {
+      "ossWordPath": "prod/20020629/dbcfb59949564e40986df3f167811eaf.docx",
+      "ossWordOfdPath": "prod/20020629/dbcfb59949564e40986df3f167811eaf.ofd",
+      "ossWordOfdSize": 113402,
+      "ossPdfPath": "prod/20020629/4e232fee375746f0962db2d8c060bf22.pdf",
+      "ossPdfOfdPath": "prod/20020629/4e232fee375746f0962db2d8c060bf22.ofd",
+      "ossPdfOfdSize": 1644386
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181927b083b0193fda4bead02ee",
+        "title": "中华人民共和国科学技术普及法",
+        "gbrq": "2024-12-25",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf6149102a3",
+        "title": "中华人民共和国科学技术普及法",
+        "gbrq": "2002-06-29",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2002-06-29",
+    "sxrq": "2002-06-29",
+    "title": "中华人民共和国科学技术普及法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-7325-08dd684cdb5b",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国科学技术普及法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-7446-08dd684cdb5b",
+          "parentId": "79890000-3e3b-0016-7325-08dd684cdb5b",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-74ba-08dd684cdb5b",
+          "parentId": "79890000-3e3b-0016-7325-08dd684cdb5b",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-85d6-08dd684cdb5b",
+          "parentId": "79890000-3e3b-0016-7325-08dd684cdb5b",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9730-08dd684cdb5b",
+              "parentId": "79890000-3e3b-0016-85d6-08dd684cdb5b",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a9f6-08dd684cdb5b",
+              "parentId": "79890000-3e3b-0016-85d6-08dd684cdb5b",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bd43-08dd684cdb5b",
+              "parentId": "79890000-3e3b-0016-85d6-08dd684cdb5b",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d060-08dd684cdb5b",
+              "parentId": "79890000-3e3b-0016-85d6-08dd684cdb5b",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e3d7-08dd684cdb5b",
+              "parentId": "79890000-3e3b-0016-85d6-08dd684cdb5b",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f6a3-08dd684cdb5b",
+              "parentId": "79890000-3e3b-0016-85d6-08dd684cdb5b",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0b18-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-85d6-08dd684cdb5b",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1b87-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-85d6-08dd684cdb5b",
+              "title": "第八条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-28d3-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-85d6-08dd684cdb5b",
+              "title": "第九条",
+              "index": 12,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-34fc-08dd684cdb5c",
+          "parentId": "79890000-3e3b-0016-7325-08dd684cdb5b",
+          "title": "第二章 组织管理",
+          "index": 13,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-3f93-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-34fc-08dd684cdb5c",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4b1d-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-34fc-08dd684cdb5c",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-56cc-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-34fc-08dd684cdb5c",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-626e-08dd684cdb5c",
+          "parentId": "79890000-3e3b-0016-7325-08dd684cdb5b",
+          "title": "第三章 社会责任",
+          "index": 17,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-6d88-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-626e-08dd684cdb5c",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-78c7-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-626e-08dd684cdb5c",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8568-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-626e-08dd684cdb5c",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-911e-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-626e-08dd684cdb5c",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9d59-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-626e-08dd684cdb5c",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a9de-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-626e-08dd684cdb5c",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b588-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-626e-08dd684cdb5c",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c198-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-626e-08dd684cdb5c",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ce6e-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-626e-08dd684cdb5c",
+              "title": "第二十一条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-da98-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-626e-08dd684cdb5c",
+              "title": "第二十二条",
+              "index": 27,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-e6bd-08dd684cdb5c",
+          "parentId": "79890000-3e3b-0016-7325-08dd684cdb5b",
+          "title": "第四章 保障措施",
+          "index": 28,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-f319-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-e6bd-08dd684cdb5c",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ffd6-08dd684cdb5c",
+              "parentId": "79890000-3e3b-0016-e6bd-08dd684cdb5c",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0cd0-08dd684cdb5d",
+              "parentId": "79890000-3e3b-0016-e6bd-08dd684cdb5c",
+              "title": "第二十五条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-19cd-08dd684cdb5d",
+              "parentId": "79890000-3e3b-0016-e6bd-08dd684cdb5c",
+              "title": "第二十六条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-26c1-08dd684cdb5d",
+              "parentId": "79890000-3e3b-0016-e6bd-08dd684cdb5c",
+              "title": "第二十七条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-33b3-08dd684cdb5d",
+              "parentId": "79890000-3e3b-0016-e6bd-08dd684cdb5c",
+              "title": "第二十八条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4105-08dd684cdb5d",
+              "parentId": "79890000-3e3b-0016-e6bd-08dd684cdb5c",
+              "title": "第二十九条",
+              "index": 35,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-4dd1-08dd684cdb5d",
+          "parentId": "79890000-3e3b-0016-7325-08dd684cdb5b",
+          "title": "第五章 法律责任",
+          "index": 36,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5a61-08dd684cdb5d",
+              "parentId": "79890000-3e3b-0016-4dd1-08dd684cdb5d",
+              "title": "第三十条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6797-08dd684cdb5d",
+              "parentId": "79890000-3e3b-0016-4dd1-08dd684cdb5d",
+              "title": "第三十一条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-74e2-08dd684cdb5d",
+              "parentId": "79890000-3e3b-0016-4dd1-08dd684cdb5d",
+              "title": "第三十二条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8242-08dd684cdb5d",
+              "parentId": "79890000-3e3b-0016-4dd1-08dd684cdb5d",
+              "title": "第三十三条",
+              "index": 40,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-95f2-08dd684cdb5d",
+          "parentId": "79890000-3e3b-0016-7325-08dd684cdb5b",
+          "title": "第六章 附则",
+          "index": 41,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a641-08dd684cdb5d",
+              "parentId": "79890000-3e3b-0016-95f2-08dd684cdb5d",
+              "title": "第三十四条",
+              "index": 42,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:48:34"
+}

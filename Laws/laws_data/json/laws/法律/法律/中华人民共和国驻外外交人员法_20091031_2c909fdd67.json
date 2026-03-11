@@ -1,0 +1,472 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf701330555",
+  "title": "中华人民共和国驻外外交人员法",
+  "gbrq": "2009-10-31",
+  "sxrq": "2010-01-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf701330555",
+    "ossFile": {
+      "ossWordPath": "prod/20091031/11fe06b808774ffeaba1d65295aff2f5.docx",
+      "ossWordOfdPath": "prod/20091031/11fe06b808774ffeaba1d65295aff2f5.ofd",
+      "ossWordOfdSize": 132748,
+      "ossPdfPath": "prod/20091031/b4fc84f751e04a878bf9aa1ac91ce0d3.pdf",
+      "ossPdfOfdPath": "prod/20091031/b4fc84f751e04a878bf9aa1ac91ce0d3.ofd",
+      "ossPdfOfdSize": 2893907
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2009-10-31",
+    "sxrq": "2010-01-01",
+    "title": "中华人民共和国驻外外交人员法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国驻外外交人员法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-6dce-08dd6fef7ece",
+          "parentId": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-6e40-08dd6fef7ece",
+          "parentId": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-875b-08dd6fef7ece",
+          "parentId": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a36f-08dd6fef7ece",
+              "parentId": "79890000-3e3b-0016-875b-08dd6fef7ece",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bbac-08dd6fef7ece",
+              "parentId": "79890000-3e3b-0016-875b-08dd6fef7ece",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d3c0-08dd6fef7ece",
+              "parentId": "79890000-3e3b-0016-875b-08dd6fef7ece",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e94e-08dd6fef7ece",
+              "parentId": "79890000-3e3b-0016-875b-08dd6fef7ece",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-febc-08dd6fef7ece",
+          "parentId": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+          "title": "第二章 职责、条件、义务和权利",
+          "index": 8,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-16b0-08dd6fef7ecf",
+              "parentId": "79890000-3e3b-0016-febc-08dd6fef7ece",
+              "title": "第五条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-31d0-08dd6fef7ecf",
+              "parentId": "79890000-3e3b-0016-febc-08dd6fef7ece",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4c9b-08dd6fef7ecf",
+              "parentId": "79890000-3e3b-0016-febc-08dd6fef7ece",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6728-08dd6fef7ecf",
+              "parentId": "79890000-3e3b-0016-febc-08dd6fef7ece",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7b9f-08dd6fef7ecf",
+              "parentId": "79890000-3e3b-0016-febc-08dd6fef7ece",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8c20-08dd6fef7ecf",
+              "parentId": "79890000-3e3b-0016-febc-08dd6fef7ece",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9a6d-08dd6fef7ecf",
+          "parentId": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+          "title": "第三章 职务和衔级",
+          "index": 15,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a810-08dd6fef7ecf",
+              "parentId": "79890000-3e3b-0016-9a6d-08dd6fef7ecf",
+              "title": "第十一条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b748-08dd6fef7ecf",
+              "parentId": "79890000-3e3b-0016-9a6d-08dd6fef7ecf",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c711-08dd6fef7ecf",
+              "parentId": "79890000-3e3b-0016-9a6d-08dd6fef7ecf",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d94f-08dd6fef7ecf",
+              "parentId": "79890000-3e3b-0016-9a6d-08dd6fef7ecf",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ea94-08dd6fef7ecf",
+              "parentId": "79890000-3e3b-0016-9a6d-08dd6fef7ecf",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fac5-08dd6fef7ecf",
+              "parentId": "79890000-3e3b-0016-9a6d-08dd6fef7ecf",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0c7f-08dd6fef7ed0",
+              "parentId": "79890000-3e3b-0016-9a6d-08dd6fef7ecf",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1df8-08dd6fef7ed0",
+              "parentId": "79890000-3e3b-0016-9a6d-08dd6fef7ecf",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2ec3-08dd6fef7ed0",
+              "parentId": "79890000-3e3b-0016-9a6d-08dd6fef7ecf",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3dec-08dd6fef7ed0",
+              "parentId": "79890000-3e3b-0016-9a6d-08dd6fef7ecf",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-4cfd-08dd6fef7ed0",
+          "parentId": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+          "title": "第四章 馆长",
+          "index": 26,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5bfb-08dd6fef7ed0",
+              "parentId": "79890000-3e3b-0016-4cfd-08dd6fef7ed0",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6b5f-08dd6fef7ed0",
+              "parentId": "79890000-3e3b-0016-4cfd-08dd6fef7ed0",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7b12-08dd6fef7ed0",
+              "parentId": "79890000-3e3b-0016-4cfd-08dd6fef7ed0",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-8a6c-08dd6fef7ed0",
+          "parentId": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+          "title": "第五章 派遣、召回和调回",
+          "index": 30,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-996b-08dd6fef7ed0",
+              "parentId": "79890000-3e3b-0016-8a6c-08dd6fef7ed0",
+              "title": "第二十四条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a992-08dd6fef7ed0",
+              "parentId": "79890000-3e3b-0016-8a6c-08dd6fef7ed0",
+              "title": "第二十五条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b92e-08dd6fef7ed0",
+              "parentId": "79890000-3e3b-0016-8a6c-08dd6fef7ed0",
+              "title": "第二十六条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-caa3-08dd6fef7ed0",
+              "parentId": "79890000-3e3b-0016-8a6c-08dd6fef7ed0",
+              "title": "第二十七条",
+              "index": 34,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-d9c5-08dd6fef7ed0",
+          "parentId": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+          "title": "第六章 考核、培训和交流",
+          "index": 35,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-e926-08dd6fef7ed0",
+              "parentId": "79890000-3e3b-0016-d9c5-08dd6fef7ed0",
+              "title": "第二十八条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0339-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-d9c5-08dd6fef7ed0",
+              "title": "第二十九条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-15bb-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-d9c5-08dd6fef7ed0",
+              "title": "第三十条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-265d-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-d9c5-08dd6fef7ed0",
+              "title": "第三十一条",
+              "index": 39,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-3685-08dd6fef7ed1",
+          "parentId": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+          "title": "第七章 奖励和惩戒",
+          "index": 40,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-4648-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-3685-08dd6fef7ed1",
+              "title": "第三十二条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-58f9-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-3685-08dd6fef7ed1",
+              "title": "第三十三条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6b4d-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-3685-08dd6fef7ed1",
+              "title": "第三十四条",
+              "index": 43,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-7b18-08dd6fef7ed1",
+          "parentId": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+          "title": "第八章 工资和福利",
+          "index": 44,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-8b63-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-7b18-08dd6fef7ed1",
+              "title": "第三十五条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9b9b-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-7b18-08dd6fef7ed1",
+              "title": "第三十六条",
+              "index": 46,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ac5b-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-7b18-08dd6fef7ed1",
+              "title": "第三十七条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bca6-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-7b18-08dd6fef7ed1",
+              "title": "第三十八条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cd30-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-7b18-08dd6fef7ed1",
+              "title": "第三十九条",
+              "index": 49,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-ddde-08dd6fef7ed1",
+          "parentId": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+          "title": "第九章 配偶和子女",
+          "index": 50,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-edbe-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-ddde-08dd6fef7ed1",
+              "title": "第四十条",
+              "index": 51,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ff3f-08dd6fef7ed1",
+              "parentId": "79890000-3e3b-0016-ddde-08dd6fef7ed1",
+              "title": "第四十一条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1008-08dd6fef7ed2",
+              "parentId": "79890000-3e3b-0016-ddde-08dd6fef7ed1",
+              "title": "第四十二条",
+              "index": 53,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-20eb-08dd6fef7ed2",
+              "parentId": "79890000-3e3b-0016-ddde-08dd6fef7ed1",
+              "title": "第四十三条",
+              "index": 54,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-31b7-08dd6fef7ed2",
+              "parentId": "79890000-3e3b-0016-ddde-08dd6fef7ed1",
+              "title": "第四十四条",
+              "index": 55,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-42f0-08dd6fef7ed2",
+              "parentId": "79890000-3e3b-0016-ddde-08dd6fef7ed1",
+              "title": "第四十五条",
+              "index": 56,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-548d-08dd6fef7ed2",
+              "parentId": "79890000-3e3b-0016-ddde-08dd6fef7ed1",
+              "title": "第四十六条",
+              "index": 57,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-6558-08dd6fef7ed2",
+          "parentId": "79890000-3e3b-0016-6d03-08dd6fef7ece",
+          "title": "第十章 附则",
+          "index": 58,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-763d-08dd6fef7ed2",
+              "parentId": "79890000-3e3b-0016-6558-08dd6fef7ed2",
+              "title": "第四十七条",
+              "index": 59,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-873b-08dd6fef7ed2",
+              "parentId": "79890000-3e3b-0016-6558-08dd6fef7ed2",
+              "title": "第四十八条",
+              "index": 60,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:45:31"
+}

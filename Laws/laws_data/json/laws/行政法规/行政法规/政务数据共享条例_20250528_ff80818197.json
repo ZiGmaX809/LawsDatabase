@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181971b86bf019762f8ffd5005e",
+  "title": "政务数据共享条例",
+  "gbrq": "2025-05-28",
+  "sxrq": "2025-08-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181971b86bf019762f8ffd5005e",
+    "ossFile": {
+      "ossWordPath": "prod/20250528/86051b5d103242b199df80112c0a6e27.docx",
+      "ossWordOfdPath": "prod/20250528/86051b5d103242b199df80112c0a6e27.ofd",
+      "ossWordOfdSize": 127945,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff808181966737700197631566062749",
+        "title": "中华人民共和国国务院令第809号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667377001976315ac312754",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-05-28",
+    "sxrq": "2025-08-01",
+    "title": "政务数据共享条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:58"
+}

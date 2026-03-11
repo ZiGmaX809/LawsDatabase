@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3e98bd016f41f0fa9d0201",
+  "title": "中华人民共和国货物进出口管理条例",
+  "gbrq": "2001-12-10",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f41f0fa9d0201",
+    "ossFile": {
+      "ossWordPath": "prod/20011210/b285ad64bcd54936a80efc0cfcf8d9eb.docx",
+      "ossWordOfdPath": "prod/20011210/b285ad64bcd54936a80efc0cfcf8d9eb.ofd",
+      "ossWordOfdSize": 157474,
+      "ossPdfPath": "prod/20011210/d6f88eb4174d4fb5870f15118c931fb1.pdf",
+      "ossPdfOfdPath": "prod/20011210/d6f88eb4174d4fb5870f15118c931fb1.ofd",
+      "ossPdfOfdSize": 5993935
+    },
+    "xgwj": [
+      {
+        "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff808181966737700196aa0bb66b36f3",
+        "title": "中华人民共和国货物进出口管理条例",
+        "gbrq": "2024-03-10",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f41f0fa9d0201",
+        "title": "中华人民共和国货物进出口管理条例",
+        "gbrq": "2001-12-10",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2001-12-10",
+    "sxrq": null,
+    "title": "中华人民共和国货物进出口管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:30:42"
+}

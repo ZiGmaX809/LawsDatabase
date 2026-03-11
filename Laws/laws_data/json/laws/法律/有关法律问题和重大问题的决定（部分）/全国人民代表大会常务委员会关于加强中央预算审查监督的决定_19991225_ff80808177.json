@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff808081774c72b3017770123a4e1a09",
+  "title": "全国人民代表大会常务委员会关于加强中央预算审查监督的决定",
+  "gbrq": "1999-12-25",
+  "sxrq": "1999-12-25",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "ff808081774c72b3017770123a4e1a09",
+    "ossFile": {
+      "ossWordPath": "prod/19700101/f8eebe21e4c042fca427018fa8c96104.docx",
+      "ossWordOfdPath": "prod/19700101/f8eebe21e4c042fca427018fa8c96104.ofd",
+      "ossWordOfdSize": 78234,
+      "ossPdfPath": "prod/19700101/3c3f728a57f3445b8f3ec4a91a12324a.pdf",
+      "ossPdfOfdPath": "prod/19700101/3c3f728a57f3445b8f3ec4a91a12324a.ofd",
+      "ossPdfOfdSize": 1153044
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818178efe3620179208999512915",
+        "title": "全国人民代表大会常务委员会关于加强中央预算审查监督的决定",
+        "gbrq": "2021-04-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff808081774c72b3017770123a4e1a09",
+        "title": "全国人民代表大会常务委员会关于加强中央预算审查监督的决定",
+        "gbrq": "1999-12-25",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1999-12-25",
+    "sxrq": "1999-12-25",
+    "title": "全国人民代表大会常务委员会关于加强中央预算审查监督的决定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:49:13"
+}

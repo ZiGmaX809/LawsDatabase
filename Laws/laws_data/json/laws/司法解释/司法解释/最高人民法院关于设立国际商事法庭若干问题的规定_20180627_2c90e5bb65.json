@@ -1,0 +1,53 @@
+{
+  "bbbs": "2c90e5bb65c68cfd0167f2cc3eb14ed4",
+  "title": "最高人民法院关于设立国际商事法庭若干问题的规定",
+  "gbrq": "2018-06-27",
+  "sxrq": "2018-07-01",
+  "sxx": 2,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "2c90e5bb65c68cfd0167f2cc3eb14ed4",
+    "ossFile": {
+      "ossWordPath": "prod/20180627/51ffda0acf8b4289a5029396ab178b7a.docx",
+      "ossWordOfdPath": "prod/20180627/51ffda0acf8b4289a5029396ab178b7a.ofd",
+      "ossWordOfdSize": 82060,
+      "ossPdfPath": "prod/20180627/ea2de5e5e03e4cc18bbc14d6fa59e43b.pdf",
+      "ossPdfOfdPath": "prod/20180627/ea2de5e5e03e4cc18bbc14d6fa59e43b.ofd",
+      "ossPdfOfdSize": 1045329
+    },
+    "xgwj": [
+      {
+        "bbbs": "a3bf2b26d76f4fe4948465c0d1e36310",
+        "title": "最高人民法院关于修改《最高人民法院关于设立国际商事法庭若干问题的规定》的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818c24df58018c8153325020b7",
+        "title": "最高人民法院关于设立国际商事法庭若干问题的规定",
+        "gbrq": "2023-12-18",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c90e5bb65c68cfd0167f2cc3eb14ed4",
+        "title": "最高人民法院关于设立国际商事法庭若干问题的规定",
+        "gbrq": "2018-06-27",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2018-06-27",
+    "sxrq": "2018-07-01",
+    "title": "最高人民法院关于设立国际商事法庭若干问题的规定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:05:58"
+}

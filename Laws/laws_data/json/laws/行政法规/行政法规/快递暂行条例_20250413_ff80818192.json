@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff808181927f0e7b019661ec88062784",
+  "title": "快递暂行条例",
+  "gbrq": "2025-04-13",
+  "sxrq": "2025-06-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181927f0e7b019661ec88062784",
+    "ossFile": {
+      "ossWordPath": "prod/20250413/2081d4d75f274392b133d9dc1d26ce9b.docx",
+      "ossWordOfdPath": "prod/20250413/2081d4d75f274392b133d9dc1d26ce9b.ofd",
+      "ossWordOfdSize": 162834,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181927f0e7b019661ec88062784",
+        "title": "快递暂行条例",
+        "gbrq": "2025-04-13",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4137c4711d71",
+        "title": "快递暂行条例",
+        "gbrq": "2019-03-02",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818195b1209d0196656c5a8c315d",
+        "title": "中华人民共和国国务院令第806号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818195b1209d0196656c42ee3156",
+        "title": "国务院关于修改《快递暂行条例》的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818195b110130196656c6a28303f",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-04-13",
+    "sxrq": "2025-06-01",
+    "title": "快递暂行条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:03"
+}

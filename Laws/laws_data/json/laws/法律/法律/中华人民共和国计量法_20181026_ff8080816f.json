@@ -1,0 +1,355 @@
+{
+  "bbbs": "ff8080816f135f46016f1cf499ff11eb",
+  "title": "中华人民共和国计量法",
+  "gbrq": "2018-10-26",
+  "sxrq": "2018-10-26",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "ff8080816f135f46016f1cf499ff11eb",
+    "ossFile": {
+      "ossWordPath": "prod/20181026/178d4f318a1345c2a1cacbff7a776e75.docx",
+      "ossWordOfdPath": "prod/20181026/178d4f318a1345c2a1cacbff7a776e75.ofd",
+      "ossWordOfdSize": 98565,
+      "ossPdfPath": "prod/20181026/f63d5b574b1843579beb9eb5ef51fbda.pdf",
+      "ossPdfOfdPath": "prod/20181026/f63d5b574b1843579beb9eb5ef51fbda.ofd",
+      "ossPdfOfdSize": 253591
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8080816f135f46016f1cf499ff11eb",
+        "title": "中华人民共和国计量法",
+        "gbrq": "2018-10-26",
+        "highLight": true
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf8939f0b3b",
+        "title": "中华人民共和国计量法",
+        "gbrq": "2017-12-27",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2018-10-26",
+    "sxrq": "2018-10-26",
+    "title": "中华人民共和国计量法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-04b4-08dd6fef79ab",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国计量法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-055f-08dd6fef79ab",
+          "parentId": "79890000-3e3b-0016-04b4-08dd6fef79ab",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-05d3-08dd6fef79ab",
+          "parentId": "79890000-3e3b-0016-04b4-08dd6fef79ab",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-20af-08dd6fef79ab",
+          "parentId": "79890000-3e3b-0016-04b4-08dd6fef79ab",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-30de-08dd6fef79ab",
+              "parentId": "79890000-3e3b-0016-20af-08dd6fef79ab",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-41c7-08dd6fef79ab",
+              "parentId": "79890000-3e3b-0016-20af-08dd6fef79ab",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5e5a-08dd6fef79ab",
+              "parentId": "79890000-3e3b-0016-20af-08dd6fef79ab",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6e36-08dd6fef79ab",
+              "parentId": "79890000-3e3b-0016-20af-08dd6fef79ab",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-7e5f-08dd6fef79ab",
+          "parentId": "79890000-3e3b-0016-04b4-08dd6fef79ab",
+          "title": "第二章 计量基准器具、计量标准器具和计量检定",
+          "index": 8,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-8e99-08dd6fef79ab",
+              "parentId": "79890000-3e3b-0016-7e5f-08dd6fef79ab",
+              "title": "第五条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a009-08dd6fef79ab",
+              "parentId": "79890000-3e3b-0016-7e5f-08dd6fef79ab",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b191-08dd6fef79ab",
+              "parentId": "79890000-3e3b-0016-7e5f-08dd6fef79ab",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c404-08dd6fef79ab",
+              "parentId": "79890000-3e3b-0016-7e5f-08dd6fef79ab",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d613-08dd6fef79ab",
+              "parentId": "79890000-3e3b-0016-7e5f-08dd6fef79ab",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e8e0-08dd6fef79ab",
+              "parentId": "79890000-3e3b-0016-7e5f-08dd6fef79ab",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f904-08dd6fef79ab",
+              "parentId": "79890000-3e3b-0016-7e5f-08dd6fef79ab",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-04a1-08dd6fef79ac",
+          "parentId": "79890000-3e3b-0016-04b4-08dd6fef79ab",
+          "title": "第三章 计量器具管理",
+          "index": 16,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0fd0-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-04a1-08dd6fef79ac",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1b44-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-04a1-08dd6fef79ac",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2646-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-04a1-08dd6fef79ac",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3165-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-04a1-08dd6fef79ac",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3d4a-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-04a1-08dd6fef79ac",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-48d4-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-04a1-08dd6fef79ac",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-542b-08dd6fef79ac",
+          "parentId": "79890000-3e3b-0016-04b4-08dd6fef79ab",
+          "title": "第四章 计量监督",
+          "index": 23,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5fca-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-542b-08dd6fef79ac",
+              "title": "第十八条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6be4-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-542b-08dd6fef79ac",
+              "title": "第十九条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-77a0-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-542b-08dd6fef79ac",
+              "title": "第二十条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-83f8-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-542b-08dd6fef79ac",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-900e-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-542b-08dd6fef79ac",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9bad-08dd6fef79ac",
+          "parentId": "79890000-3e3b-0016-04b4-08dd6fef79ab",
+          "title": "第五章 法律责任",
+          "index": 29,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a720-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-9bad-08dd6fef79ac",
+              "title": "第二十三条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d573-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-9bad-08dd6fef79ac",
+              "title": "第二十四条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e854-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-9bad-08dd6fef79ac",
+              "title": "第二十五条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f5a0-08dd6fef79ac",
+              "parentId": "79890000-3e3b-0016-9bad-08dd6fef79ac",
+              "title": "第二十六条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0340-08dd6fef79ad",
+              "parentId": "79890000-3e3b-0016-9bad-08dd6fef79ac",
+              "title": "第二十七条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1031-08dd6fef79ad",
+              "parentId": "79890000-3e3b-0016-9bad-08dd6fef79ac",
+              "title": "第二十八条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1ca1-08dd6fef79ad",
+              "parentId": "79890000-3e3b-0016-9bad-08dd6fef79ac",
+              "title": "第二十九条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-29e2-08dd6fef79ad",
+              "parentId": "79890000-3e3b-0016-9bad-08dd6fef79ac",
+              "title": "第三十条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-368f-08dd6fef79ad",
+              "parentId": "79890000-3e3b-0016-9bad-08dd6fef79ac",
+              "title": "第三十一条",
+              "index": 38,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-42ed-08dd6fef79ad",
+          "parentId": "79890000-3e3b-0016-04b4-08dd6fef79ab",
+          "title": "第六章 附则",
+          "index": 39,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5011-08dd6fef79ad",
+              "parentId": "79890000-3e3b-0016-42ed-08dd6fef79ad",
+              "title": "第三十二条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5d29-08dd6fef79ad",
+              "parentId": "79890000-3e3b-0016-42ed-08dd6fef79ad",
+              "title": "第三十三条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6a27-08dd6fef79ad",
+              "parentId": "79890000-3e3b-0016-42ed-08dd6fef79ad",
+              "title": "第三十四条",
+              "index": 42,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:36:26"
+}

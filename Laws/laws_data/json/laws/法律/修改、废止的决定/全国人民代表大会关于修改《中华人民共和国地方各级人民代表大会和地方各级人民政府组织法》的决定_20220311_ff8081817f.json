@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8081817f48d6f4017f78ede2dc1100",
+  "title": "全国人民代表大会关于修改《中华人民共和国地方各级人民代表大会和地方各级人民政府组织法》的决定",
+  "gbrq": "2022-03-11",
+  "sxrq": "2022-03-12",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff8081817f48d6f4017f78ede2dc1100",
+    "ossFile": {
+      "ossWordPath": "prod/20220311/ac2f31e91f634f53beceebec65f6ac10.docx",
+      "ossWordOfdPath": "prod/20220311/ac2f31e91f634f53beceebec65f6ac10.ofd",
+      "ossWordOfdSize": 145391,
+      "ossPdfPath": "prod/20220311/1683ce31d0fd4c73998b5929092fec87.pdf",
+      "ossPdfOfdPath": "prod/20220311/1683ce31d0fd4c73998b5929092fec87.ofd",
+      "ossPdfOfdSize": 1106126
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf7e3f6084d",
+        "title": "中华人民共和国地方各级人民代表大会和地方各级人民政府组织法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "2022-03-11",
+    "sxrq": "2022-03-12",
+    "title": "全国人民代表大会关于修改《中华人民共和国地方各级人民代表大会和地方各级人民政府组织法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:30:27"
+}

@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081818c24e05b018c8d0817b31915",
+  "title": "未成年人网络保护条例",
+  "gbrq": "2023-10-16",
+  "sxrq": "2024-01-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818c24e05b018c8d0817b31915",
+    "ossFile": {
+      "ossWordPath": "prod/20231016/946cb0047f2741f19367fd3451eb2cb4.docx",
+      "ossWordOfdPath": "prod/20231016/946cb0047f2741f19367fd3451eb2cb4.ofd",
+      "ossWordOfdSize": 175638,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818c3ce31f018c8f23388120e7",
+        "title": "中华人民共和国国务院令第766号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818c3cdbf6018c8f23754421a9",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-10-16",
+    "sxrq": "2024-01-01",
+    "title": "未成年人网络保护条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:13"
+}

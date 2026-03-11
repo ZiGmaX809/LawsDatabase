@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f411faf8518a9",
+  "title": "营业性演出管理条例",
+  "gbrq": "2016-02-06",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f411faf8518a9",
+    "ossFile": {
+      "ossWordPath": "prod/20160206/bf949999788d461dbaaf692b0bb2a4ab.docx",
+      "ossWordOfdPath": "prod/20160206/bf949999788d461dbaaf692b0bb2a4ab.ofd",
+      "ossWordOfdSize": 191631,
+      "ossPdfPath": "prod/20160206/8258f265d12543c9aca9d49bd4c9ea48.pdf",
+      "ossPdfOfdPath": "prod/20160206/8258f265d12543c9aca9d49bd4c9ea48.ofd",
+      "ossPdfOfdSize": 7669797
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d07c50177b856f6152caf",
+        "title": "营业性演出管理条例",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f411faf8518a9",
+        "title": "营业性演出管理条例",
+        "gbrq": "2016-02-06",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2016-02-06",
+    "sxrq": null,
+    "title": "营业性演出管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:21:09"
+}

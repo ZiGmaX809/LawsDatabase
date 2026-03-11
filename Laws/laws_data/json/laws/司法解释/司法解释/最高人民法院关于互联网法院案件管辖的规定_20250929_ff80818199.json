@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff8081819998eb470199e6b3a1dd203b",
+  "title": "最高人民法院关于互联网法院案件管辖的规定",
+  "gbrq": "2025-09-29",
+  "sxrq": "2025-11-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081819998eb470199e6b3a1dd203b",
+    "ossFile": {
+      "ossWordPath": "prod/20250929/78f3188a86ec491f9e3a1f20ad9be70f.docx",
+      "ossWordOfdPath": "prod/20250929/78f3188a86ec491f9e3a1f20ad9be70f.ofd",
+      "ossWordOfdSize": 61179,
+      "ossPdfPath": "prod/20250929/cecc1ccb39844ba09a14b8c3fb19fcf2.pdf",
+      "ossPdfOfdPath": "prod/20250929/cecc1ccb39844ba09a14b8c3fb19fcf2.ofd",
+      "ossPdfOfdSize": 294845
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "db2200aa2643499682a1b18f39e17545",
+        "title": "法释2025-14公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2025-09-29",
+    "sxrq": "2025-11-01",
+    "title": "最高人民法院关于互联网法院案件管辖的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:24"
+}

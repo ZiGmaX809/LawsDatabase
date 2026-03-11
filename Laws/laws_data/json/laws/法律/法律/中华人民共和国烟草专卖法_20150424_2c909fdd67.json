@@ -1,0 +1,421 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf7c3830807",
+  "title": "中华人民共和国烟草专卖法",
+  "gbrq": "2015-04-24",
+  "sxrq": "2015-04-24",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf7c3830807",
+    "ossFile": {
+      "ossWordPath": "prod/20150424/a8bbe341030d492aa6b833db424a0945.docx",
+      "ossWordOfdPath": "prod/20150424/a8bbe341030d492aa6b833db424a0945.ofd",
+      "ossWordOfdSize": 132146,
+      "ossPdfPath": "prod/20150424/a17275f79c0441eab944b456a49dc207.pdf",
+      "ossPdfOfdPath": "prod/20150424/a17275f79c0441eab944b456a49dc207.ofd",
+      "ossPdfOfdSize": 2760163
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2015-04-24",
+    "sxrq": "2015-04-24",
+    "title": "中华人民共和国烟草专卖法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-7ce5-08dd66b733e5",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国烟草专卖法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-7d6e-08dd66b733e5",
+          "parentId": "79890000-3e3b-0016-7ce5-08dd66b733e5",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-7dd1-08dd66b733e5",
+          "parentId": "79890000-3e3b-0016-7ce5-08dd66b733e5",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-8b8c-08dd66b733e5",
+          "parentId": "79890000-3e3b-0016-7ce5-08dd66b733e5",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9763-08dd66b733e5",
+              "parentId": "79890000-3e3b-0016-8b8c-08dd66b733e5",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a37e-08dd66b733e5",
+              "parentId": "79890000-3e3b-0016-8b8c-08dd66b733e5",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-afc3-08dd66b733e5",
+              "parentId": "79890000-3e3b-0016-8b8c-08dd66b733e5",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bc37-08dd66b733e5",
+              "parentId": "79890000-3e3b-0016-8b8c-08dd66b733e5",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c845-08dd66b733e5",
+              "parentId": "79890000-3e3b-0016-8b8c-08dd66b733e5",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d4e5-08dd66b733e5",
+              "parentId": "79890000-3e3b-0016-8b8c-08dd66b733e5",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-e13b-08dd66b733e5",
+          "parentId": "79890000-3e3b-0016-7ce5-08dd66b733e5",
+          "title": "第二章 烟叶的种植、收购和调拨",
+          "index": 10,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-ed11-08dd66b733e5",
+              "parentId": "79890000-3e3b-0016-e13b-08dd66b733e5",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f976-08dd66b733e5",
+              "parentId": "79890000-3e3b-0016-e13b-08dd66b733e5",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-06e2-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-e13b-08dd66b733e5",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1450-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-e13b-08dd66b733e5",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-21a4-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-e13b-08dd66b733e5",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-2ea9-08dd66b733e6",
+          "parentId": "79890000-3e3b-0016-7ce5-08dd66b733e5",
+          "title": "第三章 烟草制品的生产",
+          "index": 16,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-3adb-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-2ea9-08dd66b733e6",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-477e-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-2ea9-08dd66b733e6",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-550e-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-2ea9-08dd66b733e6",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-6235-08dd66b733e6",
+          "parentId": "79890000-3e3b-0016-7ce5-08dd66b733e5",
+          "title": "第四章 烟草制品的销售和运输",
+          "index": 20,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-6f0d-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-6235-08dd66b733e6",
+              "title": "第十五条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7c38-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-6235-08dd66b733e6",
+              "title": "第十六条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8951-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-6235-08dd66b733e6",
+              "title": "第十七条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a357-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-6235-08dd66b733e6",
+              "title": "第十八条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b45b-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-6235-08dd66b733e6",
+              "title": "第十九条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c337-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-6235-08dd66b733e6",
+              "title": "第二十条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d1cd-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-6235-08dd66b733e6",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dfdd-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-6235-08dd66b733e6",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ee87-08dd66b733e6",
+              "parentId": "79890000-3e3b-0016-6235-08dd66b733e6",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-fcfd-08dd66b733e6",
+          "parentId": "79890000-3e3b-0016-7ce5-08dd66b733e5",
+          "title": "第五章 卷烟纸、滤嘴棒、烟用丝束、烟草专用机械的生产和销售",
+          "index": 30,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0b5b-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-fcfd-08dd66b733e6",
+              "title": "第二十四条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1a1b-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-fcfd-08dd66b733e6",
+              "title": "第二十五条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-28d2-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-fcfd-08dd66b733e6",
+              "title": "第二十六条",
+              "index": 33,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-3749-08dd66b733e7",
+          "parentId": "79890000-3e3b-0016-7ce5-08dd66b733e5",
+          "title": "第六章 进出口贸易和对外经济技术合作",
+          "index": 34,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-4677-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-3749-08dd66b733e7",
+              "title": "第二十七条",
+              "index": 35,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-5682-08dd66b733e7",
+          "parentId": "79890000-3e3b-0016-7ce5-08dd66b733e5",
+          "title": "第七章 法律责任",
+          "index": 36,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-6684-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第二十八条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7715-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第二十九条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-883b-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第三十条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-98d8-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第三十一条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a955-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第三十二条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b8ff-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第三十三条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c844-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第三十四条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d7cb-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第三十五条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e738-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第三十六条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f7c1-08dd66b733e7",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第三十七条",
+              "index": 46,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0814-08dd66b733e8",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第三十八条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-17d1-08dd66b733e8",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第三十九条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2838-08dd66b733e8",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第四十条",
+              "index": 49,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3826-08dd66b733e8",
+              "parentId": "79890000-3e3b-0016-5682-08dd66b733e7",
+              "title": "第四十一条",
+              "index": 50,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-48ae-08dd66b733e8",
+          "parentId": "79890000-3e3b-0016-7ce5-08dd66b733e5",
+          "title": "第八章 附则",
+          "index": 51,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-58e0-08dd66b733e8",
+              "parentId": "79890000-3e3b-0016-48ae-08dd66b733e8",
+              "title": "第四十二条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6909-08dd66b733e8",
+              "parentId": "79890000-3e3b-0016-48ae-08dd66b733e8",
+              "title": "第四十三条",
+              "index": 53,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:42:10"
+}

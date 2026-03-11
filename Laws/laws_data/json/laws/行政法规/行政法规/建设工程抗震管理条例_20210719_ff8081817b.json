@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081817b63b935017b7bd9a46035fc",
+  "title": "建设工程抗震管理条例",
+  "gbrq": "2021-07-19",
+  "sxrq": "2021-09-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081817b63b935017b7bd9a46035fc",
+    "ossFile": {
+      "ossWordPath": "prod/20210719/0aebf4405d274600acc07f40b12df806.docx",
+      "ossWordOfdPath": "prod/20210719/0aebf4405d274600acc07f40b12df806.ofd",
+      "ossWordOfdSize": 141280,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081817b6450e6017b7be7da600893",
+        "title": "国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817b6471a2017b7be7de4b07bb",
+        "title": "其它",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2021-07-19",
+    "sxrq": "2021-09-01",
+    "title": "建设工程抗震管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:08:12"
+}

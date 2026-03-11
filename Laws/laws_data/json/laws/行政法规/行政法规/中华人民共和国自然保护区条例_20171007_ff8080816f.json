@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f413a55541ddb",
+  "title": "中华人民共和国自然保护区条例",
+  "gbrq": "2017-10-07",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f413a55541ddb",
+    "ossFile": {
+      "ossWordPath": "prod/20171007/6a126483ec744dddb025213ed2459d3b.docx",
+      "ossWordOfdPath": "prod/20171007/6a126483ec744dddb025213ed2459d3b.ofd",
+      "ossWordOfdSize": 143046,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819c230fa1019c4551f8c8511b",
+        "title": "中华人民共和国自然保护区条例",
+        "gbrq": "2026-02-03",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f413a55541ddb",
+        "title": "中华人民共和国自然保护区条例",
+        "gbrq": "2017-10-07",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2017-10-07",
+    "sxrq": null,
+    "title": "中华人民共和国自然保护区条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:15:10"
+}

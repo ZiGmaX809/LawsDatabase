@@ -1,0 +1,71 @@
+{
+  "bbbs": "ff808181927f12760196429801fb66cf",
+  "title": "婚姻登记条例",
+  "gbrq": "2025-04-06",
+  "sxrq": "2025-05-10",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181927f12760196429801fb66cf",
+    "ossFile": {
+      "ossWordPath": "prod/20250406/d02d3a77faae413a8d44b8db3944e4a0.docx",
+      "ossWordOfdPath": "prod/20250406/d02d3a77faae413a8d44b8db3944e4a0.ofd",
+      "ossWordOfdSize": 116470,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181927f12760196429801fb66cf",
+        "title": "婚姻登记条例",
+        "gbrq": "2025-04-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8081819667441b0196a99b6ca13483",
+        "title": "婚姻登记条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40e4a36509a1",
+        "title": "婚姻登记条例",
+        "gbrq": "2003-08-08",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818195b1209d01964334e005247b",
+        "title": "中华人民共和国国务院令第804号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818195b1209d0196433518402484",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2025-04-06",
+    "sxrq": "2025-05-10",
+    "title": "婚姻登记条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:07"
+}

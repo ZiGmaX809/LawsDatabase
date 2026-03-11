@@ -1,0 +1,105 @@
+{
+  "bbbs": "ed6a723de5aa445d9b6c0c1c850224c6",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国环境保护税法》的决定",
+  "gbrq": "2025-10-28",
+  "sxrq": "2025-10-28",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ed6a723de5aa445d9b6c0c1c850224c6",
+    "ossFile": {
+      "ossWordPath": "prod/20251028/7616d103e6e64e2dab6bc89c66d043e1.docx",
+      "ossWordOfdPath": "prod/20251028/7616d103e6e64e2dab6bc89c66d043e1.ofd",
+      "ossWordOfdSize": 47983,
+      "ossPdfPath": "prod/20251028/d3b4ad15f6a642abb34785342214dde5.pdf",
+      "ossPdfOfdPath": "prod/20251028/d3b4ad15f6a642abb34785342214dde5.ofd",
+      "ossPdfOfdSize": 792082
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "9f21e568231b463b94eb37ec6de96c4a",
+        "title": "中华人民共和国主席令（第六十二号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "f02c6bd99e1145019a6da89142eab4fd",
+        "title": "中华人民共和国主席令（第六十二号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "a5afccdd35af44239c9c8ca0d8340c22",
+        "title": "关于《中华人民共和国环境保护税法（修正草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "90fa2fd5c24d47fbb5b3213e4a269f0b",
+        "title": "关于《中华人民共和国环境保护税法（修正草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "8e15862d23584ab3b3188df3fcfd40b7",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国环境保护税法（修正草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "9dc358e0b1354f40995ab9446463cbe1",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国环境保护税法（修正草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "3a956cf8a3db4523b90b1983b827cce5",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于修改〈中华人民共和国环境保护税法〉的决定（草案）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "cb32324c29d6472fb00a5a599cffa0e2",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于修改〈中华人民共和国环境保护税法〉的决定（草案）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "ff8080816f135f46016f1d0bdc6a1306",
+        "title": "中华人民共和国环境保护税法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2025-10-28",
+    "sxrq": "2025-10-28",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国环境保护税法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:26:24"
+}

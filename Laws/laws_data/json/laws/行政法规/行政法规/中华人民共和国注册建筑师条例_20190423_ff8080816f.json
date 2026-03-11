@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8080816f3e98bd016f41d593c900eb",
+  "title": "中华人民共和国注册建筑师条例",
+  "gbrq": "2019-04-23",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f41d593c900eb",
+    "ossFile": {
+      "ossWordPath": "prod/20190423/c870ad1771464436944e48321aef7108.docx",
+      "ossWordOfdPath": "prod/20190423/c870ad1771464436944e48321aef7108.ofd",
+      "ossWordOfdSize": 107266,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "2d24100e20fa46408daa098e994e984d",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-04-23",
+    "sxrq": null,
+    "title": "中华人民共和国注册建筑师条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:10:23"
+}

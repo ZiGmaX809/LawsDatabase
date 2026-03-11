@@ -1,0 +1,59 @@
+{
+  "bbbs": "ff8080816f3e98bd016f4251cd4f04f5",
+  "title": "中华人民共和国药品管理法实施条例",
+  "gbrq": "2019-03-02",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f4251cd4f04f5",
+    "ossFile": {
+      "ossWordPath": "prod/20190302/624d799225cc485aa64f3e5d35c6d250.docx",
+      "ossWordOfdPath": "prod/20190302/624d799225cc485aa64f3e5d35c6d250.ofd",
+      "ossWordOfdSize": 191418,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819c230ff2019c2b63faec40bf",
+        "title": "中华人民共和国药品管理法实施条例",
+        "gbrq": "2026-01-16",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8081819c230ff2019c2d0fcea9644a",
+        "title": "中华人民共和国药品管理法实施条例",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f4251cd4f04f5",
+        "title": "中华人民共和国药品管理法实施条例",
+        "gbrq": "2019-03-02",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-03-02",
+    "sxrq": null,
+    "title": "中华人民共和国药品管理法实施条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:12:43"
+}

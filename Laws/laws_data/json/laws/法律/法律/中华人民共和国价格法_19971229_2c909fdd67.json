@@ -1,0 +1,448 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5e05801ef",
+  "title": "中华人民共和国价格法",
+  "gbrq": "1997-12-29",
+  "sxrq": "1998-05-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5e05801ef",
+    "ossFile": {
+      "ossWordPath": "prod/19971229/39ddb0b498714dc185285a2edc9ba2c7.docx",
+      "ossWordOfdPath": "prod/19971229/39ddb0b498714dc185285a2edc9ba2c7.ofd",
+      "ossWordOfdSize": 135360,
+      "ossPdfPath": "prod/19971229/d56096eb7cfa4bd29a20301d1ec49b2f.pdf",
+      "ossPdfOfdPath": "prod/19971229/d56096eb7cfa4bd29a20301d1ec49b2f.ofd",
+      "ossPdfOfdSize": 2374817
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1997-12-29",
+    "sxrq": "1998-05-01",
+    "title": "中华人民共和国价格法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-5dce-08dd52287bc8",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国价格法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-5e55-08dd52287bc8",
+          "parentId": "79890000-3e3b-0016-5dce-08dd52287bc8",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-5eb1-08dd52287bc8",
+          "parentId": "79890000-3e3b-0016-5dce-08dd52287bc8",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-6c2c-08dd52287bc8",
+          "parentId": "79890000-3e3b-0016-5dce-08dd52287bc8",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-781a-08dd52287bc8",
+              "parentId": "79890000-3e3b-0016-6c2c-08dd52287bc8",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-84be-08dd52287bc8",
+              "parentId": "79890000-3e3b-0016-6c2c-08dd52287bc8",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-925b-08dd52287bc8",
+              "parentId": "79890000-3e3b-0016-6c2c-08dd52287bc8",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-be78-08dd52287bc8",
+              "parentId": "79890000-3e3b-0016-6c2c-08dd52287bc8",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cba3-08dd52287bc8",
+              "parentId": "79890000-3e3b-0016-6c2c-08dd52287bc8",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+          "parentId": "79890000-3e3b-0016-5dce-08dd52287bc8",
+          "title": "第二章 经营者的价格行为",
+          "index": 9,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-e528-08dd52287bc8",
+              "parentId": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+              "title": "第六条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f1d7-08dd52287bc8",
+              "parentId": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ff1e-08dd52287bc8",
+              "parentId": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0b97-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-187b-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2633-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-33ee-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-412b-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4f20-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5dec-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+              "title": "第十五条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6b1d-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+              "title": "第十六条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7f9c-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-d8bf-08dd52287bc8",
+              "title": "第十七条",
+              "index": 21,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-8dfb-08dd52287bc9",
+          "parentId": "79890000-3e3b-0016-5dce-08dd52287bc8",
+          "title": "第三章 政府的定价行为",
+          "index": 22,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9c59-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-8dfb-08dd52287bc9",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ab1e-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-8dfb-08dd52287bc9",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b970-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-8dfb-08dd52287bc9",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c789-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-8dfb-08dd52287bc9",
+              "title": "第二十一条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d51b-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-8dfb-08dd52287bc9",
+              "title": "第二十二条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e34f-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-8dfb-08dd52287bc9",
+              "title": "第二十三条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f198-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-8dfb-08dd52287bc9",
+              "title": "第二十四条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ff49-08dd52287bc9",
+              "parentId": "79890000-3e3b-0016-8dfb-08dd52287bc9",
+              "title": "第二十五条",
+              "index": 30,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-0d98-08dd52287bca",
+          "parentId": "79890000-3e3b-0016-5dce-08dd52287bc8",
+          "title": "第四章 价格总水平调控",
+          "index": 31,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-1b42-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-0d98-08dd52287bca",
+              "title": "第二十六条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2951-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-0d98-08dd52287bca",
+              "title": "第二十七条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-37e6-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-0d98-08dd52287bca",
+              "title": "第二十八条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4677-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-0d98-08dd52287bca",
+              "title": "第二十九条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-54ee-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-0d98-08dd52287bca",
+              "title": "第三十条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-63c9-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-0d98-08dd52287bca",
+              "title": "第三十一条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7240-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-0d98-08dd52287bca",
+              "title": "第三十二条",
+              "index": 38,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-80bd-08dd52287bca",
+          "parentId": "79890000-3e3b-0016-5dce-08dd52287bc8",
+          "title": "第五章 价格监督检查",
+          "index": 39,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-8f62-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-80bd-08dd52287bca",
+              "title": "第三十三条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9e6c-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-80bd-08dd52287bca",
+              "title": "第三十四条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ae4b-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-80bd-08dd52287bca",
+              "title": "第三十五条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bd58-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-80bd-08dd52287bca",
+              "title": "第三十六条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cc50-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-80bd-08dd52287bca",
+              "title": "第三十七条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dbe7-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-80bd-08dd52287bca",
+              "title": "第三十八条",
+              "index": 45,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-ec48-08dd52287bca",
+          "parentId": "79890000-3e3b-0016-5dce-08dd52287bc8",
+          "title": "第六章 法律责任",
+          "index": 46,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-fd59-08dd52287bca",
+              "parentId": "79890000-3e3b-0016-ec48-08dd52287bca",
+              "title": "第三十九条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0e51-08dd52287bcb",
+              "parentId": "79890000-3e3b-0016-ec48-08dd52287bca",
+              "title": "第四十条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1fac-08dd52287bcb",
+              "parentId": "79890000-3e3b-0016-ec48-08dd52287bca",
+              "title": "第四十一条",
+              "index": 49,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-30ca-08dd52287bcb",
+              "parentId": "79890000-3e3b-0016-ec48-08dd52287bca",
+              "title": "第四十二条",
+              "index": 50,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4224-08dd52287bcb",
+              "parentId": "79890000-3e3b-0016-ec48-08dd52287bca",
+              "title": "第四十三条",
+              "index": 51,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-537a-08dd52287bcb",
+              "parentId": "79890000-3e3b-0016-ec48-08dd52287bca",
+              "title": "第四十四条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-63a2-08dd52287bcb",
+              "parentId": "79890000-3e3b-0016-ec48-08dd52287bca",
+              "title": "第四十五条",
+              "index": 53,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-73f4-08dd52287bcb",
+              "parentId": "79890000-3e3b-0016-ec48-08dd52287bca",
+              "title": "第四十六条",
+              "index": 54,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-83c5-08dd52287bcb",
+          "parentId": "79890000-3e3b-0016-5dce-08dd52287bc8",
+          "title": "第七章 附则",
+          "index": 55,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-93f0-08dd52287bcb",
+              "parentId": "79890000-3e3b-0016-83c5-08dd52287bcb",
+              "title": "第四十七条",
+              "index": 56,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a47d-08dd52287bcb",
+              "parentId": "79890000-3e3b-0016-83c5-08dd52287bcb",
+              "title": "第四十八条",
+              "index": 57,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:49:41"
+}

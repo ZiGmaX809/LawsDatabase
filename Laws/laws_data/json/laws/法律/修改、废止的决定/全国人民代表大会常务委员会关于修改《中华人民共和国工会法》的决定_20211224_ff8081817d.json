@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8081817dea9c18017dec5e28530214",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国工会法》的决定",
+  "gbrq": "2021-12-24",
+  "sxrq": "2022-01-01",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff8081817dea9c18017dec5e28530214",
+    "ossFile": {
+      "ossWordPath": "prod/20211224/fe0850c2d605495b9363b7fc04e8b5c2.docx",
+      "ossWordOfdPath": "prod/20211224/fe0850c2d605495b9363b7fc04e8b5c2.ofd",
+      "ossWordOfdSize": 90316,
+      "ossPdfPath": "prod/20211224/a6d37827448546cdaf017fe4ac6a1d04.pdf",
+      "ossPdfOfdPath": "prod/20211224/a6d37827448546cdaf017fe4ac6a1d04.ofd",
+      "ossPdfOfdSize": 955577
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf6f8a3050f",
+        "title": "中华人民共和国工会法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2021-12-24",
+    "sxrq": "2022-01-01",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国工会法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:30:53"
+}

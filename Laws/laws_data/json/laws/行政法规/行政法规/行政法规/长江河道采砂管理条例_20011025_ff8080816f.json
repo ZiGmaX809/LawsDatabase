@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f412b2e9c1ae5",
+  "title": "长江河道采砂管理条例",
+  "gbrq": "2001-10-25",
+  "sxrq": "2002-01-01",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f412b2e9c1ae5",
+    "ossFile": {
+      "ossWordPath": "prod/20011025/818c4e3a4574483296255bc1787a73a2.docx",
+      "ossWordOfdPath": "prod/20011025/818c4e3a4574483296255bc1787a73a2.ofd",
+      "ossWordOfdSize": 109294,
+      "ossPdfPath": "prod/20011025/ea382f7c18ea45828cf6e3ec90928e33.pdf",
+      "ossPdfOfdPath": "prod/20011025/ea382f7c18ea45828cf6e3ec90928e33.ofd",
+      "ossPdfOfdSize": 5110714
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818a22132f018a6e34c3f922f4",
+        "title": "长江河道采砂管理条例",
+        "gbrq": "2023-07-20",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f412b2e9c1ae5",
+        "title": "长江河道采砂管理条例",
+        "gbrq": "2001-10-25",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2001-10-25",
+    "sxrq": "2002-01-01",
+    "title": "长江河道采砂管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:30:46"
+}

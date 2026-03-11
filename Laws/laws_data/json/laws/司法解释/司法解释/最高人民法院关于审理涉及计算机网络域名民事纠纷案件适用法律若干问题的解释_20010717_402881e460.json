@@ -1,0 +1,53 @@
+{
+  "bbbs": "402881e46000e27901600166232803b0",
+  "title": "最高人民法院关于审理涉及计算机网络域名民事纠纷案件适用法律若干问题的解释",
+  "gbrq": "2001-07-17",
+  "sxrq": "2001-07-24",
+  "sxx": 2,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "402881e46000e27901600166232803b0",
+    "ossFile": {
+      "ossWordPath": "prod/20010717/65ab38b3620d4849bdf772b4b0f838c7.docx",
+      "ossWordOfdPath": "prod/20010717/65ab38b3620d4849bdf772b4b0f838c7.ofd",
+      "ossWordOfdSize": 65804,
+      "ossPdfPath": "prod/20010717/7deca535171346e495c5320f6b8d6bc5.pdf",
+      "ossPdfOfdPath": "prod/20010717/7deca535171346e495c5320f6b8d6bc5.ofd",
+      "ossPdfOfdSize": 467470
+    },
+    "xgwj": [
+      {
+        "bbbs": "ff808181799df6140179ac290a571ad1",
+        "title": "最高人民法院关于修改《最高人民法院关于审理侵犯专利权纠纷案件应用法律若干问题的解释（二）》等十八件知识产权类司法解释的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799def980179ad1e265c1462",
+        "title": "最高人民法院关于审理涉及计算机网络域名民事纠纷案件适用法律若干问题的解释",
+        "gbrq": "2020-12-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "402881e46000e27901600166232803b0",
+        "title": "最高人民法院关于审理涉及计算机网络域名民事纠纷案件适用法律若干问题的解释",
+        "gbrq": "2001-07-17",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2001-07-17",
+    "sxrq": "2001-07-24",
+    "title": "最高人民法院关于审理涉及计算机网络域名民事纠纷案件适用法律若干问题的解释",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 08:36:56"
+}

@@ -1,0 +1,105 @@
+{
+  "bbbs": "621d029681d4457ab5fc56ec7c7464a1",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国网络安全法》的决定",
+  "gbrq": "2025-10-28",
+  "sxrq": "2026-01-01",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "621d029681d4457ab5fc56ec7c7464a1",
+    "ossFile": {
+      "ossWordPath": "prod/20251028/57f8386537fe4e3887d20405ce1afd41.docx",
+      "ossWordOfdPath": "prod/20251028/57f8386537fe4e3887d20405ce1afd41.ofd",
+      "ossWordOfdSize": 88918,
+      "ossPdfPath": "prod/20251028/1fa8b610816a4f05a17d91ffd9b22b36.pdf",
+      "ossPdfOfdPath": "prod/20251028/1fa8b610816a4f05a17d91ffd9b22b36.ofd",
+      "ossPdfOfdSize": 928436
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "d2e18587a45643839a3d04aefffc07cd",
+        "title": "中华人民共和国主席令（第六十一号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "54b5d5355c1545bebc250433fe5a0f17",
+        "title": "中华人民共和国主席令（第六十一号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "072ea27d244b42d5829615e75747def2",
+        "title": "关于《中华人民共和国网络安全法（修正草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "f3739121496744609bf3905aeb9eb077",
+        "title": "关于《中华人民共和国网络安全法（修正草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "1863b39d06e440edb59e21651f7c9cf5",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国网络安全法（修正草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "0a7292c30dde4dadab1bd66d14129e83",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国网络安全法（修正草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "69717069e9964f16b93058f45a4fc351",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于修改〈中华人民共和国网络安全法〉的决定（草案）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "a7816a208c124214add70d7ce08d8baa",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于修改〈中华人民共和国网络安全法〉的决定（草案）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf8276f093d",
+        "title": "中华人民共和国网络安全法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2025-10-28",
+    "sxrq": "2026-01-01",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国网络安全法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:26:21"
+}

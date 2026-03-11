@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff80818180e0a44101811e3049ca1401",
+  "title": "外商投资电信企业管理规定",
+  "gbrq": "2022-03-29",
+  "sxrq": "2022-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80818180e0a44101811e3049ca1401",
+    "ossFile": {
+      "ossWordPath": "prod/20220329/b7556c13ec9944e6b2386c19f8eda797.docx",
+      "ossWordOfdPath": "prod/20220329/b7556c13ec9944e6b2386c19f8eda797.ofd",
+      "ossWordOfdSize": 73346,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818180e0a44101811e3049ca1401",
+        "title": "外商投资电信企业管理规定",
+        "gbrq": "2022-03-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f41f4ac530200",
+        "title": "外商投资电信企业管理规定",
+        "gbrq": "2016-02-06",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818119c51301811ebd8011038e",
+        "title": "中华人民共和国国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c86b01811ebdb36403ae",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c86b01811ebdc24f03b0",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2022-03-29",
+    "sxrq": "2022-05-01",
+    "title": "外商投资电信企业管理规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:07:25"
+}

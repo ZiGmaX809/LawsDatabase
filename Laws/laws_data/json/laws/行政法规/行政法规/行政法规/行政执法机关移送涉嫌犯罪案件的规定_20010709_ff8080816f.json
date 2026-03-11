@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4128a2261a52",
+  "title": "行政执法机关移送涉嫌犯罪案件的规定",
+  "gbrq": "2001-07-09",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4128a2261a52",
+    "ossFile": {
+      "ossWordPath": "prod/20010709/3e65635dde774f1ba8644ba13adb8271.docx",
+      "ossWordOfdPath": "prod/20010709/3e65635dde774f1ba8644ba13adb8271.ofd",
+      "ossWordOfdSize": 91041,
+      "ossPdfPath": "prod/20010709/222e47e6851c4caeb797f6f16aea0174.pdf",
+      "ossPdfOfdPath": "prod/20010709/222e47e6851c4caeb797f6f16aea0174.ofd",
+      "ossPdfOfdSize": 3303426
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80808176d5d4d80176d712c03403e2",
+        "title": "行政执法机关移送涉嫌犯罪案件的规定",
+        "gbrq": "2020-08-07",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4128a2261a52",
+        "title": "行政执法机关移送涉嫌犯罪案件的规定",
+        "gbrq": "2001-07-09",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2001-07-09",
+    "sxrq": null,
+    "title": "行政执法机关移送涉嫌犯罪案件的规定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:30:52"
+}

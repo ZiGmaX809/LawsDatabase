@@ -1,0 +1,616 @@
+{
+  "bbbs": "ff8080816f135f46016f21669bcd1abd",
+  "title": "中华人民共和国法官法",
+  "gbrq": "2019-04-23",
+  "sxrq": "2019-10-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "ff8080816f135f46016f21669bcd1abd",
+    "ossFile": {
+      "ossWordPath": "prod/20190423/0f70a114ec2348d591d38d0a9e402296.docx",
+      "ossWordOfdPath": "prod/20190423/0f70a114ec2348d591d38d0a9e402296.ofd",
+      "ossWordOfdSize": 170419,
+      "ossPdfPath": "prod/20190423/2806a7bac49440149371565183ee27e3.pdf",
+      "ossPdfOfdPath": "prod/20190423/2806a7bac49440149371565183ee27e3.ofd",
+      "ossPdfOfdSize": 722849
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8080816f135f46016f21669bcd1abd",
+        "title": "中华人民共和国法官法",
+        "gbrq": "2019-04-23",
+        "highLight": true
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf85fc60a37",
+        "title": "中华人民共和国法官法",
+        "gbrq": "2017-09-01",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2019-04-23",
+    "sxrq": "2019-10-01",
+    "title": "中华人民共和国法官法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-380a-08dd61feb6d3",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国法官法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-388c-08dd61feb6d3",
+          "parentId": "79890000-3e3b-0016-380a-08dd61feb6d3",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-38ee-08dd61feb6d3",
+          "parentId": "79890000-3e3b-0016-380a-08dd61feb6d3",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-4acc-08dd61feb6d3",
+          "parentId": "79890000-3e3b-0016-380a-08dd61feb6d3",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5b71-08dd61feb6d3",
+              "parentId": "79890000-3e3b-0016-4acc-08dd61feb6d3",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6ceb-08dd61feb6d3",
+              "parentId": "79890000-3e3b-0016-4acc-08dd61feb6d3",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7dab-08dd61feb6d3",
+              "parentId": "79890000-3e3b-0016-4acc-08dd61feb6d3",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8e87-08dd61feb6d3",
+              "parentId": "79890000-3e3b-0016-4acc-08dd61feb6d3",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a03b-08dd61feb6d3",
+              "parentId": "79890000-3e3b-0016-4acc-08dd61feb6d3",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b1be-08dd61feb6d3",
+              "parentId": "79890000-3e3b-0016-4acc-08dd61feb6d3",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c30a-08dd61feb6d3",
+              "parentId": "79890000-3e3b-0016-4acc-08dd61feb6d3",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-d865-08dd61feb6d3",
+          "parentId": "79890000-3e3b-0016-380a-08dd61feb6d3",
+          "title": "第二章 法官的职责、义务和权利",
+          "index": 11,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-ebb1-08dd61feb6d3",
+              "parentId": "79890000-3e3b-0016-d865-08dd61feb6d3",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fc97-08dd61feb6d3",
+              "parentId": "79890000-3e3b-0016-d865-08dd61feb6d3",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0cbe-08dd61feb6d4",
+              "parentId": "79890000-3e3b-0016-d865-08dd61feb6d3",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1d91-08dd61feb6d4",
+              "parentId": "79890000-3e3b-0016-d865-08dd61feb6d3",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-34e1-08dd61feb6d4",
+          "parentId": "79890000-3e3b-0016-380a-08dd61feb6d3",
+          "title": "第三章 法官的条件和遴选",
+          "index": 16,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-48e9-08dd61feb6d4",
+              "parentId": "79890000-3e3b-0016-34e1-08dd61feb6d4",
+              "title": "第十二条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5cdb-08dd61feb6d4",
+              "parentId": "79890000-3e3b-0016-34e1-08dd61feb6d4",
+              "title": "第十三条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6fb3-08dd61feb6d4",
+              "parentId": "79890000-3e3b-0016-34e1-08dd61feb6d4",
+              "title": "第十四条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-81b3-08dd61feb6d4",
+              "parentId": "79890000-3e3b-0016-34e1-08dd61feb6d4",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9339-08dd61feb6d4",
+              "parentId": "79890000-3e3b-0016-34e1-08dd61feb6d4",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c92c-08dd61feb6d4",
+              "parentId": "79890000-3e3b-0016-34e1-08dd61feb6d4",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-dc86-08dd61feb6d4",
+          "parentId": "79890000-3e3b-0016-380a-08dd61feb6d3",
+          "title": "第四章 法官的任免",
+          "index": 23,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-edc1-08dd61feb6d4",
+              "parentId": "79890000-3e3b-0016-dc86-08dd61feb6d4",
+              "title": "第十八条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ff52-08dd61feb6d4",
+              "parentId": "79890000-3e3b-0016-dc86-08dd61feb6d4",
+              "title": "第十九条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-10a7-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-dc86-08dd61feb6d4",
+              "title": "第二十条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-227f-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-dc86-08dd61feb6d4",
+              "title": "第二十一条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-332b-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-dc86-08dd61feb6d4",
+              "title": "第二十二条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-43ac-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-dc86-08dd61feb6d4",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-54a9-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-dc86-08dd61feb6d4",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-661c-08dd61feb6d5",
+          "parentId": "79890000-3e3b-0016-380a-08dd61feb6d3",
+          "title": "第五章 法官的管理",
+          "index": 31,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-764c-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第二十五条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-878c-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第二十六条",
+              "index": 33,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-98bd-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第二十七条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a9a9-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第二十八条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bb40-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第二十九条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cc5e-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第三十条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-de37-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第三十一条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ef7d-08dd61feb6d5",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第三十二条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-00fb-08dd61feb6d6",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第三十三条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1255-08dd61feb6d6",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第三十四条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2439-08dd61feb6d6",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第三十五条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-35c4-08dd61feb6d6",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第三十六条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-47f4-08dd61feb6d6",
+              "parentId": "79890000-3e3b-0016-661c-08dd61feb6d5",
+              "title": "第三十七条",
+              "index": 44,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+          "parentId": "79890000-3e3b-0016-380a-08dd61feb6d3",
+          "title": "第六章 法官的考核、奖励和惩戒",
+          "index": 45,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-6b57-08dd61feb6d6",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第三十八条",
+              "index": 46,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7d0a-08dd61feb6d6",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第三十九条",
+              "index": 47,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9ad5-08dd61feb6d6",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第四十条",
+              "index": 48,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b151-08dd61feb6d6",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第四十一条",
+              "index": 49,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c61e-08dd61feb6d6",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第四十二条",
+              "index": 50,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d98e-08dd61feb6d6",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第四十三条",
+              "index": 51,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ed41-08dd61feb6d6",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第四十四条",
+              "index": 52,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0013-08dd61feb6d7",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第四十五条",
+              "index": 53,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1519-08dd61feb6d7",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第四十六条",
+              "index": 54,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-29b9-08dd61feb6d7",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第四十七条",
+              "index": 55,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3d48-08dd61feb6d7",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第四十八条",
+              "index": 56,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-507a-08dd61feb6d7",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第四十九条",
+              "index": 57,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-648b-08dd61feb6d7",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第五十条",
+              "index": 58,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-77ce-08dd61feb6d7",
+              "parentId": "79890000-3e3b-0016-59a9-08dd61feb6d6",
+              "title": "第五十一条",
+              "index": 59,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+          "parentId": "79890000-3e3b-0016-380a-08dd61feb6d3",
+          "title": "第七章 法官的职业保障",
+          "index": 60,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9e87-08dd61feb6d7",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第五十二条",
+              "index": 61,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b324-08dd61feb6d7",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第五十三条",
+              "index": 62,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c808-08dd61feb6d7",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第五十四条",
+              "index": 63,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dc1d-08dd61feb6d7",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第五十五条",
+              "index": 64,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f01b-08dd61feb6d7",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第五十六条",
+              "index": 65,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-046b-08dd61feb6d8",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第五十七条",
+              "index": 66,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1878-08dd61feb6d8",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第五十八条",
+              "index": 67,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2cc9-08dd61feb6d8",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第五十九条",
+              "index": 68,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4114-08dd61feb6d8",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第六十条",
+              "index": 69,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-55c5-08dd61feb6d8",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第六十一条",
+              "index": 70,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6a75-08dd61feb6d8",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第六十二条",
+              "index": 71,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7f27-08dd61feb6d8",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第六十三条",
+              "index": 72,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-93e9-08dd61feb6d8",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第六十四条",
+              "index": 73,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-a887-08dd61feb6d8",
+              "parentId": "79890000-3e3b-0016-8b97-08dd61feb6d7",
+              "title": "第六十五条",
+              "index": 74,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-bd3b-08dd61feb6d8",
+          "parentId": "79890000-3e3b-0016-380a-08dd61feb6d3",
+          "title": "第八章 附则",
+          "index": 75,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-d1e5-08dd61feb6d8",
+              "parentId": "79890000-3e3b-0016-bd3b-08dd61feb6d8",
+              "title": "第六十六条",
+              "index": 76,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e763-08dd61feb6d8",
+              "parentId": "79890000-3e3b-0016-bd3b-08dd61feb6d8",
+              "title": "第六十七条",
+              "index": 77,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fd0a-08dd61feb6d8",
+              "parentId": "79890000-3e3b-0016-bd3b-08dd61feb6d8",
+              "title": "第六十八条",
+              "index": 78,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1981-08dd61feb6d9",
+              "parentId": "79890000-3e3b-0016-bd3b-08dd61feb6d8",
+              "title": "第六十九条",
+              "index": 79,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:34:49"
+}

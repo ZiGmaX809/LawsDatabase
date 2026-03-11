@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40d68014068e",
+  "title": "彩票管理条例",
+  "gbrq": "2009-05-04",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40d68014068e",
+    "ossFile": {
+      "ossWordPath": "prod/20090504/6fa1e4ddf67a4779b11c8a25a0275955.docx",
+      "ossWordOfdPath": "prod/20090504/6fa1e4ddf67a4779b11c8a25a0275955.ofd",
+      "ossWordOfdSize": 127492,
+      "ossPdfPath": "prod/20090504/ed8c38754ecc4f5c99d6424c15f1cd2f.pdf",
+      "ossPdfOfdPath": "prod/20090504/ed8c38754ecc4f5c99d6424c15f1cd2f.ofd",
+      "ossPdfOfdSize": 3613361
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2009-05-04",
+    "sxrq": null,
+    "title": "彩票管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:27:17"
+}

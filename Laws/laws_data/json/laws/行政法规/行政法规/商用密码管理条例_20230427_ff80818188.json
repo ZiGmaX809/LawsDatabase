@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff80818188d322d501897c5815c326cd",
+  "title": "商用密码管理条例",
+  "gbrq": "2023-04-27",
+  "sxrq": "2023-07-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80818188d322d501897c5815c326cd",
+    "ossFile": {
+      "ossWordPath": "prod/20230427/9355c3b836534646a8e1939f21de493c.docx",
+      "ossWordOfdPath": "prod/20230427/9355c3b836534646a8e1939f21de493c.ofd",
+      "ossWordOfdSize": 145054,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818188d322d501897c5815c326cd",
+        "title": "商用密码管理条例",
+        "gbrq": "2023-04-27",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4106e1021204",
+        "title": "商用密码管理条例",
+        "gbrq": "1999-10-07",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818188d744540189909094971d45",
+        "title": "中华人民共和国国务院令第760号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818188d7445c0189909063051caf",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-04-27",
+    "sxrq": "2023-07-01",
+    "title": "商用密码管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:58"
+}

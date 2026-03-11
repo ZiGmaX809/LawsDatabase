@@ -1,0 +1,54 @@
+{
+  "bbbs": "ff8080816f3e98bd016f41faa0db026d",
+  "title": "中华人民共和国国际海运条例",
+  "gbrq": "2019-03-02",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f41faa0db026d",
+    "ossFile": {
+      "ossWordPath": "prod/20190302/b369d3c4c859438f8931c238fee36142.docx",
+      "ossWordOfdPath": "prod/20190302/b369d3c4c859438f8931c238fee36142.ofd",
+      "ossWordOfdSize": 151061,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181999a5e270199db1c68bd6953",
+        "title": "中华人民共和国国际海运条例",
+        "gbrq": "2025-09-28",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8081818a22132f018a6e36bb32230e",
+        "title": "中华人民共和国国际海运条例",
+        "gbrq": "2023-07-20",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f41faa0db026d",
+        "title": "中华人民共和国国际海运条例",
+        "gbrq": "2019-03-02",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-03-02",
+    "sxrq": null,
+    "title": "中华人民共和国国际海运条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:12:39"
+}

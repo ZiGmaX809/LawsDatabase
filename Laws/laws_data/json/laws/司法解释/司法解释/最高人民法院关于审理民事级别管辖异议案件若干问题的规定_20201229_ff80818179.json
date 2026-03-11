@@ -1,0 +1,70 @@
+{
+  "bbbs": "ff808181799df6140179b0ec79832cb7",
+  "title": "最高人民法院关于审理民事级别管辖异议案件若干问题的规定",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799df6140179b0ec79832cb7",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/d06b9b5dda8045d9ad301c3155018924.doc",
+      "ossWordOfdPath": "prod/20201229/d06b9b5dda8045d9ad301c3155018924.ofd",
+      "ossWordOfdSize": 52175,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "ff8081818a21e6c3018bf5e4fd726c0a",
+        "title": "最高人民法院关于修改《最高人民法院关于人民法院民事调解工作若干问题的规定》等十九件民事诉讼类司法解释的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799df6140179b0ec79832cb7",
+        "title": "最高人民法院关于审理民事级别管辖异议案件若干问题的规定",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e46000e279016001a6976e0878",
+        "title": "最高人民法院关于审理民事级别管辖异议案件若干问题的规定",
+        "gbrq": "2009-11-12",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081817d04b213017d0d70cb1a77a5",
+        "title": "法释〔2020〕20号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "doc",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817d044a18017d0d70d2d679a4",
+        "title": "法释〔2020〕20号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于审理民事级别管辖异议案件若干问题的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:05:39"
+}

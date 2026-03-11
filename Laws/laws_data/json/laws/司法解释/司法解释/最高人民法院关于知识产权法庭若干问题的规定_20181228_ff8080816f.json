@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3e9784016f41fa52fa0241",
+  "title": "最高人民法院关于知识产权法庭若干问题的规定",
+  "gbrq": "2018-12-28",
+  "sxrq": "2019-01-01",
+  "sxx": 2,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f41fa52fa0241",
+    "ossFile": {
+      "ossWordPath": "prod/20181228/681a9b4964cd45a2822e49ac050e863a.docx",
+      "ossWordOfdPath": "prod/20181228/681a9b4964cd45a2822e49ac050e863a.ofd",
+      "ossWordOfdSize": 76449,
+      "ossPdfPath": "prod/20181228/b125a33035b1417b8c8d1412455c384b.pdf",
+      "ossPdfOfdPath": "prod/20181228/b125a33035b1417b8c8d1412455c384b.ofd",
+      "ossPdfOfdSize": 114846
+    },
+    "xgwj": [
+      {
+        "bbbs": "0fdf56dfd01b42c7b506071bdc6e5637",
+        "title": "最高人民法院关于修改《最高人民法院关于知识产权法庭若干问题的规定》的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818bd2739d018bf51a7bbd0145",
+        "title": "最高人民法院关于知识产权法庭若干问题的规定",
+        "gbrq": "2023-10-21",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f41fa52fa0241",
+        "title": "最高人民法院关于知识产权法庭若干问题的规定",
+        "gbrq": "2018-12-28",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2018-12-28",
+    "sxrq": "2019-01-01",
+    "title": "最高人民法院关于知识产权法庭若干问题的规定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:05:56"
+}

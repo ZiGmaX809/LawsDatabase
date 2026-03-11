@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f408bf6a70407",
+  "title": "人工影响天气管理条例",
+  "gbrq": "2002-03-19",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f408bf6a70407",
+    "ossFile": {
+      "ossWordPath": "prod/20020319/815bf89948c5427fb756ebe1831703a9.docx",
+      "ossWordOfdPath": "prod/20020319/815bf89948c5427fb756ebe1831703a9.ofd",
+      "ossWordOfdSize": 96330,
+      "ossPdfPath": "prod/20020319/8244284cfe424aba8b4469af3a6f7a63.pdf",
+      "ossPdfOfdPath": "prod/20020319/8244284cfe424aba8b4469af3a6f7a63.ofd",
+      "ossPdfOfdSize": 2069867
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d0c940177b90989053871",
+        "title": "人工影响天气管理条例",
+        "gbrq": "2020-03-27",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f408bf6a70407",
+        "title": "人工影响天气管理条例",
+        "gbrq": "2002-03-19",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2002-03-19",
+    "sxrq": null,
+    "title": "人工影响天气管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:30:29"
+}

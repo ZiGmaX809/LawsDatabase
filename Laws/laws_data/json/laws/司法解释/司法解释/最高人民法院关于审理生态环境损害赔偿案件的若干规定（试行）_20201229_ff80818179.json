@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181799df4000179b0a035fe1845",
+  "title": "最高人民法院关于审理生态环境损害赔偿案件的若干规定（试行）",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799df4000179b0a035fe1845",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/acef9e98b6114e1bab65d763aeb3f90d.doc",
+      "ossWordOfdPath": "prod/20201229/acef9e98b6114e1bab65d763aeb3f90d.ofd",
+      "ossWordOfdSize": 87893,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799df4000179b0a035fe1845",
+        "title": "最高人民法院关于审理生态环境损害赔偿案件的若干规定（试行）",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f41dd022a0120",
+        "title": "最高人民法院关于审理生态环境损害赔偿案件的若干规定（试行）",
+        "gbrq": "2019-06-04",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179a8c0a40179b795e5f01732",
+        "title": "法释〔2020〕17号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179a8b4320179b795e88317c1",
+        "title": "法释〔2020〕17号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于审理生态环境损害赔偿案件的若干规定（试行）",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:50"
+}

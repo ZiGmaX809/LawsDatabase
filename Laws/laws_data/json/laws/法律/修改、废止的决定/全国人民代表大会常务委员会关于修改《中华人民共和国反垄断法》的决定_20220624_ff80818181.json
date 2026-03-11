@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff808181818ea1a501819476fae2018c",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国反垄断法》的决定",
+  "gbrq": "2022-06-24",
+  "sxrq": "2022-08-01",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff808181818ea1a501819476fae2018c",
+    "ossFile": {
+      "ossWordPath": "prod/20220624/cafc0508621d44529271f6f9d21cade8.docx",
+      "ossWordOfdPath": "prod/20220624/cafc0508621d44529271f6f9d21cade8.ofd",
+      "ossWordOfdSize": 98275,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf64b86037f",
+        "title": "中华人民共和国反垄断法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2022-06-24",
+    "sxrq": "2022-08-01",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国反垄断法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:30:00"
+}

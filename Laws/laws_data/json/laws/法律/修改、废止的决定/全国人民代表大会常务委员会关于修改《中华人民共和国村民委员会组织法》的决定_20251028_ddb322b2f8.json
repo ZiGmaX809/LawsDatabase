@@ -1,0 +1,105 @@
+{
+  "bbbs": "ddb322b2f8d941d093b395e40d95f457",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国村民委员会组织法》的决定",
+  "gbrq": "2025-10-28",
+  "sxrq": "2026-01-01",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ddb322b2f8d941d093b395e40d95f457",
+    "ossFile": {
+      "ossWordPath": "prod/20251028/585635cdfcec41faa8e447c0eb77e7d4.docx",
+      "ossWordOfdPath": "prod/20251028/585635cdfcec41faa8e447c0eb77e7d4.ofd",
+      "ossWordOfdSize": 129354,
+      "ossPdfPath": "prod/20251028/8dd82137dc3e4a58bdd2a977d852345c.pdf",
+      "ossPdfOfdPath": "prod/20251028/8dd82137dc3e4a58bdd2a977d852345c.ofd",
+      "ossPdfOfdSize": 950819
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "08a56edc98f54658850dfc73c3857f09",
+        "title": "中华人民共和国主席令（第五十九号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "0d0708695355442388974c27891539c5",
+        "title": "中华人民共和国主席令（第五十九号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "a212c837201e44db8df76139010c7e4d",
+        "title": "关于《中华人民共和国村民委员会组织法（修正草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "2c8e320b8de94a5e910c99549c2f48d1",
+        "title": "关于《中华人民共和国村民委员会组织法（修正草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "24700e74eb164ea482cb57c11041896d",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国村民委员会组织法（修正草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "32e632f072a74022aeddf652e35c8fce",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国村民委员会组织法（修正草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "f08013d7cad9464d80c284d7395e5936",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于修改〈中华人民共和国村民委员会组织法〉的决定（草案）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "a2c23b7cb1c44505b7cbca67f19926c3",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于修改〈中华人民共和国村民委员会组织法〉的决定（草案）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "ff8080816f135f46016f1d901c941589",
+        "title": "中华人民共和国村民委员会组织法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2025-10-28",
+    "sxrq": "2026-01-01",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国村民委员会组织法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:26:19"
+}

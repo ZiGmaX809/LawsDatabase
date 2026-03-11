@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4028aea70100",
+  "title": "政务院关于中央人民政府所属各机关发表公报及公告性文件的办法",
+  "gbrq": "1950-01-01",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4028aea70100",
+    "ossFile": {
+      "ossWordPath": "prod/19500101/1834d8fa8edf4460a97879372bc8e5f0.docx",
+      "ossWordOfdPath": "prod/19500101/1834d8fa8edf4460a97879372bc8e5f0.ofd",
+      "ossWordOfdSize": 55317,
+      "ossPdfPath": "prod/19500101/929e026975fd44c7b7ae60f3e3e7d639.pdf",
+      "ossPdfOfdPath": "prod/19500101/929e026975fd44c7b7ae60f3e3e7d639.ofd",
+      "ossPdfOfdSize": 1032362
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1950-01-01",
+    "sxrq": null,
+    "title": "政务院关于中央人民政府所属各机关发表公报及公告性文件的办法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:36:20"
+}

@@ -1,0 +1,168 @@
+{
+  "bbbs": "ff8081817f3acaef017f400516e50556",
+  "title": "全国人民代表大会常务委员会关于中国人民解放军现役士兵衔级制度的决定",
+  "gbrq": "2022-02-28",
+  "sxrq": "2022-03-31",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 130,
+  "detail": {
+    "bbbs": "ff8081817f3acaef017f400516e50556",
+    "ossFile": {
+      "ossWordPath": "prod/20220228/b35c8b521f0247ccaa9ec432251f9309.docx",
+      "ossWordOfdPath": "prod/20220228/b35c8b521f0247ccaa9ec432251f9309.ofd",
+      "ossWordOfdSize": 50133,
+      "ossPdfPath": "prod/20220228/a59991b9b9f24d7a83522bb45793d586.pdf",
+      "ossPdfOfdPath": "prod/20220228/a59991b9b9f24d7a83522bb45793d586.ofd",
+      "ossPdfOfdSize": 1033622
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081817f3acb34017f4011c3be05fa",
+        "title": "中华人民共和国主席令第一〇八号",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818071f235018073d7a2850154",
+        "title": "中华人民共和国主席令第一〇八号",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818093af5c0180b221638c185d",
+        "title": "对《关于中国人民解放军现役士兵衔级制度的决定（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818071f235018073d7d0580156",
+        "title": "对《关于中国人民解放军现役士兵衔级制度的决定（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818180ad8e2b0180b2273df7024f",
+        "title": "全国人民代表大会宪法和法律委员会对《关于中国人民解放军现役士兵衔级制度的决定（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818071fafb018073d81e7b0164",
+        "title": "全国人民代表大会宪法和法律委员会对《关于中国人民解放军现役士兵衔级制度的决定（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2022-02-28",
+    "sxrq": "2022-03-31",
+    "title": "全国人民代表大会常务委员会关于中国人民解放军现役士兵衔级制度的决定",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-7e58-08dde37b23c1",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "全国人民代表大会常务委员会关于中国人民解放军现役士兵衔级制度的决定",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-7ec5-08dde37b23c1",
+          "parentId": "79890000-3e3b-0016-7e58-08dde37b23c1",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-88d9-08dde37b23c1",
+          "parentId": "79890000-3e3b-0016-7e58-08dde37b23c1",
+          "title": "一、",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-92ac-08dde37b23c1",
+          "parentId": "79890000-3e3b-0016-7e58-08dde37b23c1",
+          "title": "二、",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-9c55-08dde37b23c1",
+          "parentId": "79890000-3e3b-0016-7e58-08dde37b23c1",
+          "title": "三、",
+          "index": 4,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-a5ce-08dde37b23c1",
+          "parentId": "79890000-3e3b-0016-7e58-08dde37b23c1",
+          "title": "四、",
+          "index": 5,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-af5e-08dde37b23c1",
+          "parentId": "79890000-3e3b-0016-7e58-08dde37b23c1",
+          "title": "五、",
+          "index": 6,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-b8b4-08dde37b23c1",
+          "parentId": "79890000-3e3b-0016-7e58-08dde37b23c1",
+          "title": "六、",
+          "index": 7,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-c236-08dde37b23c1",
+          "parentId": "79890000-3e3b-0016-7e58-08dde37b23c1",
+          "title": "七、",
+          "index": 8,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-ccc1-08dde37b23c1",
+          "parentId": "79890000-3e3b-0016-7e58-08dde37b23c1",
+          "title": "八、",
+          "index": 9,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-d6e3-08dde37b23c1",
+          "parentId": "79890000-3e3b-0016-7e58-08dde37b23c1",
+          "title": "九、",
+          "index": 10,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-e081-08dde37b23c1",
+          "parentId": "79890000-3e3b-0016-7e58-08dde37b23c1",
+          "title": "十、",
+          "index": 11,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:30:29"
+}

@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40f0faf10cd2",
+  "title": "实施国际著作权条约的规定",
+  "gbrq": "1992-09-25",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40f0faf10cd2",
+    "ossFile": {
+      "ossWordPath": "prod/19920925/c31ae1d02ded4ebd95972b6b7fa398d8.docx",
+      "ossWordOfdPath": "prod/19920925/c31ae1d02ded4ebd95972b6b7fa398d8.ofd",
+      "ossWordOfdSize": 68158,
+      "ossPdfPath": "prod/19920925/16eb579e2606434f8f0d3d3d19e8ff73.pdf",
+      "ossPdfOfdPath": "prod/19920925/16eb579e2606434f8f0d3d3d19e8ff73.ofd",
+      "ossPdfOfdSize": 2589887
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d0c940177b90b38413874",
+        "title": "实施国际著作权条约的规定",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40f0faf10cd2",
+        "title": "实施国际著作权条约的规定",
+        "gbrq": "1992-09-25",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1992-09-25",
+    "sxrq": null,
+    "title": "实施国际著作权条约的规定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:35:56"
+}

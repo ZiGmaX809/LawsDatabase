@@ -1,0 +1,348 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf6a98a04dd",
+  "title": "中华人民共和国集会游行示威法",
+  "gbrq": "2009-08-27",
+  "sxrq": "2009-08-27",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf6a98a04dd",
+    "ossFile": {
+      "ossWordPath": "prod/20090827/49a92f44712247f5b55d7b806b44fd4c.docx",
+      "ossWordOfdPath": "prod/20090827/49a92f44712247f5b55d7b806b44fd4c.ofd",
+      "ossWordOfdSize": 122091,
+      "ossPdfPath": "prod/20090827/68018bc599e8416a925bd5de45bb85e3.pdf",
+      "ossPdfOfdPath": "prod/20090827/68018bc599e8416a925bd5de45bb85e3.ofd",
+      "ossPdfOfdSize": 1994600
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2009-08-27",
+    "sxrq": "2009-08-27",
+    "title": "中华人民共和国集会游行示威法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-9d17-08dd6fef7cf7",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国集会游行示威法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-9d9a-08dd6fef7cf7",
+          "parentId": "79890000-3e3b-0016-9d17-08dd6fef7cf7",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-9df5-08dd6fef7cf7",
+          "parentId": "79890000-3e3b-0016-9d17-08dd6fef7cf7",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-ac1d-08dd6fef7cf7",
+          "parentId": "79890000-3e3b-0016-9d17-08dd6fef7cf7",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b977-08dd6fef7cf7",
+              "parentId": "79890000-3e3b-0016-ac1d-08dd6fef7cf7",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c891-08dd6fef7cf7",
+              "parentId": "79890000-3e3b-0016-ac1d-08dd6fef7cf7",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dc40-08dd6fef7cf7",
+              "parentId": "79890000-3e3b-0016-ac1d-08dd6fef7cf7",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ecdc-08dd6fef7cf7",
+              "parentId": "79890000-3e3b-0016-ac1d-08dd6fef7cf7",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fad7-08dd6fef7cf7",
+              "parentId": "79890000-3e3b-0016-ac1d-08dd6fef7cf7",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-08d0-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-ac1d-08dd6fef7cf7",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-165b-08dd6fef7cf8",
+          "parentId": "79890000-3e3b-0016-9d17-08dd6fef7cf7",
+          "title": "第二章 集会游行示威的申请和许可",
+          "index": 10,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-238f-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-165b-08dd6fef7cf8",
+              "title": "第七条",
+              "index": 11,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-32ba-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-165b-08dd6fef7cf8",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-40d8-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-165b-08dd6fef7cf8",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4ea8-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-165b-08dd6fef7cf8",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5d1b-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-165b-08dd6fef7cf8",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6b71-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-165b-08dd6fef7cf8",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7b03-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-165b-08dd6fef7cf8",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-895c-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-165b-08dd6fef7cf8",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-99fe-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-165b-08dd6fef7cf8",
+              "title": "第十五条",
+              "index": 19,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-af95-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-165b-08dd6fef7cf8",
+              "title": "第十六条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-be76-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-165b-08dd6fef7cf8",
+              "title": "第十七条",
+              "index": 21,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-cb97-08dd6fef7cf8",
+          "parentId": "79890000-3e3b-0016-9d17-08dd6fef7cf7",
+          "title": "第三章 集会游行示威的举行",
+          "index": 22,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-d89e-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-cb97-08dd6fef7cf8",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e577-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-cb97-08dd6fef7cf8",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f2f0-08dd6fef7cf8",
+              "parentId": "79890000-3e3b-0016-cb97-08dd6fef7cf8",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-00a1-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-cb97-08dd6fef7cf8",
+              "title": "第二十一条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0e00-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-cb97-08dd6fef7cf8",
+              "title": "第二十二条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1c5b-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-cb97-08dd6fef7cf8",
+              "title": "第二十三条",
+              "index": 28,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2b95-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-cb97-08dd6fef7cf8",
+              "title": "第二十四条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-394a-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-cb97-08dd6fef7cf8",
+              "title": "第二十五条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4774-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-cb97-08dd6fef7cf8",
+              "title": "第二十六条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5543-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-cb97-08dd6fef7cf8",
+              "title": "第二十七条",
+              "index": 32,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-64bf-08dd6fef7cf9",
+          "parentId": "79890000-3e3b-0016-9d17-08dd6fef7cf7",
+          "title": "第四章 法律责任",
+          "index": 33,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-729b-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-64bf-08dd6fef7cf9",
+              "title": "第二十八条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-811f-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-64bf-08dd6fef7cf9",
+              "title": "第二十九条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9a17-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-64bf-08dd6fef7cf9",
+              "title": "第三十条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c45e-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-64bf-08dd6fef7cf9",
+              "title": "第三十一条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-d520-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-64bf-08dd6fef7cf9",
+              "title": "第三十二条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-e419-08dd6fef7cf9",
+              "parentId": "79890000-3e3b-0016-64bf-08dd6fef7cf9",
+              "title": "第三十三条",
+              "index": 39,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-f250-08dd6fef7cf9",
+          "parentId": "79890000-3e3b-0016-9d17-08dd6fef7cf7",
+          "title": "第五章 附则",
+          "index": 40,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0046-08dd6fef7cfa",
+              "parentId": "79890000-3e3b-0016-f250-08dd6fef7cf9",
+              "title": "第三十四条",
+              "index": 41,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0f2a-08dd6fef7cfa",
+              "parentId": "79890000-3e3b-0016-f250-08dd6fef7cf9",
+              "title": "第三十五条",
+              "index": 42,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1d55-08dd6fef7cfa",
+              "parentId": "79890000-3e3b-0016-f250-08dd6fef7cf9",
+              "title": "第三十六条",
+              "index": 43,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:45:37"
+}

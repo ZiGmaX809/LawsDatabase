@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081818fe2c502019010c856d73c47",
+  "title": "国有企业管理人员处分条例",
+  "gbrq": "2024-05-21",
+  "sxrq": "2024-09-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818fe2c502019010c856d73c47",
+    "ossFile": {
+      "ossWordPath": "prod/20240521/d666464d930b47c49d7d922f0706c449.docx",
+      "ossWordOfdPath": "prod/20240521/d666464d930b47c49d7d922f0706c449.ofd",
+      "ossWordOfdSize": 179205,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818f197cf0019010db0785728b",
+        "title": "中华人民共和国国务院令第781号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818f197cf0019010db46a67292",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-05-21",
+    "sxrq": "2024-09-01",
+    "title": "国有企业管理人员处分条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:05:01"
+}

@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4106e1021204",
+  "title": "商用密码管理条例",
+  "gbrq": "1999-10-07",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4106e1021204",
+    "ossFile": {
+      "ossWordPath": "prod/19991007/476e6e1009414b33a489aafd206233b7.docx",
+      "ossWordOfdPath": "prod/19991007/476e6e1009414b33a489aafd206233b7.ofd",
+      "ossWordOfdSize": 95279,
+      "ossPdfPath": "prod/19991007/9a8c6ce1774f4ef5a9affcf94a3b3969.pdf",
+      "ossPdfOfdPath": "prod/19991007/9a8c6ce1774f4ef5a9affcf94a3b3969.ofd",
+      "ossPdfOfdSize": 2765524
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818188d322d501897c5815c326cd",
+        "title": "商用密码管理条例",
+        "gbrq": "2023-04-27",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4106e1021204",
+        "title": "商用密码管理条例",
+        "gbrq": "1999-10-07",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1999-10-07",
+    "sxrq": null,
+    "title": "商用密码管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:31:31"
+}

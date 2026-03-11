@@ -1,0 +1,57 @@
+{
+  "bbbs": "66814b7d05d64e9f96a477722c25f633",
+  "title": "国务院关于修改《中华人民共和国国际海运条例》的决定",
+  "gbrq": "2025-09-28",
+  "sxrq": "2025-09-28",
+  "sxx": null,
+  "zdjgName": "国务院",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 215,
+  "detail": {
+    "bbbs": "66814b7d05d64e9f96a477722c25f633",
+    "ossFile": {
+      "ossWordPath": "prod/20250928/e1cce7b6679c406a89c3854b1945cd9b.docx",
+      "ossWordOfdPath": "prod/20250928/e1cce7b6679c406a89c3854b1945cd9b.ofd",
+      "ossWordOfdSize": 56364,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818198794ccd0199db96025c1642",
+        "title": "中华人民共和国国务院令第817号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181987921230199db964517172d",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "ff8081818a22132f018a6e36bb32230e",
+        "title": "中华人民共和国国际海运条例"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "国务院",
+    "gbrq": "2025-09-28",
+    "sxrq": "2025-09-28",
+    "title": "国务院关于修改《中华人民共和国国际海运条例》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:02:35"
+}

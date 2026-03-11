@@ -1,0 +1,328 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf608a7022b",
+  "title": "中华人民共和国公益事业捐赠法",
+  "gbrq": "1999-06-28",
+  "sxrq": "1999-09-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 150,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf608a7022b",
+    "ossFile": {
+      "ossWordPath": "prod/19990628/c98e8f615903472c808a8824147306ad.docx",
+      "ossWordOfdPath": "prod/19990628/c98e8f615903472c808a8824147306ad.ofd",
+      "ossWordOfdSize": 108254,
+      "ossPdfPath": "prod/19990628/740dc821e7be48f2a4e6370a90254a05.pdf",
+      "ossPdfOfdPath": "prod/19990628/740dc821e7be48f2a4e6370a90254a05.ofd",
+      "ossPdfOfdSize": 1981255
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1999-06-28",
+    "sxrq": "1999-09-01",
+    "title": "中华人民共和国公益事业捐赠法",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-8ec2-08dd5634c0fe",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国公益事业捐赠法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-8f77-08dd5634c0fe",
+          "parentId": "79890000-3e3b-0016-8ec2-08dd5634c0fe",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-8ff9-08dd5634c0fe",
+          "parentId": "79890000-3e3b-0016-8ec2-08dd5634c0fe",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-a34e-08dd5634c0fe",
+          "parentId": "79890000-3e3b-0016-8ec2-08dd5634c0fe",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-b556-08dd5634c0fe",
+              "parentId": "79890000-3e3b-0016-a34e-08dd5634c0fe",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c906-08dd5634c0fe",
+              "parentId": "79890000-3e3b-0016-a34e-08dd5634c0fe",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-db74-08dd5634c0fe",
+              "parentId": "79890000-3e3b-0016-a34e-08dd5634c0fe",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ee99-08dd5634c0fe",
+              "parentId": "79890000-3e3b-0016-a34e-08dd5634c0fe",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-01c2-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-a34e-08dd5634c0fe",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-131c-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-a34e-08dd5634c0fe",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2565-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-a34e-08dd5634c0fe",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-36fb-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-a34e-08dd5634c0fe",
+              "title": "第八条",
+              "index": 11,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-498c-08dd5634c0ff",
+          "parentId": "79890000-3e3b-0016-8ec2-08dd5634c0fe",
+          "title": "第二章 捐赠和受赠",
+          "index": 12,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-5d21-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-498c-08dd5634c0ff",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-7162-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-498c-08dd5634c0ff",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8620-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-498c-08dd5634c0ff",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9a36-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-498c-08dd5634c0ff",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ae9a-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-498c-08dd5634c0ff",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-be73-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-498c-08dd5634c0ff",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cb13-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-498c-08dd5634c0ff",
+              "title": "第十五条",
+              "index": 19,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-d73c-08dd5634c0ff",
+          "parentId": "79890000-3e3b-0016-8ec2-08dd5634c0fe",
+          "title": "第三章 捐赠财产的使用和管理",
+          "index": 20,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-e2b1-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-d73c-08dd5634c0ff",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ee61-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-d73c-08dd5634c0ff",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-fbb4-08dd5634c0ff",
+              "parentId": "79890000-3e3b-0016-d73c-08dd5634c0ff",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0865-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-d73c-08dd5634c0ff",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1467-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-d73c-08dd5634c0ff",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2154-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-d73c-08dd5634c0ff",
+              "title": "第二十一条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2e17-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-d73c-08dd5634c0ff",
+              "title": "第二十二条",
+              "index": 27,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3a68-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-d73c-08dd5634c0ff",
+              "title": "第二十三条",
+              "index": 28,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-476c-08dd5634c100",
+          "parentId": "79890000-3e3b-0016-8ec2-08dd5634c0fe",
+          "title": "第四章 优惠措施",
+          "index": 29,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-547c-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-476c-08dd5634c100",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-635a-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-476c-08dd5634c100",
+              "title": "第二十五条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-71d5-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-476c-08dd5634c100",
+              "title": "第二十六条",
+              "index": 32,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-807b-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-476c-08dd5634c100",
+              "title": "第二十七条",
+              "index": 33,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-8eab-08dd5634c100",
+          "parentId": "79890000-3e3b-0016-8ec2-08dd5634c0fe",
+          "title": "第五章 法律责任",
+          "index": 34,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-9dcc-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-8eab-08dd5634c100",
+              "title": "第二十八条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-acbe-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-8eab-08dd5634c100",
+              "title": "第二十九条",
+              "index": 36,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-bbe8-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-8eab-08dd5634c100",
+              "title": "第三十条",
+              "index": 37,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cb3f-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-8eab-08dd5634c100",
+              "title": "第三十一条",
+              "index": 38,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-d886-08dd5634c100",
+          "parentId": "79890000-3e3b-0016-8ec2-08dd5634c0fe",
+          "title": "第六章 附则",
+          "index": 39,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-e598-08dd5634c100",
+              "parentId": "79890000-3e3b-0016-d886-08dd5634c100",
+              "title": "第三十二条",
+              "index": 40,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:49:23"
+}

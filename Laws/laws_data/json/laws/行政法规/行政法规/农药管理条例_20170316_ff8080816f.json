@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4091d8dc0493",
+  "title": "农药管理条例",
+  "gbrq": "2017-03-16",
+  "sxrq": "2017-06-01",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4091d8dc0493",
+    "ossFile": {
+      "ossWordPath": "prod/20170316/da4abe5112a04458843debb2d691e3de.docx",
+      "ossWordOfdPath": "prod/20170316/da4abe5112a04458843debb2d691e3de.ofd",
+      "ossWordOfdSize": 182786,
+      "ossPdfPath": "prod/20170316/af71e9f8556b48b496ec98b1a2e565af.pdf",
+      "ossPdfOfdPath": "prod/20170316/af71e9f8556b48b496ec98b1a2e565af.ofd",
+      "ossPdfOfdSize": 8713099
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818180e0a61301811e288e1b1eab",
+        "title": "农药管理条例",
+        "gbrq": "2022-03-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4091d8dc0493",
+        "title": "农药管理条例",
+        "gbrq": "2017-03-16",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2017-03-16",
+    "sxrq": "2017-06-01",
+    "title": "农药管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:15:37"
+}

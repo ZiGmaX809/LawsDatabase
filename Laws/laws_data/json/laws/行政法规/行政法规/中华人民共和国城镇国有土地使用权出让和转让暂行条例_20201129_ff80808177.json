@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff808081777d0c940177b8c2f598365d",
+  "title": "中华人民共和国城镇国有土地使用权出让和转让暂行条例",
+  "gbrq": "2020-11-29",
+  "sxrq": "2020-11-29",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808081777d0c940177b8c2f598365d",
+    "ossFile": {
+      "ossWordPath": "prod/20201129/49dd4d09528847fe830e11c59e8fe6d0.docx",
+      "ossWordOfdPath": "prod/20201129/49dd4d09528847fe830e11c59e8fe6d0.ofd",
+      "ossWordOfdSize": 118419,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d0c940177b8c2f598365d",
+        "title": "中华人民共和国城镇国有土地使用权出让和转让暂行条例",
+        "gbrq": "2020-11-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f42370ce7038c",
+        "title": "中华人民共和国城镇国有土地使用权出让和转让暂行条例",
+        "gbrq": "1990-05-19",
+        "highLight": false
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2020-11-29",
+    "sxrq": "2020-11-29",
+    "title": "中华人民共和国城镇国有土地使用权出让和转让暂行条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:08:57"
+}

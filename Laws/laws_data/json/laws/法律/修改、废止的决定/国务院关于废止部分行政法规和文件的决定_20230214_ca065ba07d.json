@@ -1,0 +1,57 @@
+{
+  "bbbs": "ca065ba07dc3438dbf27052383c5788e",
+  "title": "国务院关于废止部分行政法规和文件的决定",
+  "gbrq": "2023-02-14",
+  "sxrq": "2023-03-31",
+  "sxx": null,
+  "zdjgName": "国务院",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 215,
+  "detail": {
+    "bbbs": "ca065ba07dc3438dbf27052383c5788e",
+    "ossFile": {
+      "ossWordPath": "prod/20230214/909624a0e1a4450fb7f7914665541c4f.docx",
+      "ossWordOfdPath": "prod/20230214/909624a0e1a4450fb7f7914665541c4f.ofd",
+      "ossWordOfdSize": 27438,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818808ed5501882de6a2da1dfe",
+        "title": "中华人民共和国国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818808ea8d01882de6dc291ed6",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": [
+      {
+        "bbbs": "ff8080816f3cbb3c016f4136e4471d46",
+        "title": "国务院关于股份有限公司境外募集股份及上市的特别规定"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "国务院",
+    "gbrq": "2023-02-14",
+    "sxrq": "2023-03-31",
+    "title": "国务院关于废止部分行政法规和文件的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:07:03"
+}

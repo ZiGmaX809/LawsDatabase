@@ -1,0 +1,100 @@
+{
+  "bbbs": "ff8081818c3ce31f018cb6a6bc412f55",
+  "title": "中华人民共和国刑法修正案（十二）",
+  "gbrq": "2023-12-29",
+  "sxrq": "2024-03-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修正案",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 195,
+  "detail": {
+    "bbbs": "ff8081818c3ce31f018cb6a6bc412f55",
+    "ossFile": {
+      "ossWordPath": "prod/20231229/acb6c525ff7b4d65b095b0298288c642.docx",
+      "ossWordOfdPath": "prod/20231229/acb6c525ff7b4d65b095b0298288c642.ofd",
+      "ossWordOfdSize": 65960,
+      "ossPdfPath": "prod/20231229/dd1772b06c1c41a08b5e9a1500c1b4c7.pdf",
+      "ossPdfOfdPath": "prod/20231229/dd1772b06c1c41a08b5e9a1500c1b4c7.ofd",
+      "ossPdfOfdSize": 953590
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a4464018e08cd6f3c1734",
+        "title": "中华人民共和国主席令（第十八号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4639018e08cda64716db",
+        "title": "中华人民共和国主席令（第十八号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a424b018e08ce13c1174f",
+        "title": "关于《中华人民共和国刑法修正案（十二）（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4639018e08ce3a3016e0",
+        "title": "关于《中华人民共和国刑法修正案（十二）（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4639018e08cee7f216e5",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国刑法修正案（十二）（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4464018e08cf0ee51744",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国刑法修正案（十二）（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4464018e08cf41cb1748",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国刑法修正案（十二）（草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4464018e08cf74f3174a",
+        "title": "全国人民代表大会宪法和法律委员会关于《中华人民共和国刑法修正案（十二）（草案二次审议稿）》修改意见的报告",
+        "titleHighLight": null,
+        "busiType": "修改意见的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "修正案",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2023-12-29",
+    "sxrq": "2024-03-01",
+    "title": "中华人民共和国刑法修正案（十二）",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:28:26"
+}

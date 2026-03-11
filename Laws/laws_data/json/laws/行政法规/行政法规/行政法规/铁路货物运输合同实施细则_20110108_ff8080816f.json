@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f413b8b461e09",
+  "title": "铁路货物运输合同实施细则",
+  "gbrq": "2011-01-08",
+  "sxrq": "",
+  "sxx": 1,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f413b8b461e09",
+    "ossFile": {
+      "ossWordPath": "prod/20110108/61a89984c13b4ca4b327aacb0804483e.docx",
+      "ossWordOfdPath": "prod/20110108/61a89984c13b4ca4b327aacb0804483e.ofd",
+      "ossWordOfdSize": 140237,
+      "ossPdfPath": "prod/20110108/09b2d7424328407c81c67ae7f9fd5301.pdf",
+      "ossPdfOfdPath": "prod/20110108/09b2d7424328407c81c67ae7f9fd5301.ofd",
+      "ossPdfOfdSize": 3889118
+    },
+    "xgwj": [
+      {
+        "bbbs": "ff808181804a1c5001805a8f14f1053b",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2011-01-08",
+    "sxrq": null,
+    "title": "铁路货物运输合同实施细则",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:26:12"
+}

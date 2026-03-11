@@ -1,0 +1,79 @@
+{
+  "bbbs": "ff8081819667441b0196a8a62afa3257",
+  "title": "医疗器械监督管理条例",
+  "gbrq": "2024-12-06",
+  "sxrq": "2025-01-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819667441b0196a8a62afa3257",
+    "ossFile": {
+      "ossWordPath": "prod/20241206/ccb838ad7c2b43d89915d75b16c0e1c7.docx",
+      "ossWordOfdPath": "prod/20241206/ccb838ad7c2b43d89915d75b16c0e1c7.ofd",
+      "ossWordOfdSize": 237418,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a8a62afa3257",
+        "title": "医疗器械监督管理条例",
+        "gbrq": "2024-12-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8081817b63b679017b7af7449134a3",
+        "title": "医疗器械监督管理条例",
+        "gbrq": "2021-02-09",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f410941d712b4",
+        "title": "医疗器械监督管理条例",
+        "gbrq": "2017-05-04",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081819667441b0196a8a8534a3260",
+        "title": "中华人民共和国国务院令第797号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181966737700196a8a8707131e6",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667441b0196a9dcf240361b",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-12-06",
+    "sxrq": "2025-01-20",
+    "title": "医疗器械监督管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:03:44"
+}

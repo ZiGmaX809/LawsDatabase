@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff808181799df6140179abf043c71983",
+  "title": "最高人民法院关于审理涉台民商事案件法律适用问题的规定",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799df6140179abf043c71983",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/3d81f4bf740e49bf90477cd1c8e03ef4.docx",
+      "ossWordOfdPath": "prod/20201229/3d81f4bf740e49bf90477cd1c8e03ef4.ofd",
+      "ossWordOfdSize": 30383,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799df6140179abf043c71983",
+        "title": "最高人民法院关于审理涉台民商事案件法律适用问题的规定",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e45ffbbe41015ffc60bfb50b69",
+        "title": "最高人民法院关于审理涉台民商事案件法律适用问题的规定",
+        "gbrq": "2010-12-27",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179a8b4320179b70ca7981569",
+        "title": "法释〔2020〕18号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179a8b4320179b70caacd156c",
+        "title": "法释〔2020〕18号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于审理涉台民商事案件法律适用问题的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:05:36"
+}

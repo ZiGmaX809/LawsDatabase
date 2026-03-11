@@ -1,0 +1,49 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5a6740055",
+  "title": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议",
+  "gbrq": "1978-05-24",
+  "sxrq": "1978-05-24",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 150,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5a6740055",
+    "ossFile": {
+      "ossWordPath": "prod/19780524/e741b7460cef4d3abb49c4a6e2ff65d9.docx",
+      "ossWordOfdPath": "prod/19780524/e741b7460cef4d3abb49c4a6e2ff65d9.ofd",
+      "ossWordOfdSize": 24495,
+      "ossPdfPath": "prod/19780524/87666e5d3c024ffea857524f9d57b499.pdf",
+      "ossPdfOfdPath": "prod/19780524/87666e5d3c024ffea857524f9d57b499.ofd",
+      "ossPdfOfdSize": 99771
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1978-05-24",
+    "sxrq": "1978-05-24",
+    "title": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-1ee4-08dde37b2347",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "全国人民代表大会常务委员会关于批准《国务院关于工人退休、退职的暂行办法》的决议",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-1f66-08dde37b2347",
+          "parentId": "79890000-3e3b-0016-1ee4-08dde37b2347",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:56:42"
+}

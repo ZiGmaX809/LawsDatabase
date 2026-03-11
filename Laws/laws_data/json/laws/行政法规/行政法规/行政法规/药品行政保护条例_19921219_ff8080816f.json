@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40f454150dda",
+  "title": "药品行政保护条例",
+  "gbrq": "1992-12-19",
+  "sxrq": "",
+  "sxx": 1,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40f454150dda",
+    "ossFile": {
+      "ossWordPath": "prod/19921219/ce9a694820664b94911c19c02bc43114.docx",
+      "ossWordOfdPath": "prod/19921219/ce9a694820664b94911c19c02bc43114.ofd",
+      "ossWordOfdSize": 80896,
+      "ossPdfPath": "prod/19921219/9c75f760cc994fac9888a3a477047036.pdf",
+      "ossPdfOfdPath": "prod/19921219/9c75f760cc994fac9888a3a477047036.ofd",
+      "ossPdfOfdSize": 3038569
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1992-12-19",
+    "sxrq": null,
+    "title": "药品行政保护条例",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:35:56"
+}

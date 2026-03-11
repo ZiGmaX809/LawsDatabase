@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3e98bd016f424ea6c504b5",
+  "title": "旅行社条例",
+  "gbrq": "2017-03-01",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f424ea6c504b5",
+    "ossFile": {
+      "ossWordPath": "prod/20170301/f44b4143d1494070857e5bdd7a8c8b16.docx",
+      "ossWordOfdPath": "prod/20170301/f44b4143d1494070857e5bdd7a8c8b16.ofd",
+      "ossWordOfdSize": 159486,
+      "ossPdfPath": "prod/20170301/a08fbb5ca1ed48f1b26ffe77a8a16358.pdf",
+      "ossPdfOfdPath": "prod/20170301/a08fbb5ca1ed48f1b26ffe77a8a16358.ofd",
+      "ossPdfOfdSize": 5585894
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d07c50177b8f4d125399e",
+        "title": "旅行社条例",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f424ea6c504b5",
+        "title": "旅行社条例",
+        "gbrq": "2017-03-01",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2017-03-01",
+    "sxrq": null,
+    "title": "旅行社条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:16:17"
+}

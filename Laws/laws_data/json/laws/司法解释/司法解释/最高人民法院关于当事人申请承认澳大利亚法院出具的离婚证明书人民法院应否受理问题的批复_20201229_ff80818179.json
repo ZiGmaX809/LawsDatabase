@@ -1,0 +1,70 @@
+{
+  "bbbs": "ff808181799df6140179b0e257122c76",
+  "title": "最高人民法院关于当事人申请承认澳大利亚法院出具的离婚证明书人民法院应否受理问题的批复",
+  "gbrq": "2020-12-29",
+  "sxrq": "2021-01-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff808181799df6140179b0e257122c76",
+    "ossFile": {
+      "ossWordPath": "prod/20201229/1410584cfca84b8c98f456bad6ad4076.doc",
+      "ossWordOfdPath": "prod/20201229/1410584cfca84b8c98f456bad6ad4076.ofd",
+      "ossWordOfdSize": 38047,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "ff8081818a21e6c3018bf5e4fd726c0a",
+        "title": "最高人民法院关于修改《最高人民法院关于人民法院民事调解工作若干问题的规定》等十九件民事诉讼类司法解释的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff808181799df6140179b0e257122c76",
+        "title": "最高人民法院关于当事人申请承认澳大利亚法院出具的离婚证明书人民法院应否受理问题的批复",
+        "gbrq": "2020-12-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "402881e45ffff9500160009667510924",
+        "title": "最高人民法院关于当事人申请承认澳大利亚法院出具的离婚证明书人民法院应否受理问题的批复",
+        "gbrq": "2005-07-26",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff80818179a8c7550179c056e18a2eb5",
+        "title": "法释〔2020〕20号修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "doc",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818179a8b4320179c056e3e62f52",
+        "title": "法释〔2020〕20号公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2020-12-29",
+    "sxrq": "2021-01-01",
+    "title": "最高人民法院关于当事人申请承认澳大利亚法院出具的离婚证明书人民法院应否受理问题的批复",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 01:05:33"
+}

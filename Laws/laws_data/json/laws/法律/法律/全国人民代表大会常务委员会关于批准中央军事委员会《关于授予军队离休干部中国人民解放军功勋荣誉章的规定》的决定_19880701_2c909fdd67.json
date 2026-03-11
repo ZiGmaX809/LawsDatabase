@@ -1,0 +1,49 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5bfbf00d7",
+  "title": "全国人民代表大会常务委员会关于批准中央军事委员会《关于授予军队离休干部中国人民解放军功勋荣誉章的规定》的决定",
+  "gbrq": "1988-07-01",
+  "sxrq": "1988-07-01",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5bfbf00d7",
+    "ossFile": {
+      "ossWordPath": "prod/19880701/b49bdf886f6446f88760cd5d0b24bd71.docx",
+      "ossWordOfdPath": "prod/19880701/b49bdf886f6446f88760cd5d0b24bd71.ofd",
+      "ossWordOfdSize": 28245,
+      "ossPdfPath": "prod/19880701/1816986fe46a40c4b2e4124c429188a9.pdf",
+      "ossPdfOfdPath": "prod/19880701/1816986fe46a40c4b2e4124c429188a9.ofd",
+      "ossPdfOfdSize": 212344
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "1988-07-01",
+    "sxrq": "1988-07-01",
+    "title": "全国人民代表大会常务委员会关于批准中央军事委员会《关于授予军队离休干部中国人民解放军功勋荣誉章的规定》的决定",
+    "sxx": 3,
+    "content": {
+      "id": "79890000-3e3b-0016-57d0-08dde37b2360",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "全国人民代表大会常务委员会关于批准中央军事委员会《关于授予军队离休干部中国人民解放军功勋荣誉章的规定》的决定",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-585e-08dde37b2360",
+          "parentId": "79890000-3e3b-0016-57d0-08dde37b2360",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:50:38"
+}

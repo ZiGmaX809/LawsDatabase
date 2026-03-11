@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8081817cac2ab8017cac9f8dca0d73",
+  "title": "全国人民代表大会常务委员会关于修改《中华人民共和国审计法》的决定",
+  "gbrq": "2021-10-23",
+  "sxrq": "2022-01-01",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "修改、废止的决定",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 200,
+  "detail": {
+    "bbbs": "ff8081817cac2ab8017cac9f8dca0d73",
+    "ossFile": {
+      "ossWordPath": "prod/20211023/9919f2dc8bee421981e27a99fe7b408e.docx",
+      "ossWordOfdPath": "prod/20211023/9919f2dc8bee421981e27a99fe7b408e.ofd",
+      "ossWordOfdSize": 110785,
+      "ossPdfPath": "prod/20211023/ec69d8fdd2314e46881704726f0c6fa7.pdf",
+      "ossPdfOfdPath": "prod/20211023/ec69d8fdd2314e46881704726f0c6fa7.ofd",
+      "ossPdfOfdSize": 1020444
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": [
+      {
+        "bbbs": "2c909fdd678bf17901678bf634b5031b",
+        "title": "中华人民共和国审计法"
+      }
+    ],
+    "flxz": "修改、废止的决定",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2021-10-23",
+    "sxrq": "2022-01-01",
+    "title": "全国人民代表大会常务委员会关于修改《中华人民共和国审计法》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:31:14"
+}

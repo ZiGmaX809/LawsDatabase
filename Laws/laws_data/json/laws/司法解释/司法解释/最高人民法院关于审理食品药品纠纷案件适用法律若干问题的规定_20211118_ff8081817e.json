@@ -1,0 +1,71 @@
+{
+  "bbbs": "ff8081817e8f99c0017e9af07ac66ce5",
+  "title": "最高人民法院关于审理食品药品纠纷案件适用法律若干问题的规定",
+  "gbrq": "2021-11-18",
+  "sxrq": "2021-12-01",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081817e8f99c0017e9af07ac66ce5",
+    "ossFile": {
+      "ossWordPath": "prod/20211118/4d262cbf66ed462d815fc45fe2bf7ed3.docx",
+      "ossWordOfdPath": "prod/20211118/4d262cbf66ed462d815fc45fe2bf7ed3.ofd",
+      "ossWordOfdSize": 82957,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081817e8f99c0017e9af07ac66ce5",
+        "title": "最高人民法院关于审理食品药品纠纷案件适用法律若干问题的规定",
+        "gbrq": "2021-11-18",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff808181799df6140179b0a14faa2bae",
+        "title": "最高人民法院关于审理食品药品纠纷案件适用法律若干问题的规定",
+        "gbrq": "2020-12-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "402881e45ffbbe41015ffc5f06a00b2d",
+        "title": "最高人民法院关于审理食品药品纠纷案件适用法律若干问题的规定",
+        "gbrq": "2013-12-23",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081817e8b6cd8017ea414ad590914",
+        "title": "法释2021-17修改决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817e8b8935017ea414bbfd0925",
+        "title": "法释2021-17公告",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2021-11-18",
+    "sxrq": "2021-12-01",
+    "title": "最高人民法院关于审理食品药品纠纷案件适用法律若干问题的规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:43"
+}

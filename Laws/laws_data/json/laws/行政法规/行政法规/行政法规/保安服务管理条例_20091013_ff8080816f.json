@@ -1,0 +1,54 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40e4a00f099b",
+  "title": "保安服务管理条例",
+  "gbrq": "2009-10-13",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40e4a00f099b",
+    "ossFile": {
+      "ossWordPath": "prod/20091013/194026760d17426fa85b33ef4e44107f.docx",
+      "ossWordOfdPath": "prod/20091013/194026760d17426fa85b33ef4e44107f.ofd",
+      "ossWordOfdSize": 162278,
+      "ossPdfPath": "prod/20091013/2e50c00215c8448383c11b4c691d9ba7.pdf",
+      "ossPdfOfdPath": "prod/20091013/2e50c00215c8448383c11b4c691d9ba7.ofd",
+      "ossPdfOfdSize": 5901558
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818180e0a44101811e02f73c12bf",
+        "title": "保安服务管理条例",
+        "gbrq": "2022-03-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff808081777d0c940177b82b96682b23",
+        "title": "保安服务管理条例",
+        "gbrq": "2020-11-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40e4a00f099b",
+        "title": "保安服务管理条例",
+        "gbrq": "2009-10-13",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2009-10-13",
+    "sxrq": null,
+    "title": "保安服务管理条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:27:07"
+}

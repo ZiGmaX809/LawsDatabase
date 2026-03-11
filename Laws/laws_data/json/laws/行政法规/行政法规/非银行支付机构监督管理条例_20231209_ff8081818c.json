@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081818c24df58018c8d185c8f657a",
+  "title": "非银行支付机构监督管理条例",
+  "gbrq": "2023-12-09",
+  "sxrq": "2024-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081818c24df58018c8d185c8f657a",
+    "ossFile": {
+      "ossWordPath": "prod/20231209/8ac22a18093a49f987a8ea7be5c3b3ec.docx",
+      "ossWordOfdPath": "prod/20231209/8ac22a18093a49f987a8ea7be5c3b3ec.ofd",
+      "ossWordOfdSize": 163783,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818c3ce0ed018c8f33d3a72111",
+        "title": "中华人民共和国国务院令第768号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818c3cdbf6018c8f3411cb21de",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2023-12-09",
+    "sxrq": "2024-05-01",
+    "title": "非银行支付机构监督管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:06:03"
+}

@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4137eaa21d7b",
+  "title": "残疾人教育条例",
+  "gbrq": "2017-02-01",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4137eaa21d7b",
+    "ossFile": {
+      "ossWordPath": "prod/20170201/68ff2ca06bc84f8e9fa09479de73d8e7.docx",
+      "ossWordOfdPath": "prod/20170201/68ff2ca06bc84f8e9fa09479de73d8e7.ofd",
+      "ossWordOfdSize": 158207,
+      "ossPdfPath": "prod/20170201/3ea015fe091a409a91e255810d929f1f.pdf",
+      "ossPdfOfdPath": "prod/20170201/3ea015fe091a409a91e255810d929f1f.ofd",
+      "ossPdfOfdSize": 6308496
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2017-02-01",
+    "sxrq": null,
+    "title": "残疾人教育条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:16:29"
+}

@@ -1,0 +1,384 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf643400357",
+  "title": "中华人民共和国反洗钱法",
+  "gbrq": "2006-10-31",
+  "sxrq": "2007-01-01",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "法律",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 140,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf643400357",
+    "ossFile": {
+      "ossWordPath": "prod/20061031/bafd4dd0cafd4b93a3975b91947296ef.docx",
+      "ossWordOfdPath": "prod/20061031/bafd4dd0cafd4b93a3975b91947296ef.ofd",
+      "ossWordOfdSize": 125190,
+      "ossPdfPath": "prod/20061031/bf1dc10c710447ca88ba2b402b7aea15.pdf",
+      "ossPdfOfdPath": "prod/20061031/bf1dc10c710447ca88ba2b402b7aea15.ofd",
+      "ossPdfOfdSize": 3489405
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181927b2d1a01930c84b1c96d8b",
+        "title": "中华人民共和国反洗钱法",
+        "gbrq": "2024-11-08",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf643400357",
+        "title": "中华人民共和国反洗钱法",
+        "gbrq": "2006-10-31",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2006-10-31",
+    "sxrq": "2007-01-01",
+    "title": "中华人民共和国反洗钱法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-4df8-08dd56fd4c0e",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国反洗钱法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-4ec3-08dd56fd4c0e",
+          "parentId": "79890000-3e3b-0016-4df8-08dd56fd4c0e",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-4f3d-08dd56fd4c0e",
+          "parentId": "79890000-3e3b-0016-4df8-08dd56fd4c0e",
+          "title": "目录",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-644e-08dd56fd4c0e",
+          "parentId": "79890000-3e3b-0016-4df8-08dd56fd4c0e",
+          "title": "第一章 总则",
+          "index": 3,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-777c-08dd56fd4c0e",
+              "parentId": "79890000-3e3b-0016-644e-08dd56fd4c0e",
+              "title": "第一条",
+              "index": 4,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8be7-08dd56fd4c0e",
+              "parentId": "79890000-3e3b-0016-644e-08dd56fd4c0e",
+              "title": "第二条",
+              "index": 5,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9faf-08dd56fd4c0e",
+              "parentId": "79890000-3e3b-0016-644e-08dd56fd4c0e",
+              "title": "第三条",
+              "index": 6,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b407-08dd56fd4c0e",
+              "parentId": "79890000-3e3b-0016-644e-08dd56fd4c0e",
+              "title": "第四条",
+              "index": 7,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c9ab-08dd56fd4c0e",
+              "parentId": "79890000-3e3b-0016-644e-08dd56fd4c0e",
+              "title": "第五条",
+              "index": 8,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dc22-08dd56fd4c0e",
+              "parentId": "79890000-3e3b-0016-644e-08dd56fd4c0e",
+              "title": "第六条",
+              "index": 9,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-f030-08dd56fd4c0e",
+              "parentId": "79890000-3e3b-0016-644e-08dd56fd4c0e",
+              "title": "第七条",
+              "index": 10,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-0270-08dd56fd4c0f",
+          "parentId": "79890000-3e3b-0016-4df8-08dd56fd4c0e",
+          "title": "第二章 反洗钱监督管理",
+          "index": 11,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-1698-08dd56fd4c0f",
+              "parentId": "79890000-3e3b-0016-0270-08dd56fd4c0f",
+              "title": "第八条",
+              "index": 12,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2c73-08dd56fd4c0f",
+              "parentId": "79890000-3e3b-0016-0270-08dd56fd4c0f",
+              "title": "第九条",
+              "index": 13,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4260-08dd56fd4c0f",
+              "parentId": "79890000-3e3b-0016-0270-08dd56fd4c0f",
+              "title": "第十条",
+              "index": 14,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-56c2-08dd56fd4c0f",
+              "parentId": "79890000-3e3b-0016-0270-08dd56fd4c0f",
+              "title": "第十一条",
+              "index": 15,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-6f6a-08dd56fd4c0f",
+              "parentId": "79890000-3e3b-0016-0270-08dd56fd4c0f",
+              "title": "第十二条",
+              "index": 16,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8075-08dd56fd4c0f",
+              "parentId": "79890000-3e3b-0016-0270-08dd56fd4c0f",
+              "title": "第十三条",
+              "index": 17,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-8f0e-08dd56fd4c0f",
+              "parentId": "79890000-3e3b-0016-0270-08dd56fd4c0f",
+              "title": "第十四条",
+              "index": 18,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-9bc0-08dd56fd4c0f",
+          "parentId": "79890000-3e3b-0016-4df8-08dd56fd4c0e",
+          "title": "第三章 金融机构反洗钱义务",
+          "index": 19,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-a824-08dd56fd4c0f",
+              "parentId": "79890000-3e3b-0016-9bc0-08dd56fd4c0f",
+              "title": "第十五条",
+              "index": 20,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-b4d1-08dd56fd4c0f",
+              "parentId": "79890000-3e3b-0016-9bc0-08dd56fd4c0f",
+              "title": "第十六条",
+              "index": 21,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-c278-08dd56fd4c0f",
+              "parentId": "79890000-3e3b-0016-9bc0-08dd56fd4c0f",
+              "title": "第十七条",
+              "index": 22,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cf6c-08dd56fd4c0f",
+              "parentId": "79890000-3e3b-0016-9bc0-08dd56fd4c0f",
+              "title": "第十八条",
+              "index": 23,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dc8a-08dd56fd4c0f",
+              "parentId": "79890000-3e3b-0016-9bc0-08dd56fd4c0f",
+              "title": "第十九条",
+              "index": 24,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-0652-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-9bc0-08dd56fd4c0f",
+              "title": "第二十条",
+              "index": 25,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-16f9-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-9bc0-08dd56fd4c0f",
+              "title": "第二十一条",
+              "index": 26,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-249b-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-9bc0-08dd56fd4c0f",
+              "title": "第二十二条",
+              "index": 27,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-31fa-08dd56fd4c10",
+          "parentId": "79890000-3e3b-0016-4df8-08dd56fd4c0e",
+          "title": "第四章 反洗钱调查",
+          "index": 28,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-3f36-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-31fa-08dd56fd4c10",
+              "title": "第二十三条",
+              "index": 29,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-4d0a-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-31fa-08dd56fd4c10",
+              "title": "第二十四条",
+              "index": 30,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-5aa7-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-31fa-08dd56fd4c10",
+              "title": "第二十五条",
+              "index": 31,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-68c7-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-31fa-08dd56fd4c10",
+              "title": "第二十六条",
+              "index": 32,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-7650-08dd56fd4c10",
+          "parentId": "79890000-3e3b-0016-4df8-08dd56fd4c0e",
+          "title": "第五章 反洗钱国际合作",
+          "index": 33,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-83b8-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-7650-08dd56fd4c10",
+              "title": "第二十七条",
+              "index": 34,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-921d-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-7650-08dd56fd4c10",
+              "title": "第二十八条",
+              "index": 35,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-9ff5-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-7650-08dd56fd4c10",
+              "title": "第二十九条",
+              "index": 36,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-ae04-08dd56fd4c10",
+          "parentId": "79890000-3e3b-0016-4df8-08dd56fd4c0e",
+          "title": "第六章 法律责任",
+          "index": 37,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-bbfb-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-ae04-08dd56fd4c10",
+              "title": "第三十条",
+              "index": 38,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-cc37-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-ae04-08dd56fd4c10",
+              "title": "第三十一条",
+              "index": 39,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-dd02-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-ae04-08dd56fd4c10",
+              "title": "第三十二条",
+              "index": 40,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-ee62-08dd56fd4c10",
+              "parentId": "79890000-3e3b-0016-ae04-08dd56fd4c10",
+              "title": "第三十三条",
+              "index": 41,
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "79890000-3e3b-0016-fdef-08dd56fd4c10",
+          "parentId": "79890000-3e3b-0016-4df8-08dd56fd4c0e",
+          "title": "第七章 附则",
+          "index": 42,
+          "children": [
+            {
+              "id": "79890000-3e3b-0016-0db8-08dd56fd4c11",
+              "parentId": "79890000-3e3b-0016-fdef-08dd56fd4c10",
+              "title": "第三十四条",
+              "index": 43,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-1dce-08dd56fd4c11",
+              "parentId": "79890000-3e3b-0016-fdef-08dd56fd4c10",
+              "title": "第三十五条",
+              "index": 44,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-2e60-08dd56fd4c11",
+              "parentId": "79890000-3e3b-0016-fdef-08dd56fd4c10",
+              "title": "第三十六条",
+              "index": 45,
+              "children": []
+            },
+            {
+              "id": "79890000-3e3b-0016-3dbe-08dd56fd4c11",
+              "parentId": "79890000-3e3b-0016-fdef-08dd56fd4c10",
+              "title": "第三十七条",
+              "index": 46,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:47:23"
+}

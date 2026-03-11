@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f413f689f1ec1",
+  "title": "烈士褒扬条例",
+  "gbrq": "2019-08-01",
+  "sxrq": "2019-08-01",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f413f689f1ec1",
+    "ossFile": {
+      "ossWordPath": "prod/20190801/7a3b0a040a9344c494ac927f00113c4f.docx",
+      "ossWordOfdPath": "prod/20190801/7a3b0a040a9344c494ac927f00113c4f.ofd",
+      "ossWordOfdSize": 150913,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181927f0e7b0192949ff642357d",
+        "title": "烈士褒扬条例",
+        "gbrq": "2024-09-27",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f413f689f1ec1",
+        "title": "烈士褒扬条例",
+        "gbrq": "2019-08-01",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-08-01",
+    "sxrq": "2019-08-01",
+    "title": "烈士褒扬条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:10:14"
+}

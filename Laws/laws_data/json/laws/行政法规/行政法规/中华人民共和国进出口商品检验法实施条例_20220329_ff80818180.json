@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff80818180e0a61301811e48085f1fd5",
+  "title": "中华人民共和国进出口商品检验法实施条例",
+  "gbrq": "2022-03-29",
+  "sxrq": "2022-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff80818180e0a61301811e48085f1fd5",
+    "ossFile": {
+      "ossWordPath": "prod/20220329/50b5bf54b956448baacdf9bf83a8a28c.docx",
+      "ossWordOfdPath": "prod/20220329/50b5bf54b956448baacdf9bf83a8a28c.ofd",
+      "ossWordOfdSize": 144544,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff80818180e0a61301811e48085f1fd5",
+        "title": "中华人民共和国进出口商品检验法实施条例",
+        "gbrq": "2022-03-29",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4128f1561a67",
+        "title": "中华人民共和国进出口商品检验法实施条例",
+        "gbrq": "2019-03-02",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081818119c51301811e81d18b0332",
+        "title": "中华人民共和国国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c86b01811e8202270360",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818119c86b01811e8211f90361",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2022-03-29",
+    "sxrq": "2022-05-01",
+    "title": "中华人民共和国进出口商品检验法实施条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:07:33"
+}

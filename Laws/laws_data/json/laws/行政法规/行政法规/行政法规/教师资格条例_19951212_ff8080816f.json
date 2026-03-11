@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3e9784016f41e4c09b014b",
+  "title": "教师资格条例",
+  "gbrq": "1995-12-12",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e9784016f41e4c09b014b",
+    "ossFile": {
+      "ossWordPath": "prod/19951212/016077288fa944fa8ed29f842ce4263f.docx",
+      "ossWordOfdPath": "prod/19951212/016077288fa944fa8ed29f842ce4263f.ofd",
+      "ossWordOfdSize": 98071,
+      "ossPdfPath": "prod/19951212/de9970bc6f9e45ccb9b5de56390f6d06.pdf",
+      "ossPdfOfdPath": "prod/19951212/de9970bc6f9e45ccb9b5de56390f6d06.ofd",
+      "ossPdfOfdSize": 4423551
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "1995-12-12",
+    "sxrq": null,
+    "title": "教师资格条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:32:52"
+}

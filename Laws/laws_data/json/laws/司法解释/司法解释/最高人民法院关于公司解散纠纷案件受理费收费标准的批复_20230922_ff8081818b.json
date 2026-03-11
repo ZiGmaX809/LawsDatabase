@@ -1,0 +1,44 @@
+{
+  "bbbs": "ff8081818bd2739d018bf51548a6011d",
+  "title": "最高人民法院关于公司解散纠纷案件受理费收费标准的批复",
+  "gbrq": "2023-09-22",
+  "sxrq": "2023-09-22",
+  "sxx": 3,
+  "zdjgName": "最高人民法院",
+  "flxz": "司法解释",
+  "zdjgCodeId": 140,
+  "flfgCodeId": 320,
+  "detail": {
+    "bbbs": "ff8081818bd2739d018bf51548a6011d",
+    "ossFile": {
+      "ossWordPath": "prod/20230922/ca1997f3c66d4f1cb8a551c8c7794496.docx",
+      "ossWordOfdPath": "prod/20230922/ca1997f3c66d4f1cb8a551c8c7794496.ofd",
+      "ossWordOfdSize": 32651,
+      "ossPdfPath": "prod/20230922/ffd712cbfff340aab92762b2edcdcf18.pdf",
+      "ossPdfOfdPath": "prod/20230922/ffd712cbfff340aab92762b2edcdcf18.ofd",
+      "ossPdfOfdSize": 237408
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a4464018e167ff43d1918",
+        "title": "法释2023-9公告",
+        "titleHighLight": null,
+        "busiType": "公告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "司法解释",
+    "zdjgName": "最高人民法院",
+    "gbrq": "2023-09-22",
+    "sxrq": "2023-09-22",
+    "title": "最高人民法院关于公司解散纠纷案件受理费收费标准的批复",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:45:34"
+}

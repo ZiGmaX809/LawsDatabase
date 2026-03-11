@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f408e3f16043d",
+  "title": "民用建筑节能条例",
+  "gbrq": "2008-08-01",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f408e3f16043d",
+    "ossFile": {
+      "ossWordPath": "prod/20080801/df9e7cadb433486bbd40ee01d711b1ae.docx",
+      "ossWordOfdPath": "prod/20080801/df9e7cadb433486bbd40ee01d711b1ae.ofd",
+      "ossWordOfdSize": 136779,
+      "ossPdfPath": "prod/20080801/0c749062f14f4a208c3dac3a54b53b00.pdf",
+      "ossPdfOfdPath": "prod/20080801/0c749062f14f4a208c3dac3a54b53b00.ofd",
+      "ossPdfOfdSize": 6291300
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2008-08-01",
+    "sxrq": null,
+    "title": "民用建筑节能条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:27:44"
+}

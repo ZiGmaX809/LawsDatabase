@@ -1,0 +1,139 @@
+{
+  "bbbs": "2c909fdd678bf17901678bf5ae1e009b",
+  "title": "中华人民共和国国务院组织法",
+  "gbrq": "1982-12-10",
+  "sxrq": "1982-12-10",
+  "sxx": 2,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "法律",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "2c909fdd678bf17901678bf5ae1e009b",
+    "ossFile": {
+      "ossWordPath": "prod/19821210/976e2821120d45faa35d3eb781be9d1e.docx",
+      "ossWordOfdPath": "prod/19821210/976e2821120d45faa35d3eb781be9d1e.ofd",
+      "ossWordOfdSize": 47362,
+      "ossPdfPath": "prod/19821210/150532a89d034fa2ac5d1397e66be3b6.pdf",
+      "ossPdfOfdPath": "prod/19821210/150532a89d034fa2ac5d1397e66be3b6.ofd",
+      "ossPdfOfdSize": 666825
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081818d6a4464018e2de2868d1dfa",
+        "title": "中华人民共和国国务院组织法",
+        "gbrq": "2024-03-11",
+        "highLight": false
+      },
+      {
+        "bbbs": "2c909fdd678bf17901678bf5ae1e009b",
+        "title": "中华人民共和国国务院组织法",
+        "gbrq": "1982-12-10",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "1982-12-10",
+    "sxrq": "1982-12-10",
+    "title": "中华人民共和国国务院组织法",
+    "sxx": 2,
+    "content": {
+      "id": "79890000-3e3b-0016-b014-08dd5a00a185",
+      "parentId": "00000000-0000-0000-0000-000000000000",
+      "title": "中华人民共和国国务院组织法",
+      "index": 0,
+      "children": [
+        {
+          "id": "79890000-3e3b-0016-b098-08dd5a00a185",
+          "parentId": "79890000-3e3b-0016-b014-08dd5a00a185",
+          "title": "题注",
+          "index": 1,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-bde1-08dd5a00a185",
+          "parentId": "79890000-3e3b-0016-b014-08dd5a00a185",
+          "title": "第一条",
+          "index": 2,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-cc0b-08dd5a00a185",
+          "parentId": "79890000-3e3b-0016-b014-08dd5a00a185",
+          "title": "第二条",
+          "index": 3,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-dbb7-08dd5a00a185",
+          "parentId": "79890000-3e3b-0016-b014-08dd5a00a185",
+          "title": "第三条",
+          "index": 4,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-e820-08dd5a00a185",
+          "parentId": "79890000-3e3b-0016-b014-08dd5a00a185",
+          "title": "第四条",
+          "index": 5,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-f267-08dd5a00a185",
+          "parentId": "79890000-3e3b-0016-b014-08dd5a00a185",
+          "title": "第五条",
+          "index": 6,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-fc33-08dd5a00a185",
+          "parentId": "79890000-3e3b-0016-b014-08dd5a00a185",
+          "title": "第六条",
+          "index": 7,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-04cf-08dd5a00a186",
+          "parentId": "79890000-3e3b-0016-b014-08dd5a00a185",
+          "title": "第七条",
+          "index": 8,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-0df0-08dd5a00a186",
+          "parentId": "79890000-3e3b-0016-b014-08dd5a00a185",
+          "title": "第八条",
+          "index": 9,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-173d-08dd5a00a186",
+          "parentId": "79890000-3e3b-0016-b014-08dd5a00a185",
+          "title": "第九条",
+          "index": 10,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-2069-08dd5a00a186",
+          "parentId": "79890000-3e3b-0016-b014-08dd5a00a185",
+          "title": "第十条",
+          "index": 11,
+          "children": []
+        },
+        {
+          "id": "79890000-3e3b-0016-28eb-08dd5a00a186",
+          "parentId": "79890000-3e3b-0016-b014-08dd5a00a185",
+          "title": "第十一条",
+          "index": 12,
+          "children": []
+        }
+      ]
+    },
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:50:59"
+}

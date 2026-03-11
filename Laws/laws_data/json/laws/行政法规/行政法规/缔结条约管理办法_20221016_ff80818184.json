@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff808181844232f7018576e428bd60b5",
+  "title": "缔结条约管理办法",
+  "gbrq": "2022-10-16",
+  "sxrq": "2023-01-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff808181844232f7018576e428bd60b5",
+    "ossFile": {
+      "ossWordPath": "prod/20221016/672f133dce2548c598276bfd163c3554.docx",
+      "ossWordOfdPath": "prod/20221016/672f133dce2548c598276bfd163c3554.ofd",
+      "ossWordOfdSize": 96323,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff80818185764705018576eb8937012e",
+        "title": "中华人民共和国国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff80818185764778018576ebc694011d",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2022-10-16",
+    "sxrq": "2023-01-01",
+    "title": "缔结条约管理办法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:07:08"
+}

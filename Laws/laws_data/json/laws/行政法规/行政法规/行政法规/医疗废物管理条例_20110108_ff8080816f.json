@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40dea19f087a",
+  "title": "医疗废物管理条例",
+  "gbrq": "2011-01-08",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40dea19f087a",
+    "ossFile": {
+      "ossWordPath": "prod/20110108/02dccadf1fd24569b72d74d951d3a6ee.docx",
+      "ossWordOfdPath": "prod/20110108/02dccadf1fd24569b72d74d951d3a6ee.ofd",
+      "ossWordOfdSize": 161548,
+      "ossPdfPath": "prod/20110108/912942d1590748fe9393b9862c19b13b.pdf",
+      "ossPdfOfdPath": "prod/20110108/912942d1590748fe9393b9862c19b13b.ofd",
+      "ossPdfOfdSize": 5554894
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2011-01-08",
+    "sxrq": null,
+    "title": "医疗废物管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:25:30"
+}

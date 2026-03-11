@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4126e4831a08",
+  "title": "企业信息公示暂行条例",
+  "gbrq": "2014-08-07",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4126e4831a08",
+    "ossFile": {
+      "ossWordPath": "prod/20140807/5bd83e8251c3489da95089594dc0b4ae.docx",
+      "ossWordOfdPath": "prod/20140807/5bd83e8251c3489da95089594dc0b4ae.ofd",
+      "ossWordOfdSize": 106700,
+      "ossPdfPath": "prod/20140807/8487ffa5bcc04eacaad25c29fc89dd78.pdf",
+      "ossPdfOfdPath": "prod/20140807/8487ffa5bcc04eacaad25c29fc89dd78.ofd",
+      "ossPdfOfdSize": 2039222
+    },
+    "xgwj": [
+      {
+        "bbbs": "a639a272c67a4947ae7c9b5258b7378e",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196aa0778e03748",
+        "title": "企业信息公示暂行条例",
+        "gbrq": "2024-03-10",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4126e4831a08",
+        "title": "企业信息公示暂行条例",
+        "gbrq": "2014-08-07",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2014-08-07",
+    "sxrq": null,
+    "title": "企业信息公示暂行条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:21:47"
+}

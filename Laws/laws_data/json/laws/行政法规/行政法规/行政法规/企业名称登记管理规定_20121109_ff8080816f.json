@@ -1,0 +1,48 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40d400160618",
+  "title": "企业名称登记管理规定",
+  "gbrq": "2012-11-09",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40d400160618",
+    "ossFile": {
+      "ossWordPath": "prod/20121109/6ae8af42c0c241748fa3ad6cbfde86e9.docx",
+      "ossWordOfdPath": "prod/20121109/6ae8af42c0c241748fa3ad6cbfde86e9.ofd",
+      "ossWordOfdSize": 110659,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808081777d0c94017784da4aa50a73",
+        "title": "企业名称登记管理规定",
+        "gbrq": "2020-12-28",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40d400160618",
+        "title": "企业名称登记管理规定",
+        "gbrq": "2012-11-09",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2012-11-09",
+    "sxrq": null,
+    "title": "企业名称登记管理规定",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:23:31"
+}

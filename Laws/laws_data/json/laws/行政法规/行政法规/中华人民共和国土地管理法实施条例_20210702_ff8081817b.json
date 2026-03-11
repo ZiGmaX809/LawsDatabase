@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff8081817b63b895017b7b071b6843c0",
+  "title": "中华人民共和国土地管理法实施条例",
+  "gbrq": "2021-07-02",
+  "sxrq": "2021-09-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081817b63b895017b7b071b6843c0",
+    "ossFile": {
+      "ossWordPath": "prod/20210702/9deff23a09eb4ef48e3afeec93715a88.docx",
+      "ossWordOfdPath": "prod/20210702/9deff23a09eb4ef48e3afeec93715a88.ofd",
+      "ossWordOfdSize": 177479,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081817b63b895017b7b071b6843c0",
+        "title": "中华人民共和国土地管理法实施条例",
+        "gbrq": "2021-07-02",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40f5a2050e35",
+        "title": "中华人民共和国土地管理法实施条例",
+        "gbrq": "2014-07-29",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff8081817b6472a3017b7bf688e5083c",
+        "title": "国务院令",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081817b6471a2017b7bf68cb50803",
+        "title": "其它",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2021-07-02",
+    "sxrq": "2021-09-01",
+    "title": "中华人民共和国土地管理法实施条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:08:13"
+}

@@ -1,0 +1,68 @@
+{
+  "bbbs": "ff8081818c3ce0ed018cb6c2d6de2f46",
+  "title": "全国人民代表大会常务委员会关于完善和加强备案审查制度的决定",
+  "gbrq": "2023-12-29",
+  "sxrq": "2023-12-29",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会常务委员会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 110,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "ff8081818c3ce0ed018cb6c2d6de2f46",
+    "ossFile": {
+      "ossWordPath": "prod/20231229/fc13b1cf4aae42d0bddd065b6d28400a.docx",
+      "ossWordOfdPath": "prod/20231229/fc13b1cf4aae42d0bddd065b6d28400a.ofd",
+      "ossWordOfdSize": 116664,
+      "ossPdfPath": "prod/20231229/d75d16f3566348b0aba077896f8f676f.pdf",
+      "ossPdfOfdPath": "prod/20231229/d75d16f3566348b0aba077896f8f676f.ofd",
+      "ossPdfOfdSize": 784401
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "ff8081818d6a4639018e091cff6f170b",
+        "title": "关于《全国人民代表大会常务委员会关于完善和加强备案审查制度的决定（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4464018df3fffb4412b1",
+        "title": "关于《全国人民代表大会常务委员会关于完善和加强备案审查制度的决定（草案）》的说明",
+        "titleHighLight": null,
+        "busiType": "草案的说明",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4464018e091e2897176c",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于完善和加强备案审查制度的决定（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081818d6a4464018df400375a12b7",
+        "title": "全国人民代表大会宪法和法律委员会关于《全国人民代表大会常务委员会关于完善和加强备案审查制度的决定（草案）》审议结果的报告",
+        "titleHighLight": null,
+        "busiType": "审议结果的报告",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会常务委员会",
+    "gbrq": "2023-12-29",
+    "sxrq": "2023-12-29",
+    "title": "全国人民代表大会常务委员会关于完善和加强备案审查制度的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-10 23:28:21"
+}

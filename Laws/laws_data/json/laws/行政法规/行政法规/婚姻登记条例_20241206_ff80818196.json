@@ -1,0 +1,79 @@
+{
+  "bbbs": "ff8081819667441b0196a99b6ca13483",
+  "title": "婚姻登记条例",
+  "gbrq": "2024-12-06",
+  "sxrq": "2025-01-20",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819667441b0196a99b6ca13483",
+    "ossFile": {
+      "ossWordPath": "prod/20241206/33e0b0e6685b4efe989d43b597b7e61c.docx",
+      "ossWordOfdPath": "prod/20241206/33e0b0e6685b4efe989d43b597b7e61c.ofd",
+      "ossWordOfdSize": 90080,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff808181927f12760196429801fb66cf",
+        "title": "婚姻登记条例",
+        "gbrq": "2025-04-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8081819667441b0196a99b6ca13483",
+        "title": "婚姻登记条例",
+        "gbrq": "2024-12-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40e4a36509a1",
+        "title": "婚姻登记条例",
+        "gbrq": "2003-08-08",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "ff808181966737700196a99cb507340a",
+        "title": "中华人民共和国国务院令第797号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff808181966737700196a99ccb57340c",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "ff8081819667441b0196aa5a07b63913",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-12-06",
+    "sxrq": "2025-01-20",
+    "title": "婚姻登记条例",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:04:16"
+}

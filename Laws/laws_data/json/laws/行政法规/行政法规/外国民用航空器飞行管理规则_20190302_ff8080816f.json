@@ -1,0 +1,53 @@
+{
+  "bbbs": "ff8080816f3e98bd016f423fc55a03de",
+  "title": "外国民用航空器飞行管理规则",
+  "gbrq": "2019-03-02",
+  "sxrq": "",
+  "sxx": 2,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3e98bd016f423fc55a03de",
+    "ossFile": {
+      "ossWordPath": "prod/20190302/3af684629d5541a2adea5d181240d422.docx",
+      "ossWordOfdPath": "prod/20190302/3af684629d5541a2adea5d181240d422.ofd",
+      "ossWordOfdSize": 170424,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [
+      {
+        "bbbs": "fa41bb10583c44488b6f4bbe75f4f179",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819667441b0196a8d009e13336",
+        "title": "外国民用航空器飞行管理规则",
+        "gbrq": "2024-12-06",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e98bd016f423fc55a03de",
+        "title": "外国民用航空器飞行管理规则",
+        "gbrq": "2019-03-02",
+        "highLight": true
+      }
+    ],
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2019-03-02",
+    "sxrq": null,
+    "title": "外国民用航空器飞行管理规则",
+    "sxx": 2,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:12:29"
+}

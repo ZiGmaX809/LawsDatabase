@@ -1,0 +1,40 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f4111ebea1515",
+  "title": "国务院关于通用航空管理的暂行规定",
+  "gbrq": "2014-07-29",
+  "sxrq": "",
+  "sxx": 1,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f4111ebea1515",
+    "ossFile": {
+      "ossWordPath": "prod/20140729/c5e9cc7663c04882ac74d4882acb709d.docx",
+      "ossWordOfdPath": "prod/20140729/c5e9cc7663c04882ac74d4882acb709d.ofd",
+      "ossWordOfdSize": 83606,
+      "ossPdfPath": "prod/20140729/1911cd703120405f80d967b05ae6ed79.pdf",
+      "ossPdfOfdPath": "prod/20140729/1911cd703120405f80d967b05ae6ed79.ofd",
+      "ossPdfOfdSize": 1620853
+    },
+    "xgwj": [
+      {
+        "bbbs": "ff808181804a1c5001805a8f14f1053b",
+        "title": "国务院关于修改和废止部分行政法规的决定"
+      }
+    ],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2014-07-29",
+    "sxrq": null,
+    "title": "国务院关于通用航空管理的暂行规定",
+    "sxx": 1,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:22:16"
+}

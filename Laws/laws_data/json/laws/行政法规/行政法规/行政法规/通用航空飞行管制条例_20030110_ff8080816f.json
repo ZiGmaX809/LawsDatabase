@@ -1,0 +1,35 @@
+{
+  "bbbs": "ff8080816f3cbb3c016f40a565ac05b1",
+  "title": "通用航空飞行管制条例",
+  "gbrq": "2003-01-10",
+  "sxrq": "",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8080816f3cbb3c016f40a565ac05b1",
+    "ossFile": {
+      "ossWordPath": "prod/20030110/8d006233cf9246fb95a465a84d8443e2.docx",
+      "ossWordOfdPath": "prod/20030110/8d006233cf9246fb95a465a84d8443e2.ofd",
+      "ossWordOfdSize": 135848,
+      "ossPdfPath": "prod/20030110/a3e17e7b9b454a3f86cb2ffcddc1eddc.pdf",
+      "ossPdfOfdPath": "prod/20030110/a3e17e7b9b454a3f86cb2ffcddc1eddc.ofd",
+      "ossPdfOfdSize": 4911234
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2003-01-10",
+    "sxrq": null,
+    "title": "通用航空飞行管制条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:30:06"
+}

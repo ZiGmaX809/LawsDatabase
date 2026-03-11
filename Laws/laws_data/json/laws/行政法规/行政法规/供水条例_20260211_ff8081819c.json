@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081819c46f9bb019c938759470be9",
+  "title": "供水条例",
+  "gbrq": "2026-02-11",
+  "sxrq": "2026-06-01",
+  "sxx": 4,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819c46f9bb019c938759470be9",
+    "ossFile": {
+      "ossWordPath": "prod/20260211/53bb43d7a09f421890fc3cf02caa81c7.docx",
+      "ossWordOfdPath": "prod/20260211/53bb43d7a09f421890fc3cf02caa81c7.ofd",
+      "ossWordOfdSize": 155713,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "96ef8131bc42437d9d63eca7b73f3c20",
+        "title": "中华人民共和国国务院令第831号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "44c8bc463d1a40bab8f7c155390c72c5",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2026-02-11",
+    "sxrq": "2026-06-01",
+    "title": "供水条例",
+    "sxx": 4,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-11 00:01:59"
+}
