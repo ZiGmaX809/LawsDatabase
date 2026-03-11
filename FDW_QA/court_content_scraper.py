@@ -5,6 +5,8 @@ from urllib.parse import urljoin
 import time
 import random
 import os
+import json
+from pathlib import Path
 
 
 def fetch_page(url):
@@ -75,8 +77,39 @@ def fetch_content(base_url, link):
     return title_text, txt_big_text
 
 
+def load_downloaded_records(record_file):
+    """
+    加载已下载文件记录
+
+    Returns:
+        set: 已下载文件的安全标题集合
+    """
+    if os.path.exists(record_file):
+        try:
+            with open(record_file, 'r', encoding='utf-8') as f:
+                return set(line.strip() for line in f if line.strip())
+        except Exception as e:
+            print(f"加载下载记录失败: {e}")
+    return set()
+
+
+def save_downloaded_record(record_file, safe_title):
+    """
+    保存已下载文件记录
+
+    Args:
+        record_file: 记录文件路径
+        safe_title: 安全的文件标题
+    """
+    try:
+        with open(record_file, 'a', encoding='utf-8') as f:
+            f.write(f"{safe_title}\n")
+    except Exception as e:
+        print(f"保存下载记录失败: {e}")
+
+
 def file_exists(output_dir, safe_title):
-    """检查文件是否已存在"""
+    """检查文件是否已存在（保留用于兼容性）"""
     file_path = os.path.join(output_dir, f"{safe_title}.md")
     return os.path.exists(file_path)
 
@@ -85,8 +118,16 @@ def save_to_markdown(base_url, links):
     output_dir = 'court_contents'
     os.makedirs(output_dir, exist_ok=True)
 
+    # 下载记录文件路径
+    record_file = os.path.join(output_dir, '.downloaded_records.txt')
+
+    # 加载已下载文件记录（用于快速跳过，避免不必要的HTTP请求）
+    downloaded_titles = load_downloaded_records(record_file)
+    print(f"已加载 {len(downloaded_titles)} 条已下载记录")
+
     skipped = 0
     saved = 0
+    failed = 0
 
     for i, link in enumerate(links):
         # 首先获取标题
@@ -94,6 +135,7 @@ def save_to_markdown(base_url, links):
         html = fetch_page(full_url)
         if not html:
             print(f"Failed to fetch {full_url}")
+            failed += 1
             continue
 
         soup = BeautifulSoup(html, 'html.parser')
@@ -101,14 +143,23 @@ def save_to_markdown(base_url, links):
 
         if not title_div:
             print(f"No title found for {full_url}")
+            failed += 1
             continue
 
         title_text = title_div.get_text().strip()
         safe_title = get_safe_filename(title_text)
 
-        # 检查文件是否已存在
+        # 优化：优先检查下载记录（内存操作，比检查文件系统更快）
+        if safe_title in downloaded_titles:
+            print(f"[{i+1}/{len(links)}] 跳过已下载: {safe_title}.md")
+            skipped += 1
+            continue
+
+        # 双重检查：如果记录中没有但文件存在（处理记录文件丢失的情况）
         if file_exists(output_dir, safe_title):
-            print(f"[{i+1}/{len(links)}] 跳过已存在的文件: {safe_title}.md")
+            print(f"[{i+1}/{len(links)}] 文件已存在，补充记录: {safe_title}.md")
+            save_downloaded_record(record_file, safe_title)
+            downloaded_titles.add(safe_title)
             skipped += 1
             continue
 
@@ -116,6 +167,7 @@ def save_to_markdown(base_url, links):
         txt_big = soup.find('div', class_='txt big')
         if not txt_big:
             print(f"No content found for {full_url}")
+            failed += 1
             continue
 
         txt_big_text = txt_big.get_text().strip()
@@ -138,10 +190,14 @@ def save_to_markdown(base_url, links):
             md_content = f"# {title_text}\n\n{formatted_content}\n"
             f.write(md_content)
 
+        # 保存下载记录
+        save_downloaded_record(record_file, safe_title)
+        downloaded_titles.add(safe_title)
+
         print(f"[{i+1}/{len(links)}] 已保存: {file_path}")
         saved += 1
 
-    print(f"\n总结: 共处理 {len(links)} 个链接, 跳过 {skipped} 个已存在文件, 新下载 {saved} 个文件")
+    print(f"\n总结: 共处理 {len(links)} 个链接, 新下载 {saved} 个, 跳过 {skipped} 个, 失败 {failed} 个")
 
 
 def main():
