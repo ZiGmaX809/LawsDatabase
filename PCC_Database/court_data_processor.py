@@ -381,16 +381,44 @@ class CourtDataProcessor:
     def download_case_details(self):
         """
         下载案例详情并转为Markdown
+        下载一个文件后立即整理到目标目录
 
-        注意：此方法不会自动整理文件，整理由调用方决定
         Returns:
             bool/str: True(成功下载新文件), False(没有新文件或失败),
                      "limit_reached"(达到上限), "consecutive_failed"(连续失败)
         """
         self.log("开始下载案例详情...")
 
+        # 检查是否已设置目标目录
+        if not self.config.get("target_dir"):
+            self.log("错误: 未设置目标目录，无法整理文件")
+            self.log("请重新运行并设置目标目录")
+            return False
+
         json_dir = self.base_dir / self.config["json_dir"]
         markdown_dir = self.base_dir / self.config["markdown_dir"]
+        target_dir = Path(self.config["target_dir"])
+
+        # 加载标题到分类的映射（用于实时整理）
+        title_to_sort = {}
+        for json_file in json_dir.glob('*.json'):
+            try:
+                with open(json_file, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    if 'data' in data and 'datas' in data['data']:
+                        for item in data['data']['datas']:
+                            if 'cpws_al_title' in item and 'cpws_al_sort_name' in item:
+                                title_to_sort[item['cpws_al_title']] = item['cpws_al_sort_name']
+            except Exception as e:
+                self.log(f"处理JSON文件 {json_file.name} 时出错: {str(e)}")
+
+        if not title_to_sort:
+            self.log("警告: 没有找到有效的标题到分类的映射，将无法整理文件")
+        else:
+            self.log(f"已加载 {len(title_to_sort)} 个标题到分类的映射")
+
+        # 加载已整理文件记录（避免重复整理）
+        organized_files = self.load_organized_files_record()
 
         # 记录已下载的文件 - 按案件类型分类
         case_type_code = self.config.get("case_type_code", "civil")
@@ -410,10 +438,11 @@ class CourtDataProcessor:
 
         success_count = 0
         skipped_count = 0
+        organized_count = 0
         failed_count = 0
-        total_cases = 0  # 初始化总案例数计数器
+        total_cases = 0
         consecutive_failures = 0
-        MAX_CONSECUTIVE_FAILURES = 10  # 连续失败10次后停止
+        MAX_CONSECUTIVE_FAILURES = 10
 
         for json_file in sorted(json_files, reverse=True):
             try:
@@ -446,11 +475,14 @@ class CourtDataProcessor:
                         # 检查是否达到每日下载上限
                         if case_data and case_data.get('daily_limit_reached'):
                             self.log(f"已下载 {success_count} 个新案例，跳过 {skipped_count} 个已下载案例，失败 {failed_count} 个")
+                            self.log(f"已整理 {organized_count} 个文件")
                             self.log("=" * 60)
                             self.log("达到下载上限，停止下载")
-                            self.log(f"本次成功下载 {success_count} 个新文件")
+                            self.log(f"本次成功下载 {success_count} 个新文件，已整理 {organized_count} 个")
                             self.log("=" * 60)
-                            # 返回特殊状态，但不自动整理
+                            # 保存已整理文件记录
+                            if organized_files:
+                                self.save_organized_files_record(organized_files)
                             return "limit_reached"
 
                         if not case_data:
@@ -458,23 +490,44 @@ class CourtDataProcessor:
                             consecutive_failures += 1
                             # 连续失败达到阈值，停止下载
                             if consecutive_failures >= MAX_CONSECUTIVE_FAILURES:
-                                self.log(f"⚠️ 连续 {MAX_CONSECUTIVE_FAILURES} 次下载失败，可能已达到下载限制或网络异常")
+                                self.log(f"⚠️ 连续 {MAX_CONSECUTIVE_FAILURES} 次下载失败")
                                 self.log(f"已下载 {success_count} 个新案例，跳过 {skipped_count} 个已下载案例，失败 {failed_count} 个")
+                                self.log(f"已整理 {organized_count} 个文件")
                                 self.log("=" * 60)
                                 self.log("连续下载失败，停止下载")
-                                self.log(f"本次成功下载 {success_count} 个新文件")
+                                self.log(f"本次成功下载 {success_count} 个新文件，已整理 {organized_count} 个")
                                 self.log("=" * 60)
-                                # 返回特殊状态，但不自动整理
+                                # 保存已整理文件记录
+                                if organized_files:
+                                    self.save_organized_files_record(organized_files)
                                 return "consecutive_failed"
                             continue
 
                         # 重置连续失败计数
                         consecutive_failures = 0
 
-                        # 保存为Markdown（成功后才记录）
+                        # 保存为Markdown
+                        md_file_path = None
                         if self.save_as_markdown(case_data, markdown_dir):
                             success_count += 1
-                            # 只有成功下载的案例才记录到文件
+
+                            # 获取保存的文件路径
+                            data_content = case_data.get('data', {}).get('data', {})
+                            title = data_content.get('cpws_al_title', '')
+                            if title:
+                                safe_title = self.sanitize_filename(title)
+                                md_file_path = markdown_dir / f"{safe_title}.md"
+
+                                # 立即整理该文件
+                                if title_to_sort and md_file_path.exists():
+                                    self.log(f"正在整理: {safe_title}.md")
+                                    if self.organize_single_file(md_file_path, title_to_sort, target_dir):
+                                        organized_count += 1
+                                        # 记录已整理的文件
+                                        organized_files.add(safe_title)
+                                        self.log(f"  已整理并记录: {safe_title}")
+
+                            # 记录已下载
                             case_id_short = item['id'][:10]
                             with open(record_file, 'a', encoding='utf-8') as f:
                                 f.write(f"{case_id_short}\n")
@@ -486,7 +539,12 @@ class CourtDataProcessor:
             except Exception as e:
                 self.log(f"处理文件 {json_file.name} 时出错: {str(e)}")
 
-        self.log(f"下载完成，共处理 {success_count} 个新案例，跳过 {skipped_count} 个已下载案例，失败 {failed_count} 个")
+        self.log(f"下载完成，共处理 {success_count} 个新案例，跳过 {skipped_count} 个已下载案例，失败 {failed_count} 个，已整理 {organized_count} 个")
+
+        # 保存已整理文件记录
+        if organized_files:
+            self.save_organized_files_record(organized_files)
+
         return success_count > 0
     
     def fetch_case_content(self, case_id):
@@ -894,26 +952,13 @@ class CourtDataProcessor:
         if not self.fetch_case_list():
             return False
 
-        # 2. 下载案例详情
+        # 2. 下载案例详情（下载一个整理一个）
         download_result = self.download_case_details()
         # download_result 可能是: True(成功), False(没有新文件), "limit_reached"(达到上限), "consecutive_failed"(连续失败)
 
-        # 3. 整理案例文件
-        # 只在成功下载了新文件时才整理
-        if download_result is True:
-            self.log("下载完成，开始整理新下载的文件...")
-            if not self.organize_case_files():
-                self.log("整理失败，但文件已下载")
-            else:
-                self.log("整理完成")
-        elif download_result in ["limit_reached", "consecutive_failed"]:
-            # 下载失败或达到上限，但可能有新文件，也尝试整理
-            self.log("下载中断，尝试整理已下载的新文件...")
-            if not self.organize_case_files():
-                self.log("没有新文件需要整理或整理失败")
-            else:
-                self.log("已整理新下载的文件")
-            return True  # 即使整理失败也返回True，因为已经尝试了
+        if download_result in ["limit_reached", "consecutive_failed"]:
+            self.log("下载中断")
+            return True
         elif download_result is False:
             self.log("没有新文件需要处理")
             return False
@@ -1108,6 +1153,8 @@ Token获取说明:
             _, case_name = CourtDataProcessor.CASE_TYPES[case_type]
             target_dir = get_target_dir_input(case_name)
             processor.config["target_dir"] = target_dir
+            # 保存配置
+            processor.save_config()
 
         processor.count_target_files()
         return
@@ -1123,6 +1170,8 @@ Token获取说明:
             _, case_name = CourtDataProcessor.CASE_TYPES[case_type]
             target_dir = get_target_dir_input(case_name)
             processor.config["target_dir"] = target_dir
+            # 保存配置
+            processor.save_config()
 
         processor.run_organize_only()
         print("\n" + "=" * 60)
@@ -1161,6 +1210,8 @@ Token获取说明:
         _, case_name = CourtDataProcessor.CASE_TYPES[case_type]
         target_dir = get_target_dir_input(case_name)
         processor.config["target_dir"] = target_dir
+        # 保存配置（包含target_dir）
+        processor.save_config()
 
     # 显示确认信息
     _, case_name_final = CourtDataProcessor.CASE_TYPES[case_type]
