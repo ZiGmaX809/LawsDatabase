@@ -1,0 +1,26 @@
+2026-03-13 20:25:38 - 已设置案件类型: 执行 (execution), sort_id: 40000
+2026-03-13 20:25:38 - 配置已更新 - case_type_code: execution
+2026-03-13 20:25:38 - 配置已更新 - json_dir: court_data/pages/执行
+2026-03-13 20:25:38 - 配置已更新 - markdown_dir: downloaded_markdown/执行
+2026-03-13 20:25:38 - 法院案例数据处理程序启动
+2026-03-13 20:25:38 - 状态文件路径: /Users/zigma/项目/LawsDatabase/PCC_Database/court_data/case_state_execution.json (case_type_code: execution)
+2026-03-13 20:25:38 - 状态文件不存在: /Users/zigma/项目/LawsDatabase/PCC_Database/court_data/case_state_execution.json，将使用默认状态
+2026-03-13 20:25:38 - 开始获取案例列表 (增量模式)...
+2026-03-13 20:25:38 - 已知案件数量: 0
+2026-03-13 20:25:39 - 第1页: 总数 300, 新案件 300, 已知 0
+2026-03-13 20:25:44 - 第2页: 总数 77, 新案件 77, 已知 0
+2026-03-13 20:25:44 - 第2页返回 77 个案例（少于页大小 300），已获取全部
+2026-03-13 20:25:44 - 状态文件路径: /Users/zigma/项目/LawsDatabase/PCC_Database/court_data/case_state_execution.json (case_type_code: execution)
+2026-03-13 20:25:44 - 已保存状态文件: /Users/zigma/项目/LawsDatabase/PCC_Database/court_data/case_state_execution.json
+2026-03-13 20:25:44 - 状态文件中的案件类型: execution
+2026-03-13 20:25:44 - 状态文件中的已知案件数: 377
+2026-03-13 20:25:44 - 已更新状态文件，新增 377 个案件ID
+2026-03-13 20:25:44 - 新案件保存到: /Users/zigma/项目/LawsDatabase/PCC_Database/court_data/pages/执行/incremental_20260313_202544.json
+2026-03-13 20:25:44 - 获取完成: 总数 377, 新案件 377, 已知 0
+2026-03-13 20:25:44 - 开始下载案例详情...
+2026-03-13 20:25:44 - 已加载 375 个标题到分类的映射
+2026-03-13 20:25:44 - 已下载记录文件存在，已跳过 375 个案例
+2026-03-13 20:25:44 - 正在处理 initial_response.json，共 377 个案例
+2026-03-13 20:25:44 - 正在处理 incremental_20260313_202544.json，共 377 个案例
+2026-03-13 20:25:44 - 下载完成，共处理 0 个新案例，跳过 754 个已下载案例，失败 0 个，已整理 0 个
+2026-03-13 20:25:44 - 没有新文件需要处理

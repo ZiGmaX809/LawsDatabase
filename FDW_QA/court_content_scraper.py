@@ -51,10 +51,73 @@ def parse_links(html):
 
 
 def get_safe_filename(title):
-    """根据标题生成安全的文件名"""
+    """
+    根据标题生成安全的文件名
+
+    转换规则（将原始标题转换为统一格式）：
+    - 法答网精选答问（第三批）→ 法答网精选答问(第三批）
+    - 法答网精选答问（第三十五批）——商事审判专题 → 法答网精选答问(第三十五批-商事审判专题）
+
+    Args:
+        title: 原始标题字符串
+
+    Returns:
+        str: 安全的文件名（不包含文件扩展名）
+    """
     if not title:
         return "unknown"
-    return ''.join(c if c.isalnum() else '_' for c in title).rstrip('_')
+
+    # 移除 Markdown 标题符号（如果存在）
+    title = title.lstrip('#').strip()
+
+    # 按照目标格式进行转换
+    # 1. 将开头的 "法答网精选答问（" 替换为 "法答网精选答问("
+    # 2. 将 "）——" 替换为 "-"
+    # 3. 将其他非法字符（Windows/Linux文件系统不允许的字符）替换为下划线
+    filename = title
+
+    # 替换括号为统一格式：外层中文括号（），内层方括号【】
+    if '——' in filename:
+        # 处理有专题的格式：法答网精选答问（第三十五批）——商事审判专题
+        # 或：法答网精选答问（第三十四批）——仲裁司法审查专题（第二批）
+        # 先统计括号数量（在替换之前）
+        left_count = filename.count('（')
+        filename = filename.replace('）——', '-')
+        # 去掉末尾的），后面会统一添加
+        if filename.endswith('）'):
+            filename = filename[:-1]
+        # 如果有多个左括号，说明有内层括号需要转换
+        if left_count >= 2:
+            # 有内层括号，只保留第一个（为（，其余（和）转换为【】
+            # 找到第一个（的位置（法答网精选答问后的）
+            prefix_end = filename.find('（') + 1
+            prefix = filename[:prefix_end]  # 法答网精选答问（
+            rest = filename[prefix_end:]  # 第三十四批-仲裁司法审查专题（第二批
+            # 将rest中的（和）替换为【和】
+            rest = rest.replace('（', '【').replace('）', '】')
+            # 如果rest中有【但没有】，补上】（因为末尾的）之前被去掉了）
+            if '【' in rest and not rest.endswith('】'):
+                rest += '】'
+            filename = prefix + rest
+        # 如果只有一个（，保持不变
+    else:
+        # 处理无专题的格式：法答网精选答问（第三批）
+        # 去掉结尾的中文右括号，后面会统一添加
+        if filename.endswith('）'):
+            filename = filename[:-1]
+
+    # 替换文件系统不允许的字符（Windows: \ / : * ? " < > |）
+    forbidden_chars = r'\/:*?"<>|'
+    for char in forbidden_chars:
+        filename = filename.replace(char, '_')
+
+    # 去除首尾空格和点
+    filename = filename.strip(' .')
+
+    # 统一加上结尾的中文右括号
+    filename += '）'
+
+    return filename
 
 
 def fetch_content(base_url, link):
@@ -200,7 +263,134 @@ def save_to_markdown(base_url, links):
     print(f"\n总结: 共处理 {len(links)} 个链接, 新下载 {saved} 个, 跳过 {skipped} 个, 失败 {failed} 个")
 
 
+def rename_existing_files(output_dir='court_contents'):
+    """
+    批量重命名现有文件，将其从旧格式转换为新格式
+
+    旧格式示例：
+    - 法答网精选答问_第三批.md
+    - 法答网精选答问_第三十五批___商事审判专题.md
+
+    新格式示例：
+    - 法答网精选答问(第三批).md
+    - 法答网精选答问(第三十五批-商事审判专题).md
+
+    同时更新下载记录文件
+    """
+    if not os.path.exists(output_dir):
+        print(f"目录不存在: {output_dir}")
+        return
+
+    # 下载记录文件路径
+    record_file = os.path.join(output_dir, '.downloaded_records.txt')
+
+    # 加载现有下载记录
+    old_records = load_downloaded_records(record_file)
+    new_records = set()
+
+    # 创建旧文件名到新文件名的映射（用于更新下载记录）
+    filename_map = {}
+
+    # 获取所有 .md 文件
+    md_files = [f for f in os.listdir(output_dir) if f.endswith('.md') and not f.startswith('.')]
+
+    renamed_count = 0
+    skipped_count = 0
+    error_count = 0
+
+    for old_filename in md_files:
+        old_path = os.path.join(output_dir, old_filename)
+
+        # 读取文件内容获取标题
+        try:
+            with open(old_path, 'r', encoding='utf-8') as f:
+                first_line = f.readline().strip()
+
+            # 移除 Markdown 标题符号
+            if first_line.startswith('#'):
+                title = first_line.lstrip('#').strip()
+            else:
+                title = old_filename.replace('.md', '')
+
+            # 使用新的命名规则生成新文件名
+            new_filename = get_safe_filename(title) + '.md'
+            new_path = os.path.join(output_dir, new_filename)
+
+            # 如果新文件名与旧文件名相同，跳过
+            if old_filename == new_filename:
+                skipped_count += 1
+                filename_map[old_filename.replace('.md', '')] = old_filename.replace('.md', '')
+                continue
+
+            # 如果目标文件已存在，添加序号避免覆盖
+            if os.path.exists(new_path) and old_path != new_path:
+                base, ext = os.path.splitext(new_filename)
+                counter = 1
+                while os.path.exists(os.path.join(output_dir, f"{base}_{counter}{ext}")):
+                    counter += 1
+                new_filename = f"{base}_{counter}{ext}"
+                new_path = os.path.join(output_dir, new_filename)
+
+            # 记录文件名映射（用于更新下载记录）
+            old_safe_name = old_filename.replace('.md', '')
+            new_safe_name = new_filename.replace('.md', '')
+            filename_map[old_safe_name] = new_safe_name
+
+            # 执行重命名
+            os.rename(old_path, new_path)
+            print(f"重命名: {old_filename} -> {new_filename}")
+            renamed_count += 1
+
+        except Exception as e:
+            print(f"重命名失败 {old_filename}: {e}")
+            error_count += 1
+
+    # 更新下载记录文件
+    if renamed_count > 0:
+        print("\n正在更新下载记录...")
+        try:
+            # 重建记录文件
+            updated_records = set()
+            for old_record in old_records:
+                # 如果有映射，使用新文件名；否则保持原样
+                if old_record in filename_map:
+                    updated_records.add(filename_map[old_record])
+                else:
+                    updated_records.add(old_record)
+
+            # 添加新文件名的记录
+            for new_record in filename_map.values():
+                updated_records.add(new_record)
+
+            # 写入更新后的记录
+            with open(record_file, 'w', encoding='utf-8') as f:
+                for record in sorted(updated_records):
+                    f.write(f"{record}\n")
+
+            print(f"下载记录已更新（共 {len(updated_records)} 条记录）")
+
+        except Exception as e:
+            print(f"更新下载记录失败: {e}")
+
+    print(f"\n重命名完成: 成功 {renamed_count} 个, 跳过 {skipped_count} 个, 失败 {error_count} 个")
+
+
 def main():
+    import argparse
+
+    parser = argparse.ArgumentParser(description='法答网内容下载和重命名工具')
+    parser.add_argument('--rename', action='store_true', help='仅重命名现有文件，不下载新内容')
+    parser.add_argument('--download', action='store_true', help='下载新内容（默认操作）')
+    args = parser.parse_args()
+
+    # 如果指定了 --rename，只执行重命名操作
+    if args.rename:
+        print("开始重命名现有文件...")
+        rename_existing_files()
+        print("重命名完成!")
+        return
+
+    # 默认操作：下载新内容
     base_url = 'https://www.court.gov.cn'
     search_url = 'https://www.court.gov.cn/search.html?content=%E6%B3%95%E7%AD%94%E7%BD%91%E7%B2%BE%E9%80%89%E7%AD%94%E9%97%AE'
 

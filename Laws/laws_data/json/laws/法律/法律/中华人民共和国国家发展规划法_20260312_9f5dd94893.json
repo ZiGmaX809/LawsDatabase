@@ -1,0 +1,44 @@
+{
+  "bbbs": "9f5dd948936d475fab381916c37dd257",
+  "title": "中华人民共和国国家发展规划法",
+  "gbrq": "2026-03-12",
+  "sxrq": "2026-03-12",
+  "sxx": 3,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "法律",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 110,
+  "detail": {
+    "bbbs": "9f5dd948936d475fab381916c37dd257",
+    "ossFile": {
+      "ossWordPath": "prod/20260312/ac0a557428c043a2beb379d7740e4f5c.docx",
+      "ossWordOfdPath": "prod/20260312/ac0a557428c043a2beb379d7740e4f5c.ofd",
+      "ossWordOfdSize": 126156,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "4300c35077ba48b799efdf122888c4d9",
+        "title": "中华人民共和国主席令（第七十二号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "法律",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "2026-03-12",
+    "sxrq": "2026-03-12",
+    "title": "中华人民共和国国家发展规划法",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-17 09:50:38"
+}

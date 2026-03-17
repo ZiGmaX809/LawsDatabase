@@ -1,0 +1,44 @@
+{
+  "bbbs": "91fb43059e744f6d9045f38bda3be7b4",
+  "title": "第十四届全国人民代表大会第四次会议关于批准《全国人民代表大会常务委员会关于法律清理工作情况和有关法律和决定处理意见的报告》的决定",
+  "gbrq": "2026-03-12",
+  "sxrq": "2026-03-12",
+  "sxx": null,
+  "zdjgName": "全国人民代表大会",
+  "flxz": "有关法律问题和重大问题的决定（部分）",
+  "zdjgCodeId": 100,
+  "flfgCodeId": 190,
+  "detail": {
+    "bbbs": "91fb43059e744f6d9045f38bda3be7b4",
+    "ossFile": {
+      "ossWordPath": "prod/20260312/33f84492391f416ba55bb3c4ffa8d711.docx",
+      "ossWordOfdPath": "prod/20260312/33f84492391f416ba55bb3c4ffa8d711.ofd",
+      "ossWordOfdSize": 70155,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "66332c89a79544d4a3f4c7cf94cb0706",
+        "title": "中华人民共和国主席令（第七十三号）",
+        "titleHighLight": null,
+        "busiType": "主席令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "有关法律问题和重大问题的决定（部分）",
+    "zdjgName": "全国人民代表大会",
+    "gbrq": "2026-03-12",
+    "sxrq": "2026-03-12",
+    "title": "第十四届全国人民代表大会第四次会议关于批准《全国人民代表大会常务委员会关于法律清理工作情况和有关法律和决定处理意见的报告》的决定",
+    "sxx": null,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-17 09:50:40"
+}

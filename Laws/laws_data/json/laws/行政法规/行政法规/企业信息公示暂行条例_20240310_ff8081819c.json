@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081819c46fcc5019cd18fc6e9557d",
+  "title": "企业信息公示暂行条例",
+  "gbrq": "2024-03-10",
+  "sxrq": "2024-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819c46fcc5019cd18fc6e9557d",
+    "ossFile": {
+      "ossWordPath": "prod/20240310/29a220bafc5f4390bcb771be2bf8e1d8.docx",
+      "ossWordOfdPath": "prod/20240310/29a220bafc5f4390bcb771be2bf8e1d8.ofd",
+      "ossWordOfdSize": 107317,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819c46fcc5019cd18fc6e9557d",
+        "title": "企业信息公示暂行条例",
+        "gbrq": "2024-03-10",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f4126e4831a08",
+        "title": "企业信息公示暂行条例",
+        "gbrq": "2014-08-07",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "60dafc097baa4204a22026b4816985cb",
+        "title": "中华人民共和国国务院令第777号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "a3ea6186bf3f4fe3a3d7b98dd02e734d",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "8cab4d98938f43b09e2c09c9d5a45e6d",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-03-10",
+    "sxrq": "2024-05-01",
+    "title": "企业信息公示暂行条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-17 09:51:03"
+}

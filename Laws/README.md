@@ -53,6 +53,9 @@ python3 flk_downloader.py --category judicial_interpretation
 # 快速批量下载（无延迟，推荐）
 python3 flk_downloader.py --all --fast
 
+# 并发下载（提高下载速度）
+python3 flk_downloader.py --all --concurrent 3
+
 # 限制页数（用于测试）
 python3 flk_downloader.py --category law --pages 2 --page-size 50
 
@@ -68,9 +71,50 @@ python3 flk_downloader.py --all --json-only
 # 转换已下载的docx文件为markdown
 python3 flk_downloader.py --convert
 
+# 转换单个文件（用于测试或调试）
+python3 flk_downloader.py --convert --file "laws_data/docx/法律/法律/中华人民共和国民法典_20200528_ff80808172.docx"
+
+# 转换时指定输入/输出目录
+python3 flk_downloader.py --convert --docx-dir /path/to/docx --md-dir /path/to/markdown
+
+# 初始化法律版本数据库（扫描已有JSON文件）
+python3 flk_downloader.py --init-db
+
+# 重命名重复法律的Markdown文件（添加年份后缀）
+python3 flk_downloader.py --dedup
+
+# 预览模式（显示将要执行的操作但不实际执行）
+python3 flk_downloader.py --dedup --dry-run
+
+# 强制重新处理所有文件
+python3 flk_downloader.py --convert --force
+
 # 查看帮助信息
 python3 flk_downloader.py --help
 ```
+
+### 命令参数说明
+
+| 参数 | 说明 |
+|------|------|
+| `--all` | 下载所有分类 |
+| `--category CODE` | 指定分类代码（constitution/law/administrative_regulation等）|
+| `--pages N` | 限制下载页数 |
+| `--page-size N` | 每页获取数量（默认100） |
+| `--fast` | 快速模式：无延迟 |
+| `--min-delay / --max-delay` | 自定义延迟时间范围 |
+| `--concurrent N` | 并发下载数量（默认1） |
+| `--output DIR` | 指定输出目录 |
+| `--json-only` | 仅保存JSON信息，不下载文件 |
+| `--convert` | 仅转换已下载的docx文件为markdown |
+| `--file PATH` | 指定单个docx文件进行转换（需与--convert一起使用） |
+| `--docx-dir PATH` | docx文件目录（用于--convert模式） |
+| `--md-dir PATH` | markdown输出目录（用于--convert模式） |
+| `--init-db` | 初始化 law_versions.json 数据库（扫描JSON文件） |
+| `--dedup` | 重命名重复法律的Markdown文件（添加年份后缀） |
+| `--dry-run` | 预览模式，显示操作但不实际执行 |
+| `--force` | 强制重新处理所有文件，忽略已处理标记 |
+| `--db-path PATH` | 数据库文件路径 |
 
 ## 法律分类说明
 
