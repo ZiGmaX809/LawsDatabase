@@ -9,6 +9,7 @@ import re
 import argparse
 from pathlib import Path
 from datetime import datetime
+from urllib.parse import unquote
 from bs4 import BeautifulSoup
 
 class CourtDataProcessor:
@@ -126,6 +127,31 @@ class CourtDataProcessor:
         self.log(f"状态文件路径: {state_file} (case_type_code: {case_type_code})")
         return state_file
 
+    def get_known_nos_file_path(self):
+        """获取已知案件编号记录文件路径（用 cpws_al_no 做稳定标识）"""
+        case_type_code = self.config.get("case_type_code", "civil")
+        return self.base_dir / "downloaded_records" / f"known_case_nos_{case_type_code}.txt"
+
+    def load_known_nos(self):
+        """从 txt 文件加载已知案件编号集合（cpws_al_no）"""
+        nos_file = self.get_known_nos_file_path()
+        if nos_file.exists():
+            with open(nos_file, 'r', encoding='utf-8') as f:
+                nos = {line.strip() for line in f if line.strip()}
+            self.log(f"已加载 {len(nos)} 个已知案件编号（cpws_al_no）")
+            return nos
+        self.log("已知案件编号文件不存在，将从零开始")
+        return set()
+
+    def save_known_nos(self, nos):
+        """将已知案件编号集合追加写入 txt 文件"""
+        nos_file = self.get_known_nos_file_path()
+        os.makedirs(nos_file.parent, exist_ok=True)
+        with open(nos_file, 'w', encoding='utf-8') as f:
+            for no in sorted(nos):
+                f.write(f"{no}\n")
+        self.log(f"已保存 {len(nos)} 个已知案件编号")
+
     def get_organized_files_record_path(self):
         """获取已整理文件记录路径"""
         case_type_code = self.config.get("case_type_code", "civil")
@@ -148,8 +174,9 @@ class CourtDataProcessor:
             try:
                 with open(state_file, 'r', encoding='utf-8') as f:
                     data = json.load(f)
-                    # 将列表转换为set以提高查找效率
-                    data["known_case_ids"] = set(data.get("known_case_ids", []))
+                    # 将列表转换为set，同时对所有ID做URL解码归一化
+                    # 防止 state 文件存的是 %3D 而 API 返回的是 = 导致比较失败
+                    data["known_case_ids"] = {unquote(id_) for id_ in data.get("known_case_ids", [])}
                     self.log(f"成功加载状态文件: {state_file}")
                     self.log(f"状态文件中的案件类型: {data.get('case_type')}")
                     self.log(f"状态文件中的已知案件数: {len(data['known_case_ids'])}")
@@ -172,9 +199,9 @@ class CourtDataProcessor:
             # 确保状态文件目录存在
             os.makedirs(state_file.parent, exist_ok=True)
 
-            # 将set转换为列表以便JSON序列化
+            # 将set转换为列表以便JSON序列化，统一存储URL解码后的ID
             save_data = state.copy()
-            save_data["known_case_ids"] = list(state["known_case_ids"])
+            save_data["known_case_ids"] = [unquote(id_) for id_ in state["known_case_ids"]]
             save_data["last_fetch_time"] = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
             save_data["case_type"] = self.config.get("case_type_code", "civil")
 
@@ -242,20 +269,19 @@ class CourtDataProcessor:
             - 获取所有案件
             - 更新案件ID记录
         """
-        # 加载已知的案件ID
-        state = self.load_case_state()
-        known_ids = state["known_case_ids"]
+        # 用 cpws_al_no 作为稳定标识符，API 的 id 字段每次请求会变化，不可靠
+        known_nos = self.load_known_nos()
 
         mode_str = "增量" if self.incremental_mode else "全量"
         self.log(f"开始获取案例列表 ({mode_str}模式)...")
-        self.log(f"已知案件数量: {len(known_ids)}")
+        self.log(f"已知案件数量: {len(known_nos)}")
 
         url = "https://rmfyalk.court.gov.cn/cpws_al_api/api/cpwsAl/search"
         page_size = self.config["page_size"]
         page = 1
         all_cases = []
         new_cases = []  # 新案件列表
-        consecutive_new_count = 0  # 连续遇到新案件的计数
+        consecutive_known_count = 0  # 连续全部已知的页数计数
 
         while True:
             payload = {
@@ -291,27 +317,29 @@ class CourtDataProcessor:
                 page_known_count = 0
 
                 for case in cases:
-                    case_id = case.get('id', '')
-                    if case_id:
-                        all_cases.append(case)
-                        if case_id not in known_ids:
-                            page_new_cases.append(case)
-                            new_cases.append(case)
-                        else:
-                            page_known_count += 1
+                    # 用 cpws_al_no 做存量判断，该字段在同一案件的多次请求中保持不变
+                    case_no = case.get('cpws_al_no', '').strip()
+                    if not case_no:
+                        # 极少数没有 no 的案件，回退用 title 去重
+                        case_no = case.get('cpws_al_title', '').strip()
+                    all_cases.append(case)
+                    if case_no and case_no in known_nos:
+                        page_known_count += 1
+                    else:
+                        page_new_cases.append(case)
+                        new_cases.append(case)
 
                 self.log(f"第{page}页: 总数 {len(cases)}, 新案件 {len(page_new_cases)}, 已知 {page_known_count}")
 
-                # 增量模式：如果连续几页都是已知案件，说明已经到达上次获取的位置
+                # 增量模式：连续3页全是已知案件，说明已到达上次获取位置
                 if self.incremental_mode:
                     if len(page_new_cases) == 0:
-                        consecutive_new_count += 1
-                        # 连续3页都是已知案件，停止获取
-                        if consecutive_new_count >= 3:
-                            self.log(f"连续 {consecutive_new_count} 页都是已知案件，停止获取")
+                        consecutive_known_count += 1
+                        if consecutive_known_count >= 3:
+                            self.log(f"连续 {consecutive_known_count} 页都是已知案件，停止获取")
                             break
                     else:
-                        consecutive_new_count = 0
+                        consecutive_known_count = 0
 
                 # 检查是否还有更多数据
                 if len(cases) < page_size:
@@ -330,13 +358,16 @@ class CourtDataProcessor:
                 self.log(f"获取第{page}页时出错: {str(e)}")
                 break
 
-        # 更新状态：将新获取的案件ID添加到已知列表
+        # 将新案件的 cpws_al_no 追加到已知集合并保存
         if new_cases:
-            new_ids = {case.get('id', '') for case in new_cases if case.get('id')}
-            known_ids.update(new_ids)
-            state["known_case_ids"] = known_ids
-            self.save_case_state(state)
-            self.log(f"已更新状态文件，新增 {len(new_ids)} 个案件ID")
+            new_nos = set()
+            for case in new_cases:
+                no = case.get('cpws_al_no', '').strip() or case.get('cpws_al_title', '').strip()
+                if no:
+                    new_nos.add(no)
+            known_nos.update(new_nos)
+            self.save_known_nos(known_nos)
+            self.log(f"已更新已知案件编号，新增 {len(new_nos)} 条")
 
         # 保存完整数据（包含新案件）
         if all_cases:
