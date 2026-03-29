@@ -561,6 +561,13 @@ class CourtDataProcessor:
                                         organized_files.add(safe_title)
                                         self.log(f"  已整理并记录: {safe_title}")
 
+                                    # 整理成功后删除 downloaded_markdown 中的源文件
+                                    try:
+                                        md_file_path.unlink()
+                                        self.log(f"  已删除源文件: {md_file_path.name}")
+                                    except Exception as del_e:
+                                        self.log(f"  删除源文件失败: {del_e}")
+
                             # 记录已下载
                             case_id_short = item['id'][:10]
                             with open(record_file, 'a', encoding='utf-8') as f:
@@ -878,6 +885,13 @@ class CourtDataProcessor:
                     # 记录已整理的文件
                     newly_organized.add(md_file.stem)
                     success_count += 1
+
+                    # 整理成功后删除 downloaded_markdown 中的源文件
+                    try:
+                        md_file.unlink()
+                        self.log(f"  已删除源文件: {md_file.name}")
+                    except Exception as del_e:
+                        self.log(f"  删除源文件失败: {del_e}")
                 except Exception as e:
                     self.log(f"整理文件 {md_file.name} 时出错: {str(e)}")
             else:
