@@ -431,7 +431,9 @@ class CourtDataProcessor:
 
         json_dir = self.base_dir / self.config["json_dir"]
         markdown_dir = self.base_dir / self.config["markdown_dir"]
-        target_dir = Path(self.config["target_dir"])
+        # 拼接案件类型子目录，如 target_dir/刑事、target_dir/民事
+        type_name = self.config.get("case_type_name", "")
+        target_dir = Path(self.config["target_dir"]) / type_name if type_name else Path(self.config["target_dir"])
 
         # 加载标题到分类的映射（用于实时整理）
         title_to_sort = {}
@@ -771,7 +773,9 @@ class CourtDataProcessor:
 
         json_dir = self.base_dir / self.config["json_dir"]
         markdown_dir = self.base_dir / self.config["markdown_dir"]
-        target_dir = Path(self.config["target_dir"])
+        # 拼接案件类型子目录，如 target_dir/刑事、target_dir/民事
+        type_name = self.config.get("case_type_name", "")
+        target_dir = Path(self.config["target_dir"]) / type_name if type_name else Path(self.config["target_dir"])
 
         # 检查目录是否存在
         if not json_dir.exists():
@@ -921,7 +925,9 @@ class CourtDataProcessor:
             self.log("请使用 --count 模式重新运行并输入目标目录地址")
             return None
 
-        target_dir = Path(self.config["target_dir"])
+        # 拼接案件类型子目录
+        type_name = self.config.get("case_type_name", "")
+        target_dir = Path(self.config["target_dir"]) / type_name if type_name else Path(self.config["target_dir"])
 
         if not target_dir.exists():
             self.log(f"目标目录不存在: {target_dir}")
