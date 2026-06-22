@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081819cf9f588019d0933d6a259ef",
+  "title": "社会团体登记管理条例",
+  "gbrq": "2026-03-12",
+  "sxrq": "2026-03-12",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819cf9f588019d0933d6a259ef",
+    "ossFile": {
+      "ossWordPath": "prod/20260312/feca09ffe32141fc9120296037587064.docx",
+      "ossWordOfdPath": "prod/20260312/feca09ffe32141fc9120296037587064.ofd",
+      "ossWordOfdSize": 127776,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819cf9f588019d0933d6a259ef",
+        "title": "社会团体登记管理条例",
+        "gbrq": "2026-03-12",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40eed27f0c19",
+        "title": "社会团体登记管理条例",
+        "gbrq": "2016-02-06",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "3c446ea5dee84e9b825da4005fc7b16f",
+        "title": "中华人民共和国国务院令第832号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "00b9adcc2f2c49f3a02e6a91c2c68804",
+        "title": "国务院关于修改《社会团体登记管理条例》的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "546e5127d423417ba6682adca6a75d16",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2026-03-12",
+    "sxrq": "2026-03-12",
+    "title": "社会团体登记管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-31 11:44:11"
+}

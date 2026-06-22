@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generated_at": "2026-03-17T09:51:33.332982",
+  "generated_at": "2026-04-24T09:16:24.603688",
   "statistics": {
-    "total_unique_laws": 2015,
-    "total_versions": 2429,
-    "with_duplicates": 358
+    "total_unique_laws": 2016,
+    "total_versions": 2458,
+    "with_duplicates": 360
   },
   "laws": {
     "中华人民共和国宪法": {
@@ -571,9 +571,21 @@
           "md_path": "markdown/行政法规/行政法规/互联网上网服务营业场所管理条例.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230ed9019c2d0fca2e4c1e",
+          "title": "互联网上网服务营业场所管理条例",
+          "base_name": "互联网上网服务营业场所管理条例",
+          "display_name": "互联网上网服务营业场所管理条例",
+          "file_path": "docx/行政法规/行政法规/互联网上网服务营业场所管理条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/互联网上网服务营业场所管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 3,
+      "version_count": 4,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -674,13 +686,25 @@
           "display_name": "社会团体登记管理条例",
           "file_path": "",
           "md_path": "markdown/行政法规/行政法规/社会团体登记管理条例.md",
+          "is_latest": false,
+          "processed": false
+        },
+        {
+          "year": "2026",
+          "gbrq": "2026-03-12",
+          "bbbs": "ff8081819cf9f588019d0933d6a259ef",
+          "title": "社会团体登记管理条例",
+          "base_name": "社会团体登记管理条例",
+          "display_name": "社会团体登记管理条例",
+          "file_path": "docx/行政法规/行政法规/社会团体登记管理条例_20260312_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/社会团体登记管理条例.md",
           "is_latest": true,
           "processed": false
         }
       ],
-      "version_count": 1,
-      "has_multiple_versions": false,
-      "latest_year": "2016"
+      "version_count": 2,
+      "has_multiple_versions": true,
+      "latest_year": "2026"
     },
     "企业信息公示暂行条例": {
       "base_name": "企业信息公示暂行条例",
@@ -756,6 +780,18 @@
           "processed": true
         },
         {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230fa1019c2d0fca094b09",
+          "title": "婚姻登记条例",
+          "base_name": "婚姻登记条例",
+          "display_name": "婚姻登记条例",
+          "file_path": "docx/行政法规/行政法规/婚姻登记条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/婚姻登记条例（2024）.md",
+          "is_latest": false,
+          "processed": false
+        },
+        {
           "year": "2025",
           "gbrq": "2025-04-06",
           "bbbs": "ff808181927f12760196429801fb66cf",
@@ -768,7 +804,7 @@
           "processed": true
         }
       ],
-      "version_count": 3,
+      "version_count": 4,
       "has_multiple_versions": true,
       "latest_year": "2025"
     },
@@ -895,9 +931,21 @@
           "md_path": "markdown/行政法规/行政法规/中国人民银行货币政策委员会条例（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-01-13",
+          "bbbs": "ff8081819c46fcc5019cd1685de03b50",
+          "title": "中国人民银行货币政策委员会条例",
+          "base_name": "中国人民银行货币政策委员会条例",
+          "display_name": "中国人民银行货币政策委员会条例",
+          "file_path": "docx/行政法规/行政法规/中国人民银行货币政策委员会条例_20240113_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/中国人民银行货币政策委员会条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -1135,9 +1183,21 @@
           "md_path": "markdown/行政法规/行政法规/公共场所卫生管理条例（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230fa1019c2d0fc9a24afe",
+          "title": "公共场所卫生管理条例",
+          "base_name": "公共场所卫生管理条例",
+          "display_name": "公共场所卫生管理条例",
+          "file_path": "docx/行政法规/行政法规/公共场所卫生管理条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/公共场所卫生管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -1243,9 +1303,21 @@
           "md_path": "markdown/行政法规/行政法规/放射性药品管理办法.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230ff2019c2d0fca056411",
+          "title": "放射性药品管理办法",
+          "base_name": "放射性药品管理办法",
+          "display_name": "放射性药品管理办法",
+          "file_path": "docx/行政法规/行政法规/放射性药品管理办法_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/放射性药品管理办法（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 3,
+      "version_count": 4,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -1579,9 +1651,21 @@
           "md_path": "markdown/行政法规/行政法规/教学成果奖励条例.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-03-10",
+          "bbbs": "ff8081819c46fcc5019cd18efa2d54e1",
+          "title": "教学成果奖励条例",
+          "base_name": "教学成果奖励条例",
+          "display_name": "教学成果奖励条例",
+          "file_path": "docx/行政法规/行政法规/教学成果奖励条例_20240310_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/教学成果奖励条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -1633,9 +1717,21 @@
           "md_path": "markdown/行政法规/行政法规/中华人民共和国人类遗传资源管理条例（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-03-10",
+          "bbbs": "ff8081819c46fcc5019cd19263155766",
+          "title": "中华人民共和国人类遗传资源管理条例",
+          "base_name": "中华人民共和国人类遗传资源管理条例",
+          "display_name": "中华人民共和国人类遗传资源管理条例",
+          "file_path": "docx/行政法规/行政法规/中华人民共和国人类遗传资源管理条例_20240310_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/中华人民共和国人类遗传资源管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -1687,9 +1783,21 @@
           "md_path": "markdown/行政法规/行政法规/中华人民共和国企业所得税法实施条例.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230ff2019c2d0fcd4a6436",
+          "title": "中华人民共和国企业所得税法实施条例",
+          "base_name": "中华人民共和国企业所得税法实施条例",
+          "display_name": "中华人民共和国企业所得税法实施条例",
+          "file_path": "docx/行政法规/行政法规/中华人民共和国企业所得税法实施条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/中华人民共和国企业所得税法实施条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -2200,9 +2308,21 @@
           "md_path": "markdown/行政法规/行政法规/外国人在中华人民共和国收养子女登记办法.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230ed9019c2d0fcb594c23",
+          "title": "外国人在中华人民共和国收养子女登记办法",
+          "base_name": "外国人在中华人民共和国收养子女登记办法",
+          "display_name": "外国人在中华人民共和国收养子女登记办法",
+          "file_path": "docx/行政法规/行政法规/外国人在中华人民共和国收养子女登记办法_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/外国人在中华人民共和国收养子女登记办法（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -2374,9 +2494,21 @@
           "md_path": "markdown/行政法规/行政法规/印刷业管理条例（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230ed9019c2d0fcda74c3a",
+          "title": "印刷业管理条例",
+          "base_name": "印刷业管理条例",
+          "display_name": "印刷业管理条例",
+          "file_path": "docx/行政法规/行政法规/印刷业管理条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/印刷业管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 3,
+      "version_count": 4,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -2470,9 +2602,21 @@
           "md_path": "markdown/行政法规/行政法规/不动产登记暂行条例.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-03-10",
+          "bbbs": "ff8081819c46fdc3019cd18cd0a71cd0",
+          "title": "不动产登记暂行条例",
+          "base_name": "不动产登记暂行条例",
+          "display_name": "不动产登记暂行条例",
+          "file_path": "docx/行政法规/行政法规/不动产登记暂行条例_20240310_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/不动产登记暂行条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -2524,9 +2668,21 @@
           "md_path": "markdown/行政法规/行政法规/外国企业常驻代表机构登记管理条例.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-03-10",
+          "bbbs": "ff8081819c46fdc3019cd19068731f64",
+          "title": "外国企业常驻代表机构登记管理条例",
+          "base_name": "外国企业常驻代表机构登记管理条例",
+          "display_name": "外国企业常驻代表机构登记管理条例",
+          "file_path": "docx/行政法规/行政法规/外国企业常驻代表机构登记管理条例_20240310_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/外国企业常驻代表机构登记管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -2740,9 +2896,21 @@
           "md_path": "markdown/行政法规/行政法规/医疗器械监督管理条例.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230fa1019c2d0fcc6b4b27",
+          "title": "医疗器械监督管理条例",
+          "base_name": "医疗器械监督管理条例",
+          "display_name": "医疗器械监督管理条例",
+          "file_path": "docx/行政法规/行政法规/医疗器械监督管理条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/医疗器械监督管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 3,
+      "version_count": 4,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -3229,9 +3397,21 @@
           "md_path": "markdown/行政法规/行政法规/麻醉药品和精神药品管理条例（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230ff2019c2d0fcaed641d",
+          "title": "麻醉药品和精神药品管理条例",
+          "base_name": "麻醉药品和精神药品管理条例",
+          "display_name": "麻醉药品和精神药品管理条例",
+          "file_path": "docx/行政法规/行政法规/麻醉药品和精神药品管理条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/麻醉药品和精神药品管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -3295,9 +3475,21 @@
           "md_path": "markdown/行政法规/行政法规/中华人民共和国计算机信息网络国际联网管理暂行规定（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-03-10",
+          "bbbs": "ff8081819c46f9bb019cd191fb1f6d05",
+          "title": "中华人民共和国计算机信息网络国际联网管理暂行规定",
+          "base_name": "中华人民共和国计算机信息网络国际联网管理暂行规定",
+          "display_name": "中华人民共和国计算机信息网络国际联网管理暂行规定",
+          "file_path": "docx/行政法规/行政法规/中华人民共和国计算机信息网络国际联网管理暂行规定_20240310_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/中华人民共和国计算机信息网络国际联网管理暂行规定（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -3490,9 +3682,21 @@
           "md_path": "markdown/行政法规/行政法规/音像制品管理条例（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230ed9019c2d0fcd4e4c37",
+          "title": "音像制品管理条例",
+          "base_name": "音像制品管理条例",
+          "display_name": "音像制品管理条例",
+          "file_path": "docx/行政法规/行政法规/音像制品管理条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/音像制品管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 3,
+      "version_count": 4,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -3868,9 +4072,21 @@
           "md_path": "markdown/行政法规/行政法规/地震监测管理条例（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230ff2019c2d0fc8eb6401",
+          "title": "地震监测管理条例",
+          "base_name": "地震监测管理条例",
+          "display_name": "地震监测管理条例",
+          "file_path": "docx/行政法规/行政法规/地震监测管理条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/地震监测管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -4027,9 +4243,21 @@
           "md_path": "markdown/行政法规/行政法规/病原微生物实验室生物安全管理条例（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230fa1019c2d0fc8ac4af7",
+          "title": "病原微生物实验室生物安全管理条例",
+          "base_name": "病原微生物实验室生物安全管理条例",
+          "display_name": "病原微生物实验室生物安全管理条例",
+          "file_path": "docx/行政法规/行政法规/病原微生物实验室生物安全管理条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/病原微生物实验室生物安全管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -4483,9 +4711,21 @@
           "md_path": "markdown/行政法规/行政法规/广播电视管理条例（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230fa1019c2d0fc9164af9",
+          "title": "广播电视管理条例",
+          "base_name": "广播电视管理条例",
+          "display_name": "广播电视管理条例",
+          "file_path": "docx/行政法规/行政法规/广播电视管理条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/广播电视管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 3,
+      "version_count": 4,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -4858,9 +5098,21 @@
           "md_path": "markdown/行政法规/行政法规/出版管理条例（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230ed9019c2d0fc9324c13",
+          "title": "出版管理条例",
+          "base_name": "出版管理条例",
+          "display_name": "出版管理条例",
+          "file_path": "docx/行政法规/行政法规/出版管理条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/出版管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 3,
+      "version_count": 4,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -6031,9 +6283,21 @@
           "md_path": "markdown/行政法规/行政法规/使用有毒物品作业场所劳动保护条例.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230ff2019c2d0fcc20642c",
+          "title": "使用有毒物品作业场所劳动保护条例",
+          "base_name": "使用有毒物品作业场所劳动保护条例",
+          "display_name": "使用有毒物品作业场所劳动保护条例",
+          "file_path": "docx/行政法规/行政法规/使用有毒物品作业场所劳动保护条例_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/使用有毒物品作业场所劳动保护条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -6427,9 +6691,21 @@
           "md_path": "markdown/行政法规/行政法规/中华人民共和国货物进出口管理条例（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-03-10",
+          "bbbs": "ff8081819c46f9bb019cd19182d36cdd",
+          "title": "中华人民共和国货物进出口管理条例",
+          "base_name": "中华人民共和国货物进出口管理条例",
+          "display_name": "中华人民共和国货物进出口管理条例",
+          "file_path": "docx/行政法规/行政法规/中华人民共和国货物进出口管理条例_20240310_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/中华人民共和国货物进出口管理条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -6526,9 +6802,21 @@
           "md_path": "markdown/行政法规/行政法规/互联网信息服务管理办法（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230fa1019c2d0fca0b4b0a",
+          "title": "互联网信息服务管理办法",
+          "base_name": "互联网信息服务管理办法",
+          "display_name": "互联网信息服务管理办法",
+          "file_path": "docx/行政法规/行政法规/互联网信息服务管理办法_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/互联网信息服务管理办法（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -6643,9 +6931,21 @@
           "md_path": "markdown/行政法规/行政法规/中华人民共和国标准化法实施条例（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-03-10",
+          "bbbs": "ff8081819c46f9bb019cd190f6816c84",
+          "title": "中华人民共和国标准化法实施条例",
+          "base_name": "中华人民共和国标准化法实施条例",
+          "display_name": "中华人民共和国标准化法实施条例",
+          "file_path": "docx/行政法规/行政法规/中华人民共和国标准化法实施条例_20240310_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/中华人民共和国标准化法实施条例（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -7504,9 +7804,21 @@
           "md_path": "markdown/行政法规/行政法规/民用航空运输不定期飞行管理暂行规定.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230ff2019c2d0fcbcc642b",
+          "title": "民用航空运输不定期飞行管理暂行规定",
+          "base_name": "民用航空运输不定期飞行管理暂行规定",
+          "display_name": "民用航空运输不定期飞行管理暂行规定",
+          "file_path": "docx/行政法规/行政法规/民用航空运输不定期飞行管理暂行规定_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/民用航空运输不定期飞行管理暂行规定（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -7570,9 +7882,21 @@
           "md_path": "markdown/行政法规/行政法规/外国民用航空器飞行管理规则（2024）.md",
           "is_latest": true,
           "processed": true
+        },
+        {
+          "year": "2024",
+          "gbrq": "2024-12-06",
+          "bbbs": "ff8081819c230ed9019c2d0fcce24c30",
+          "title": "外国民用航空器飞行管理规则",
+          "base_name": "外国民用航空器飞行管理规则",
+          "display_name": "外国民用航空器飞行管理规则",
+          "file_path": "docx/行政法规/行政法规/外国民用航空器飞行管理规则_20241206_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/外国民用航空器飞行管理规则（2024）.md",
+          "is_latest": true,
+          "processed": false
         }
       ],
-      "version_count": 2,
+      "version_count": 3,
       "has_multiple_versions": true,
       "latest_year": "2024"
     },
@@ -10469,13 +10793,25 @@
           "display_name": "全国农业普查条例",
           "file_path": "",
           "md_path": "markdown/行政法规/行政法规/全国农业普查条例.md",
+          "is_latest": false,
+          "processed": false
+        },
+        {
+          "year": "2026",
+          "gbrq": "2026-03-20",
+          "bbbs": "ff8081819cf9f396019d2d4364a20646",
+          "title": "全国农业普查条例",
+          "base_name": "全国农业普查条例",
+          "display_name": "全国农业普查条例",
+          "file_path": "docx/行政法规/行政法规/全国农业普查条例_20260320_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/全国农业普查条例.md",
           "is_latest": true,
           "processed": false
         }
       ],
-      "version_count": 1,
-      "has_multiple_versions": false,
-      "latest_year": "2006"
+      "version_count": 2,
+      "has_multiple_versions": true,
+      "latest_year": "2026"
     },
     "关于工资总额组成的规定": {
       "base_name": "关于工资总额组成的规定",
@@ -47282,6 +47618,27 @@
           "display_name": "广西壮族自治区粮食安全保障条例",
           "file_path": "docx/地方法规/地方法规/广西壮族自治区粮食安全保障条例_20260206_ff8081819c.docx",
           "md_path": "markdown/地方法规/地方法规/广西壮族自治区粮食安全保障条例.md",
+          "is_latest": true,
+          "processed": false
+        }
+      ],
+      "version_count": 1,
+      "has_multiple_versions": false,
+      "latest_year": "2026"
+    },
+    "中华人民共和国反外国不当域外管辖条例": {
+      "base_name": "中华人民共和国反外国不当域外管辖条例",
+      "display_name": "中华人民共和国反外国不当域外管辖条例",
+      "versions": [
+        {
+          "year": "2026",
+          "gbrq": "2026-04-07",
+          "bbbs": "ff8081819cf9f396019d89be423b53a2",
+          "title": "中华人民共和国反外国不当域外管辖条例",
+          "base_name": "中华人民共和国反外国不当域外管辖条例",
+          "display_name": "中华人民共和国反外国不当域外管辖条例",
+          "file_path": "docx/行政法规/行政法规/中华人民共和国反外国不当域外管辖条例_20260407_ff8081819c.docx",
+          "md_path": "markdown/行政法规/行政法规/中华人民共和国反外国不当域外管辖条例.md",
           "is_latest": true,
           "processed": false
         }

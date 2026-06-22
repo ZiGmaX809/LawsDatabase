@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081819c230ff2019c2d0fcd4a6436",
+  "title": "中华人民共和国企业所得税法实施条例",
+  "gbrq": "2024-12-06",
+  "sxrq": "2025-01-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819c230ff2019c2d0fcd4a6436",
+    "ossFile": {
+      "ossWordPath": "prod/20241206/da92c8c6529e450481d55c5090433fb8.docx",
+      "ossWordOfdPath": "prod/20241206/da92c8c6529e450481d55c5090433fb8.ofd",
+      "ossWordOfdSize": 226697,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819c230ff2019c2d0fcd4a6436",
+        "title": "中华人民共和国企业所得税法实施条例",
+        "gbrq": "2024-12-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f42099687030a",
+        "title": "中华人民共和国企业所得税法实施条例",
+        "gbrq": "2019-04-23",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "84a50d10fa24453dbcf2638f9d1f48ff",
+        "title": "中华人民共和国国务院令第797号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "0a23067727a84d40a9ad572648ae65a6",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "da31884cb55a4b0c849e8f772e5a2363",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-12-06",
+    "sxrq": "2025-01-20",
+    "title": "中华人民共和国企业所得税法实施条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-31 11:44:42"
+}

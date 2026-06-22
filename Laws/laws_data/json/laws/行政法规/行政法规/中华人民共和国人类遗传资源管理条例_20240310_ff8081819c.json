@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081819c46fcc5019cd19263155766",
+  "title": "中华人民共和国人类遗传资源管理条例",
+  "gbrq": "2024-03-10",
+  "sxrq": "2024-05-01",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819c46fcc5019cd19263155766",
+    "ossFile": {
+      "ossWordPath": "prod/20240310/fd7c1ff6802e4e0ca1541f4eace647df.docx",
+      "ossWordOfdPath": "prod/20240310/fd7c1ff6802e4e0ca1541f4eace647df.ofd",
+      "ossWordOfdSize": 138326,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819c46fcc5019cd19263155766",
+        "title": "中华人民共和国人类遗传资源管理条例",
+        "gbrq": "2024-03-10",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f41472f191fd6",
+        "title": "中华人民共和国人类遗传资源管理条例",
+        "gbrq": "2019-05-28",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "73a4ebd548904aceab312006ce1d33af",
+        "title": "中华人民共和国国务院令第777号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "1d3331f7366c41ac9f7aaefab8bd5d6c",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "1bfbcc84ad2e45c6b259e93eb69e47cc",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-03-10",
+    "sxrq": "2024-05-01",
+    "title": "中华人民共和国人类遗传资源管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-31 11:44:47"
+}

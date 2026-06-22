@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081819c230ff2019c2d0fcbcc642b",
+  "title": "民用航空运输不定期飞行管理暂行规定",
+  "gbrq": "2024-12-06",
+  "sxrq": "2025-01-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819c230ff2019c2d0fcbcc642b",
+    "ossFile": {
+      "ossWordPath": "prod/20241206/ceed4a636d30469b95e88985cb8e7cd7.docx",
+      "ossWordOfdPath": "prod/20241206/ceed4a636d30469b95e88985cb8e7cd7.ofd",
+      "ossWordOfdSize": 66165,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819c230ff2019c2d0fcbcc642b",
+        "title": "民用航空运输不定期飞行管理暂行规定",
+        "gbrq": "2024-12-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f415ae2522314",
+        "title": "民用航空运输不定期飞行管理暂行规定",
+        "gbrq": "1989-03-02",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "a22079222e39457bad4fe16ac4650b92",
+        "title": "中华人民共和国国务院令第797号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "b2d60ccce9024f3bab411dfff4074bc5",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "8c5e8ff37b054793a593160fdca4a118",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-12-06",
+    "sxrq": "2025-01-20",
+    "title": "民用航空运输不定期飞行管理暂行规定",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-31 11:44:23"
+}

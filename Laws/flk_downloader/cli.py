@@ -306,6 +306,12 @@ def main():
             docx_dir = Path(args.docx_dir) if args.docx_dir else None
             md_dir = Path(args.md_dir) if args.md_dir else None
             downloader.convert_existing_docx(docx_dir, md_dir)
+
+        # 转换完成后，如果已配置整理目录，自动整理 Markdown 文件
+        organized_dir = config.get_organized_dir()
+        if organized_dir:
+            print(f"\n已配置整理目录，正在自动整理 Markdown 文件到: {organized_dir}")
+            config.organize_markdown_files(dry_run=False)
         return 0
 
     # 确定要处理的分类
@@ -354,6 +360,12 @@ def main():
                 )
         else:
             downloader.process_all(categories)
+
+    # 下载完成后，如果已配置整理目录，自动整理 Markdown 文件
+    organized_dir = config.get_organized_dir()
+    if organized_dir:
+        print(f"\n已配置整理目录，正在自动整理 Markdown 文件到: {organized_dir}")
+        config.organize_markdown_files(dry_run=False)
 
     return 0
 

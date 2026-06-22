@@ -1,0 +1,73 @@
+{
+  "bbbs": "ff8081819c46fcc5019cd1685de03b50",
+  "title": "中国人民银行货币政策委员会条例",
+  "gbrq": "2024-01-13",
+  "sxrq": "2024-01-13",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819c46fcc5019cd1685de03b50",
+    "ossFile": {
+      "ossWordPath": "prod/20240113/5d5ffee892214eceac02bcbeb3e3a515.docx",
+      "ossWordOfdPath": "prod/20240113/5d5ffee892214eceac02bcbeb3e3a515.ofd",
+      "ossWordOfdSize": 90541,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819c46fcc5019cd1685de03b50",
+        "title": "中国人民银行货币政策委员会条例",
+        "gbrq": "2024-01-13",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f4244d3af0424",
+        "title": "中国人民银行货币政策委员会条例",
+        "gbrq": "1997-04-15",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "0abb35baa66e459b98305dd1b16ff163",
+        "title": "中华人民共和国国务院令第771号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "09cd89deec3d456cbb2e235afc86e19a",
+        "title": "国务院关于修改部分行政法规和国务院决定的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "bf79bcbab1874ea3a97015c718a12ec4",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-01-13",
+    "sxrq": "2024-01-13",
+    "title": "中国人民银行货币政策委员会条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-31 11:45:00"
+}

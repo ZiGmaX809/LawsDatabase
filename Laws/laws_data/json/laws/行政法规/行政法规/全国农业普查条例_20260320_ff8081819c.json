@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff8081819cf9f396019d2d4364a20646",
+  "title": "全国农业普查条例",
+  "gbrq": "2026-03-20",
+  "sxrq": "2026-05-01",
+  "sxx": 4,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819cf9f396019d2d4364a20646",
+    "ossFile": {
+      "ossWordPath": "prod/20260320/4b4ba6304c454083935eeb3c413f02e4.docx",
+      "ossWordOfdPath": "prod/20260320/4b4ba6304c454083935eeb3c413f02e4.ofd",
+      "ossWordOfdSize": 133871,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819cf9f396019d2d4364a20646",
+        "title": "全国农业普查条例",
+        "gbrq": "2026-03-20",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f413dc9bc1e7b",
+        "title": "全国农业普查条例",
+        "gbrq": "2006-08-23",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "15165f7950244497a5cf858a0f679a8a",
+        "title": "中华人民共和国国务院令第833号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "3128bd2053994d14b73570b12517ea34",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2026-03-20",
+    "sxrq": "2026-05-01",
+    "title": "全国农业普查条例",
+    "sxx": 4,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-31 11:44:09"
+}

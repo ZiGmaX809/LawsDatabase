@@ -36,61 +36,61 @@ sudo apt install libreoffice
 
 ```bash
 # 下载所有分类
-python3 flk_downloader.py --all
+python3 run_flk.py --all
 
 # 下载指定分类
-python3 flk_downloader.py --category constitution
-python3 flk_downloader.py --category law
-python3 flk_downloader.py --category administrative_regulation
-python3 flk_downloader.py --category supervision_regulation
-python3 flk_downloader.py --category local_regulation
-python3 flk_downloader.py --category judicial_interpretation
+python3 run_flk.py --category constitution
+python3 run_flk.py --category law
+python3 run_flk.py --category administrative_regulation
+python3 run_flk.py --category supervision_regulation
+python3 run_flk.py --category local_regulation
+python3 run_flk.py --category judicial_interpretation
 ```
 
 ### 高级选项
 
 ```bash
 # 快速批量下载（无延迟，推荐）
-python3 flk_downloader.py --all --fast
+python3 run_flk.py --all --fast
 
 # 并发下载（提高下载速度）
-python3 flk_downloader.py --all --concurrent 3
+python3 run_flk.py --all --concurrent 3
 
 # 限制页数（用于测试）
-python3 flk_downloader.py --category law --pages 2 --page-size 50
+python3 run_flk.py --category law --pages 2 --page-size 50
 
 # 自定义延迟时间
-python3 flk_downloader.py --all --min-delay 0.05 --max-delay 0.1
+python3 run_flk.py --all --min-delay 0.05 --max-delay 0.1
 
 # 指定输出目录
-python3 flk_downloader.py --all --output /path/to/output
+python3 run_flk.py --all --output /path/to/output
 
 # 仅保存JSON信息，不下载文件
-python3 flk_downloader.py --all --json-only
+python3 run_flk.py --all --json-only
 
 # 转换已下载的docx文件为markdown
-python3 flk_downloader.py --convert
+python3 run_flk.py --convert
 
 # 转换单个文件（用于测试或调试）
-python3 flk_downloader.py --convert --file "laws_data/docx/法律/法律/中华人民共和国民法典_20200528_ff80808172.docx"
+python3 run_flk.py --convert --file "laws_data/docx/法律/法律/中华人民共和国民法典_20200528_ff80808172.docx"
 
 # 转换时指定输入/输出目录
-python3 flk_downloader.py --convert --docx-dir /path/to/docx --md-dir /path/to/markdown
+python3 run_flk.py --convert --docx-dir /path/to/docx --md-dir /path/to/markdown
 
 # 初始化法律版本数据库（扫描已有JSON文件）
-python3 flk_downloader.py --init-db
+python3 run_flk.py --init-db
 
 # 重命名重复法律的Markdown文件（添加年份后缀）
-python3 flk_downloader.py --dedup
+python3 run_flk.py --dedup
 
 # 预览模式（显示将要执行的操作但不实际执行）
-python3 flk_downloader.py --dedup --dry-run
+python3 run_flk.py --dedup --dry-run
 
 # 强制重新处理所有文件
-python3 flk_downloader.py --convert --force
+python3 run_flk.py --convert --force
 
 # 查看帮助信息
-python3 flk_downloader.py --help
+python3 run_flk.py --help
 ```
 
 ### 命令参数说明

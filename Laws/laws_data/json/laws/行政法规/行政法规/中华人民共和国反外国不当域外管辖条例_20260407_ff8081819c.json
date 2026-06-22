@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081819cf9f396019d89be423b53a2",
+  "title": "中华人民共和国反外国不当域外管辖条例",
+  "gbrq": "2026-04-07",
+  "sxrq": "2026-04-07",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819cf9f396019d89be423b53a2",
+    "ossFile": {
+      "ossWordPath": "prod/20260407/b824cfbfdbab4996820e5845094836f7.docx",
+      "ossWordOfdPath": "prod/20260407/b824cfbfdbab4996820e5845094836f7.ofd",
+      "ossWordOfdSize": 82355,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "f7326da7c89445f1b838ff73a481e09a",
+        "title": "中华人民共和国国务院令第835号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "d8d9cffb5d6045189f672fdeba57bc58",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2026-04-07",
+    "sxrq": "2026-04-07",
+    "title": "中华人民共和国反外国不当域外管辖条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-04-24 09:16:24"
+}

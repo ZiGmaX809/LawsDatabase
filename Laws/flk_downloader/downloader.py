@@ -23,6 +23,10 @@ except ImportError:
 # 导入本包中的模块
 from .config import Config
 from .law_versions_db import LawVersionsDB, extract_base_name, extract_year
+from . import LAW_CATEGORIES
+
+# 代理配置（如需使用代理，请修改此处）
+PROXIES = None  # 或 {'http': 'http://proxy.example.com:8080', 'https': 'https://proxy.example.com:8080'}
 
 
 class FLKDownloader:
@@ -325,7 +329,7 @@ class FLKDownloader:
             "searchType": 2,
             "sxx": [],
             "gbrqYear": [],
-            "flfgCodeId": category["flfgCodeId"],
+            "flfgCodeId": [category["flfgCodeId"]],  # API 要求数组格式
             "zdjgCodeId": [],
             "searchContent": "",
             "orderByParam": {"order": "-1", "sort": ""},

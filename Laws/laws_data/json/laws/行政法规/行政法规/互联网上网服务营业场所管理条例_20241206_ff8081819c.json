@@ -1,0 +1,79 @@
+{
+  "bbbs": "ff8081819c230ed9019c2d0fca2e4c1e",
+  "title": "互联网上网服务营业场所管理条例",
+  "gbrq": "2024-12-06",
+  "sxrq": "2025-01-20",
+  "sxx": 3,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819c230ed9019c2d0fca2e4c1e",
+    "ossFile": {
+      "ossWordPath": "prod/20241206/7391e581c3cf47f29437cfb843ae5d13.docx",
+      "ossWordOfdPath": "prod/20241206/7391e581c3cf47f29437cfb843ae5d13.ofd",
+      "ossWordOfdSize": 137854,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819c230ed9019c2d0fca2e4c1e",
+        "title": "互联网上网服务营业场所管理条例",
+        "gbrq": "2024-12-06",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff80818180e0a5d001811e1e376112a6",
+        "title": "互联网上网服务营业场所管理条例",
+        "gbrq": "2022-03-29",
+        "highLight": false
+      },
+      {
+        "bbbs": "ff8080816f3e9784016f4256b8ae0521",
+        "title": "互联网上网服务营业场所管理条例",
+        "gbrq": "2019-03-24",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "1ad547319be0472493071b69b6465058",
+        "title": "中华人民共和国国务院令第797号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "166390a0118d4d238fb4e657b600fac1",
+        "title": "国务院关于修改和废止部分行政法规的决定",
+        "titleHighLight": null,
+        "busiType": "修改决定",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "9bfff041b8ed4de1a5e16b7c98a55074",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2024-12-06",
+    "sxrq": "2025-01-20",
+    "title": "互联网上网服务营业场所管理条例",
+    "sxx": 3,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-03-31 11:44:38"
+}
