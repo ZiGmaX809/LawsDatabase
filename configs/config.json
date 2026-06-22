@@ -1,0 +1,29 @@
+{
+  "version": "2.0",
+  "data_root": "data",
+  "sources": {
+    "fdw_qa": {
+      "data_dir": "data/fdw_qa",
+      "base_url": "https://www.court.gov.cn",
+      "search_url": "https://www.court.gov.cn/search.html?content=%E6%B3%95%E7%AD%94%E7%BD%91%E7%B2%BE%E9%80%89%E7%AD%94%E9%97%AE",
+      "delay_range": [1, 3]
+    },
+    "flk_laws": {
+      "data_dir": "data/laws",
+      "state_file": "configs/laws_download_state.json",
+      "versions_db_file": "configs/law_versions.json",
+      "page_size": 100,
+      "default_delay": [0, 0.5]
+    },
+    "court_cases": {
+      "data_dir": "data/court_cases",
+      "base_url": "https://rmfyalk.court.gov.cn",
+      "page_size": 300,
+      "request_interval": [3, 5],
+      "user_agents": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15"
+      ]
+    }
+  }
+}
