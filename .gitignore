@@ -1,4 +1,21 @@
-PCC_Database/downloaded_markdown
-PCC_Database/court_config.json
-PCC_Database/court_data
-PCC_Database/downloaded_records
+# ===== 运行时数据（数据抓取产物）=====
+# 案例库数据不纳入版本控制（体积大、含本地运行状态）
+data/court_cases/
+
+# 各源的运行日志不纳入版本控制
+data/*/logs/
+
+# ===== 本地配置（含用户特定路径与潜在敏感信息）=====
+configs/*.local.json
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+venv/
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
