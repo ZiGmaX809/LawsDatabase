@@ -1,10 +1,10 @@
 {
   "version": "1.0",
-  "generated_at": "2026-04-24T09:16:24.603688",
+  "generated_at": "2026-06-22T17:35:39.475332",
   "statistics": {
-    "total_unique_laws": 2016,
-    "total_versions": 2458,
-    "with_duplicates": 360
+    "total_unique_laws": 2021,
+    "total_versions": 2465,
+    "with_duplicates": 362
   },
   "laws": {
     "中华人民共和国宪法": {
@@ -3287,13 +3287,25 @@
           "display_name": "行政法规制定程序条例",
           "file_path": "",
           "md_path": "markdown/行政法规/行政法规/行政法规制定程序条例.md",
+          "is_latest": false,
+          "processed": false
+        },
+        {
+          "year": "2026",
+          "gbrq": "2026-05-15",
+          "bbbs": "ff8081819e20a843019e3ef37f7d692e",
+          "title": "行政法规制定程序条例",
+          "base_name": "行政法规制定程序条例",
+          "display_name": "行政法规制定程序条例",
+          "file_path": "docx/行政法规/行政法规/行政法规制定程序条例_20260515_ff8081819e.docx",
+          "md_path": "markdown/行政法规/行政法规/行政法规制定程序条例.md",
           "is_latest": true,
           "processed": false
         }
       ],
-      "version_count": 1,
-      "has_multiple_versions": false,
-      "latest_year": "2017"
+      "version_count": 2,
+      "has_multiple_versions": true,
+      "latest_year": "2026"
     },
     "人工影响天气管理条例": {
       "base_name": "人工影响天气管理条例",
@@ -9659,13 +9671,25 @@
           "display_name": "中华人民共和国行政复议法实施条例",
           "file_path": "",
           "md_path": "markdown/行政法规/行政法规/中华人民共和国行政复议法实施条例.md",
+          "is_latest": false,
+          "processed": false
+        },
+        {
+          "year": "2026",
+          "gbrq": "2026-04-29",
+          "bbbs": "ff8081819dfcb526019e0ac7ce234ece",
+          "title": "中华人民共和国行政复议法实施条例",
+          "base_name": "中华人民共和国行政复议法实施条例",
+          "display_name": "中华人民共和国行政复议法实施条例",
+          "file_path": "docx/行政法规/行政法规/中华人民共和国行政复议法实施条例_20260429_ff8081819d.docx",
+          "md_path": "markdown/行政法规/行政法规/中华人民共和国行政复议法实施条例.md",
           "is_latest": true,
           "processed": false
         }
       ],
-      "version_count": 1,
-      "has_multiple_versions": false,
-      "latest_year": "2007"
+      "version_count": 2,
+      "has_multiple_versions": true,
+      "latest_year": "2026"
     },
     "中华人民共和国公司登记管理条例": {
       "base_name": "中华人民共和国公司登记管理条例",
@@ -47639,6 +47663,111 @@
           "display_name": "中华人民共和国反外国不当域外管辖条例",
           "file_path": "docx/行政法规/行政法规/中华人民共和国反外国不当域外管辖条例_20260407_ff8081819c.docx",
           "md_path": "markdown/行政法规/行政法规/中华人民共和国反外国不当域外管辖条例.md",
+          "is_latest": true,
+          "processed": false
+        }
+      ],
+      "version_count": 1,
+      "has_multiple_versions": false,
+      "latest_year": "2026"
+    },
+    "国务院关于对外投资的规定": {
+      "base_name": "国务院关于对外投资的规定",
+      "display_name": "国务院关于对外投资的规定",
+      "versions": [
+        {
+          "year": "2026",
+          "gbrq": "2026-05-05",
+          "bbbs": "ff8081819e48b44c019ea630c09a5d9b",
+          "title": "国务院关于对外投资的规定",
+          "base_name": "国务院关于对外投资的规定",
+          "display_name": "国务院关于对外投资的规定",
+          "file_path": "docx/行政法规/行政法规/国务院关于对外投资的规定_20260505_ff8081819e.docx",
+          "md_path": "markdown/行政法规/行政法规/国务院关于对外投资的规定.md",
+          "is_latest": true,
+          "processed": false
+        }
+      ],
+      "version_count": 1,
+      "has_multiple_versions": false,
+      "latest_year": "2026"
+    },
+    "最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释（二）": {
+      "base_name": "最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释（二）",
+      "display_name": "最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释（二）",
+      "versions": [
+        {
+          "year": "2026",
+          "gbrq": "2026-05-06",
+          "bbbs": "ff8081819e48b493019e5e72927050fb",
+          "title": "最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释（二）",
+          "base_name": "最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释（二）",
+          "display_name": "最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释（二）",
+          "file_path": "docx/司法解释/司法解释/最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释（二）_20260506_ff8081819e.docx",
+          "md_path": "markdown/司法解释/司法解释/最高人民法院关于审理道路交通事故损害赔偿案件适用法律若干问题的解释（二）.md",
+          "is_latest": true,
+          "processed": false
+        }
+      ],
+      "version_count": 1,
+      "has_multiple_versions": false,
+      "latest_year": "2026"
+    },
+    "最高人民法院关于适用行政诉讼起诉期限若干问题的解释": {
+      "base_name": "最高人民法院关于适用行政诉讼起诉期限若干问题的解释",
+      "display_name": "最高人民法院关于适用行政诉讼起诉期限若干问题的解释",
+      "versions": [
+        {
+          "year": "2026",
+          "gbrq": "2026-04-30",
+          "bbbs": "ff8081819e48b44c019e5e4fde1a4a49",
+          "title": "最高人民法院关于适用行政诉讼起诉期限若干问题的解释",
+          "base_name": "最高人民法院关于适用行政诉讼起诉期限若干问题的解释",
+          "display_name": "最高人民法院关于适用行政诉讼起诉期限若干问题的解释",
+          "file_path": "docx/司法解释/司法解释/最高人民法院关于适用行政诉讼起诉期限若干问题的解释_20260430_ff8081819e.docx",
+          "md_path": "markdown/司法解释/司法解释/最高人民法院关于适用行政诉讼起诉期限若干问题的解释.md",
+          "is_latest": true,
+          "processed": false
+        }
+      ],
+      "version_count": 1,
+      "has_multiple_versions": false,
+      "latest_year": "2026"
+    },
+    "最高人民法院关于适用《中华人民共和国海商法》时间效力的若干规定": {
+      "base_name": "最高人民法院关于适用《中华人民共和国海商法》时间效力的若干规定",
+      "display_name": "最高人民法院关于适用《中华人民共和国海商法》时间效力的若干规定",
+      "versions": [
+        {
+          "year": "2026",
+          "gbrq": "2026-04-27",
+          "bbbs": "ff8081819e48b493019e5e6dc5a950e5",
+          "title": "最高人民法院关于适用《中华人民共和国海商法》时间效力的若干规定",
+          "base_name": "最高人民法院关于适用《中华人民共和国海商法》时间效力的若干规定",
+          "display_name": "最高人民法院关于适用《中华人民共和国海商法》时间效力的若干规定",
+          "file_path": "docx/司法解释/司法解释/最高人民法院关于适用《中华人民共和国海商法》时间效力的若干规定_20260427_ff8081819e.docx",
+          "md_path": "markdown/司法解释/司法解释/最高人民法院关于适用《中华人民共和国海商法》时间效力的若干规定.md",
+          "is_latest": true,
+          "processed": false
+        }
+      ],
+      "version_count": 1,
+      "has_multiple_versions": false,
+      "latest_year": "2026"
+    },
+    "最高人民法院关于审理侵害知识产权民事纠纷案件适用惩罚性赔偿的解释": {
+      "base_name": "最高人民法院关于审理侵害知识产权民事纠纷案件适用惩罚性赔偿的解释",
+      "display_name": "最高人民法院关于审理侵害知识产权民事纠纷案件适用惩罚性赔偿的解释",
+      "versions": [
+        {
+          "year": "2026",
+          "gbrq": "2026-04-17",
+          "bbbs": "ff8081819e48b44c019e638a4f7b7028",
+          "title": "最高人民法院关于审理侵害知识产权民事纠纷案件适用惩罚性赔偿的解释",
+          "base_name": "最高人民法院关于审理侵害知识产权民事纠纷案件适用惩罚性赔偿的解释",
+          "display_name": "最高人民法院关于审理侵害知识产权民事纠纷案件适用惩罚性赔偿的解释",
+          "file_path": "docx/司法解释/司法解释/最高人民法院关于审理侵害知识产权民事纠纷案件适用惩罚性赔偿的解释_20260417_ff8081819e.docx",
+          "md_path": "markdown/司法解释/司法解释/最高人民法院关于审理侵害知识产权民事纠纷案件适用惩罚性赔偿的解释.md",
           "is_latest": true,
           "processed": false
         }

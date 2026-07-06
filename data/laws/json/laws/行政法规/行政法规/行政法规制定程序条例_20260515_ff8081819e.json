@@ -1,0 +1,65 @@
+{
+  "bbbs": "ff8081819e20a843019e3ef37f7d692e",
+  "title": "行政法规制定程序条例",
+  "gbrq": "2026-05-15",
+  "sxrq": "2026-07-01",
+  "sxx": 4,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819e20a843019e3ef37f7d692e",
+    "ossFile": {
+      "ossWordPath": "prod/20260515/d02ad386319d4e7b8f012590cc7ee461.docx",
+      "ossWordOfdPath": "prod/20260515/d02ad386319d4e7b8f012590cc7ee461.ofd",
+      "ossWordOfdSize": 139788,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": [
+      {
+        "bbbs": "ff8081819e20a843019e3ef37f7d692e",
+        "title": "行政法规制定程序条例",
+        "gbrq": "2026-05-15",
+        "highLight": true
+      },
+      {
+        "bbbs": "ff8080816f3cbb3c016f40237e9400d8",
+        "title": "行政法规制定程序条例",
+        "gbrq": "2017-12-22",
+        "highLight": false
+      }
+    ],
+    "xgzl": [
+      {
+        "fileId": "af0ff1cf9c404b358f96a7c4dd1e1353",
+        "title": "中华人民共和国国务院令第838号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "407609512a884bb39fe47c83042b8b28",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2026-05-15",
+    "sxrq": "2026-07-01",
+    "title": "行政法规制定程序条例",
+    "sxx": 4,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-06-22 17:35:31"
+}

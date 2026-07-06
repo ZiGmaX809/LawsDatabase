@@ -21,6 +21,8 @@
 """
 
 import json
+import os
+import tempfile
 from datetime import datetime
 from pathlib import Path
 from typing import Set, Union
@@ -80,31 +82,62 @@ class RecordStore:
 
     def save_all(self, keys: Set[str]) -> None:
         """
-        将整个集合全量写入记录文件（覆盖写入）。
+        将整个集合全量原子写入记录文件。
+
+        先把内容序列化、写入**同目录临时文件**并 ``fsync``，再用
+        :func:`os.replace` 原子替换目标文件。这样即使写入过程中崩溃（断电、
+        异常退出），既有记录也不会被破坏成半写/空文件——对下载去重这类
+        “丢失即重复抓取”的场景尤为关键。
 
         Args:
             keys: 要持久化的字符串集合。
         """
         self.path.parent.mkdir(parents=True, exist_ok=True)
         try:
-            if self.fmt == "txt":
-                with open(self.path, "w", encoding="utf-8") as f:
-                    for key in sorted(keys):
-                        f.write(f"{key}\n")
-            else:  # json：保持与 download_state.json 一致的结构
-                payload = {
-                    "downloaded": sorted(keys),
-                    "last_update": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-                    "total_count": len(keys),
-                }
-                with open(self.path, "w", encoding="utf-8") as f:
-                    json.dump(payload, f, ensure_ascii=False, indent=2)
+            _atomic_write(self.path, self._serialize(keys))
         except OSError as exc:
             print(f"保存记录文件失败 {self.path}: {exc}")
+
+    def _serialize(self, keys: Set[str]) -> str:
+        """按 ``self.fmt`` 把集合序列化为待写入的文本。"""
+        if self.fmt == "txt":
+            return "".join(f"{key}\n" for key in sorted(keys))
+        # json：保持与 download_state.json 一致的结构
+        payload = {
+            "downloaded": sorted(keys),
+            "last_update": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "total_count": len(keys),
+        }
+        return json.dumps(payload, ensure_ascii=False, indent=2)
 
     def contains(self, key: str) -> bool:
         """便捷方法：判断 key 是否已在记录中（触发一次文件读取）。"""
         return key in self.load()
+
+
+def _atomic_write(path: Path, content: str) -> None:
+    """原子写入文本到 ``path``：先写同目录临时文件再 :func:`os.replace` 替换。
+
+    临时文件必须与目标在**同一目录**，``os.replace`` 才是原子改名（跨文件系统
+    会退化为复制+删除、丧失原子性）。任何异常下都清理临时文件后重新抛出，
+    不吞掉错误，也不留残留。
+    """
+    fd, tmp_name = tempfile.mkstemp(dir=path.parent, prefix=f".{path.name}.", suffix=".tmp")
+    tmp_path = Path(tmp_name)
+    try:
+        # os.fdopen 接管 fd；with 关闭后内容已落盘到临时文件
+        with os.fdopen(fd, "w", encoding="utf-8") as f:
+            f.write(content)
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(tmp_path, path)
+    except BaseException:
+        # 清理可能残留的临时文件（FileNotFoundError 是 OSError 子类，一并捕获）
+        try:
+            tmp_path.unlink()
+        except OSError:
+            pass
+        raise
 
 
 def add_records(records: Set[str], *keys: str) -> Set[str]:

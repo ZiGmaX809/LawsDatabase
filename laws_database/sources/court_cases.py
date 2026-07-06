@@ -34,7 +34,7 @@ import requests
 
 from laws_database.core.file_utils import sanitize_filename as _sanitize_filename
 from laws_database.core.logger import Logger
-from laws_database.core.record_store import RecordStore
+from laws_database.core.record_store import RecordStore, _atomic_write
 from laws_database.sources.court_cases_batch import CourtBatchOps
 
 # 案件类型配置：类型代码 -> (sort_id, 中文名)
@@ -163,6 +163,50 @@ class CourtDataProcessor(CourtBatchOps):
         RecordStore(self.get_known_nos_file_path(), fmt="txt").save_all(nos)
         self.log(f"已保存 {len(nos)} 个已知案件编号")
 
+    # ---- 列表编号→详情编号 别名映射 ----
+    # 背景：同一案件的 cpws_al_no 在「列表 API」(cpws_al_no) 与「详情 API」
+    # （写进 md 的 cpws_al_infos）可能不一致（实证存在，如 ...-291-001 vs ...-290-001）。
+    # known_case_nos 只存 md 内嵌的详情编号（权威，与 rebuild/stats 同源），
+    # 此映射记录 list_no→md_no，让 fetch/download 判重时也能识别列表编号，
+    # 避免编号不一致的案件每次增量被当成新案重复下载。
+
+    def get_aliases_file_path(self) -> Path:
+        """获取「列表编号→详情编号」别名映射文件路径。"""
+        case_type_code = self.config.get("case_type_code", "civil")
+        return self.base_dir / "downloaded_records" / f"case_no_aliases_{case_type_code}.json"
+
+    def load_aliases(self) -> dict:
+        """加载 list_no→md_no 别名映射；文件不存在或损坏返回空 dict。"""
+        path = self.get_aliases_file_path()
+        if not path.exists():
+            return {}
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            if isinstance(data, dict):
+                # 兼容 {"aliases": {...}} 结构与裸 dict
+                mapping = data.get("aliases", data) if "aliases" in data else data
+                return {str(k): str(v) for k, v in mapping.items()}
+            return {}
+        except (OSError, json.JSONDecodeError) as e:
+            self.log(f"加载别名映射失败 {path}: {e}，视为空映射")
+            return {}
+
+    def save_aliases(self, aliases: dict):
+        """原子写入 list_no→md_no 别名映射（tmp + os.replace，仿 RecordStore）。"""
+        path = self.get_aliases_file_path()
+        path.parent.mkdir(parents=True, exist_ok=True)
+        payload = {
+            "aliases": aliases,
+            "total_count": len(aliases),
+            "last_update": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+        }
+        try:
+            _atomic_write(path, json.dumps(payload, ensure_ascii=False, indent=2))
+            self.log(f"已保存 {len(aliases)} 个编号别名映射")
+        except OSError as e:
+            self.log(f"保存别名映射失败 {path}: {e}")
+
     def get_organized_files_record_path(self) -> Path:
         """获取已整理文件记录路径。"""
         case_type_code = self.config.get("case_type_code", "civil")
@@ -240,8 +284,16 @@ class CourtDataProcessor(CourtBatchOps):
     def fetch_case_list(self):
         """获取案例列表（支持增量 / 全量）。"""
         known_nos = self.load_known_nos()
+        # 列表 API 返回 list_no，对编号不一致的案件（list_no≠md_no）需用别名展开后
+        # 判新，否则会被误判为新案→写冗余 incremental 并在下载时重复抓取。
+        # 与 download_case_details 用同源（_effective_known_nos），消除双权威源。
+        effective_known = self._effective_known_nos(known_nos)
         mode_str = "增量" if self.incremental_mode else "全量"
-        self.log(f"开始获取案例列表 ({mode_str}模式)... 已知案件数量: {len(known_nos)}")
+        alias_count = max(0, len(effective_known) - len(known_nos))
+        self.log(
+            f"开始获取案例列表 ({mode_str}模式)... 已知案件数量: {len(known_nos)}"
+            f"（含 {alias_count} 个列表编号别名）"
+        )
 
         url = f"{API_BASE_URL}/search"
         page_size = self.config["page_size"]
@@ -286,7 +338,7 @@ class CourtDataProcessor(CourtBatchOps):
                     if not case_no:
                         case_no = case.get("cpws_al_title", "").strip()
                     all_cases.append(case)
-                    if case_no and case_no in known_nos:
+                    if case_no and case_no in effective_known:
                         page_known_count += 1
                     else:
                         page_new_cases.append(case)
@@ -317,16 +369,9 @@ class CourtDataProcessor(CourtBatchOps):
                 self.log(f"获取第{page}页时出错: {str(e)}")
                 break
 
-        # 新案件编号追加到已知集合并保存
-        if new_cases:
-            new_nos = set()
-            for case in new_cases:
-                no = case.get("cpws_al_no", "").strip() or case.get("cpws_al_title", "").strip()
-                if no:
-                    new_nos.add(no)
-            known_nos.update(new_nos)
-            self.save_known_nos(known_nos)
-            self.log(f"已更新已知案件编号，新增 {len(new_nos)} 条")
+        # 注意：known_case_nos 不在此处（下载前）保存。新案件编号改由
+        # download_case_details 在"下载成功"后才追加落盘，避免下载失败却被标记
+        # "已知"、导致下次增量不再识别为待下载。
 
         if all_cases:
             if new_cases:
@@ -400,6 +445,10 @@ class CourtDataProcessor(CourtBatchOps):
             data = content_data.get("data", {}).get("data", {})
             title = data.get("cpws_al_title", "Untitled")
             if not title or title == "Untitled":
+                # 详情 API 标题缺失（源站数据问题）——显式告警。否则这类"死案例"
+                # 会静默保存失败：既不计成功也不计失败，每次增量浪费一次 fetch
+                # 却无从察觉。上一行『正在下载: <标题>』即为该案例，便于定位。
+                self.log("⚠ 详情标题为空，跳过保存（源站详情数据缺失）")
                 return False
 
             def clean_html(text):
@@ -535,6 +584,74 @@ def _ensure_target_dir(src: dict, case_type: str, project_root: Path) -> str:
 
 # ===== 入口 =====
 
+def _choose_incremental_scope():
+    """增量下载范围子菜单：返回 ``"all"`` 或单个 case_type 代码。
+
+    作为菜单「1. 下载案例（增量）」的子项，在「全部分类」与「单个分类」间二选一：
+      1. 全部分类 —— 一次 token 循环 5 个分类（_run_all_categories_incremental）；
+      2. 单个分类 —— 走原有流程（get_case_type_choice 选类型后下载）。
+
+    Returns:
+        ``"all"`` 或 :data:`CASE_TYPES` 中的某个 case_type 字符串。
+    """
+    print("\n请选择增量下载范围:")
+    print("  1. 全部分类（一次 token，循环 5 个分类）")
+    print("  2. 单个分类")
+    while True:
+        choice = input("\n请选择 (1-2): ").strip()
+        if choice == "1":
+            return "all"
+        if choice == "2":
+            return get_case_type_choice()
+        print("无效输入，请输入 1 或 2")
+
+
+def _run_all_categories_incremental(data_dir, token: str, target_dir: str, src: dict) -> bool:
+    """一次 token 依次增量下载全部 5 个案件分类。
+
+    target_dir 是共享根目录（各分类运行时自动拼 ``<根>/<类型名>``），token 与
+    每日配额为账号级共享。某分类命中每日下载上限即**停止整个循环**——继续下个
+    分类也会立即失败，徒耗请求。
+
+    不调 ``processor.run()``（它把 ``limit_reached`` 吞成 ``True``，无法据此停循环），
+    而是直接调 ``fetch_case_list`` + ``download_case_details`` 并据返回值决策。
+
+    Args:
+        data_dir: 数据根目录（Path）。
+        token: 认证 token（一次输入，五分类共用）。
+        target_dir: 共享目标根目录。
+        src: court_cases 源配置（取 request_interval / page_size / user_agents）。
+
+    Returns:
+        是否走完所有分类（命中上限/连续失败提前返回 False）。
+    """
+    categories = list(CASE_TYPES.items())
+    total = len(categories)
+    for idx, (case_type, (_, case_name)) in enumerate(categories, 1):
+        print(f"\n{'=' * 50}")
+        print(f"[{idx}/{total}] 增量下载: {case_name} ({case_type})")
+        print(f"{'=' * 50}")
+        processor = CourtDataProcessor(
+            data_dir, token=token, case_type=case_type, incremental=True,
+            target_dir=target_dir, request_interval=src.get("request_interval"),
+            page_size=src.get("page_size", 300), user_agents=src.get("user_agents"),
+        )
+        if not processor.fetch_case_list():
+            print(f"  ⚠ {case_name}: 未获取到案例数据（token 失效或网络异常？），跳过")
+            continue
+        result = processor.download_case_details()
+        if result == "limit_reached":
+            print(f"\n⚠️  已在「{case_name}」分类达到每日下载上限，停止后续分类。")
+            print("    token/配额为账号级共享，继续下个分类也会失败；请明日恢复后再运行。")
+            return False
+        if result == "consecutive_failed":
+            print(f"\n⚠️ 「{case_name}」连续下载失败，停止后续分类，请检查日志。")
+            return False
+        print(f"  ✓ {case_name} 完成")
+    print(f"\n🎉 全部 {total} 个分类增量下载完成")
+    return True
+
+
 def run(config: dict):
     """交互式菜单入口（由总菜单调用）。"""
     project_root = Path(config["_project_root"])
@@ -545,11 +662,13 @@ def run(config: dict):
         print("\n" + "=" * 50)
         print("        人民法院案例库 (PCC)")
         print("=" * 50)
-        print("  1. 下载案例（增量）")
+        print("  1. 下载案例（增量·单分类/全部分类）")
         print("  2. 下载案例（全量）")
         print("  3. 仅整理已下载文件")
         print("  4. 统计目标目录文件数")
         print("  5. 设置目标目录")
+        print("  6. 重建编号清单与整理记录")
+        print("  7. 案例库统计概览")
         print("  0. 返回上级菜单")
         print("=" * 50)
         choice = input("请选择: ").strip()
@@ -557,13 +676,31 @@ def run(config: dict):
         if choice == "0":
             break
         try:
-            if choice in ("1", "2"):
-                incremental = choice == "1"
+            if choice == "1":
+                # 增量下载：先选范围（全部分类 / 单个分类），再分流。
+                token = get_token_input()
+                scope = _choose_incremental_scope()
+                if scope == "all":
+                    target_dir = _ensure_target_dir(src, "criminal", project_root)
+                    print(f"\n将依次增量下载 {len(CASE_TYPES)} 个分类到: {target_dir}")
+                    _run_all_categories_incremental(data_dir, token, target_dir, src)
+                else:
+                    case_type = scope
+                    target_dir = _ensure_target_dir(src, case_type, project_root)
+                    processor = CourtDataProcessor(
+                        data_dir, token=token, case_type=case_type, incremental=True,
+                        target_dir=target_dir, request_interval=src.get("request_interval"),
+                        page_size=src.get("page_size", 300), user_agents=src.get("user_agents"),
+                    )
+                    _, case_name = CASE_TYPES[case_type]
+                    print(f"\n已选择: {case_name}案件 | 目标: {target_dir}")
+                    processor.run()
+            elif choice == "2":
                 token = get_token_input()
                 case_type = get_case_type_choice()
                 target_dir = _ensure_target_dir(src, case_type, project_root)
                 processor = CourtDataProcessor(
-                    data_dir, token=token, case_type=case_type, incremental=incremental,
+                    data_dir, token=token, case_type=case_type, incremental=False,
                     target_dir=target_dir, request_interval=src.get("request_interval"),
                     page_size=src.get("page_size", 300), user_agents=src.get("user_agents"),
                 )
@@ -582,6 +719,21 @@ def run(config: dict):
                 case_type = get_case_type_choice()
                 _ensure_target_dir(src, case_type, project_root)
                 print(f"✓ 目标目录已设置: {src['target_dir']}")
+            elif choice == "6":
+                case_type = get_case_type_choice()
+                target_dir = _ensure_target_dir(src, case_type, project_root)
+                processor = CourtDataProcessor(data_dir, case_type=case_type, target_dir=target_dir)
+                # 同时重建编号清单（known_case_nos）与整理记录（organized_files），
+                # 让两套辅助记录都与 target 实际文件重新对齐。
+                processor.rebuild_known_nos()
+                processor.rebuild_organized_files()
+            elif choice == "7":
+                from laws_database.sources.pcc_stats import build_report
+                target_dir = src.get("target_dir")
+                if not target_dir:
+                    print("未设置目标目录，请先用选项 5 设置")
+                else:
+                    print(build_report(target_dir, data_dir / "downloaded_records"))
             else:
                 print("无效选择")
         except KeyboardInterrupt:
@@ -596,6 +748,8 @@ def main():
     parser.add_argument("--count", action="store_true", help="统计目标文件夹中的文件数量")
     parser.add_argument("--organize", action="store_true", help="仅整理已下载文件")
     parser.add_argument("--full", action="store_true", help="全量模式（默认增量）")
+    parser.add_argument("--all", action="store_true", help="增量下载全部案件分类（一次 token 循环 5 类）")
+    parser.add_argument("--rebuild-nos", action="store_true", help="从已下载 md 重建编号清单与整理记录")
     parser.add_argument("--token", type=str, help="提供 token（否则交互输入）")
     parser.add_argument("--help", "-h", action="store_true")
     args = parser.parse_args()
@@ -608,6 +762,8 @@ def main():
   --count     统计目标文件夹中的文件数量
   --organize  仅整理已下载的文件（不下载新文件）
   --full      全量模式（默认增量模式）
+  --all       增量下载全部案件分类（一次 token 循环 5 类）
+  --rebuild-nos  从已下载 md 重建编号清单与整理记录
   --token T   提供 token（否则交互输入）
   --help, -h  显示此帮助
         """)
@@ -619,11 +775,18 @@ def main():
     src = config["sources"]["court_cases"]
     data_dir = project_root / src["data_dir"]
 
+    # --all：一次 token 循环全部分类，跳过单分类选择
+    if args.all:
+        token = args.token or get_token_input()
+        target_dir = _ensure_target_dir(src, "criminal", project_root)
+        _run_all_categories_incremental(data_dir, token, target_dir, src)
+        return
+
     case_type = get_case_type_choice()
     target_dir = _ensure_target_dir(src, case_type, project_root)
 
-    # count/organize 不需要 token（不请求 API），其余需要
-    token = args.token or (None if (args.count or args.organize) else get_token_input())
+    # count/organize/rebuild_nos 不需要 token（不请求 API），其余需要
+    token = args.token or (None if (args.count or args.organize or args.rebuild_nos) else get_token_input())
     processor = CourtDataProcessor(
         data_dir, token=token, case_type=case_type, incremental=not args.full,
         target_dir=target_dir, request_interval=src.get("request_interval"),
@@ -634,6 +797,9 @@ def main():
         processor.count_target_files()
     elif args.organize:
         processor.run_organize_only()
+    elif args.rebuild_nos:
+        processor.rebuild_known_nos()
+        processor.rebuild_organized_files()
     else:
         processor.run()
 

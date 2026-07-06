@@ -5,7 +5,7 @@ import json
 
 import pytest
 
-from laws_database.core.record_store import RecordStore, add_records
+from laws_database.core.record_store import RecordStore, _atomic_write, add_records
 
 
 class TestRecordStoreTxt:
@@ -87,6 +87,62 @@ class TestRecordStoreGeneral:
         """不支持的格式应抛出 ValueError。"""
         with pytest.raises(ValueError):
             RecordStore("/tmp/whatever", fmt="yaml")
+
+
+class TestAtomicWrite:
+    """save_all / _atomic_write 的原子写入行为测试。"""
+
+    def test_save_leaves_no_temp_residue(self, tmp_path):
+        """保存成功后同目录不应残留 .tmp 临时文件。"""
+        path = tmp_path / "rec.txt"
+        RecordStore(path, fmt="txt").save_all({"a", "b"})
+        residues = [p for p in tmp_path.iterdir() if p.name != "rec.txt"]
+        assert residues == []
+
+    def test_atomic_write_failure_preserves_target(self, tmp_path, monkeypatch):
+        """_atomic_write 在替换阶段失败时不应破坏既有目标文件。"""
+
+        def boom(src, dst):
+            raise OSError("simulated replace failure")
+
+        path = tmp_path / "rec.txt"
+        path.write_text("old\n", encoding="utf-8")
+        monkeypatch.setattr("laws_database.core.record_store.os.replace", boom)
+
+        with pytest.raises(OSError):
+            _atomic_write(path, "new\n")
+        # 目标文件从未被触碰，内容应保持原样
+        assert path.read_text(encoding="utf-8") == "old\n"
+
+    def test_atomic_write_failure_cleans_temp(self, tmp_path, monkeypatch):
+        """_atomic_write 失败后应清理临时文件，不留残留。"""
+
+        def boom(src, dst):
+            raise OSError("simulated replace failure")
+
+        path = tmp_path / "rec.txt"
+        path.write_text("old\n", encoding="utf-8")
+        monkeypatch.setattr("laws_database.core.record_store.os.replace", boom)
+
+        with pytest.raises(OSError):
+            _atomic_write(path, "new\n")
+        # 目录里应只剩目标文件本身
+        assert sorted(p.name for p in tmp_path.iterdir()) == ["rec.txt"]
+
+    def test_save_all_swallows_oserror_and_keeps_old(self, tmp_path, monkeypatch):
+        """save_all 应捕获 OSError 不向上抛，且保留既有记录（不中断契约）。"""
+
+        def boom(src, dst):
+            raise OSError("simulated replace failure")
+
+        path = tmp_path / "rec.txt"
+        RecordStore(path, fmt="txt").save_all({"old1", "old2"})
+        monkeypatch.setattr("laws_database.core.record_store.os.replace", boom)
+
+        # 不应抛出异常
+        RecordStore(path, fmt="txt").save_all({"new1"})
+        # 既有记录完好
+        assert RecordStore(path, fmt="txt").load() == {"old1", "old2"}
 
 
 class TestAddRecords:

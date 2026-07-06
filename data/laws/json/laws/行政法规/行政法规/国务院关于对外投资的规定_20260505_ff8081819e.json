@@ -1,0 +1,52 @@
+{
+  "bbbs": "ff8081819e48b44c019ea630c09a5d9b",
+  "title": "国务院关于对外投资的规定",
+  "gbrq": "2026-05-05",
+  "sxrq": "2026-07-01",
+  "sxx": 4,
+  "zdjgName": "国务院",
+  "flxz": "行政法规",
+  "zdjgCodeId": 120,
+  "flfgCodeId": 210,
+  "detail": {
+    "bbbs": "ff8081819e48b44c019ea630c09a5d9b",
+    "ossFile": {
+      "ossWordPath": "prod/20260505/2fc2d062f66d4292910f1e75cb4ed2ee.docx",
+      "ossWordOfdPath": "prod/20260505/2fc2d062f66d4292910f1e75cb4ed2ee.ofd",
+      "ossWordOfdSize": 129162,
+      "ossPdfPath": null,
+      "ossPdfOfdPath": null,
+      "ossPdfOfdSize": null
+    },
+    "xgwj": [],
+    "lsyg": null,
+    "xgzl": [
+      {
+        "fileId": "7bcff1b6327149c2aacbcd0b777ebac3",
+        "title": "中华人民共和国国务院令第837号",
+        "titleHighLight": null,
+        "busiType": "国务院令",
+        "fileType": "docx",
+        "titleHightLightList": null
+      },
+      {
+        "fileId": "3069173a11074a7788af0303fb40338a",
+        "title": "其他",
+        "titleHighLight": null,
+        "busiType": "其他",
+        "fileType": "pdf",
+        "titleHightLightList": null
+      }
+    ],
+    "flfg": null,
+    "flxz": "行政法规",
+    "zdjgName": "国务院",
+    "gbrq": "2026-05-05",
+    "sxrq": "2026-07-01",
+    "title": "国务院关于对外投资的规定",
+    "sxx": 4,
+    "content": null,
+    "xfFlag": 0
+  },
+  "fetch_time": "2026-06-22 17:35:31"
+}

@@ -22,8 +22,11 @@
 """
 
 import argparse
+import json
 import os
+import re
 import sys
+from datetime import datetime
 from pathlib import Path
 from urllib.parse import urljoin
 
@@ -92,9 +95,60 @@ class FDWScraper:
         links = []
         for li in search_list.find_all("li"):
             a_tag = li.find("a")
-            if a_tag and a_tag.has_attr("href"):
-                links.append(a_tag["href"])
+            if not (a_tag and a_tag.has_attr("href")):
+                continue
+            href = a_tag["href"]
+            # 过滤分页导航链接（首页/上一页/下一页/尾页），
+            # 它们形如 /search.html?content=...&page=N，是搜索页而非文章正文，
+            # 误当文章下载必然 "No title found" 失败。
+            if "search.html" in href or "page=" in href:
+                continue
+            links.append(href)
         return links
+
+    def parse_total_pages(self, html: str) -> int:
+        """
+        从分页栏解析总页数。
+
+        取 "尾页" 链接的 ``page`` 参数作为总页数，作为翻页的硬上限。
+        court.gov.cn 对超出范围的页码会**静默回退到最后一页**（实测 page=3
+        与 page=2 返回完全相同内容），因此绝不能用 "翻到空页为止" 的策略，
+        否则会在最后一页死循环。尾页参数是唯一可靠的终止信号。
+
+        Args:
+            html: 搜索结果页 HTML（通常传第 1 页）。
+
+        Returns:
+            总页数；解析失败时安全降级为 1（只抓第 1 页，绝不死循环）。
+        """
+        if not html:
+            return 1
+        soup = BeautifulSoup(html, "html.parser")
+        last_link = soup.find("a", string="尾页")
+        if last_link and last_link.has_attr("href"):
+            match = re.search(r"[?&]page=(\d+)", last_link["href"])
+            if match:
+                return int(match.group(1))
+        return 1
+
+    def _build_page_url(self, page: int) -> str:
+        """
+        构造第 N 页的搜索 URL。
+
+        在原始 ``search_url`` 上追加 ``page`` 参数。``search_url`` 通常已带
+        ``?content=...`` 查询串，故用 ``&`` 拼接；若入口 URL 无查询串，
+        则用 ``?`` 起始，保证 URL 始终合法。复用原始 ``search_url`` 的编码
+        （content 为 %E6%B3... 形式），而非用页面里未编码的中文，避免编码
+        不一致导致的搜索结果差异。
+
+        Args:
+            page: 页码（从 1 开始）。
+
+        Returns:
+            拼接好 ``page`` 参数的完整 URL。
+        """
+        separator = "&" if "?" in self.search_url else "?"
+        return f"{self.search_url}{separator}page={page}"
 
     def get_safe_filename(self, title: str) -> str:
         """
@@ -147,17 +201,115 @@ class FDWScraper:
         filename += "）"
         return filename
 
+    def _format_content(self, title_text: str, body_text: str) -> str:
+        """
+        将正文格式化为 Markdown。
+
+        规则：以 "问题" 开头且含 "：" 的行视为小标题，转为二级标题 ``## ``；
+        其余行原样保留。最终以一级标题 ``# 标题`` 起始。
+
+        Args:
+            title_text: 文章标题（用于一级标题）。
+            body_text: 正文纯文本（``div.txt.big`` 的文本）。
+
+        Returns:
+            拼接好的 Markdown 字符串。
+        """
+        formatted_lines = []
+        for line in body_text.split("\n"):
+            line = line.lstrip()
+            if line.startswith("问题") and "：" in line:
+                formatted_lines.append(f"## {line}")
+            else:
+                formatted_lines.append(line)
+        body = "\n".join(formatted_lines)
+        return f"# {title_text}\n\n{body}\n"
+
+    def _index_path(self):
+        """URL→文件名 索引文件路径（与旧 txt 记录并存，互为兜底）。"""
+        return self.output_dir / ".download_index.json"
+
+    def _load_url_index(self):
+        """
+        加载 URL→文件名 索引。
+
+        索引结构：``{"url_index": {href: safe_title, ...}, ...}``。
+        文件不存在或损坏时返回空 dict（首次运行或索引丢失可继续，后续逐条补全）。
+        """
+        path = self._index_path()
+        if not path.exists():
+            return {}
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            mapping = data.get("url_index", {}) if isinstance(data, dict) else {}
+            return dict(mapping)
+        except (OSError, json.JSONDecodeError) as exc:
+            self.logger.log(f"加载 URL 索引失败: {exc}，视为空索引")
+            return {}
+
+    def _save_url_index(self, index):
+        """
+        原子写入 URL→文件名 索引。
+
+        采用 "写临时文件 → os.replace 原子替换" 策略：崩溃时不会留下半截 JSON；
+        os.replace 在同一文件系统内是原子操作，多进程并发时也只会看到完整的
+        旧版或新版（并发安全）。
+        """
+        path = self._index_path()
+        path.parent.mkdir(parents=True, exist_ok=True)
+        payload = {
+            "url_index": dict(sorted(index.items())),
+            "last_update": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+            "total_count": len(index),
+        }
+        tmp_path = path.with_suffix(path.suffix + ".tmp")
+        try:
+            with open(tmp_path, "w", encoding="utf-8") as f:
+                json.dump(payload, f, ensure_ascii=False, indent=2)
+            os.replace(tmp_path, path)
+        except OSError as exc:
+            self.logger.log(f"保存 URL 索引失败: {exc}")
+
     def save_to_markdown(self, links):
-        """抓取并保存所有链接内容为 Markdown，基于下载记录增量去重。"""
-        record_file = self.output_dir / ".downloaded_records.txt"
+        """
+        先整体判断存在性，再增量下载。
+
+        两阶段流程：
+
+        1. **整体判断**：用 URL→文件名 索引快速过滤——索引命中的链接直接跳过，
+           **完全不发请求**（这是日常运行的快速路径，已下载内容零抓取）。
+        2. **增量下载**：仅对索引未命中的链接抓取页面。抓取后若发现文件已存在
+           或旧文件名记录已登记（迁移期，索引尚未建立），只补全 URL 索引、不重写
+           文件；确属新增才写文件并更新双份记录（URL 索引 + 旧 txt 记录）。
+
+        设计依据：文件名只能从抓取到的页面标题计算得到，而 URL 在抓取前已知，
+        故用 URL 作为主去重键，可避免对已下载内容的重复抓取（旧方案每次都要
+        抓取全部已下载项取标题，是主要的耗时来源）。
+        """
+        url_index = self._load_url_index()
         downloaded_titles = self.record_store.load()
-        self.logger.log(f"已加载 {len(downloaded_titles)} 条已下载记录")
 
-        skipped = 0
+        # —— 阶段1：整体判断，区分"索引命中(跳过)"与"待处理" ——
+        cached = [lnk for lnk in links if lnk in url_index]
+        pending = [lnk for lnk in links if lnk not in url_index]
+        self.logger.log(
+            f"整体判断: 共 {len(links)} 篇, URL索引命中 {len(cached)} 篇(跳过抓取), "
+            f"待处理 {len(pending)} 篇"
+        )
+        for lnk in cached:
+            print(f"跳过(索引命中): {url_index[lnk]}.md")
+
         saved = 0
+        migrated = 0
         failed = 0
+        total = len(links)
+        # 待处理项的日志序号接在索引命中项之后，便于对照总量
+        seq_start = len(cached)
 
-        for i, link in enumerate(links):
+        # —— 阶段2：增量处理索引未命中的链接 ——
+        for i, link in enumerate(pending):
+            seq = seq_start + i + 1
             full_url = urljoin(self.base_url, link)
             html = self.fetch_page(full_url)
             if not html:
@@ -175,50 +327,39 @@ class FDWScraper:
             title_text = title_div.get_text().strip()
             safe_title = self.get_safe_filename(title_text)
 
-            # 优先检查下载记录（内存操作，比文件系统快）
-            if safe_title in downloaded_titles:
-                print(f"[{i+1}/{len(links)}] 跳过已下载: {safe_title}.md")
-                skipped += 1
-                continue
-
-            # 双重检查：记录无但文件存在（处理记录丢失情况），补回记录
+            # 文件已存在：之前下载过，仅 URL 索引缺失 → 补全索引、不重写文件。
+            # 以文件系统为准（而非旧 txt 记录）：文件若丢失则重新下载，保证内容完整。
             file_path = self.output_dir / f"{safe_title}.md"
             if file_path.exists():
-                print(f"[{i+1}/{len(links)}] 文件已存在，补充记录: {safe_title}.md")
-                downloaded_titles = downloaded_titles | {safe_title}
-                self.record_store.save_all(downloaded_titles)
-                skipped += 1
+                url_index = {**url_index, link: safe_title}
+                self._save_url_index(url_index)
+                print(f"[{seq}/{total}] 补全索引(已下载): {safe_title}.md")
+                migrated += 1
                 continue
 
+            # 确属新增：抓正文、写文件
             txt_big = soup.find("div", class_="txt big")
             if not txt_big:
                 self.logger.log(f"No content found for {full_url}")
                 failed += 1
                 continue
 
-            txt_big_text = txt_big.get_text().strip()
+            content = self._format_content(title_text, txt_big.get_text().strip())
             with open(file_path, "w", encoding="utf-8") as f:
-                # "问题1："等转为二级标题
-                lines = txt_big_text.split("\n")
-                formatted_lines = []
-                for line in lines:
-                    line = line.lstrip()
-                    if line.startswith("问题") and "：" in line:
-                        formatted_lines.append(f"## {line}")
-                    else:
-                        formatted_lines.append(line)
-                formatted_content = "\n".join(formatted_lines)
-                f.write(f"# {title_text}\n\n{formatted_content}\n")
+                f.write(content)
 
-            # 即时持久化记录（不可变：返回新集合）
+            # 更新双份记录（不可变：构造新 dict / 新集合）
+            url_index = {**url_index, link: safe_title}
+            self._save_url_index(url_index)
             downloaded_titles = downloaded_titles | {safe_title}
             self.record_store.save_all(downloaded_titles)
 
-            print(f"[{i+1}/{len(links)}] 已保存: {file_path}")
+            print(f"[{seq}/{total}] 已保存: {file_path}")
             saved += 1
 
         self.logger.log(
-            f"总结: 共处理 {len(links)} 个链接, 新下载 {saved} 个, 跳过 {skipped} 个, 失败 {failed} 个"
+            f"总结: 共 {len(links)} 篇, 新下载 {saved} 个, 补全索引 {migrated} 个, "
+            f"索引命中跳过 {len(cached)} 个, 失败 {failed} 个"
         )
 
     def rename_existing_files(self):
@@ -283,18 +424,44 @@ class FDWScraper:
         print(f"\n重命名完成: 成功 {renamed_count} 个, 跳过 {skipped_count} 个, 失败 {error_count} 个")
 
     def download(self):
-        """主流程：抓取搜索页 → 解析链接 → 下载保存。"""
+        """主流程：抓取搜索页（含翻页）→ 解析链接 → 去重 → 下载保存。"""
         self.logger.log("开始爬取内容...")
-        html = self.fetch_page(self.search_url)
-        if not html:
+
+        first_html = self.fetch_page(self.search_url)
+        if not first_html:
             self.logger.log("Failed to fetch initial page")
             return
-        links = self.parse_links(html)
-        if not links:
+
+        total_pages = self.parse_total_pages(first_html)
+        all_links = self.parse_links(first_html)
+        self.logger.log(f"第 1/{total_pages} 页: 找到 {len(all_links)} 个文章链接")
+
+        # 翻页累积后续页面的文章链接（total_pages 为硬上限，不会死循环）
+        for page in range(2, total_pages + 1):
+            page_html = self.fetch_page(self._build_page_url(page))
+            if not page_html:
+                self.logger.log(f"Failed to fetch page {page}, 跳过该页")
+                continue
+            page_links = self.parse_links(page_html)
+            self.logger.log(f"第 {page}/{total_pages} 页: 找到 {len(page_links)} 个文章链接")
+            all_links.extend(page_links)
+
+        # 跨页去重并保持顺序（不可变：构建新列表，不改原始累积列表语义）
+        seen = set()
+        unique_links = []
+        for link in all_links:
+            if link not in seen:
+                seen.add(link)
+                unique_links.append(link)
+
+        if not unique_links:
             self.logger.log("No links found")
             return
-        self.logger.log(f"找到 {len(links)} 个链接, 开始下载内容...")
-        self.save_to_markdown(links)
+
+        self.logger.log(
+            f"共 {total_pages} 页, 去重后 {len(unique_links)} 个文章链接, 开始下载内容..."
+        )
+        self.save_to_markdown(unique_links)
         self.logger.log("下载完成!")
 
 
